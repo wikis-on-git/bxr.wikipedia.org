@@ -175,12 +175,12 @@
 === Яһатан ===
 *Жибэн хүн (日本人 нихондзин) — 125 182 000 (1993)
 *Жибэн Уласай хитад ([[Жибэн хэлэн|жи.]] 華僑 Какёо, 在日中国人 Зайнити Тюугокузин, [[Хитад хэлэн|хи.]] 日本華僑 Жибэн хуасай (Rìběn huáqiáo)) — 560 741 (2006)
-([[en:Chinese people in Japan]])
-*Айну (E9%98%BF%E4%BC%8A%E5%8A%AA%E4%BA%BA, アイヌ) — 50 000 айнугууд, 150 000 — 1 000 000 айну уг гарбалтай жибэншүүд ([[en:Ainu people]])
+()
+*Айну (E9%98%BF%E4%BC%8A%E5%8A%AA%E4%BA%BA, アイヌ) — 50 000 айнугууд, 150 000 — 1 000 000 айну уг гарбалтай жибэншүүд ()
 *Ниивхэ — үсөөн
 *Орок — ?
-*Рюүкюү хүн (琉球民族) — Амами хүн (≈130 000), Окинава хүн (> 2 000 000), Мияко хүн (55 783), Яэяма хүн (44650) ([[en:Ryukyuans]])
-*Жибэнэй солонгос — 659 314 (1994)  ([[en:Koreans in Japan]])
+*Рюүкюү хүн (琉球民族) — Амами хүн (≈130 000), Окинава хүн (> 2 000 000), Мияко хүн (55 783), Яэяма хүн (44650) ()
+*Жибэнэй солонгос — 659 314 (1994)  ()
 
  
 == Хэлэн яряан ==
@@ -286,7 +286,6 @@
 [[Category:Зүүн Аазиин оронууд]]
 [[Category:Аралай оронууд]]
 
-
 [[af:Japan]]
 [[als:Japan]]
 [[an:Chapón]]
@@ -296,6 +295,7 @@
 [[ast:Xapón]]
 [[az:Yaponiya]]
 [[bar:Japan]]
+[[bat-smg:Japuonėjė]]
 [[be:Японія]]
 [[be-x-old:Японія]]
 [[bg:Япония]]
@@ -303,21 +303,16 @@
 [[bo:ཇི་བེན]]
 [[br:Japan]]
 [[bs:Japan]]
-[[bug:Japan]]
 [[ca:Japó]]
 [[cbk-zam:Japón]]
 [[cdo:Nĭk-buōng]]
 [[ceb:Hapon]]
-[[ch:Japan]]
-[[cho:Japan]]
-[[chy:Japan]]
 [[cs:Japonsko]]
 [[csb:Japòńskô]]
 [[cy:Japan]]
 [[da:Japan]]
 [[de:Japan]]
 [[dv:ޖަޕާނު]]
-[[dz:Japan]]
 [[el:Ιαπωνία]]
 [[en:Japan]]
 [[eo:Japanio]]
@@ -327,10 +322,12 @@
 [[fa:ژاپن]]
 [[fi:Japani]]
 [[fr:Japon]]
-[[frp:J•apon]]
+[[frp:J·apon]]
+[[fy:Japan]]
 [[ga:An tSeapáin]]
 [[gl:Xapón - 日本]]
 [[gu:જાપાન]]
+[[hak:Ngit-pún]]
 [[he:יפן]]
 [[hi:जापान]]
 [[hr:Japan]]
@@ -344,6 +341,7 @@
 [[io:Japonia]]
 [[is:Japan]]
 [[it:Giappone]]
+[[iu:ᔭᐸᓐ/japan]]
 [[ja:日本]]
 [[jbo:pongu'e]]
 [[ka:იაპონია]]
@@ -357,6 +355,7 @@
 [[lb:Japan]]
 [[lbe:Japan]]
 [[li:Japan]]
+[[ln:Yapan]]
 [[lo:ປະເທດຍີ່ປຸ່ນ]]
 [[lt:Japonija]]
 [[lv:Japāna]]
@@ -365,11 +364,12 @@
 [[mi:Hapana]]
 [[mk:Јапонија]]
 [[ml:ജപ്പാന്‍]]
-[[mn: Япон]]
+[[mn:Япон]]
 [[mr:जपान]]
 [[ms:Jepun]]
 [[mus:Japan]]
 [[na:Djapan]]
+[[nah:Xapōn]]
 [[nds:Japan]]
 [[nds-nl:Japan]]
 [[new:जापान]]
@@ -380,7 +380,7 @@
 [[nrm:Japon]]
 [[oc:Japon]]
 [[or:ଜାପାନ]]
-[[pam:Japan]]
+[[pam:Hapon]]
 [[pl:Japonia]]
 [[pms:Giapon]]
 [[ps:جاپان]]
@@ -406,9 +406,9 @@
 [[th:ประเทศญี่ปุ่น]]
 [[ti:ጃፓን]]
 [[tl:Hapon (bansa)]]
+[[tpi:Siapan]]
 [[tr:Japonya]]
 [[ty:Tāpōnē]]
-[[ug:ياپونىيە]]
 [[uk:Японія]]
 [[ur:جاپان]]
 [[uz:Yaponiya]]
