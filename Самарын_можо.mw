@@ -1,13 +1,13 @@
-{{Ородой Холбооной Уласай сүбъеэктэ тухай мэдээн|
-BxrNm = Самаара можо|
-RuNm = Самарская область|
-FSFlag = [[File:Flag of Samara Oblast.svg|140px]]|
-FSCoA = [[File:Coat of Arms of Samara oblast.png|110px]]|
-FlagLnk = Самара туг|
-CoALnk = Самара гүрэнэй һүлдэ|
-FSMapName = Map of Russia - Samara Oblast (2008-03).svg|
-FSCtrWhat = Ниислэл|
-FSCtrNm = Самара|
+{{Ородой Холбооной Уласай сүбъеэктэ тухай мэдээн
+|BxrNm = Самаара можо
+|RuNm = Самарская область
+|FSFlag = [[File:Flag of Samara Oblast.svg|140px]]
+|FSCoA = [[File:Coat of Arms of Samara oblast.png|110px]]
+|FlagLnk = Самара туг
+|CoALnk = Самара гүрэнэй һүлдэ
+|FSMapName = Map of Russia - Samara Oblast (2008-03).svg
+|FSCtrWhat = [[Ниислэл]]
+|FSCtrNm = [[Самара]]
 |AreaRnk    = 50-я
 |TotArea    = 53600
 |WaterPrcnt = 3.1
@@ -27,7 +27,7 @@ FSCtrNm = Самара|
 |LegislNm   = [[Сазонов, Виктор Фёдорович|Виктор Фёдорович Сазонов]]|
 |FSAnthem   = [[Гимн Самарской области]]
 |MSKS       = 0}}
-'''Самаара можо''' ({{lang-ru|Сама́рская о́бласть}}). Ниислэл — [[Самара]]. 
+'''Самаара можо''' ({{хэлэн+ru|Сама́рская о́бласть}}). Ниислэл — [[Самара]]. 
 
 == Геограафи ==
 
@@ -39,8 +39,10 @@ FSCtrNm = Самара|
 
 {{Ородой холбооной улас}}
 
-[[Category:Ородой Холбооной Улас]]
+<!-- Categories -->
+[[Category:Самаара можо| ]]
 
+<!-- Interwikis -->
 [[ace:Oblast Samara]]
 [[ar:سمارا أوبلاست]]
 [[arz:سمارا اوبلاست]]
