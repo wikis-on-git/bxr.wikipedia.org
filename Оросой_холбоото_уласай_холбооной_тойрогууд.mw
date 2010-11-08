@@ -8,70 +8,70 @@
 |- bgcolor="#ECECEC"
 ! №
 ! Название округа
-! Талмай<br />(модо²)
+! Талмай<ref>[http://www.gks.ru/bgd/free/b10_107/IssWWW.exe/Stg//%3Cextid%3E/%3Cstoragepath%3E::%7Ctab1-01-09.xls Административно-территориальное деление по субъектам Российской Федерации на 1 января 2010 года] (xls) ({{rus icon}}).</ref>{{br}}(модо²)
 ! Хүн ама<br />(на 01.01.2009)<ref>[http://www.gks.ru/free_doc/2009/demo/popul09.htm Оценка численности постоянного населения субъектов Российской Федерации на 1 января 2009 года и в среднем за 2008 год; человек] Федеральная служба государственной статистики.</ref>
 ! ОХУ сүбъеэктэнүүд
 ! Ниислэл
 |-
 | style="background-color: #FFFF80;" | <center>1
 | [[Центральный холбооной округ]]
-| align="right" | {{formatnum:652800}}
+| align="right" | {{formatnum:650205}}
 | align="right" | {{formatnum:37121812}}
 | align="center" | 18
 | [[Мушхаваа]]
 |-
 | style="background-color: #FC8B8B;" | <center>2
 | [[Южный холбооной округ]]
-| align="right" | {{formatnum:416840}}
+| align="right" | {{formatnum:420876}}
 | align="right" | {{formatnum:14686261}}
 | align="center" | 6
 | [[Ростоов]]
 |-
 | style="background-color: #62D2C5;" | <center>3
 | [[Северо-Западный холбооной округ]]
-| align="right" | {{formatnum:1677900}}
+| align="right" | {{formatnum:1686968}}
 | align="right" | {{formatnum:13462259}}
 | align="center" | 11
 | [[Саанкт-Петербүүргэ]]
 |-
 | style="background-color: #FECE2C;" | <center>4
 | [[Дальневосточный холбооной округ]]
-| align="right" | {{formatnum:6215900}}
+| align="right" | {{formatnum:6169329}}
 | align="right" | {{formatnum:6460094}}
 | align="center" | 9
 | [[Хабаровск]]
 |-
 | style="background-color: #01BEE7;" | <center>5
 | [[Шэбэрэй холбооной округ]]
-| align="right" | {{formatnum:5114800}}
+| align="right" | {{formatnum:5144953}}
 | align="right" | {{formatnum:19545470}}
 | align="center" | 12
 | [[Новосэбирск]]
 |-
 | style="background-color: #C7CB8F;" | <center>6
 | [[Уральский холбооной округ]]
-| align="right" | {{formatnum:1788900}}
+| align="right" | {{formatnum:1818497}}
 | align="right" | {{formatnum:12254976}}
 | align="center" | 6
 | [[Екатеринбург]]
 |-
 | style="background-color: #37CE04;" | <center>7
 | [[Приволжский холбооной округ]]
-| align="right" | {{formatnum:1038000}}
+| align="right" | {{formatnum:1036975}}
 | align="right" | {{formatnum:30157844}}
 | align="center" | 14
 | [[Доодо Ноовгород]]
 |-
 | style="background-color: #AA6CA6;" | <center>8
 | [[Северо-Кавказский холбооной округ]]
-| align="right" | {{formatnum:159860}}
+| align="right" | {{formatnum:170439}}
 | align="right" | {{formatnum:8215263}}
 | align="center" | 7
 | [[Пятигорск]]
 |-
 | style="background-color: #FFFFFF;" | 
 | [[Ородой Холбооной Улас|ОХУ]]
-| align="right" | {{formatnum:17065000}}
+| align="right" | {{formatnum:17098242}}
 | align="right" | {{formatnum:141903979}}
 | align="center" | 83
 | [[Мушхаваа]]
