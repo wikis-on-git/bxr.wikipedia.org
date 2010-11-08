@@ -9,70 +9,70 @@
 ! №
 ! Название округа
 ! Талмай<ref>[http://www.gks.ru/bgd/free/b10_107/IssWWW.exe/Stg//%3Cextid%3E/%3Cstoragepath%3E::%7Ctab1-01-09.xls Административно-территориальное деление по субъектам Российской Федерации на 1 января 2010 года] (xls) ({{rus icon}}).</ref>{{br}}(модо²)
-! Хүн ама<br />(на 01.01.2009)<ref>[http://www.gks.ru/free_doc/2009/demo/popul09.htm Оценка численности постоянного населения субъектов Российской Федерации на 1 января 2009 года и в среднем за 2008 год; человек] Федеральная служба государственной статистики.</ref>
-! ОХУ сүбъеэктэнүүд
+! Хүн ама{{br}}{{s|[[1 һарын 1|01.01]].[[2010]]<ref>[http://www.gks.ru/bgd/free/b10_107/IssWWW.exe/Stg//%3Cextid%3E/%3Cstoragepath%3E::%7Ctab1-03-09.xls Изменение численности постоянного населения по субъектам Российской Федерации по компонентам] (xls) ({{rus icon}}).</ref>}}{{br}}<small>([[1 һарын 1|01.01]].[[2009]])<ref>[http://www.gks.ru/free_doc/2009/demo/popul09.htm Оценка численности постоянного населения субъектов Российской Федерации на 1 января 2009 года и в среднем за 2008 год; человек] Федеральная служба государственной статистики.</ref></small>
+! ОХУ-ай сүбъеэктэнүүд
 ! Ниислэл
 |-
 | style="background-color: #FFFF80;" | <center>1
 | [[Центральный холбооной округ]]
-| align="right" | {{formatnum:650205}}
-| align="right" | {{formatnum:37121812}}
+| align="right" | {{formatnum:650205}}{{br}}{{br}}
+| align="right" | {{formatnum:37117984}}{{br}}<small>({{formatnum:37121812}})</small>
 | align="center" | 18
 | [[Мушхаваа]]
 |-
 | style="background-color: #FC8B8B;" | <center>2
 | [[Южный холбооной округ]]
-| align="right" | {{formatnum:420876}}
-| align="right" | {{formatnum:14686261}}
+| align="right" | {{formatnum:420876}}{{br}}{{br}}
+| align="right" | {{formatnum:13713495}}{{br}}<small>({{formatnum:14686261}})</small>
 | align="center" | 6
 | [[Ростоов]]
 |-
 | style="background-color: #62D2C5;" | <center>3
 | [[Северо-Западный холбооной округ]]
-| align="right" | {{formatnum:1686968}}
-| align="right" | {{formatnum:13462259}}
+| align="right" | {{formatnum:1686968}}{{br}}{{br}}
+| align="right" | {{formatnum:13437106}}{{br}}<small>({{formatnum:13462259}})</small>
 | align="center" | 11
 | [[Саанкт-Петербүүргэ]]
 |-
 | style="background-color: #FECE2C;" | <center>4
 | [[Дальневосточный холбооной округ]]
-| align="right" | {{formatnum:6169329}}
-| align="right" | {{formatnum:6460094}}
+| align="right" | {{formatnum:6169329}}{{br}}{{br}}
+| align="right" | {{formatnum:6440385}}{{br}}<small>({{formatnum:6460094}})</small>
 | align="center" | 9
 | [[Хабаровск]]
 |-
 | style="background-color: #01BEE7;" | <center>5
 | [[Шэбэрэй холбооной округ]]
-| align="right" | {{formatnum:5144953}}
-| align="right" | {{formatnum:19545470}}
+| align="right" | {{formatnum:5144953}}{{br}}{{br}}
+| align="right" | {{formatnum:19561087}}{{br}}<small>({{formatnum:19545470}})</small>
 | align="center" | 12
 | [[Новосэбирск]]
 |-
 | style="background-color: #C7CB8F;" | <center>6
 | [[Уральский холбооной округ]]
-| align="right" | {{formatnum:1818497}}
-| align="right" | {{formatnum:12254976}}
+| align="right" | {{formatnum:1818497}}{{br}}{{br}}
+| align="right" | {{formatnum:12280123}}{{br}}<small>({{formatnum:12254976}})</small>
 | align="center" | 6
 | [[Екатеринбург]]
 |-
 | style="background-color: #37CE04;" | <center>7
 | [[Приволжский холбооной округ]]
-| align="right" | {{formatnum:1036975}}
-| align="right" | {{formatnum:30157844}}
+| align="right" | {{formatnum:1036975}}{{br}}{{br}}
+| align="right" | {{formatnum:30109389}}{{br}}<small>({{formatnum:30157844}})</small>
 | align="center" | 14
 | [[Доодо Ноовгород]]
 |-
 | style="background-color: #AA6CA6;" | <center>8
 | [[Северо-Кавказский холбооной округ]]
-| align="right" | {{formatnum:170439}}
-| align="right" | {{formatnum:8215263}}
+| align="right" | {{formatnum:170439}}{{br}}{{br}}
+| align="right" | {{formatnum:9254940}}{{br}}<small>({{formatnum:8215263}})</small>
 | align="center" | 7
 | [[Пятигорск]]
 |-
 | style="background-color: #FFFFFF;" | 
 | [[Ородой Холбооной Улас|ОХУ]]
-| align="right" | {{formatnum:17098242}}
-| align="right" | {{formatnum:141903979}}
+| align="right" | {{formatnum:17098242}}{{br}}{{br}}
+| align="right" | {{formatnum:141914509}}{{br}}<small>({{formatnum:141903979}})</small>
 | align="center" | 83
 | [[Мушхаваа]]
 |}
