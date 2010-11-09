@@ -1,44 +1,42 @@
-{{Ородой Холбооной Уласай сүбъеэктэ тухай мэдээн|
-BxrNm = Забайгаал хизаар|
-OfNm1 = |
-RuNm = Забайкальский край|
-FSFlag = [[File:Flag_of_Zabaykalsky_Krai.svg|200px|Туг]]|
-FSCoA = [[File:Chita Oblast coat of arms.jpg|100px|һүлдэ]]|
-FlagLnk = Забайгаал хизаарай туг|
-CoALnk = Забайгаал хизаарай һүлдэ|
-FSMapName =Map of Russia - Zabaykalsky Krai (2008-03).svg
-|FSCtrWhat = Ниислэл|
-FSCtrNm = [[Шэтэ]]|
-AreaRnk = 12-дахи|
-TotArea = 431892|
-WaterPrcnt = 0.26|
-PopRnk = 47-дахи|
-PopQty = 1116974|
-PopDens = 2.59|
-PopCtDate = 2010|
-PopulationRank = 56-дахи|
-UrbanPopulation = 59.6%|
-RuralPopulation = 40.4%|
-FedDistrNm = [[Шэбэрэй холбооной тойрог|Шэбэрэй]]|
-EcRegNm = [[Зүүн Шэбэрэй эдэй засагай дүүрэг|Зүүн Шэбэрэй]]|
-CadNo = 75, 80|
-LangLangs = s|
-OfLangs = [[Ород хэлэн|ород]]|
-HeadTtl = |
-HeadNm = |
-PrimeTitle = 
-PrimeName = |
-ViceTtl = |
-ViceNm =|
-LegislTtl = |
-LegislNm = |
-FSAnthem = |
-AnthemLink = |
-MSKS = +6|
+{{Ородой Холбооной Уласай сүбъеэктэ тухай мэдээн
+| BxrNm = Забайгаал хизаар
+| OfNm1 = 
+| RuNm = Забайкальский край
+| FSFlag = [[File:Flag of Zabaykalsky Krai.svg|200px|Туг]]
+| FSCoA = [[File:Chita Oblast coat of arms.jpg|100px|һүлдэ]]
+| FlagLnk = Забайгаал хизаарай туг
+| CoALnk = Забайгаал хизаарай һүлдэ
+| FSMapName =Map of Russia - Zabaykalsky Krai (2008-03).svg
+| FSCtrWhat = [[Ниислэл]]
+| FSCtrNm = [[Шэтэ]]
+| AreaRnk = 12
+| TotArea = 431892
+| WaterPrcnt = 0.26
+| PopRnk = 47
+| PopQty = 1116974
+| PopDens = 2.59
+| PopCtDate = 2010
+| PopulationRank = 56
+| UrbanPopulation = 713748   	  
+| RuralPopulation = 403226
+| FedDistrNm = Шэбэрэй
+| EcRegNm = Зүүн Шэбэрэй
+| CadNo = 75, 80
+| LangLangs = s
+| OfLangs = [[Ород хэлэн|ород]]
+| HeadTtl = [[{{SIL|Губернатор}}]]
+| HeadNm = {{s|[[Гениатулин, Равиль Фаритович|Равиль Фаритович Гениатулин]]}}
+| PrimeTitle =
+| PrimeName = 
+| ViceTtl = 
+| ViceNm =
+| LegislTtl = [[{{SIL|Председатель краевого законодательного собрания}}]]
+| LegislNm = [[Жиряков, Степан Михайлович|Степан Михайлович Жиряков]]
+| FSAnthem = 
+| AnthemLink = 
+| MSKS = +6
 }}
-Забайгаал хизаар ({{lang-ru|Забайка́льский кра́й}}) — [[Ородой Холбооной Улас|Ородой Холбооной Уласай]] хизаар. 
-
-Хизаарай ниислэл — [[Шэтэ]].
+Забайгаал хизаар ({{хэлэн+ru|Забайка́льский кра́й}}) — [[Ородой Холбооной Улас|Ородой Холбооной Уласай]] [[хизаар]]. Хизаарай ниислэл — [[Шэтэ]].
 
 == НП ==
 <div align="center">
@@ -152,10 +150,16 @@ MSKS = +6|
 
 <references/>
 
-{{Ородой холбооной улас}}
+{{Забайгаал хизаар}}
 
+<!-- Categories -->
 [[Category:Забайгаал хизаар| ]]
+{{Шэбэрэй холбооной округ‎}}
+{{Ородой Холбооной Улас}}
+{{stub}}
+{{rus-el}}
 
+<!-- Interwikis -->
 [[ace:Krai Zabaykalsky]]
 [[af:Zabaikalski-krai]]
 [[ar:زابايكالسكي كراي]]
