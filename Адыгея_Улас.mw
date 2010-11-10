@@ -1,30 +1,33 @@
-{{Ородой Холбооной Уласай сүбъеэктэ тухай мэдээн|
-BxrNm = Адыг Республика|
-OfNm1 = Адыгэ Республик|
-RuNm = Республика Адыгея|
-FSFlag = [[File:Flag of Adygea.svg|right|170px|]]|
-FSCoA = [[File:Adygeya - Coat of Arms.png|right|100px|]]|
-FlagLnk = Адыг туг|
-CoALnk = Адыг гүрэнэй һүлдэ|
-FSMapName = Map of Russia - Republic of Adygea (2008-03).svg|
-FSCtrWhat = Ниислэл|
-FSCtrNm = Майкоп|
-AreaRnk = 80-дахи|
-TotArea = 7 600|
-WaterPrcnt = 5,7|
-PopRnk = 74-дахи|
-PopQty = 444 000|
-PopCtDate = 2005|
-PopDens = 58,8|
-FedDistrNm = Южный федеральный округ|
-EcRegNm = Северо-Кавказский экономический район|
-CadNo = 01|
-LangLangs = s|
-OfLangs = [[адыг хэлэн|адыг]], [[ород хэлэн|ород]]|
-FSAnthem = [[Адыг Республикын дуулал]]|
-MSKS = 0|
+{{Ородой Холбооной Уласай сүбъеэктэ тухай мэдээн
+| OfNm1 = Адыгэ Республик
+| OfNm1code = ady
+| RuNm = Республика Адыгея
+| FSFlag = [[File:Flag of Adygea.svg|right|170px|]]
+| FSCoA = [[File:Adygeya - Coat of Arms.png|right|100px|]]
+| FlagLnk = Адыг туг
+| CoALnk = Адыг гүрэнэй һүлдэ
+| FSMapName = Map of Russia - Republic of Adygea (2008-03).svg
+| FSCtrWhat = [[Ниислэл]]
+| FSCtrNm = [[Майкоп]]
+| AreaRnk = 80
+| WaterPrcnt = 5.7
+| PopRnk = 74
+| FedDistrNm = Южный
+| EcRegNm = Северо-Кавказский
+| CadNo = 01
+| LangLangs = s
+| OfLangs = [[адыг хэлэн|адыг]], [[ород хэлэн|ород]]
+| HeadTtl = [[{{SIL|Президент}}]]
+| HeadNm = {{s|[[Тхакушинов, Аслан Китович|Аслан Китович Тхакушинов]]}}
+| ViceTtl = [[{{SIL|Премьер-министр}}]]
+| ViceNm = {{s|[[Кумпилов, Мурат Каральбиевич|Мурат Каральбиевич Кумпилов]]}}
+| LegislTtl = [[{{SIL|Глава законодательной власти}}]]
+| LegislNm = {{s|[[Иванов, Анатолий Георгиевич|Анатолий Георгиевич Иванов]]}}
+| FSAnthem = [[Адыг Республикын дуулал]]
+| MSKS = 0
 }}
-'''Адыг Республика''' ([[адыг хэлэн|адыг]]: ''Адыгэ Республик''; {{lang-ru|Респу́блика Адыге́я}}) — [[Ородой Холбооной Улас]]ай Республика. Ниислэл — Майкоп. 
+[[File:Adygea02.png|right|thumb|300px|Карта]]
+'''Адыг Республика''' ({{хэлэн+ady|Адыгэ Республик}}; {{хэлэн+ru|Респу́блика Адыге́я}}) — [[Ородой Холбооной Улас]]ай [[сүбъеэкт]]. Ниислэл — [[Майкоп]]. 
 
 == Геограафи ==
 
@@ -67,19 +70,25 @@ MSKS = 0|
 |}
 
 == Холбооһон ==
-{{commons|Category:Adygea}}
-* [http://www.adygheya.ru/ Официальный сайт Pеспублики Адыгея] {{ref-ru}}
-* [http://terrus.ru/cgi-bin/allrussia/v3_index.pl?act=reg&id=1 Республика Адыгея в справочнике-каталоге "Вся Россия"] {{ref-ru}}
-* [http://adigeya.spektr.info/ Республика Адыгея на Открытом портале Юга России] {{ref-ru}}
-* [http://www.ethno-kavkaz.narod.ru/rnadyghea.html История национального состава Адыгеи] {{ref-ru}}
-* [http://AdygaAbaza.ru/ Всемирные Абаза-Адыгские (Черкесские) сайты] {{ref-ru}}
+{{Commonscat|Adygea}}
+* [http://www.adygheya.ru/ Официальный сайт Pеспублики Адыгея] {{rus icon}}
+* [http://terrus.ru/cgi-bin/allrussia/v3_index.pl?act=reg&id=1 Республика Адыгея в справочнике-каталоге "Вся Россия"] {{rus icon}}
+* [http://adigeya.spektr.info/ Республика Адыгея на Открытом портале Юга России] {{rus icon}}
+* [http://www.ethno-kavkaz.narod.ru/rnadyghea.html История национального состава Адыгеи] {{rus icon}}
+* [http://AdygaAbaza.ru/ Всемирные Абаза-Адыгские (Черкесские) сайты] {{rus icon}}
 
+{{Кавказ}}
+{{Адыг Республика}}
+
+<!-- Categories -->
+[[Category:Адыг Республика| ]]
+{{Южный федеральный округ}}
+{{Ородой Холбооной Улас}}
+{{Конфедерация горских народов Кавказа}}
 {{stub}}
 {{rus-el}}
-{{Ородой холбооной улас}}
 
-[[Category:Адыг Республика|*]]
-
+<!-- Interwikis -->
 [[ace:Republik Adygea]]
 [[af:Adigea]]
 [[ar:أديغيا]]
