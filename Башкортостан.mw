@@ -1,30 +1,32 @@
-{{Ородой Холбооной Уласай сүбъеэктэ тухай мэдээн|
-BxrNm = Башкоорто Республика|
-RuNm = Республика Башкортостан|
-OfNm1 = Башҡортостан Республикаһы|
-FSFlag = [[File:Flag of Bashkortostan.svg|150px]]|
-FSCoA = [[File:Coat of Arms of Bashkortostan.png|100px]]|
-FlagLnk = Башкоорто туг|
-CoALnk = Башкоорто гүрэнэй һүлдэ|
-FSMapName = Map of Russia - Republic of Bashkortostan (2008-03).svg|
-FSCtrWhat = Ниислэл|
-FSCtrNm = [[Уфа]]|
-AreaRnk = 27-дахи|
-TotArea = 142 947|
-WaterPrcnt = 0,5|
-PopRnk = 7-дахи|
-PopQty = 4 063 409|
-PopCtDate = 2006|
-PopDens = 28,4|
-FedDistrNm = Приволжский федеральный округ|
-EcRegNm = Уральский экономический район|
-CadNo = 02, 102|
-LangLangs = |
-OfLangs = [[Ород хэлэн|ород]], [[Башкоорто хэлэн|башкоорто]]|
-FSAnthem = [[Башкоорто Республикын дуулал]] [http://www.bashkortostan.ru/image/files/4/gimn-m.mp3 Аудиозапись (326 Kb, Mono)]|
-MSKS = +2|
+{{Ородой Холбооной Уласай сүбъеэктэ тухай мэдээн
+| RuNm = Республика Башкортостан
+| OfNm1 = Башҡортостан Республикаһы
+| OfNm1code = ba
+| FSFlag = [[File:Flag of Bashkortostan.svg|150px]]
+| FSCoA = [[File:Coat of Arms of Bashkortostan.png|100px]]
+| FlagLnk = Башкоорто туг
+| CoALnk = Башкоорто гүрэнэй һүлдэ
+| FSMapName = Map of Russia - Republic of Bashkortostan (2008-03).svg
+| FSCtrWhat = [[Ниислэл]]
+| FSCtrNm = [[Уфа]]
+| AreaRnk = 27
+| WaterPrcnt = 0.5
+| PopRnk = 7
+| FedDistrNm = Приволжский
+| EcRegNm = Уральский
+| CadNo = 02, 102
+| LangLangs = 
+| OfLangs = [[Ород хэлэн|ород]], [[Башкоорто хэлэн|башкоорто]]
+|HeadTtl    = [[{{SIL|Президент}}]]
+|HeadNm     = {{s|[[Хамитов, Рустэм Закиевич|Рустэм Хамитов]]}}
+|ViceTtl = [[{{SIL|Премьер-министр}}]]
+|ViceNm = {{s|[[Хамитов, Рустэм Закиевич|Рустэм Хамитов]]}}
+|LegislTtl  = [[{{SIL|Председатель Госсобрания}}]]
+|LegislNm   = {{s|[[Толкачёв, Константин Борисович|Константин Толкачёв]]}}
+| FSAnthem = [[Башкоорто Республикын дуулал]] [http://www.bashkortostan.ru/image/files/4/gimn-m.mp3 (''Download'')]
+| MSKS = +2
 }}
-'''Башкоорто Республика''' ([[башкоорто хэлэн|башкоорто]]: ''Башҡортостан Республикаһы''; {{lang-ru|Респу́блика Башкортоста́н}}) — [[Ородой Холбооной Улас]]ай Республика. Ниислэл — Уфа. 
+'''Башкоорто Республика''' ({{хэлэн+ba|Башҡортостан Республикаһы}}; {{хэлэн+ru|Респу́блика Башкортоста́н}}) — [[Ородой Холбооной Улас]]ай [[сүбъеэкт]]. Ниислэл — [[Уфа]]. 
 
 == Газарзүй ==
 
@@ -60,19 +62,24 @@ MSKS = +2|
 
 == Холбооһон ==
 {{commons|Category:Bashkortostan}}
-* [http://www.bashkortostan.ru/ Официальный информационный портал Республики Башкортостан] {{ref-ru}}
-* [http://www.bashkortostan.org/ Официальный справочник "Кто есть кто в Республике Башкортостан" с картой и руководством всех районов] {{ref-ru}}
-* [http://terrus.ru/cgi-bin/allrussia/v3_index.pl?act=reg&id=3 Республика Башкортостан в справочнике-каталоге "Вся Россия"] {{ref-ru}}
-* [http://www.bashedu.ru/encikl/oglav.htm Краткая энциклопедия Башкортостана] {{ref-ru}}
-* [http://www.redbook.ru/articletopic-4.html Красная Книга Республики Башкортостан] {{ref-ru}}
-* [http://www.rb450.ru Официальный сайт празднования 450-летия добровольного вхождения Башкортостана в состав России] {{ref-ru}}
+* [http://www.bashkortostan.ru/ Официальный информационный портал Республики Башкортостан] ({{rus icon}})
+* [http://www.bashkortostan.org/ Официальный справочник "Кто есть кто в Республике Башкортостан" с картой и руководством всех районов] ({{rus icon}})
+* [http://terrus.ru/cgi-bin/allrussia/v3_index.pl?act=reg&id=3 Республика Башкортостан в справочнике-каталоге "Вся Россия"] ({{rus icon}})
+* [http://www.bashedu.ru/encikl/oglav.htm Краткая энциклопедия Башкортостана] ({{rus icon}})
+* [http://www.redbook.ru/articletopic-4.html Красная Книга Республики Башкортостан] ({{rus icon}})
+* [http://www.rb450.ru Официальный сайт празднования 450-летия добровольного вхождения Башкортостана в состав России] ({{rus icon}})
 
+{{Башкоорто Республика}}
+
+<!-- Categories -->
+[[Category:Башкоорто Республика| ]]
+{{Приволжский федеральный округ}}
+{{Ородой Холбооной Улас}}
+{{Тюркские страны}}
 {{stub}}
 {{rus-el}}
-{{Ородой холбооной улас}}
 
-[[Category:Башкоорто Республика|*]]
-
+<!-- Interwikis -->
 [[ace:Republik Bashkortostan]]
 [[af:Basjkortostan]]
 [[an:Baixkiria]]
