@@ -1,30 +1,33 @@
 {{Ородой Холбооной Уласай сүбъеэктэ тухай мэдээн|
-BxrNm = Сэсэн Республика|
-OfNm1 = Нохчийн Республика|
-RuNm = Чеченская Республика|
-FSFlag = [[File:Flag of the Chechen Republic.svg|right|170px|]]|
-FSCoA = [[File:Coat_of_arms_of_Chechnya.svg|right|100px|]]|
-FlagLnk = Сэсэн туг|
-CoALnk = Сэсэн гүрэнэй һүлдэ|
-FSMapName = Map of Russia - Chechen Republic (2008-03).svg|
-FSCtrWhat = Ниислэл|
-FSCtrNm = Грозный|
-AreaRnk = 75-дахи|
-TotArea = 17 500|
-WaterPrcnt = 0,8|
-PopRnk = 44-дахи|
-PopQty = 1 267 740|
-PopCtDate = 2010|
-PopDens = 72,4|
-FedDistrNm = Северо-Кавказский федеральный округ|
-EcRegNm = Северо-Кавказский экономический район|
-CadNo = 20, 95|
-LangLangs = s|
-OfLangs = [[сэсэн хэлэн|сэсэн]], [[ород хэлэн|ород]]|
-FSAnthem = [[Сэсэн Республикын дуулал]]|
-MSKS = 0|
+| OfNm1 = Нохчийн Пачхьалкх
+| OfNm1code = ce
+| RuNm = Чеченская Республика
+| FSFlag = [[File:Flag of the Chechen Republic.svg|right|170px|]]
+| FSCoA = [[File:Coat_of_arms_of_Chechnya.svg|right|100px|]]
+| FlagLnk = Сэсэн туг
+| CoALnk = Сэсэн гүрэнэй һүлдэ
+| FSMapName = Map of Russia - Chechen Republic (2008-03).svg
+| FSCtrWhat = [[Ниислэл]]
+| FSCtrNm = [[Грозный]]
+| AreaRnk = 75
+| WaterPrcnt = 0.8
+| PopRnk = 44
+| FedDistrNm = Северо-Кавказский
+| EcRegNm = Северо-Кавказский
+| CadNo = 20, 95
+| LangLangs = s
+| OfLangs = [[Сэсэн хэлэн|сэсэн]], [[Ород хэлэн|ород]]
+| HeadTtl    = [[{{SIL|Глава республики}}]]
+| HeadNm     = {{s|[[Рамзан Кадыров]]}}
+| ViceTtl = [[{{SIL|Председатель правительства}}]]
+| ViceNm = {{s|[[Байсултанов, Одес Хасаевич|Одес Байсултанов]]}}
+| LegislTtl  = [[{{SIL|Председатель парламента}}]]
+| LegislNm   = {{s|[[Абдурахманов, Дукуваха Баштаевич|Дукваха Абдурахманов]]}}
+| FSAnthem = [[Сэсэн Республикын дуулал]]
+| MSKS = 0
 }}
-'''Сэсэн Республика''' ([[сэсэн хэлэн|сэсэн]]: ''Нохчийн Республика'', {{lang-ru|Чече́нская Респу́блика}}) — [[Ородой Холбооной Улас]]ай Республика. Ниислэл — Грозный. 
+[[File:Chechnya03.png|right|thumb|300px|Карта]]
+'''Сэсэн Республика''' ({{хэлэн+ce|Нохчийн Пачхьалкх}}, {{хэлэн*ce|Нохчийчоь}}; {{хэлэн+ru|Чече́нская Респу́блика}}) — [[Ородой Холбооной Улас]]ай [[сүбъеэкт]]. Ниислэл — [[Грозный]]. 
 
 == Геограафи ==
 
@@ -55,22 +58,31 @@ MSKS = 0|
 |Турки|| 1,7
 |}
 
-== Холбооһон ==
-{{commonscat|Chechnya}}
-* [http://chechnya.gov.ru/ Президент и Правительство Чеченской Республики] {{ref-ru}}
-* [http://terrus.ru/cgi-bin/allrussia/v3_index.pl?act=reg&id=20 Республика Чечня в справочнике-каталоге «Вся Россия»] {{ref-ru}}
-* [http://www.chechnyafree.ru/ Новости, история, культура, традиции чеченцев, экономика] {{ref-ru}}
-* [http://www.minfinchr.ru/ Министерство финансов Чеченской Республики] {{ref-ru}}
-* [http://chechnya.spektr.info/ Чеченская республика на Открытом портале Юга России] {{ref-ru}}
-* [http://www.chechenpress.info/ichkeria/history/big/glava_4.shtml История Чечено-Ингушетии] {{ref-ru}}
-* [http://aksakal.info/news/view/2378.html Интервью Президента Чеченской Республики Р.Кадырова агентству «Аксакал»] {{ref-ru}}
+== Ажаглалата ==
+<references/>
 
+== Холбооһон ==
+{{Commonscat|Чечня}}
+* [http://chechnya.gov.ru/ Президент и Правительство Чеченской Республики] ({{rus icon}})
+* [http://terrus.ru/cgi-bin/allrussia/v3_index.pl?act=reg&id=20 Республика Чечня в справочнике-каталоге «Вся Россия»] ({{rus icon}})
+* [http://www.chechnyafree.ru/ Новости, история, культура, традиции чеченцев, экономика] ({{rus icon}})
+* [http://www.minfinchr.ru/ Министерство финансов Чеченской Республики] ({{rus icon}})
+* [http://chechnya.spektr.info/ Чеченская республика на Открытом портале Юга России] ({{rus icon}})
+* [http://www.chechenpress.info/ichkeria/history/big/glava_4.shtml История Чечено-Ингушетии] ({{rus icon}})
+* [http://aksakal.info/news/view/2378.html Интервью Президента Чеченской Республики Р.Кадырова агентству «Аксакал»] ({{rus icon}})
+
+{{Кавказ}}
+{{Сэсэн Республика}}
+
+<!-- Categories -->
+[[Category:Сэсэн Республика| ]]
+{{Северо-Кавказский федеральный округ}}
+{{Ородой Холбооной Улас}}
+{{Конфедерация горских народов Кавказа}}
 {{stub}}
 {{rus-el}}
-{{Ородой холбооной улас}}
 
-[[Category:Сэсэн Республика|*]]
-
+<!-- Interwikis -->
 [[ace:Republik Chechen]]
 [[af:Tsjetsjnië]]
 [[an:Chechenia]]
