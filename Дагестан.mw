@@ -1,30 +1,33 @@
-{{Ородой Холбооной Уласай сүбъеэктэ тухай мэдээн|
-BxrNm = Дагестаан Республика|
-OfNm1 = Дагестан|
-RuNm = Республика Дагестан|
-FSFlag = [[File:Flag of Dagestan.svg|right|170px|]]|
-FSCoA = [[File:Coat of Arms of Dagestan.svg|right|100px|]]|
-FlagLnk = Дагестаан туг|
-CoALnk = Дагестаан һүлдэ|
-FSMapName = Map of Russia - Republic of Dagestan (2008-03).svg|
-FSCtrWhat = Ниислэл|
-FSCtrNm = Махачкала|
-AreaRnk = 52-дахи|
-TotArea = 50 300|
-WaterPrcnt = 0,4|
-PopRnk = 22-дахи|
-PopQty = 2 737 611|
-PopCtDate = 2010|
-PopDens = 54,4|
-FedDistrNm = Северо-Кавказский федеральный округ|
-EcRegNm = Северо-Кавказский экономический район|
-CadNo = 05, 105|
-LangLangs = s|
-OfLangs = [[ород хэлэн|ород]]|
-FSAnthem = [[Дагестаан Республикын дуулал]]|
-MSKS = 0|
+{{Ородой Холбооной Уласай сүбъеэктэ тухай мэдээн
+| OfNm1 = Дагестан
+| OfNm1code = ru
+| RuNm = Республика Дагестан
+| FSFlag = [[File:Flag of Dagestan.svg|right|170px|]]
+| FSCoA = [[File:Coat of Arms of Dagestan.svg|right|100px|]]
+| FlagLnk = Дагестаан туг
+| CoALnk = Дагестаан һүлдэ
+| FSMapName = Map of Russia - Republic of Dagestan (2008-03).svg
+| FSCtrWhat = [[Ниислэл]]
+| FSCtrNm = [[Махачкала]]
+| AreaRnk = 52
+| WaterPrcnt = 0.4
+| PopRnk = 22
+| FedDistrNm = Северо-Кавказский
+| EcRegNm = Северо-Кавказский
+| CadNo = 05, 105
+| LangLangs = s
+| OfLangs = [[ород хэлэн|ород]]
+| HeadTtl    = [[{{SIL|Президент}}]]
+| HeadNm     = {{s|[[Магомедов, Магомедсалам Магомедалиевич|Магомедсалам Магомедов]]}}
+| ViceTtl = [[{{SIL|Председатель правительства}}]]
+| ViceNm = {{s|[[Хамитов, Рустэм Закиевич|Рустэм Хамитов]]}}
+| LegislTtl  = [[{{SIL|Глава законодательной власти}}]]
+| LegislNm   = {{s|[[Толкачёв, Константин Борисович|Константин Толкачёв]]}}
+| FSAnthem = [[Дагестаан Республикын дуулал]]
+| MSKS = 0
 }}
-'''Дагестаан Республика''' ({{lang-ru|Респу́блика Дагеста́н}}) — [[Ородой Холбооной Улас]]ай Республика. Ниислэл — Махачкала. 
+[[File:Dagestan.png|right|thumb|300px|Карта]]
+'''Дагестаан Республика''' ({{хэлэн+ru|Респу́блика Дагеста́н}}) — [[Ородой Холбооной Улас]]ай [[сүбъеэкт]]. Ниислэл — [[Махачкала]]. 
 
 == Геограафи ==
 
@@ -35,20 +38,29 @@ MSKS = 0|
 == Уласууд ==
 
 == Холбооһон ==
-* [http://www.president.e-dag.ru/ Сайт Президента Республики Дагестан] {{ref-ru}}
-* [http://www.e-dag.ru/ Сайт правительства Республики Дагестан] {{ref-ru}}
-* [http://rd.dgu.ru/ Дагестан в фотографиях] {{ref-ru}}
+{{Commons|Дагестан}}
+* [http://www.president.e-dag.ru/ Сайт Президента Республики Дагестан] ({{rus icon}})
+* [http://www.e-dag.ru/ Сайт правительства Республики Дагестан] ({{rus icon}})}
+* [http://rd.dgu.ru/ Дагестан в фотографиях] ({{rus icon}})
 
 <gallery> 
 Image:Chechenya gorge.jpg|Салтинское ущелье
 File:Sunni Muslim man wearing traditional dress and headgear.jpg|Санни Муслим
 </gallery>
 
+{{Дагестаан Республика}}
+
+<!-- Categories -->
+[[Category:Дагестаан Республика| ]]
+{{Северо-Кавказский федеральный округ}}
+{{Ородой Холбооной Улас}}
+{{Конфедерация горских народов Кавказа}}
+{{Кавказ}}
+{{Иранские страны}}
 {{stub}}
-{{Ородой холбооной улас}}
+{{rus-el}}
 
-[[Category:Дагестаан Республика|*]]
-
+<!-- Interwikis -->
 [[ace:Republik Dagestan]]
 [[af:Dagestan]]
 [[ar:داغستان]]
