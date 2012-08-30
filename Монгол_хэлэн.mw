@@ -55,7 +55,9 @@
 * ОХУ-ын Бүгд найрамдах Халимаг Улсад албан ёсоор хэрэглэгдэж буй [[Хальмаг хэлэн|Хальмаг кирилл бичгээр]] бичигдсэн үгсийг гуравдугаар баганад
 * Эргэлзээтэй утгыг тайлахын тулд ОХУ-д албан ёсоор хэрэглэгддэг [[Ород хэлэн]]ийг Ород кирилл бичигт хөрвүүлсэнийг тавдугаар баганад тус тус харууллаа.
 
-== Кирилл Монгол бичиг ==
+== Кирилл Монгол бишиг ==
+{{Legend|Violet|Кирилл + э/а|border=1px solid #AAAAAA}}
+
 {| class="toccolours sortable" border=1 cellpadding=3 style=border-collapse:collapse
 |- bgcolor=#CCCCFF
 ! №
@@ -64,8 +66,8 @@
 ! Харгалзах олон улсын авиа зүйн үсэг
 ! [[ISO 9]]
 ! Стандарт
-! [[Tibetan and Himalayan Library|THL]]
-! Library of<br>Congress
+! [[Tibetan and Himalayan Library|THL]] {{ref-en}}
+! Library of<br>Congress {{ref-en}}
 |- bgcolor="#EEEEEE"
 | 1
 | [[A (Cyrillic)|Аа]]
@@ -167,7 +169,7 @@
 | ĭ
 |-
 | 12
-| ([[Ka (Cyrillic)|Кк]])
+| style="background:Violet;"|([[Ka (Cyrillic)|Кк]])
 | ка
 | ({{IPA|k}}, {{IPA|kʲ}})
 | k
@@ -221,7 +223,7 @@
 | ö
 |-
 | 18
-| ([[Pe (Cyrillic)|Пп]])
+| style="background:Violet;"|([[Pe (Cyrillic)|Пп]])
 | пэ
 | ({{IPA|pʰ}}, {{IPA|pʰʲ}})
 | p
@@ -275,7 +277,7 @@
 | ü
 |-
 | 24
-| ([[Ef (Cyrillic)|Фф]])
+| style="background:Violet;"|([[Ef (Cyrillic)|Фф]])
 | фэ, фа, эф
 | ({{IPA|f}})
 | f
@@ -320,7 +322,7 @@
 | sh
 |- bgcolor="#EEEEEE"
 | 29
-| ([[Shcha|Щщ]])
+| style="background:Violet;"|([[Shcha|Щщ]])
 | ща, эшчэ
 | ({{IPA|stʃ}})
 | ŝ
