@@ -1,14 +1,121 @@
-{{DISPLAYTITLE:<span style="color:#120A8F; font-family:Segoe UI; text-shadow:grey 0.2em 0.2em 0.4em"><span style="display:none;">Нюур хуудаһан</span>}}
+{{Main page top}}<!-- Template:MainPageIntro -->
+<!----<div style="padding-bottom: .3em; margin: 0 .5em .5em">{{Main Page banner}}</div>-->
+<!---------------------------Энэ долоо хоногийн онцлох өгүүлэл, зураг------------------------>
+{|style="border-spacing:8px; margin:0px -8px;"
+|class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;"|
+{|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5fffa;"
 
-{| width="100%" border="0" cellspacing="5" cellpadding="0"
-| colspan=2 |{{Main page top}}
 |-
-| valign=top width="60%" |{{Википеэди}}
-| width="40%" valign=top |{{Buryat articles}} 
+|style="color:#000;"| {{Википеэди}}
+|-
+<!--
+! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Энэ долоо хоногийн онцлох зураг</h2>
+|-
+|style="color:#000;"| {{Онцлох зураг/{{CURRENTYEAR}}-{{CURRENTWEEK}}}}
+|-
+-->
 |}
-<center>'''[[m:List of Wikipedias|Бүхы хэлэн]] · <span class="plainlinks">[http://en.wikipedia.org/wiki/Wikipedia:Multilingual_coordination Олон хэлэнэй зохисуулал]</span> · [[m:Meta:Language proposal policy|Шэнэ хэлээр Википеэди эхилүүлхэ]]'''</center>
-__notoc__
-__noeditsection__
+<!--
+
+--------------------------------Мэдээ, Энэ өдөр------------------------------->
+|class="MainPageBG" style="width:45%; border:1px solid #cedff2; background:#f5faff; vertical-align:top"|
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5faff;"
+! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Сайхан үгүүлэл</h2>
+|-
+|style="color:#000;"| {{Wikipedia:Энэ долоо хоногийн онцлох өгүүлэл/{{CURRENTYEAR}}-{{CURRENTWEEK}}}}
+|- <!--
+! <h2 style="margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">Энэ өдөр...</h2>
+|-
+|style="color:#000;"| {{Wikipedia:Энэ өдөр/Туршилт}}
+|- 
+-->
+|}
+|} 
+<!--
+------------------------------Онцлох зураг------------------------------->
+{| style="margin:4px 0px 0px 0px; width:100%; background:none;"
+|class="MainPageBG" style="width:100%; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;"|
+{| cellpadding="2" cellspacing="5" style="vertical-align:top; background:#faf5ff; color:#000; width:100%"
+! <h2 style="margin:0; background:#ddcef2; font-size:120%; font-weight:bold; border:1px solid #afa3bf; text-align:left; color:#000; padding:0.2em 0.4em">Зураг</h2>
+|-
+|style="color:#000;"| {{Онцлох зураг/{{CURRENTYEAR}}-{{CURRENTWEEK}}}}
+|-
+|}
+|}<!--
+
+
+<!--
+
+-----------------------------Бусад------------------------------>
+== Википеэдигийн дүү төслүүд ==
+{{Wikipediasister}}
+== Википеэди бусад хэлээр ==
+{{Wikipedialang}}<!--
+
+-->__NOTOC__  __NOEDITSECTION__<!--
+
+<!----------Интервики---------->
+{{MainPageInterwikis}}
+
+{{Main page top}}<!-- Template:MainPageIntro -->
+<!----<div style="padding-bottom: .3em; margin: 0 .5em .5em">{{Main Page banner}}</div>-->
+<!---------------------------Энэ долоо хоногийн онцлох өгүүлэл, зураг------------------------>
+{|style="border-spacing:8px; margin:0px -8px;"
+|class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;"|
+{|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5fffa;"
+
+|-
+|style="color:#000;"| {{Википеэди}}
+|-
+<!--
+! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Энэ долоо хоногийн онцлох зураг</h2>
+|-
+|style="color:#000;"| {{Онцлох зураг/{{CURRENTYEAR}}-{{CURRENTWEEK}}}}
+|-
+-->
+|}
+<!--
+
+--------------------------------Мэдээ, Энэ өдөр------------------------------->
+|class="MainPageBG" style="width:45%; border:1px solid #cedff2; background:#f5faff; vertical-align:top"|
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5faff;"
+! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Сайхан үгүүлэл</h2>
+|-
+|style="color:#000;"| {{Wikipedia:Энэ долоо хоногийн онцлох өгүүлэл/{{CURRENTYEAR}}-{{CURRENTWEEK}}}}
+|- <!--
+! <h2 style="margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">Энэ өдөр...</h2>
+|-
+|style="color:#000;"| {{Wikipedia:Энэ өдөр/Туршилт}}
+|- 
+-->
+|}
+|} 
+<!--
+------------------------------Онцлох зураг------------------------------->
+{| style="margin:4px 0px 0px 0px; width:100%; background:none;"
+|class="MainPageBG" style="width:100%; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;"|
+{| cellpadding="2" cellspacing="5" style="vertical-align:top; background:#faf5ff; color:#000; width:100%"
+! <h2 style="margin:0; background:#ddcef2; font-size:120%; font-weight:bold; border:1px solid #afa3bf; text-align:left; color:#000; padding:0.2em 0.4em">Зураг</h2>
+|-
+|style="color:#000;"| {{Онцлох зураг/{{CURRENTYEAR}}-{{CURRENTWEEK}}}}
+|-
+|}
+|}<!--
+
+
+<!--
+
+-----------------------------Бусад------------------------------>
+== Википеэдигийн дүү төслүүд ==
+{{Wikipediasister}}
+== Википеэди бусад хэлээр ==
+{{Wikipedialang}}<!--
+
+-->__NOTOC__  __NOEDITSECTION__<!--
+
+<!----------Интервики---------->
+{{MainPageInterwikis}}
+
 
 [[ar:]]
 [[az:]]
