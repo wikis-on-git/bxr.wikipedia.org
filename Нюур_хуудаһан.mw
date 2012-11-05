@@ -7,12 +7,12 @@
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5faff;"
 ! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">[[File:HSUtvald.svg|30px]] Сайхан үгүүлэл</h2>
 |-
-|style="color:#000;"| {{Wikipedia:Энэ долоо хоногийн онцлох өгүүлэл/{{CURRENTYEAR}}-{{CURRENTWEEK}}}}
+|style="color:#000;"| {{Wikipedia:Энэ долоо хоногийн онцлох өгүүлэл/2012-44}}
 |- 
 <!--
 ! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Энэ долоо хоногийн онцлох зураг</h2>
 |-
-|style="color:#000;"| {{Онцлох зураг/2012-44}}
+|style="color:#000;"| {{Онцлох зураг/{{CURRENTYEAR}}-{{CURRENTWEEK}}}}
 |-
 -->
 |}
@@ -55,7 +55,7 @@
 {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5fffa;"
 ! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">[[File:PL Wiki InM ikona.svg|30px]] Онцлох зураг</h2>
 |-
-|style="color:#000;"| {{Онцлох зураг/{{CURRENTYEAR}}-{{CURRENTWEEK}}}}
+|style="color:#000;"| {{Онцлох зураг/2012-44}}
 |-
 |}
 |}<!--
@@ -91,7 +91,7 @@
 <!--
 ! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Энэ долоо хоногийн онцлох зураг</h2>
 |-
-|style="color:#000;"| {{Онцлох зураг/2012-44}}
+|style="color:#000;"| {{Онцлох зураг/{{CURRENTYEAR}}-{{CURRENTWEEK}}}}
 |-
 -->
 |}<!--
