@@ -112,7 +112,7 @@
 
 Засгийн газар нь 11 яам, 15 сайдаас (ерөнхий сайдыг оролцуулаад) бүрдэнэ.
 
-==Хотонууд==
+===Хотонууд===
 {| class="wikitable sortable"
 |+ List of Mongolian cities
 |-----
@@ -189,6 +189,53 @@
 |}
 
 <sup>*</sup> - city proper, [[Nalaikh]], [[Baganuur]], [[Bagakhangai]] not included in this figure, they are separated in the table.
+
+===Монголын төмөр зам===
+{| {{Railway line header | width:300px |right}}
+{{BS-header|Монголын төмөр зам}}
+{{BS-Infobox
+|image=Trans mongolian gobi.jpg 
+|caption=Монголын төмөр зам, [[Говь]]
+|image_size=250px
+|length=2215
+|}}
+{{BS-table/WithCollapsibles}}
+{{BS3||||км|Станции&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}}
+{{BS3-startCollapsible|HLUECKE|ABZq+lr|HLUECKE|5650|''Транссиб от [[Улан-Удэ]]''}}
+{{BS3||HST|||Заудинский}}
+{{BS3||HST|||Саянтун}}
+{{BS3|WASSERq|WBRÜCKE|WASSERq||''[[Селенга]]''}}
+{{BS3||HST|||Ганзурино}}
+{{BS3||HST|||Убукун}}
+{{BS3||HST|||Сульфат}}
+|}
+{{BS3-startCollapsible||BHF||5769|Загустай}}
+{{BS3||HST|||Гусиное озеро}}
+{{BS3||HST|||Селендума}}
+{{BS3||HST||5852|Джида}}
+{{BS3||HST|||Хужир}}
+|}
+{{BS3||BHF||5895|'''[[Наушки]]'''}}
+{{BS3|exGRENZE legende|eGRENZE|exGRENZE legende|    |'''[[Россия|Российско]]-[[Монголия|монгольская]] граница'''}}
+{{BS3-startCollapsible||BHF||5925|[[Сухэ-Батор (город)|Сухэ-Батор]]}}
+{{BS3||HST||6023|[[Дархан]]}}
+{{BS3||HST|||Зунхараа}}
+|}
+{{BS3-startCollapsible||BHF||6304|[[Улан-Батор]]}}
+{{BS3||HST|||Манит}}
+{{BS3||HST|||[[Чойр]]}}
+{{BS3||eHST|||Хар-Айраг}}
+{{BS3||HST||6778|[[Сайншанд]]}}
+|}
+{{BS3||BHF||7013|'''[[Замын-Уудэ]]'''}}
+{{BS3|exGRENZE legende|eGRENZE|exGRENZE legende||[[Монголия|Монгольско]]-[[Китай|китайская]] граница}}
+{{BS3-startCollapsible||HST||7023|[[Эренхот]]}}
+{{BS3||HST|||Sonid Youqi}}
+{{BS3||HST|||Qahar Youyi Houqi}}
+|}
+{{BS3|HLUECKE|ABZqlr|HLUECKE|7356|''Китайская железнодорожная система через [[Цзинин]]''}}
+|}
+|}
 
 == Гадаад харилцаа ==
 Монгол нь [[АНУ]], [[ОХУ]], [[БНХАУ]], [[Хойд Солонгос|Хойд ба]] [[Өмнөд Солонгос]], [[Япон]] зэрэг олон орнуудтай найрсаг гадаад харилцаатай бөгөөд Засгийн газар гадаад худалдаа, хөрөнгө оруулалтыг ихэд дэмждэг.
