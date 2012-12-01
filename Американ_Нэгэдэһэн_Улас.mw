@@ -2,483 +2,352 @@
 
 == Уласууд ==
 
-<!--Linked from [[Template:US states navbox with columns/doc]]
-{{USA imagemap with state names}}
+<imagemap>
+Image:Map of USA with state names ru(2).svg||700px||center
 
-The following sortable table lists each of the 50 states of the [[United States]] with the following information:
-#The [[political divisions of the United States#States of the United States|state name]]
-#The preferred pronunciation of the common state name as transcribed with the [[International Phonetic Alphabet]] (see [[Help:IPA for English]] for a key)
-#The [[United States Postal Service]] (USPS) two-character [[United States postal abbreviations|state abbreviation]]<ref name=USPSabbrev>{{cite web | url = http://www.usps.com/ncsc/lookups/abbreviations.html | title = Official USPS Abbreviations | publisher = [[United States Postal Service]] | date = 1998 | accessdate = 2007-02-26 }}</ref><br/>(also used as the [[International Organization for Standardization]] (ISO) Standard [[ISO 3166-2|3166-2]] [[ISO 3166-2:US|country subdivision code]])
-#An image of the official [[flags of the U.S. states|state flag]]
-#The date the state [[List of U.S. states by date of statehood|ratified]] the [[United States Constitution]] or was admitted to the [[United States|Union]]
-#The [[United States Census Bureau]] estimate of state population as of {{dts|2009|7|1}}<ref name=PopEstState>{{cite web|url=http://www.census.gov/popest/states/tables/NST-EST2009-01.csv|title=Annual Estimates of the Population for the United States, Regions, States, and Puerto Rico: April 1, 2000 to July 1, 2009|format=[[comma-separated values|CSV]]|work=2009 Population Estimates|publisher=[[United States Census Bureau]], Population Division|date={{dts|2009|12|23}}|accessdate={{dts|2009|12|23}}}}</ref>
-#The [[List of capitals in the United States#State capitals|state capital]]
-#The most populous [[incorporated place]] or [[Census Designated Place]] within the state as of {{dts|2008|7|1}}, as estimated by the [[U.S. Census Bureau]]<ref name=PopEstIP>{{cite web|url=http://www.census.gov/popest/cities/files/SUB-EST2008-IP.csv|title=Resident Population Estimates of Incorporated Places Only: April 1, 2000 to July 1, 2008|format=[[comma-separated values|CSV]]|work=2008 Population Estimates|publisher=[[United States Census Bureau]], Population Division|date={{dts|2009|7|1}}|accessdate={{dts|2009|10|1}}}}</ref>
-{{-}}
-<!--  THE FOLLOWING TABLE CONTAINS DATA FROM THE UNITED STATES CENSUS BUREAU.  DO NOT ALTER U.S. CENSUS DATA. 
--->
-{|class="wikitable sortable"  width="100%"
-|+<big>50 Амеэрикын Нэгэдэһэн Уласын уласууд</big>
-! Таңһчин нерн
-!class="unsortable" | IPA
-!USPS
-!class="unsortable" | Туг
-!Эклсн өдр
-!2009 җилд бәәсн күн
-! Төв
-! Хамгин Ик Балһсн
-|-
-|[[Алабам]]
-|{{IPA|/ˌæləˈbæmə/}}
-|align=center|AL
-|align=center|[[Боомг:Flag of Alabama.svg|border|42px]]
-|{{цагинаңһ|1819|12|14}}
-|align=right|4,708,708
-|[[Montgomery, Alabama|Montgomery]]
-|[[Birmingham, Alabama|Birmingham]]
-|-
-|[[Аляск]]
-|{{IPA|/əˈlæskə/}}
-|align=center|AK
-|align=center|[[Боомг:Flag of Alaska.svg|border|41px]]
-|{{цагинаңһ|1959|1|03}}
-|align=right|698,473
-|[[Juneau, Alaska|Juneau]]
-|[[Anchorage, Alaska|Anchorage]]
-|-
-|[[Аризон]]
-|{{IPA|/ˌær<s>ɪ</s>ˈzoʊnə/}}
-|align=center|AZ
-|align=center|[[Боомг:Flag of Arizona.svg|border|42px]]
-|{{цагинаңһ|1912|2|14}}
-|align=right|6,595,778
-|[[Phoenix, Arizona|Phoenix]]
-|[[Phoenix, Arizona|Phoenix]]
-|-
-|[[Әркәнзә]]
-|{{IPA|/ˈɑrkənsɔː/}}
-|align=center|AR
-|align=center|[[Боомг:Flag of Arkansas.svg|border|42px]]
-|{{цагинаңһ|1836|6|15}}
-|align=right|2,889,450
-|[[Little Rock, Arkansas|Little Rock]]
-|[[Little Rock, Arkansas|Little Rock]]
-|-
-|[[Калифорни]]
-|{{IPA|/ˌkæl<s>ɪ</s>ˈfɔrnjə/}}
-|align=center|CA
-|align=center|[[Боомг:Flag of California.svg|border|42px]]
-|{{цагинаңһ|1850|9|09}}
-|align=right|36,961,664
-|[[Sacramento, California|Sacramento]]
-|[[Los Angeles]]
-|-
-|[[Коларад]]
-|{{IPA|/ˌkɒləˈrædoʊ/}}
-|align=center|CO
-|align=center|[[Боомг:Flag of Colorado.svg|border|42px]]
-|{{цагинаңһ|1876|8|01}}
-|align=right|5,024,748
-|[[Denver]]
-|[[Denver]]
-|-
-|[[Канетикуд]]
-|{{IPA|/kəˈnɛt<s>ɪ</s>kət/}}
-|align=center|CT
-|align=center|[[Боомг:Flag of Connecticut.svg|border|46px]]
-|{{цагинаңһ|1788|1|09}}
-|align=right|3,518,288
-|[[Hartford, Connecticut|Hartford]]
-|[[Bridgeport, Connecticut|Bridgeport]]
-|-
-|[[Деләәвр]]
-|{{IPA|/ˈdɛləwɛər/}}
-|align=center|DE
-|align=center|[[Боомг:Flag of Delaware.svg|border|42px]]
-|{{цагинаңһ|1787|12|07}}
-|align=right|885,122
-|[[Dover, Delaware|Dover]]
-|[[Wilmington, Delaware|Wilmington]]
-|-
-|[[Плоорид]]
-|{{IPA|/ˈflɒr<s>ɪ</s>də/}}
-|align=center|FL
-|align=center|[[Боомг:Flag of Florida.svg|border|42px]]
-|{{цагинаңһ|1845|3|03}}
-|align=right|18,537,969
-|[[Tallahassee, Florida|Tallahassee]]
-|[[Jacksonville, Florida|Jacksonville]]
-|-
-|[[Җорҗи]]
-|{{IPA|/ˈdʒɔrdʒə/}}
-|align=center|GA
-|align=center|[[Боомг:Flag of Georgia (U.S. state).svg|border|44px]]
-|{{цагинаңһ|1788|1|02}}
-|align=right|9,829,211
-|[[Atlanta]]
-|[[Atlanta]]
-|-
-|[[Хавай]]
-|{{IPA|/həˈwaɪ.iː/}}
-|align=center|HI
-|align=center|[[Боомг:Flag of Hawaii.svg|border|49px]]
-|{{цагинаңһ|1959|8|21}}
-|align=right|1,295,178
-|[[Honolulu]]
-|[[Honolulu]]
-|-
-|[[Айдах]]
-|{{IPA|/ˈaɪdəhoʊ/}}
-|align=center|ID
-|align=center|[[Боомг:Flag of Idaho.svg|border|39px]]
-|{{цагинаңһ|1890|7|03}}
-|align=right|1,545,801
-|[[Boise, Idaho|Boise]]
-|[[Boise, Idaho|Boise]]
-|-
-|[[Илиной]]
-|{{IPA|/ɪl<s>ɪ</s>ˈnɔɪ/}}
-|align=center|IL
-|align=center|[[Боомг:Flag of Illinois.svg|border|45px]]
-|{{цагинаңһ|1818|12|03}}
-|align=right|12,910,409
-|[[Springfield, Illinois|Springfield]]
-|[[Chicago]]
-|-
-|[[Индән]]
-|{{IPA|/ˌɪndiˈænə/}}
-|align=center|IN
-|align=center|[[Боомг:Flag of Indiana.svg|border|42px]]
-|{{цагинаңһ|1816|12|11}}
-|align=right|6,423,113
-|[[Indianapolis]]
-|[[Indianapolis]]
-|-
-|[[Айов]]
-|{{IPA|/ˈaɪ.ɵwə/}}
-|align=center|IA
-|align=center|[[Боомг:Flag of Iowa.svg|border|42px]]
-|{{цагинаңһ|1846|12|28}}
-|align=right|3,007,856
-|[[Des Moines, Iowa|Des Moines]]
-|[[Des Moines, Iowa|Des Moines]]
-|-
-|[[Каанзс]]
-|{{IPA|/ˈkænzəs/}}
-|align=center|KS
-|align=center|[[Боомг:Flag of Kansas.svg|border|45px]]
-|{{цагинаңһ|1861|1|29}}
-|align=right|2,818,747
-|[[Topeka, Kansas|Topeka]]
-|[[Wichita, Kansas|Wichita]]
-|-
-|[[Кинтааки]]
-|{{IPA|/k<s>ɪ</s>nˈtʌki/}}
-|align=center|KY
-|align=center|[[Боомг:Flag of Kentucky.svg|border|42px]]
-|{{цагинаңһ|1792|6|01}}
-|align=right|4,314,113
-|[[Frankfort, Kentucky|Frankfort]]
-|[[Louisville, Kentucky|Louisville]]
-|-
-|[[Лувизән]]
-|{{IPA|/luːˌiːziˈænə/}}
-|align=center|LA
-|align=center|[[Боомг:Flag of Louisiana.svg|border|42px]]
-|{{цагинаңһ|1812|4|30}}
-|align=right|4,492,076
-|[[Baton Rouge, Louisiana|Baton Rouge]]
-|[[New Orleans]]
-|-
-|[[Мейин]]
-|{{IPA|/ˈmeɪn/}}
-|align=center|ME
-|align=center|[[Боомг:Flag of Maine.svg|border|42px]]
-|{{цагинаңһ|1820|3|15}}
-|align=right|1,318,301
-|[[Augusta, Maine|Augusta]]
-|[[Portland, Maine|Portland]]
-|-
-|[[Мэрилэнд]]
-|{{IPA|/ˈmɛrələnd/}}
-|align=center|MD
-|align=center|[[Боомг:Flag of Maryland.svg|border|42px]]
-|{{цагинаңһ|1788|4|28}}
-|align=right|5,699,478
-|[[Annapolis, Maryland|Annapolis]]
-|[[Baltimore]]
-|-
-|[[Масачуусиц]]
-|{{IPA|/ˌmæsəˈtʃuːs<s>ɪ</s>ts/}}
-|align=center|MA
-|align=center|[[Боомг:Flag of Massachusetts.svg|border|45px]]
-|{{цагинаңһ|1788|2|06}}
-|align=right|6,593,587
-|[[Boston]]
-|[[Boston]]
-|-
-|[[Мичиигн]]
-|{{IPA|/ˈmɪʃ<s>ɪ</s>ɡən/}}
-|align=center|MI
-|align=center|[[Боомг:Flag of Michigan.svg|border|42px]]
-|{{цагинаңһ|1837|1|26}}
-|align=right|9,969,727
-|[[Lansing, Michigan|Lansing]]
-|[[Detroit]]
-|-
-|[[Минисөт]]
-|{{IPA|/ˌmɪn<s>ɪ</s>ˈsoʊtə/}}
-|align=center|MN
-|align=center|[[Боомг:Flag of Minnesota.svg|border|43px]]
-|{{цагинаңһ|1858|5|11}}
-|align=right|5,266,214
-|[[Saint Paul, Minnesota|Saint Paul]]
-|[[Minneapolis]]
-|-
-|[[Мисисип]]
-|{{IPA|/ˌmɪs<s>ɪ</s>ˈsɪpi/}}
-|align=center|MS
-|align=center|[[Боомг:Flag of Mississippi.svg|border|45px]]
-|{{цагинаңһ|1817|12|10}}
-|align=right|2,951,996
-|[[Jackson, Mississippi|Jackson]]
-|[[Jackson, Mississippi|Jackson]]
-|-
-|[[Мизуури]]
-|{{IPA|/m<s>ɪ</s>ˈzʊəri, m<s>ɪ</s>ˈzʊərə/}}
-|align=center|MO
-|align=center|[[Боомг:Flag of Missouri.svg|border|45px]]
-|{{цагинаңһ|1821|8|10}}
-|align=right|5,987,580
-|[[Jefferson City, Missouri|Jefferson City]]
-|[[Kansas City, Missouri|Kansas City]]
-|-
-|[[Мантан]]
-|{{IPA|/mɒnˈtænə/}}
-|align=center|MT
-|align=center|[[Боомг:Flag of Montana.svg|border|42px]]
-|{{цагинаңһ|1889|11|08}}
-|align=right|974,989
-|[[Helena, Montana|Helena]]
-|[[Billings, Montana|Billings]]
-|-
-|[[Небрааск]]
-|{{IPA|/nəˈbræskə/}}
-|align=center|NE
-|align=center|[[Боомг:Flag of Nebraska.svg|border|45px]]
-|{{цагинаңһ|1867|3|01}}
-|align=right|1,796,619
-|[[Lincoln, Nebraska|Lincoln]]
-|[[Omaha, Nebraska|Omaha]]
-|-
-|[[Невад]]
-|{{IPA|/nəˈvædə/}}
-|align=center|NV
-|align=center|[[Боомг:Flag of Nevada.svg|border|42px]]
-|{{цагинаңһ|1864|10|31}}
-|align=right|2,643,085
-|[[Carson City, Nevada|Carson City]]
-|[[Las Vegas, Nevada|Las Vegas]]
-|-
-|[[Шин Хәмшир]]
-|{{IPA|/nuː ˈhæmpʃər/}}
-|align=center|NH
-|align=center|[[Боомг:Flag of New Hampshire.svg|border|42px]]
-|{{цагинаңһ|1788|6|21}}
-|align=right|1,324,575
-|[[Concord, New Hampshire|Concord]]
-|[[Manchester, New Hampshire|Manchester]]
-|-
-|[[Шин Җөөзи]]
-|{{IPA|/nuː ˈdʒɜrzi/}}
-|align=center|NJ
-|align=center|[[Боомг:Flag of New Jersey.svg|border|42px]]
-|{{цагинаңһ|1787|12|18}}
-|align=right|8,707,739
-|[[Trenton, New Jersey|Trenton]]
-|[[Newark, New Jersey|Newark]]
-|-
-|[[Шин Меексик]]
-|{{IPA|/nuː ˈmɛks<s>ɪ</s>koʊ/}}
-|align=center|NM
-|align=center|[[Боомг:Flag of New Mexico.svg|border|42px]]
-|{{цагинаңһ|1912|1|06}}
-|align=right|2,009,671
-|[[Santa Fe, New Mexico|Santa Fe]]
-|[[Albuquerque, New Mexico|Albuquerque]]
-|-
-|[[Шин Йорк]]
-|{{IPA|/nuː ˈjɔrk/}}
-|align=center|NY
-|align=center|[[Боомг:Flag of New York.svg|border|49px]]
-|{{цагинаңһ|1788|7|26}}
-|align=right|19,541,453
-|[[Albany, New York|Albany]]
-|[[New York City|New York]]
-|-
-|[[Ар Карелайн]]
-|{{IPA|/ˌnɔrθ kærəˈlaɪnə/}}
-|align=center|NC
-|align=center|[[Боомг:Flag of North Carolina.svg|border|42px]]
-|{{цагинаңһ|1789|11|21}}
-|align=right|9,380,884
-|[[Raleigh, North Carolina|Raleigh]]
-|[[Charlotte, North Carolina|Charlotte]]
-|-
-|[[Ар Дакот]]
-|{{IPA|/ˌnɔrθ dəˈkoʊtə/}}
-|align=center|ND
-|align=center|[[Боомг:Flag of North Dakota.svg|border|39px]]
-|{{цагинаңһ|1889|11|02}}
-|align=right|646,844
-|[[Bismarck, North Dakota|Bismarck]]
-|[[Fargo, North Dakota|Fargo]]
-|-
-|[[Өхәй]]
-|{{IPA|/ɵˈhaɪ.oʊ/}}
-|align=center|OH
-|align=center|[[Боомг:Flag of Ohio.svg|44px]]
-|{{цагинаңһ|1803|3|01}}
-|align=right|11,542,645
-|[[Columbus, Ohio|Columbus]]
-|[[Columbus, Ohio|Columbus]]
-|-
-|[[Оклахом]]
-|{{IPA|/ˌoʊkləˈhoʊmə/}}
-|align=center|OK
-|align=center|[[Боомг:Flag of Oklahoma.svg|border|42px]]
-|{{цагинаңһ|1907|11|16}}
-|align=right|3,687,050
-|[[Oklahoma City]]
-|[[Oklahoma City]]
-|-
-|[[Ориигон]]
-|{{IPA|/ˈɒr<s>ɪ</s>ɡən/}}
-|align=center|OR
-|align=center|[[Боомг:Flag of Oregon.svg|border|45px]]
-|{{цагинаңһ|1859|2|14}}
-|align=right|3,825,657
-|[[Salem, Oregon|Salem]]
-|[[Portland, Oregon|Portland]]
-|-
-|[[Пенсилвайни]]
-|{{IPA|/ˌpɛns<s>ɪ</s>lˈveɪnjə/}}
-|align=center|PA
-|align=center|[[Боомг:Flag of Pennsylvania.svg|border|42px]]
-|{{цагинаңһ|1787|12|12}}
-|align=right|12,604,767
-|[[Harrisburg, Pennsylvania|Harrisburg]]
-|[[Philadelphia]]
-|-
-|[[Род Арл]]
-|{{IPA|/rɵˈdaɪlənd/}}
-|align=center|RI
-|align=center|[[File:Flag of Rhode Island.svg|border|35px]]
-|{{цагинаңһ|1790|5|29}}
-|align=right|1,053,209
-|[[Providence, Rhode Island|Providence]]
-|[[Providence, Rhode Island|Providence]]
-|-
-|[[Өмнә Карелайн]]
-|{{IPA|/ˌsaʊθ kærəˈlaɪnə/}}
-|align=center|SC
-|align=center|[[File:Flag of South Carolina.svg|border|42px]]
-|{{цагинаңһ|1788|5|23}}
-|align=right|4,561,242
-|[[Columbia, South Carolina|Columbia]]
-|[[Columbia, South Carolina|Columbia]]
-|-
-|[[Өмнә Дакот]]
-|{{IPA|/ˌsaʊθ dəˈkoʊtə/}}
-|align=center|SD
-|align=center|[[File:Flag of South Dakota.svg|border|44px]]
-|{{цагинаңһ|1889|11|02}}
-|align=right|812,383
-|[[Pierre, South Dakota|Pierre]]
-|[[Sioux Falls, South Dakota|Sioux Falls]]
-|-
-|[[Теннесси]]
-|{{IPA|/ˌtɛn<s>ɪ</s>ˈsiː/}}
-|align=center|TN
-|align=center|[[File:Flag of Tennessee.svg|border|45px]]
-|{{цагинаңһ|1796|6|01}}
-|align=right|6,296,254
-|[[Nashville, Tennessee|Nashville]]
-|[[Memphis, Tennessee|Memphis]]
-|-
-|[[Теексәс]]
-|{{IPA|/ˈtɛksəs/}}
-|align=center|TX
-|align=center|[[File:Flag of Texas.svg|border|42px]]
-|{{цагинаңһ|1845|12|29}}
-|align=right|24,782,302
-|[[Austin, Texas|Austin]]
-|[[Houston]]
-|-
-|[[Йуута]]
-|{{IPA|/ˈjuːtɔː/}}
-|align=center|UT
-|align=center|[[File:Flag of Utah.svg|border|42px]]
-|{{цагинаңһ|1896|1|04}}
-|align=right|2,784,572
-|[[Salt Lake City]]
-|[[Salt Lake City]]
-|-
-|[[Веермонт]]
-|{{IPA|/vərˈmɒnt/}}
-|align=center|VT
-|align=center|[[File:Flag of Vermont.svg|border|45px]]
-|{{цагинаңһ|1791|3|04}}
-|align=right|621,760
-|[[Montpelier, Vermont|Montpelier]]
-|[[Burlington, Vermont|Burlington]]
-|-
-|[[Виирҗин]]
-|{{IPA|/vərˈdʒɪnjə/}}
-|align=center|VA
-|align=center|[[File:Flag of Virginia.svg|border|42px]]
-|{{цагинаңһ|1788|6|25}}
-|align=right|7,882,590
-|[[Richmond, Virginia|Richmond]]
-|[[Virginia Beach, Virginia|Virginia Beach]]
-|-
-|[[Воошинта]]
-|{{IPA|/ˈwɒʃɪŋtən/}}
-|align=center|WA
-|align=center|[[File:Flag of Washington.svg|border|45px]]
-|{{цагинаңһ|1889|11|11}}
-|align=right|6,664,195
-|[[Olympia, Washington|Olympia]]
-|[[Seattle]]
-|-
-|[[Барун Виирҗин]]
-|{{IPA|/ˌwɛst vərˈdʒɪnjə/}}
-|align=center|WV
-|align=center|[[File:Flag of West Virginia.svg|border|48px]]
-|{{цагинаңһ|1863|6|20}}
-|align=right|1,819,777
-|[[Charleston, West Virginia|Charleston]]
-|[[Charleston, West Virginia|Charleston]]
-|-
-|[[Вискаансин]]
-|{{IPA|/wɪsˈkɒns<s>ɪ</s>n/}}
-|align=center|WI
-|align=center|[[File:Flag of Wisconsin.svg|border|42px]]
-|{{цагинаңһ|1848|5|29}}
-|align=right|5,654,774
-|[[Madison, Wisconsin|Madison]]
-|[[Milwaukee]]
-|-
-|[[Вайоомин]]
-|{{IPA|/waɪˈoʊmɪŋ/}}
-|align=center|WY
-|align=center|[[File:Flag of Wyoming.svg|border|41px]]
-|{{цагинаңһ|1890|7|10}}
-|align=right|544,270
-|[[Cheyenne, Wyoming|Cheyenne]]
-|[[Cheyenne, Wyoming|Cheyenne]]
-|-
-|}
+poly 643 371 666 452 621 458 621 473 606 468 604 374 [[Алабама (штат)|Алабама]]
+poly 152 457 153 540 177 548 205 576 205 589 183 588 158 553 117 547 100 567 12 578 66 547 41 517 52 469 72 449 107 437 [[Аляска]]
+poly 132 396 190 434 229 441 245 325 161 309 157 326 148 326 140 347 151 364 [[Аризона]]
+poly 490 346 489 404 499 419 551 419 566 373 574 353 560 347 [[Арканзас]]
+poly 27 164 91 181 73 243 140 339 138 346 149 363 134 394 91 389 41 334 13 194 [[Калифорния]]
+poly 257 235 369 248 364 331 247 320 [[Колорадо]]
+poly 818 185 819 206 845 195 842 180 [[Коннектикут]]
+
+poly 794 239 799 270 813 270 808 255 [[Делавэр]]
+
+poly 731 453 776 545 757 583 739 584 714 520 688 472 663 485 624 471 624 460 666 454 666 460 [[Флорида]]
+poly 644 368 686 364 736 417 730 455 668 457 [[Джорджия]]
+poly 219 507 216 552 259 588 339 590 343 557 292 508 [[Гавайи]]
+poly 169 48 154 107 161 116 145 140 137 190 226 206 236 157 206 154 200 127 189 131 192 105 175 72 182 50 [[Айдахо]]
+poly 555 221 539 263 563 291 560 304 582 330 595 328 605 291 601 227 591 209 552 215 [[Иллинойс]]
+poly 603 229 602 312 631 305 650 284 644 222 [[Индиана]]
+poly 461 197 454 215 469 258 535 258 544 244 553 225 540 198 [[Айова]]
+poly 368 268 361 333 488 336 488 291 481 285 484 277 471 269 [[Канзас]]
+poly 581 343 677 330 697 310 682 289 652 281 633 309 602 313 [[Кентукки]]
+poly 504 488 510 458 498 440 501 421 553 421 555 435 546 461 574 461 585 475 593 499 547 504 [[Луизиана]]
+poly 836 111 850 149 854 157 897 106 887 89 872 60 849 56 [[Мэн (штат)|Мэн]]
+poly 732 253 732 263 756 254 778 266 776 275 788 278 798 296 811 268 797 268 793 242 [[Мэриленд]]
+poly 816 170 817 186 849 180 857 187 878 189 878 171 854 160 [[Массачусетс]]
+
+poly 544 114 555 131 596 149 613 224 664 219 674 191 647 128 581 85 [[Мичиган]]
+poly 448 79 456 143 453 147 461 156 461 196 541 196 541 186 513 168 510 150 520 126 556 96 483 86 478 71 [[Миннесота]]
+poly 568 376 603 373 606 472 585 473 573 459 546 459 556 427 555 415 [[Миссисипи (штат)|Миссисипи]]
+poly 470 259 471 269 486 288 488 345 566 344 561 353 571 353 582 334 559 305 562 294 536 261 [[Миссури (штат)|Миссури]]
+poly 184 49 179 70 194 104 190 127 200 123 209 152 235 154 237 147 342 158 351 75 [[Монтана]]
+poly 340 203 337 244 368 247 368 265 475 269 460 217 426 208 [[Небраска]]
+poly 92 182 180 200 156 324 146 323 141 342 73 244 [[Невада]]
+poly 829 114 825 168 852 160 835 109 [[Нью-Гэмпшир]]
+poly 801 207 799 225 806 231 797 240 809 254 823 224 815 218 815 211 [[Нью-Джерси]]
+
+poly 245 320 347 330 337 436 245 431 242 443 226 439 [[Нью-Мексико]]
+poly 727 177 716 205 789 190 799 204 815 209 815 216 823 221 847 202 821 205 817 185 817 167 803 124 777 128 754 166 [[Нью-Йорк (штат)]]
+poly 706 328 666 366 716 357 748 359 768 375 817 333 803 309 [[Северная Каролина]]
+poly 351 76 345 138 455 144 447 80 [[Северная Дакота]]
+poly 653 281 679 285 686 292 714 243 710 213 675 224 663 220 645 223 649 275 [[Огайо]]
+poly 347 331 488 337 494 407 430 397 397 388 397 347 345 345 [[Оклахома]]
+poly 60 79 26 145 26 162 136 188 142 137 157 118 150 104 99 104 73 97 72 83 [[Орегон]]
+poly 708 210 716 255 791 240 804 230 797 223 799 205 788 191 [[Пенсильвания]]
+poly 849 179 855 187 847 195 841 183 [[Род-Айленд]]
+
+poly 686 363 738 418 765 376 749 361 716 356 [[Южная Каролина]]
+poly 346 138 456 144 452 149 459 157 459 195 456 214 425 207 375 202 341 201 343 182 343 160 [[Южная Дакота]]
+poly 569 374 667 366 705 327 575 344 [[Теннесси]]
+poly 346 342 337 439 274 432 306 485 331 501 347 484 368 488 407 560 440 572 440 532 507 489 511 457 498 412 483 404 397 389 396 345 [[Техас]]
+poly 182 201 228 209 224 232 256 234 244 321 162 307 [[Юта]]
+poly 803 123 816 168 825 168 828 120 [[Вермонт]]
+poly 698 310 677 331 803 308 789 280 775 276 778 267 765 258 753 258 731 277 726 304 [[Виргиния]]
+poly 57 76 73 85 73 95 111 102 158 109 168 49 88 25 60 34 [[Вашингтон (штат)|]]
+poly 763 260 753 259 743 278 732 276 728 297 717 308 700 312 689 297 694 275 709 262 712 241 715 257 734 254 734 262 753 253 761 254 [[Западная Виргиния]]
+
+poly 522 129 520 140 513 146 513 169 538 184 539 210 549 216 592 210 600 156 593 153 585 143 548 126 538 120 [[Висконсин]]
+poly 239 148 223 232 337 244 343 157 [[Вайоминг]]
+
+
+rect 883 272 953 290 [[Делавэр]]
+rect 882 291 951 315 [[Мэриленд]]
+rect 675 33 785 60 [[Нью-Гэмпшир]]
+rect 867 244 950 269 [[Нью-Джерси]]
+rect 680 88 774 113 [[Массачусетс]]
+rect 871 222 955 243 [[Коннектикут]]
+rect 828 350 923 371 [[Западная Виргиния]]
+rect 727 63 780 86 [[Вермонт]]
+rect 863 195 954 220 [[Род-Айленд]]
+
+== Холбооһон ==
+
+* [http://www.usa.gov Официальный портал Федерального правительства США]{{ref-en}}
+* [http://www.grinchevskiy.ru/ История США в документах]
+* [http://www.rususa.com/index.asp-lang-rus Русский портал в США]
+* [http://newslink.newsru.com/all?country=us&category=news Новостные порталы и сайты ведущих СМИ США]
+* [http://film.numud.com/?videoscategory=united-states-of-america USA at Film Numud] Documentary films on the USA
+* [http://www.bbc.co.uk/news/world-us-canada-16761057 United States], from the [[BBC News]]
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=US Key Development Forecasts for the United States] from [[International Futures]]
+* [http://www.usa.gov/ Official U.S. Government Web Portal] Gateway to government sites
+* [http://www.house.gov/ House] Official site of the United States House of Representatives
+* [http://www.senate.gov/ Senate] Official site of the United States Senate
+* [http://www.whitehouse.gov/ White House] Official site of the President of the United States
+* [{{SCOTUS URL}} Supreme Court] Official site of the Supreme Court of the United States
+* [http://www.nationalcenter.org/HistoricalDocuments.html Historical Documents] Collected by the National Center for Public Policy Research
+* [http://www.religioustolerance.org/nat_mott.htm U.S. National Mottos: History and Constitutionality] Analysis by the Ontario Consultants on Religious Tolerance
+* [http://www.historicalstatistics.org/index2.html USA] Collected links to historical data
+* [http://nationalatlas.gov/ National Atlas of the United States] Official maps from the U.S. Department of the Interior
+
+</imagemap>
+
 {{Америк}}
-[[ru:США]]
-{{stub}}
+
+
+[[ab:Америка Еиду Аштатқәа]]
+[[ace:Amirika Carékat]]
+[[af:Verenigde State van Amerika]]
+[[als:USA]]
+[[am:አሜሪካ]]
+[[an:Estatos Unitos]]
+[[ang:Ȝeānedu Rīcu American]]
+[[ar:الولايات المتحدة]]
+[[arc:ܐܘܚܕܢܐ ܡܚܝܕܐ]]
+[[arz:امريكا]]
+[[as:আমেৰিকা যুক্তৰাষ্ট্ৰ]]
+[[ast:Estaos Xuníos d'América]]
+[[av:Америкалъул Цолъарал Штатал]]
+[[ay:Istadus Unidus]]
+[[az:Amerika Birləşmiş Ştatları]]
+[[ba:Америка Ҡушма Штаттары]]
+[[bar:Vaeinigte Staatn]]
+[[bat-smg:JAV]]
+[[bcl:Estados Unidos]]
+[[be:Злучаныя Штаты Амерыкі]]
+[[be-x-old:Злучаныя Штаты Амэрыкі]]
+[[bg:Съединени американски щати]]
+[[bi:Yunaeted Stet blong Amerika]]
+[[bm:Amerika ka Kelenyalen Jamanaw]]
+[[bn:মার্কিন যুক্তরাষ্ট্র]]
+[[bo:ཨ་མེ་རི་ཁ་རྒྱལ་ཕྲན་མཉམ་འབྲེལ་རྒྱལ་ཁབ།]]
+[[bpy:তিলপারাষ্ট্র]]
+[[br:Stadoù-Unanet Amerika]]
+[[bs:Sjedinjene Američke Države]]
+[[bxr:Амеэрикын Нэгэдэһэн Улас]]
+[[ca:Estats Units d'Amèrica]]
+[[cbk-zam:Estados Unidos de America]]
+[[cdo:Mī-guók]]
+[[ce:Ӏамерикан ХӀоьттина Мехкаш]]
+[[ceb:Estados Unidos]]
+[[chr:ᏌᏊᎢᏳᎾᎵᏍᏔᏅᏍᎦᏚᎩ ᎾᎿ ᎠᎺᏰᏟ]]
+[[chy:United States]]
+[[ckb:ویلایەتە یەکگرتووەکانی ئەمریکا]]
+[[co:Stati Uniti d'America]]
+[[crh:Amerika Qoşma Ştatları]]
+[[cs:Spojené státy americké]]
+[[csb:Zjednóné Kraje Americzi]]
+[[cu:Амєрїканьскꙑ Ѥдьнѥнꙑ Дрьжавꙑ]]
+[[cv:Америкăри Пĕрлешӳллĕ Штатсем]]
+[[cy:Unol Daleithiau America]]
+[[da:USA]]
+[[de:Vereinigte Staaten von Amerika]]
+[[diq:Dewletê Amerikayê Yewbiyayey]]
+[[dsb:Zjadnośone staty Ameriki]]
+[[dv:އެމެރިކާ]]
+[[dz:ཡུ་ནའིཊེཊ་སི་ཊེས]]
+[[ee:United States]]
+[[el:Ηνωμένες Πολιτείες Αμερικής]]
+[[eml:Stat Unî]]
+[[en:United States]]
+[[eo:Usono]]
+[[es:Estados Unidos]]
+[[et:Ameerika Ühendriigid]]
+[[eu:Ameriketako Estatu Batuak]]
+[[ext:Estaus Unius]]
+[[fa:ایالات متحده آمریکا]]
+[[ff:Dowlaaji Dentuɗi]]
+[[fi:Yhdysvallat]]
+[[fiu-vro:Ameeriga Ütisriigiq]]
+[[fo:USA]]
+[[fr:États-Unis]]
+[[frp:Ètats-Unis d’Amèrica]]
+[[frr:Feriind Stoote foon Ameerikaa]]
+[[fur:Stâts Unîts di Americhe]]
+[[fy:Feriene Steaten]]
+[[ga:Stáit Aontaithe Mheiriceá]]
+[[gag:Amerika Birleşik Devletläri]]
+[[gan:美國]]
+[[gd:Na Stàitean Aonaichte]]
+[[gl:Estados Unidos de América - United States of America]]
+[[glk:آمریکا]]
+[[gn:Tetã peteĩ reko Amérikagua]]
+[[got:𐌱𐌰𐌽𐌳𐌰𐍂𐌴𐌹𐌺𐌾𐌰]]
+[[gu:સંયુક્ત રાજ્ય અમેરિકા]]
+[[gv:Steatyn Unnaneysit America]]
+[[ha:Amurika]]
+[[hak:Mî-koet]]
+[[haw:‘Amelika Hui Pū ‘ia]]
+[[he:ארצות הברית]]
+[[hi:संयुक्त राज्य अमेरिका]]
+[[hif:United States]]
+[[hr:Sjedinjene Američke Države]]
+[[hsb:Zjednoćene staty Ameriki]]
+[[ht:Etazini]]
+[[hu:Amerikai Egyesült Államok]]
+[[hy:Ամերիկայի Միացյալ Նահանգներ]]
+[[ia:Statos Unite de America]]
+[[id:Amerika Serikat]]
+[[ie:Federativ States de USA]]
+[[ig:Njikota Obodo Amerika]]
+[[ik:United States of America]]
+[[ilo:Estados Unidos iti Amerika]]
+[[io:Usa]]
+[[is:Bandaríkin]]
+[[it:Stati Uniti d'America]]
+[[iu:ᐊᒥᐊᓕᑲ]]
+[[ja:アメリカ合衆国]]
+[[jbo:mergu'e]]
+[[jv:Amérika Sarékat]]
+[[ka:ამერიკის შეერთებული შტატები]]
+[[kaa:Amerika Qurama Shtatları]]
+[[kbd:Америкэ Штат Зэгуэт]]
+[[ki:United States]]
+[[kk:Америка Құрама Штаттары]]
+[[kl:Naalagaaffeqatigiit]]
+[[km:សហរដ្ឋអាមេរិក]]
+[[kn:ಅಮೇರಿಕ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ]]
+[[ko:미국]]
+[[koi:Америкаись Ӧтлаасьӧм Штаттэз]]
+[[krc:Американы Бирлешген Штатлары]]
+[[ksh:Vereenichde Staate van Amerika]]
+[[ku:Dewletên Yekbûyî yên Amerîkayê]]
+[[kv:Америкаса Ӧтувтчӧм Штатъяс]]
+[[kw:Statys Unys]]
+[[ky:Америка Кошмо Штаттары]]
+[[la:Civitates Foederatae Americae]]
+[[lad:Estatos Unitos d'Amerika]]
+[[lb:Vereenegt Staate vun Amerika]]
+[[lbe:Американал ЦачӀунхьу Штатру]]
+[[lez:Америкадин Садхьанвай Штатар]]
+[[lg:Amereka]]
+[[li:Vereinegde State van Amerika]]
+[[lij:Stati Unïi d'America]]
+[[lmo:Stat Ünì d'America]]
+[[ln:Lisangá lya Ameríka]]
+[[lt:Jungtinės Amerikos Valstijos]]
+[[ltg:Amerikys Saškierstuos Vaļsteibys]]
+[[lv:Amerikas Savienotās Valstis]]
+[[map-bms:Amerika Serikat]]
+[[mdf:Америконь Соткс]]
+[[mg:Etazonia]]
+[[mhr:АУШ]]
+[[mi:Hononga-o-Amerika]]
+[[mk:Соединети Американски Држави]]
+[[ml:അമേരിക്കൻ ഐക്യനാടുകൾ]]
+[[mn:Америкийн Нэгдсэн Улс]]
+[[mr:अमेरिकेची संयुक्त संस्थाने]]
+[[mrj:Америкын Ушымы Штатвлӓжӹ]]
+[[ms:Amerika Syarikat]]
+[[mt:Stati Uniti tal-Amerika]]
+[[mwl:Stados Ounidos de la América]]
+[[my:အမေရိကန်ပြည်ထောင်စု]]
+[[myv:Американь Вейтьсэндявкс Штаттнэ]]
+[[mzn:متحده ایالات آمریکا]]
+[[na:Eben Merika]]
+[[nah:Tlacetilīlli Tlahtohcāyōtl Ixachitlān]]
+[[nap:State Aunite d'Amereca]]
+[[nds:USA]]
+[[nds-nl:Verienigde Staoten van Amerika]]
+[[ne:संयुक्त राज्य अमेरिका]]
+[[new:अमेरिका]]
+[[nl:Verenigde Staten]]
+[[nn:USA]]
+[[no:USA]]
+[[nov:Unionati States de Amerika]]
+[[nrm:Êtats Unnis d'Améthique]]
+[[nso:United States of America]]
+[[nv:Wááshindoon Bikéyah Ałhidadiidzooígíí]]
+[[oc:Estats Units d'America]]
+[[om:USA]]
+[[or:ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା]]
+[[os:Америкæйы Иугонд Штаттæ]]
+[[pa:ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ]]
+[[pag:United States]]
+[[pam:Estados Unidos]]
+[[pap:Estadonan Uni di Merka]]
+[[pcd:États-Unis Anmérikes]]
+[[pdc:Amerikaa]]
+[[pfl:Verainischde Schdaade vun Ameriga]]
+[[pih:Yunitid Staits]]
+[[pl:Stany Zjednoczone]]
+[[pms:Stat Unì d'América]]
+[[pnb:امریکہ]]
+[[ps:د امریکا متحده ایالات]]
+[[pt:Estados Unidos]]
+[[qu:Hukllachasqa Amirika Suyukuna]]
+[[rm:Stadis Unids]]
+[[rn:Leta z’Unze Ubumwe za Amerika]]
+[[ro:Statele Unite ale Americii]]
+[[roa-rup:Vãsãliili Diadunu ali Americhia]]
+[[roa-tara:Statère Aunìte d'Americhe]]
+[[rue:Споєны Штаты Америцькы]]
+[[rw:Leta Zunze Ubumwe z’Amerika]]
+[[sa:अमेरिका संयुक्त संस्थानः]]
+[[sah:Америка Холбоһуктаах Штааттара]]
+[[sc:Istados Unidos de Amèrica]]
+[[scn:Stati Uniti]]
+[[sco:Unitit States]]
+[[sd:آمريڪا]]
+[[se:Amerihká ovttastuvvan stáhtat]]
+[[sg:ÂKödörö-ôko tî Amerîka]]
+[[sh:Sjedinjene Američke Države]]
+[[si:ඇමරිකානු එක්සත් ජනපදය]]
+[[simple:United States]]
+[[sk:Spojené štáty]]
+[[sl:Združene države Amerike]]
+[[sm:Iunaite Sitete o Amerika]]
+[[sn:United States of America]]
+[[so:Mareykanka]]
+[[sq:Shtetet e Bashkuara të Amerikës]]
+[[sr:Сједињене Америчке Државе]]
+[[srn:Kondre Makandrameki]]
+[[ss:IMelika (live)]]
+[[stq:Fereende Stoaten fon Amerikoa]]
+[[su:Amérika Sarikat]]
+[[sv:USA]]
+[[sw:Marekani]]
+[[szl:Zjednoczůne Sztaty]]
+[[ta:அமெரிக்க ஐக்கிய நாடு]]
+[[te:అమెరికా సంయుక్త రాష్ట్రాలు]]
+[[tet:Estadu Naklibur Sira Amérika Nian]]
+[[tg:Иёлоти Муттаҳидаи Амрико]]
+[[th:สหรัฐอเมริกา]]
+[[tk:Amerikanyň Birleşen Ştatlary]]
+[[tl:Estados Unidos]]
+[[tn:USA]]
+[[to:Puleʻanga fakatahataha ʻAmelika]]
+[[tpi:Ol Yunaitet Stet]]
+[[tr:Amerika Birleşik Devletleri]]
+[[ts:United States]]
+[[tt:Америка Кушма Штатлары]]
+[[tw:USA]]
+[[ty:Fenua Marite]]
+[[udm:Америкалэн Огазеяськем Штатъёсыз]]
+[[ug:ئامېرىكا قوشما شىتاتلىرى]]
+[[uk:Сполучені Штати Америки]]
+[[ur:ریاستہائے متحدہ امریکہ]]
+[[uz:Amerika Qoʻshma Shtatlari]]
+[[vec:Stati Unii de ła Mèrica]]
+[[vep:Amerikan Ühtenzoittud Valdkundad]]
+[[vi:Hoa Kỳ]]
+[[vls:Verênigde Stoaten van Amerika]]
+[[vo:Lamerikän]]
+[[wa:Estats Unis]]
+[[war:Estados Unidos]]
+[[wo:Diiwaan yu Bennoo]]
+[[wuu:美利坚合众国]]
+[[xal:Америкин Ниицәтә Орн Нутгуд]]
+[[xh:IYunayithedi Steyitsi]]
+[[xmf:ამერიკაშ აკოართაფილი შტატეფი]]
+[[yi:פאראייניקטע שטאטן פון אמעריקע]]
+[[yo:Àwọn Ìpínlẹ̀ Aṣọ̀kan Amẹ́ríkà]]
+[[za:Meijgoz]]
+[[zea:Vereênigde Staeten]]
+[[zh:美国]]
+[[zh-classical:美國]]
+[[zh-min-nan:Bí-kok]]
+[[zh-yue:美國]]
+[[zu:IMelika]]
