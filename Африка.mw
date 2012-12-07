@@ -1,6 +1,441 @@
-'''Африка''' - [[континент]], дэлхэйн тибэ болоно. Хоёрдохи нэрэнь - '''Хара континент'''. [[Латин хэлэн|Латин хэлэнһээ]] '''Africa''' "хүрэдэггүй" гэжэ буряад хэлэн дээрэ оршуулажа болохо.
+[[File:Africa (orthographic projection).svg|thumb]]
+'''Африка''' али '''Хара континент''', [[Латин хэлэн|Латин хэлэнһээ]] '''Africa''' - [[континент]], дэлхэйн тибэ болоно. 
+==Нэрэ==
+*Хоёрдохи нэрэнь - ''Хара континент''. 
+*[[Латин хэлэн|Латин хэлэнһээ]] ''Africa'' "хүрэдэггүй" гэжэ буряад хэлэн дээрэ оршуулажа болохо.
 == Уласууд ==
+{|<!-- This table keeps maps to the right, to not overlap the
+ -- region-table, but it might overlap for some browsers.
+ -- DON'T USE "align=right" but use style="float:right" as
+ -- the right-side alignment used by infoboxes.
+--> width=155px style="float:right; margin-right:0.0em;"
+|[[File:Africa-regions.png|thumb|150px|Африкийн бүсчлэл:
+{{legend|#0000FF|[[Умар Африк]]}}
+{{legend|#00FF00|[[Өрнө Африк]]}}
+{{legend|#FF00FF|[[Төв Африк]]}}
+{{legend|#FFC000|[[Дорно Африк]]}}
+{{legend|#FF0000|[[Өмнө Африк]]}}]]
+|-
+|&nbsp;<!--put space to force empty row to appear-->
+|-
+|&nbsp;
+|-
+|[[Файл:topography of africa.png|thumb|150px|]]
+|-
+|[[Файл:Africa satellite orthographic.jpg|thumb|150px|Сансараас авсан зураг.]]
+|-
+|[[Файл:African continent-en.svg|thumb|150px|]]
+|}<!--end thumbnails-->
+<!--begin country info tables-->
+{| border="1" cellpadding="4" cellspacing="0" style="border:1px solid #aaa; border-collapse:collapse"
+|- bgcolor="#ECECEC"
+! Улас ороны нэрэ, [[далбаа]]
+! [[Нутаг дэвсгэр]]<br />(км²)
+! [[Хүн ама]]<br />(2009 оны тооцоо) <small>except where noted</small>
+! [[Хүн аманын нягтшил|Нягтшил]]<br />(км²)
+! [[Ниислэл]]
+|-
+| style="background:#eee;" | '''[[Дорно Африк]]''':
+| align="right" style="background:#eee;" | '''6,384,904'''
+| align="right" style="background:#eee;" | '''316,053,651'''
+| align="right" style="background:#eee;" | '''49.5'''
+|-
+| {{flagicon|Burundi}} [[Бурунди]]
+| align="right" | 27,830
+| align="right" | 8,988,091
+| align="right" | 322.9
+| [[Бужумбура]]
+|-
+| {{flagicon|Comoros}} [[Коморын арлууд]]
+| align="right" | 2,170
+| align="right" | 752,438
+| align="right" | 346.7
+| [[Морони]]
+|-
+| {{flagicon|Djibouti}} [[Жибути]]
+| align="right" | 23,000
+| align="right" | 516,055
+| align="right" | 22.4
+| [[Жибути хот]]
+|-
+| {{flagicon|Eritrea}} [[Эритрей]]
+| align="right" | 121,320
+| align="right" | 5,647,168
+| align="right" | 46.5
+| [[Асмара]]
+|-
+| {{flagicon|Ethiopia}} [[Этиоп]]
+| align="right" | 1,127,127
+| align="right" | 85,237,338
+| align="right" | 75.6
+| [[Аддис-Абеба]]
+|-
+| {{flagicon|Kenya}} [[Кени]]
+| align="right" | 582,650
+| align="right" | 39,002,772<ref name="uscen"/>
+| align="right" | 66.0
+| [[Найроби]]
+|-
+| {{flagicon|Madagascar}} [[Мадагаскар]]
+| align="right" | 587,040
+| align="right" | 20,653,556
+| align="right" | 35.1
+| [[Антананариво]]
+|-
+| {{flagicon|Malawi}} [[Малави]]
+| align="right" | 118,480
+| align="right" | 14,268,711
+| align="right" | 120.4
+| [[Lilongwe]]
+|-
+| {{flagicon|Mauritius}} [[Мауритус]]
+| align="right" | 2,040
+| align="right" | 1,284,264<ref name="uscen"/>
+| align="right" | 629.5
+| [[Port Louis]]
+|-
+| {{flagicon|Mayotte}} [[Mayotte]] (Франц)
+| align="right" | 374
+| align="right" | 223,765
+| align="right" | 489.7
+| [[Mamoudzou]]
+|-
+| {{flagicon|Mozambique}} [[Мозамбик]]
+| align="right" | 801,590
+| align="right" | 21,669,278
+| align="right" | 27.0
+| [[Мапуто]]
+|-
+| {{flagicon|Réunion}} [[Реюньон]] (Франц)
+| align="right" | 2,512
+| align="right" | 743,981(2002)
+| align="right" | 296.2
+| [[Сент-Дени]]
+|-
+| {{flagicon|Rwanda}} [[Руанда]]
+| align="right" | 26,338
+| align="right" | 10,473,282
+| align="right" | 397.6
+| [[Кигали]]
+|-
+| {{flagicon|Seychelles}} [[Сейшелийн арлууд]]
+| align="right" | 455
+| align="right" | 87,476
+| align="right" | 192.2
+| [[Виктори]]
+|-
+| {{flagicon|Somalia}} [[Сомали]]
+| align="right" | 637,657
+| align="right" | 9,832,017
+| align="right" | 15.4
+| [[Могадишу]]
+|-
+| {{flagicon|Tanzania}} [[Танзани]]
+| align="right" | 945,087
+| align="right" | 41,048,532
+| align="right" | 43.3
+| [[Додома]]
+|-
+| {{flagicon|Uganda}} [[Уганда]]
+| align="right" | 236,040
+| align="right" | 32,369,558
+| align="right" | 137.1
+| [[Кампала]]
+|-
+| {{flagicon|Zambia}} [[Замби]]
+| align="right" | 752,614
+| align="right" | 11,862,740
+| align="right" | 15.7
+| [[Лусака]]
+|-
+| {{flagicon|Zimbabwe}} [[Зимбабве]]
+| align="right" | 390,580
+| align="right" | 11,392,629<ref name="uscen"/>
+| align="right" | 29.1
+| [[Хараре]]
+|-
+| style="background:#eee;" | '''[[Төв Африк]]''':
+| align="right" style="background:#eee;" | '''6,613,253'''
+| align="right" style="background:#eee;" | '''121,585,754'''
+| align="right" style="background:#eee;" | '''18.4'''
+|-
+| {{flagicon|Angola}} [[Ангол]]
+| align="right" | 1,246,700
+| align="right" | 12,799,293
+| align="right" | 10.3
+| [[Луанда]]
+|-
+| {{flagicon|Cameroon}} [[Камерун]]
+| align="right" | 475,440
+| align="right" | 18,879,301
+| align="right" | 39.7
+| [[Yaoundé]]
+|-
+| {{flagicon|Central African Republic}} [[Төв Африкийн Бүгд Найрамдах Улс]]
+| align="right" | 622,984
+| align="right" | 4,511,488
+| align="right" | 7.2
+| [[Бангүй]]
+|-
+| {{flagicon|Chad}} [[Чад]]
+| align="right" | 1,284,000
+| align="right" | 10,329,208
+| align="right" | 8.0
+| [[N'Djamena]]
+|-
+| {{flagicon|Republic of the Congo}} [[Бүгд Найрамдах Конго Улс|Конго]]
+| align="right" | 342,000
+| align="right" | 4,012,809
+| align="right" | 11.7
+| [[Браззавилл]]
+|-http://en.wikipedia.org/w/index.php?title=Africa&action=submit
+| {{flagicon|Democratic Republic of the Congo}} [[Бүгд Найрамдах Конго Ард Улс]]
+| align="right" | 2,345,410
+| align="right" | 68,692,542
+| align="right" | 29.2
+| [[Киншаса]]
+|-
+| {{flagicon|Equatorial Guinea}} [[Экваторын Гвиней]]
+| align="right" | 28,051
+| align="right" | 633,441
+| align="right" | 22.6
+| [[Малабо]]
+|-
+| {{flagicon|Gabon}} [[Габон]]
+| align="right" | 267,667
+| align="right" | 1,514,993
+| align="right" | 5.6
+| [[Либревилл]]
+|-
+| {{flagicon|São Tomé and Príncipe}} [[Сан Томе ба Принсип]]
+| align="right" | 1,001
+| align="right" | 212,679
+| align="right" | 212.4
+| [[Сан Томе]]
+|-
+| style="background:#eee;" | '''[[Умар Африк]]''':
+| align="right" style="background:#eee;" | '''8,533,021'''
+| align="right" style="background:#eee;" | '''211,087,622'''
+| align="right" style="background:#eee;" | '''24.7'''
+|-
+| {{flagicon|Algeria}} [[Алжир]]
+| align="right" | 2,381,740
+| align="right" | 34,178,188
+| align="right" | 14.3
+| [[Алжир (хот)|Алжир]]
+|-
+| {{flagicon|Egypt}} [[Египет]]
+| align="right" | 1,001,450
+| align="right" | 83,082,869
+| align="right" | 82.9
+| [[Кайро]]
+|-
+| {{flagicon|Libya}} [[Ливи]]
+| align="right" | 1,759,540
+| align="right" | 6,310,434
+| align="right" | 3.6
+| [[Триполи]]
+|-
+| {{flagicon|Morocco}} [[Марокко]]
+| align="right" | 446,550
+| align="right" | 34,859,364
+| align="right" | 78.0
+| [[Рабат]]
+|-
+| {{flagicon|Sudan}} [[Судан]]
+| align="right" | 2,505,810
+| align="right" | 41,087,825
+| align="right" | 16.4
+| [[Хартум]]
+|-
+| {{flagicon|Tunisia}} [[Тунис]]
+| align="right" | 163,610
+| align="right" | 10,486,339
+| align="right" | 64.1
+| [[Тунис (хот)|Тунис]]
+|-
+| {{flagicon|Western Sahara}} [[Баруун Сахар]]<ref name="Баруун Сахар">НҮБ-ийн 46 гишүүн хүлээн зөвшөөрдөг боловч НҮБ-д элсүүлэгдэж байгаагүй, өмнөд хэсэг нь де факто Мароккогийн захиргаан доор байдаг 1 улс: Баруун Сахарын [[Сахравигийн Ардчилсан Араб Бүгд Найрамдах Улс]]</small><br /></ref>
+| align="right" | 266,000
+| align="right" | 405,210
+| align="right" | 1.5
+| [[El Aaiún]]
+|-
+| colspan=5 | ''Хойд Африк дахь Испани болон Португалын нутаг дэвсгэр'':
+|-
+| {{flagicon|Canary Islands}} [[Канарын арлууд]] (Испани)<ref>The Spanish [[Canary Islands]], of which [[Las Palmas de Gran Canaria]] are [[Santa Cruz de Tenerife]] are co-capitals, are often considered part of Northern Africa due to their relative proximity to [[Morocco]] and [[Western Sahara]]; population and area figures are for 2001.<br /></ref>
+| align="right" | 7,492
+| align="right" | 1,694,477(2001)
+| align="right" | 226.2
+| [[Las Palmas de Gran Canaria]],<br />[[Santa Cruz de Tenerife]]
+|-
+| {{flagicon|Ceuta}} [[Ceuta]] (Испани)<ref>The Spanish [[exclave]] of [[Ceuta]] is surrounded on land by Morocco in Northern Africa; population and area figures are for 2001.<br /></ref>
+| align="right" | 20
+| align="right" | 71,505(2001)
+| align="right" | 3,575.2
+| —
+|-
+| {{flagicon|Madeira}} [[Madeira Islands]] (Португал)<ref>The Portuguese [[Madeira Islands]] are often considered part of Northern Africa due to their relative proximity to Morocco; population and area figures are for 2001.<br /></ref>
+| align="right" | 797
+| align="right" | 245,000(2001)
+| align="right" | 307.4
+| [[Funchal]]
+|-
+| {{flagicon|Melilla}} [[Мелилла]] (Испани)<ref>The Spanish [[exclave]] of [[Melilla]] is surrounded on land by Morocco in Northern Africa; population and area figures are for 2001.<br /></ref>
+| align="right" | 12
+| align="right" | 66,411(2001)
+| align="right" | 5,534.2
+| —
+|-
+| style="background:#eee;" | '''[[Өмнө Африк]]''':
+| align="right" style="background:#eee;" | '''2,693,418'''
+| align="right" style="background:#eee;" | '''56,406,762 '''
+| align="right" style="background:#eee;" | '''20.9'''
+|-
+| {{flagicon|Botswana}} [[Ботсвана]]
+| align="right" | 600,370
+| align="right" | 1,990,876
+| align="right" | 3.3
+| [[Габороне]]
+|-
+| {{flagicon|Lesotho}} [[Лесотын Вант Улс]]
+| align="right" | 30,355
+| align="right" | 2,130,819
+| align="right" | 70.2
+| [[Масеру]]
+|-
+| {{flagicon|Namibia}} [[Намиби]]
+| align="right" | 825,418
+| align="right" | 2,108,665
+| align="right" | 2.6
+| [[Виндхук]]
+|-
+| {{flagicon|South Africa}} [[Өмнөд Африкийн Бүгд Найрамдах Улс]]
+| align="right" | 1,219,912
+| align="right" | 49,052,489
+| align="right" | 40.2
+| [[Блумфонтейн]], [[Кейптаун]], [[Преториа]]<ref>[[Блумфонтейн]] шүүх , [[Кейптаун]] хууль тогтоох, [[Преториа]] гүйцэтгэх.<br /></ref>
+|-
+| {{flagicon|Swaziland}} [[Свазиланд]]
+| align="right" | 17,363
+| align="right" | 1,123,913
+| align="right" | 64.7
+| [[Мбабане]]
+|-
+| style="background:#eee;" | '''[[Өрнө Африк]]''':
+| align="right" style="background:#eee;" | '''6,144,013'''
+| align="right" style="background:#eee;" | '''296,186,492 '''
+| align="right" style="background:#eee;" | '''48.2'''
+|-
+| {{flagicon|Benin}} [[Бенин]]
+| align="right" | 112,620
+| align="right" | 8,791,832
+| align="right" | 78.0
+| [[Порто-Ново]]
+|-
+| {{flagicon|Burkina Faso}} [[Буркина-Фасо]]
+| align="right" | 274,200
+| align="right" | 15,746,232
+| align="right" | 57.4
+| [[Ouagadougou]]
+|-
+| {{flagicon|Cape Verde}} [[Кейп Верде]]
+| align="right" | 4,033
+| align="right" | 429,474
+| align="right" | 107.3
+| [[Прайа]]
+|-
+| {{flagicon|Côte d'Ivoire}} [[Кот д'Ивуар]]
+| align="right" | 322,460
+| align="right" | 20,617,068
+| align="right" | 63.9
+|style="font-size:89%"| [[Абиджан]],<ref>[[Ямусукро]] нь албан ёсны нийслэл боловч,  [[Абиджан]] нь ''де факто'' .</ref> [[Ямусукро]]
+|-
+| {{flagicon|Gambia}} [[Гамби]]
+| align="right" | 11,300
+| align="right" | 1,782,893
+| align="right" | 157.7
+| [[Банжул]]
+|-
+| {{flagicon|Ghana}} [[Гана]]
+| align="right" | 239,460
+| align="right" | 23,832,495
+| align="right" | 99.5
+| [[Аккра]]
+|-
+| {{flagicon|Guinea}} [[Гвиней]]
+| align="right" | 245,857
+| align="right" | 10,057,975
+| align="right" | 40.9
+| [[Конакри]]
+|-
+| {{flagicon|Guinea-Bissau}} [[Гвиней-Бисау]]
+| align="right" | 36,120
+| align="right" | 1,533,964
+| align="right" | 42.5
+| [[Бисау]]
+|-
+| {{flagicon|Liberia}} [[Либери]]
+| align="right" | 111,370
+| align="right" | 3,441,790
+| align="right" | 30.9
+| [[Монровиа]]
+|-
+| {{flagicon|Mali}} [[Мали]]
+| align="right" | 1,240,000
+| align="right" | 12,666,987
+| align="right" | 10.2
+| [[Бамако]]
+|-
+| {{flagicon|Mauritania}} [[Мавритан]]
+| align="right" | 1,030,700
+| align="right" | 3,129,486
+| align="right" | 3.0
+| [[Нуакшот]]
+|-
+| {{flagicon|Niger}} [[Нигер]]
+| align="right" | 1,267,000
+| align="right" | 15,306,252
+| align="right" | 12.1
+| [[Ниамей]]
+|-
+| {{flagicon|Nigeria}} [[Нигери]]
+| align="right" | 923,768
+| align="right" | 149,229,090
+| align="right" | 161.5
+| [[Абужа]]
+|-
+| {{flagicon|Saint Helena, Ascension and Tristan da Cunha}} [[Сент Хелена]], [[Тристан да Кунья]] (Нэгдсэн Вант Улс)
+| align="right" | 410
+| align="right" | 7,637
+| align="right" | 14.4
+| [[Жэймстаун]]
+|-
+| {{flagicon|Senegal}} [[Сенегал]]
+| align="right" | 196,190
+| align="right" | 13,711,597
+| align="right" | 69.9
+| [[Дакар]]
+|-
+| {{flagicon|Sierra Leone}} [[Сьерра-Леоне]]
+| align="right" | 71,740
+| align="right" | 6,440,053
+| align="right" | 89.9
+| [[Фритаун]]
+|-
+| {{flagicon|Togo}} [[Того]]
+| align="right" | 56,785
+| align="right" | 6,019,877
+| align="right" | 106.0
+| [[Ломе]]
+|- style=" font-weight:bold; "
+| Африк Нийт
+| align="right" style="background:#eee;"| 30,368,609
+| align="right" style="background:#eee;"| 1,001,320,281
+| align="right" style="background:#eee;"| 33.0
+|}
+
 {{Африк}}
+{{stub}}
 
 [[Category:Африк]]
 
