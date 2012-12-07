@@ -204,7 +204,7 @@ __TOC__
 |align="center" |мать
 |-
 |align="center" |эр, эрэгтэй, залуу
-|align="center" |эрэ, эрэгтэй
+|align="center" |эрэ хүн, эрэгтэй, үбгэн
 |align="center" |залу, эр
 |align="center" |мужчина
 |-
@@ -229,17 +229,17 @@ __TOC__
 |align="center" |ребёнок
 |-
 |align="center" |хүү, хөвүүн
-|align="center" |үхибүүн
+|align="center" |хүбүүн
 |align="center" |көвүн
 |align="center" |мальчик
 |-
 |align="center" |охин
-|align="center" |
+|align="center" |басаган, үхин
 |align="center" |күүкн
 |align="center" |девочка
 |-
 |align="center" |найз, нөхөр, анд
-|align="center" |
+|align="center" |нүхэр
 |align="center" |иньг, үр
 |align="center" |друг
 |-
@@ -276,7 +276,7 @@ __TOC__
 |align="center" |ночь
 |-
 |align="center" |өглөө
-|align="center" |
+|align="center" |үглөө
 |align="center" |өрүн
 |align="center" |утро
 |-
@@ -286,22 +286,22 @@ __TOC__
 |align="center" |день
 |-
 |align="center" |маргааш
-|align="center" |
+|align="center" |үглөөдэр
 |align="center" |манһдур
 |align="center" |завтра
 |-
 |align="center" |өчигдөр
-|align="center" |
+|align="center" |үсгэлдэр
 |align="center" |өцклдур
 |align="center" |вчера
 |-
 |align="center" |долоо хоног
-|align="center" |
+|align="center" |долоон хоног, гараг
 |align="center" |долан хонг
 |align="center" |неделя
 |-
 |align="center" |жил, он
-|align="center" |жэл
+|align="center" |жэл, он
 |align="center" |җил, өөн, ө, он
 |align="center" |год
 |-
@@ -357,7 +357,7 @@ __TOC__
 |align="center" |песок
 |-
 |align="center" |газар, шороо
-|align="center" |газар
+|align="center" |газар, шорой
 |align="center" |һазр, шора
 |align="center" |земля, почва
 |-
@@ -367,7 +367,7 @@ __TOC__
 |align="center" |облако
 |-
 |align="center" |тэнгэр, огторгуй
-|align="center" |тэнгэри
+|align="center" |тэнгэри, огторгой
 |align="center" |теңгр, оһтрһу
 |align="center" |небо
 |-
@@ -398,7 +398,7 @@ __TOC__
 |-
 |align="center" rowspan=6|Амьтан
 |c=mng| мал, амьтан, адгуус
-|c=bua| амитан
+|c=bua| мал, амитан
 |c=xal| мал, адусн, аһурсн, әмтн
 |c=ru| животное
 |-
@@ -454,7 +454,7 @@ __TOC__
 |c=ru| семя
 |-
 |c=mng| навч
-|c=bua| набша
+|c=bua| набшаһан
 |c=xal| хамтхасн, намч, навч, бүчр, бәәр
 |c=ru| лист
 |-
@@ -469,13 +469,13 @@ __TOC__
 |c=ru| цветок
 |-
 |c=mng| өвс, ногоо, ширэг
-|c=bua| ногоон
+|c=bua| ногоон, үбһэн
 |c=xal| ноһан, өвсн, нөөлүр, ширг
 |c=ru| трава
 |-
 |align="center" rowspan=8|Мал аж ахуй
 |c=mng| оосор, дээс, аргамжаа, бүч, уяа
-|c=bua| аргамжа
+|c=bua| аргамжа, ооһор, уялта
 |c=xal| деесн, ооср, бүч, арһмҗ,<br> зел, уя
 |c=ru| верёвка
 |-
@@ -521,7 +521,7 @@ __TOC__
 |c=ru| волос
 |-
 |c=mng| толгой, тархи
-|c=bua| толгой
+|c=bua| толгой, тархи
 |c=xal| толһа, тарха
 |c=ru| голова
 |-
@@ -618,12 +618,12 @@ __TOC__
 |c=ru| тяжёлый
 |-
 |c=mng| бүх, бүгд, даяар, хамаг
-|c=bua| бүхы, бүгэдэ 
+|c=bua| бүхы, бүгэдэ, хамаг
 |c=xal| цуһар, бүгд, хамг, хугтан, ху, даян, бүтн
 |c=ru| всё
 |- 
 |c=mng| том, их, нүсэр
-|c=bua| томо
+|c=bua| томо, ехэ
 |c=xal| том, ик, нүср
 |c=ru| большой
 |-
@@ -633,17 +633,17 @@ __TOC__
 |c=ru| много
 |-
 |c=mng| цөөхөн, цөөн, хэдэн, хэдхэн
-|c=bua| хэдэн
+|c=bua| хэдэн, элдэб
 |c=xal| цөөкн, цөн, невчкн]
 |c=ru| несколько
 |-
 |c=mng| бага
-|c=bua| бага
+|c=bua| бага, жаа, үсөөн
 |c=xal| баһ, бичкн, невчкн, баахнар
 |c=ru| мало
 |-
 |c=mng| бяцхан, жижиг, өчүүхэн
-|c=bua| бишыхан, божо, жэжэ
+|c=bua| бишыхан, божо, жэжэ, бага, жаахан
 |c=xal| бичкн, җиҗг, җаахн, баһцр, маштг, үчүкн
 |c=ru| маленький
 |-
@@ -663,12 +663,12 @@ __TOC__
 |c=ru| новый
 |-
 |c=mng| хөгшин, хуучин, настай, ахмад
-|c=bua| хуушан
+|c=bua| хүгшэн, наһатай, ахамад, хуушан
 |c=xal| көгшн, наста, хуучн
 |c=ru| старый
 |-
 |c=mng| сайн
-|c=bua| һайн
+|c=bua| һайн, һайхан
 |c=xal| сән, сәәтә, һәәвһә
 |c=ru| хороший
 |-
@@ -678,17 +678,17 @@ __TOC__
 |c=ru| плохой
 |-
 |c=mng| шулуун, цэх, шууд
-|c=bua| сэхэ
+|c=bua| сэхэ, тэгшэ
 |c=xal| һо, чик, шуд, шудрһ
 |c=ru| прямой
 |-
 |c=mng| бөөрөнхий, дугуй
-|c=bua| түхэреэн
+|c=bua| түхэреэн, монсогор
 |c=xal| төгрг, моһлцг, [[дуһу
 |c=ru| круглый
 |-
 |c=mng| хурц, шовх
-|c=bua| хурса
+|c=bua| хурса, үзүүртэй
 |c=xal| хурц, үзүртә, иртә
 |c=ru| острый
 |-
@@ -698,7 +698,7 @@ __TOC__
 |c=ru| тупой
 |-
 |c=mng| ангасан, цангасан, хатсан, хуурай
-|c=bua| хуурай
+|c=bua| хуурай, хатаһан
 |c=xal| хагсу, хатсн, хүүрә, өгрхә
 |c=ru| сухой
 |-
@@ -709,7 +709,7 @@ __TOC__
 |-
 |align="center" rowspan=5|Асуулт
 |align="center" |хэн, хэн бэ
-|align="center" |хэн
+|align="center" |хэн, хэн бэ
 |align="center" |кен, кемб, кемби
 |align="center" |кто
 |-
@@ -719,23 +719,23 @@ __TOC__
 |align="center" |когда
 |-
 |align="center" |юу, юу юм бэ
-|align="center" |юун, юу
+|align="center" |юун, юу, юм бэ
 |align="center" |юн, юмб, юмби
 |align="center" |что
 |-
 |align="center" |хаана, аль, хаа
-|align="center" |хаана
+|align="center" |хаана, алим
 |align="center" | хама, альд, әлд, ха
 |align="center" |где
 |-
 |align="center" |хэр, яаж
-|align="center" |хэр
+|align="center" |хэр, ямар, ягаад
 |align="center" |яһҗ, яһад
 |align="center" |как
 |-
 |align="center" rowspan=39|Үйл үг
 |c=mng| уух, ундаалах
-|c=bua| ууха
+|c=bua| ууха, ундалха
 |c=xal| уух, ундлх, эдлх
 |c=ru| пить
 |-
