@@ -1,6 +1,77 @@
-'''Ливан''' - Аазийн орн.
-{{Аази}}
+{{Орн Зура
+|native_name              = {{lang|ar|اَلْجُمْهُورِيَّةاَللُّبْنَانِيَّة}} {{Ar icon}}<br />{{transl|ar|ISO|''al-Jumhūrīyah al-Lubnānīyah''}}<br />{{lang|fr|République libanaise}} {{fr icon}}
+|conventional_long_name   = Republic of Lebanon
+|common_name              = Lebanon
+|image_flag               = Flag of Lebanon.svg
+|image_coat = Coat of Arms of Lebanon.svg
+|image_map = LocationLebanon.svg
+|map_caption              = Location of '''Lebanon'''
+|national_anthem = ''[[Lebanese National Anthem]]''
+|official_languages       = [[Arabic language|Arabic]], [[French language|French]]&nbsp;<small>(conditional)</small>{{ref|infobox_fn_1|1}}
+|languages_type           = [[Spoken language]]s
+|languages                = [[Arabic language|Arabic]]&nbsp;<small>([[Lebanese Arabic|Lebanese&nbsp;dialect]])</small>, [[French language|French]], [[English language|English]], [[Armenian language|Armenian]]
+|ethnic_groups            = 95% [[Arab]]{{ref|infobox_fn_2|2}}, 4% [[Armenians|Armenian]], 1% other<ref name="cia">{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/le.html |publisher=Central Intelligence Agency |work=The World Factbook |accessdate=2009-07-22 |date=2007-06-19 |title=Lebanon}}</ref>
+|demonym                  = Lebanese
+|capital                  = [[Beirut]]
+|latd=33 |latm=54 |latNS=N |longd=35 |longm=32 |longEW=E
+|largest_city             = capital
+|government_type = [[Confessionalism (politics)|Confessionalist]], [[parliamentary republic]]<ref name="constitution">{{cite web |title=La Constitution Libanaise |url=http://web.archive.org/web/20080329044001/http://www.conseil-constitutionnel.gov.lb/fr/constitution.htm |language=French |publisher=Le Conseil Constitutionnel de la République Libanaise |accessdate=22 July 2009}}</ref>
+|leader_title1            = [[President of Lebanon|President]]
+|leader_name1             = [[Michel Suleiman]]
+|leader_title2            = [[Prime Minister of Lebanon|Prime Minister]]
+|leader_name2             = [[Saad Hariri]]
+|leader_title3            = [[List of Speakers of the Parliament of Lebanon|Speaker of Parliament]]
+|leader_name3             = [[Nabih Berri]]
+|area_km2                 = 10,452
+|area_sq_mi = 4,035 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank = 166th
+|area_magnitude = 1 E10
+|percent_water = 1.6
+|population_estimate      = 4 224 000<ref>{{cite paper | url=http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf | title=World Population Prospects, Table A.1| version=2008 revision  | format=.PDF | publisher=United Nations | author=United Nations Department of Economic and Social Affairs Population Division | authorlink=United Nations Department of Economic and Social Affairs | year=2009 | accessdate= 2009-07-18}}</ref>
+|population_estimate_year = 2009
+|population_estimate_rank = 124th
+|population_density_km2 = 404
+|population_density_sq_mi = 1046 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 25th
+|GDP_PPP_year = 2010
+|GDP_PPP = $58.576 billion<ref name=imf2>{{cite web| url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=446&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=43&pr.y=14| title=Lebanon| publisher=International Monetary Fund| accessdate=2010-04-21}}</ref>
+|GDP_PPP_per_capita = $14,988<ref name=imf2/>
+|GDP_PPP_rank = 
+|GDP_PPP_per_capita_rank = 54th
+|GDP_nominal = $37.040 billion<ref name=imf2/>
+|GDP_nominal_year = 2010
+|GDP_nominal_per_capita = $9,479<ref name=imf2/>
+|GDP_nominal_per_capita_rank = 
+|HDI_year           = 2009
+|HDI                = {{increase}} 0.803<ref>[http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf Human Development Report 2009]. The United Nations. Retrieved 5 October 2009</ref>
+|HDI_rank           = 83rd
+|HDI_category                = <font color="#009900">high</font>
+|sovereignty_type = [[Independence]]
+|sovereignty_note = from [[France]]
+|established_event1 = Declared
+|established_date1 = 26 November 1941
+|established_event2 = Recognized
+|established_date2 = 22 November 1943
+|currency = [[Lebanese pound]]
+|currency_code = LBP
+|time_zone = [[Eastern European Time|EET]]
+|utc_offset = +2
+|time_zone_DST = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST = +3
+|drives_on = right
+|cctld = [[.lb]]
+|calling_code = [[Telephone numbers in Lebanon|961]]<ref>{{cite news|url=http://www.alertnet.org/db/cp/lebanon.htm|title=Lebanon|work=Alertnet|publisher=Thomson Reuters Foundation|accessdate=2009-10-27}}</ref>
+|footnote1                = {{note|infobox_fn_1}}Article 11 of the [[Constitution of Lebanon]] states that "Arabic is the official national language. A law shall determine the cases in which the French language is to be used."<ref name="constitution" />
+|footnote2                = {{note|infobox_fn_2}}The Lebanese are ethnically a mixture of Phoenician, Greek, Armenian, and Arab elements. <ref name="Britannica">{{cite encyclopedia |year=2009 |title=Lebanon |encyclopedia=Encyclopædia Britannica |url= http://www.britannica.com/EBchecked/topic/334152/Lebanon}}</ref> Many  Lebanese do not identify as Arab, and prefer to be called Phoenician.<ref name="cia" />
+}}
 
+'''Ливан''' - Аазийн орон болон улас.
+
+== Зүүлтэ ==
+{{зүүлтэ}}
+
+{{Аази}}
+{{stub}}
 [[Category:Аази]]
 
 [[ace:Lebanon]]
