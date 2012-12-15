@@ -1,6 +1,74 @@
-'''Мальдив''' - Аазийн орн.
-{{Аази}}
+{{Орн Зура
+|native_name              = ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ<br /> <br />(''Divehi Rājjey ge Jumhuriyyā'')
+|conventional_long_name   = Republic of Maldives
+|common_name              = Maldives
+|image_flag               = Flag of Maldives.svg
+|image_coat               = Coat of Arms of Maldives.svg
+|image_map                = Maldives_(orthographic_projection).svg
+|map_caption              =
+|image_hdsbsbdbhbsh
+map2               =
+|map_abdhbcaption2             =
+|national_anthem          = ''[[Gaumii salaam|Qaumii salaam]]''<small><br />"National Salute"</small>
+|official_languages       = [[Dhivehi (Mahl) language|Dhivehi (Mahl)]]
+|demonym                  = Maldivian
+|ethnic_groups            = ≈98% [[Mahls]] (Divehin)<br />≈2% Others (Foreign labourers)
+|ethnic_groups_year       = 2001
+|capital                  = [[Malé]] 
+|government_type          = [[Presidential republic]]
+|leader_title1            = [[President of the Maldives|President]]
+|leader_name1             = [[Mohamed Nasheed]]
+|leader_title2            = [[Vice President of Maldives]]
+|leader_name2             = [[Mohammed Waheed Hassan]]
+|leader_title3            = [[Majlis of the Maldives#The Speaker|Speaker of the Majlis]]
+|leader_name3             = [[Abdulla Shahid]]
+|leader_title4            = [[Supreme Court|Chief Justice]]
+|leader_name4             = [[Abdulla Saeed]]
+|area_rank                = 206th
+|area_magnitude           = 1 E6
+|area_km2                 = 298
+|area_sq_mi               = 115 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water            = negligible
+|population_estimate      = 396,334<ref name=cia>{{cite paper | url=https://www.cia.gov/library/publications/the-world-factbook/geos/mv.html | title=CIA World Fact Book| version=2009 revision  | format=.html | publisher=US | author=CIA Population Division | year=2009 | accessdate= 2009-12-25}}</ref>
+|population_estimate_rank = 176th<sup>1</sup>
+|population_estimate_year = 2009
+|population_census        = 298,842<ref>http://www.planning.gov.mv/publications/PRELIMINARY_RESULTS_FINAL_25032006.zip</ref>
+|population_census_year   = 2006
+|population_density_km2   = 1,036.9
+|population_density_sq_mi = 2,866.9 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank  = 11th
+|GDP_PPP                  = $1.688 billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=556&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=53&pr.y=18 |title=Maldives|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
+|GDP_PPP_rank             =
+|GDP_PPP_year             = 2009
+|GDP_PPP_per_capita       = $4,894<ref name=imf2/> <!--Do not edit!-->
+|GDP_PPP_per_capita_rank  =
+|GDP_nominal              = $1.357 billion<ref name=imf2/>
+|GDP_nominal_year         = 2009
+|GDP_nominal_per_capita   = $3,932<ref name=imf2/>
+|sovereignty_type         = Independent
+|established_event1       = from [[United Kingdom]]
+|established_date1        = 26 July 1965
+|HDI                      = {{increase}}0.771<ref name="UN">{{cite web|url=http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf|title=Human Development Report 2009. Human development index trends: Table G|publisher=The United Nations|accessdate=2009-10-05}}</ref>
+|HDI_rank                 = 95th
+|HDI_year                 = 2007 <!-- Please use the year in which the HDI data refers to and not the publication year --> 
+|HDI_category             = <font color="#ffcc00">medium</font>
+|currency                 = [[Maldivian Rufiyaa]]
+|currency_code            = MVR
+|country_code             =
+|time_zone                =
+|utc_offset               = +5
+|time_zone_DST            =
+|utc_offset_DST           =
+|drives_on                = left
+|cctld                    = [[.mv]]
+|calling_code             = 960
+}}
+'''Мальдив''' - Аазийн орон болон улас.
 
+== Зүүлтэ ==
+{{зүүлтэ}}
+{{Аази}}
+{{stub}}
 [[Category:Аази]]
 
 [[ace:Maladewa]]
