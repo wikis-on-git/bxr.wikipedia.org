@@ -1,6 +1,98 @@
-'''Малайзи''' - Аазийн орн.
-{{Аази}}
+{{Орн Зура
+|conventional_long_name =  <center>Malaysia<center><center>{{lang|ms|Malaysia}} {{ms icon}}</center><center>{{lang|zh-cn|马来西亚}} {{zh icon}}</center><center>{{lang|ta|மலேசியா}} {{ta icon}}</center>
+|image_flag               = Flag of Malaysia.svg
+|image_coat               = Coat of arms of Malaysia.svg
+|image_skyline            = Malaysiamontage.JPG|imagesize = 275px
+|symbol_type              = Coat of Arms
+|image_map                = Location_Malaysia_ASEAN.svg
+|national_motto           = ''"Bersekutu Bertambah Mutu"''<small><br />"Unity Is Strength" <s></s> <ref>[http://www.malaysia.gov.my/EN/Main/MsianGov/MsianFlagAndCrest/Pages/MsianFlagAndCrest.aspx Malaysian Flag and Crest] from www.malaysia.gov.my.</ref>
+|national_anthem          = ''[[Negaraku]]'' (My Country)
+|capital                  = [[Kuala Lumpur]]{{Ref label|capital|a|}}<br />[[Putrajaya]] (administrative centre)
+|latd=3 |latm=08 |latNS=N |longd=101 |longm=42 |longEW=E
+|largest_city             = [[Kuala Lumpur]]
+|official_languages       = [[Malay language|Malay]]{{Ref label|language|b|}}, [[English language|English]]
+|languages_type2          = [[Official script]]
+|languages_2              = [[Malay alphabet]]
+|official_religion        = [[Islam]]
+|demonym                  = Malaysian
+|ethnic_groups            = 54% [[Malaysian Malay|Malay]]<br />25% [[Malaysian Chinese|Chinese]]<br />7.5% [[Malaysian Indian|Indian]]<br />11.8% [[Bumiputera (Malaysia)|other Bumiputera]]<br />1.7% other
+|government_type          = [[Federation|Federal]] [[Constitutional monarchy|constitutional]] [[elective monarchy]] and [[Parliamentary democracy]]
+|leader_title1            = [[Yang di-Pertuan Agong]]
+|leader_name1             = [[Mizan Zainal Abidin of Terengganu|Mizan Zainal Abidin]]
+|leader_title2            = [[Prime Minister of Malaysia|Prime Minister]]
+|leader_name2             = [[Najib Tun Razak]]
+|leader_title3            = [[Deputy Prime Minister of Malaysia|Deputy Prime Minister]]
+|leader_name3             = [[Muhyiddin Yassin]]
+|sovereignty_type         = [[Independence]]
+|established_event1       = From the United Kingdom ([[Federation of Malaya|Malaya]] only)
+|established_date1        = 31 August 1957
+|established_event2       = Federation (with [[Sabah]], [[Sarawak]] and [[Singapore]]{{Ref label|Singapore|c|}}
+|established_date2        = 16 September 1963
+|area_rank                = 66th
+|area_magnitude           = 1_E+11
+|area_km2                 = 329,845
+|area_sq_mi               = 127,354 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water            = 0.3
+|population_estimate      = 28,310,000<ref name="statistics.gov.my">{{cite web
+|url=http://www.statistics.gov.my/eng/index.php?option=com_content&view=article&id=50:population&catid=38:kaystats&Itemid=11
+|title= Population (Updated 5 September 2008)
+|publisher=Department of Statistics Malaysia-the new King is BBB
+|date=5 September 2008
+|accessdate=20 September 2008
+}}</ref>
+|population_estimate_year = 2009
+|population_estimate_rank = 43rd
+|population_census_year   = 2000
+|population_census        = 24,821,286
+|population_density_km2   = 85.8
+|population_density_sq_mi = 222.3 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank  = 114th
+|GDP_PPP_year             = 2009
+|GDP_PPP                  = $382.257 billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=548&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=53&pr.y=13 |title=Malaysia|publisher=International Monetary Fund|accessdate=21 April 2010}}</ref>
+|GDP_PPP_rank             = 
+|GDP_PPP_per_capita       = $13,769<ref name="imf2"/>
+|GDP_PPP_per_capita_rank  = 
+|GDP_nominal_year         = 2009
+|GDP_nominal              = $191.463 billion<ref name="imf2"/>
+|GDP_nominal_rank         = 
+|GDP_nominal_per_capita   = $6,896<ref name="imf2"/>
+|GDP_nominal_per_capita_rank = 
+|Gini                     = 40.3
+|Gini_rank                =
+|Gini_year                = 2004
+|HDI_year                 = 2007
+|HDI                      = {{increase}} 0.829<ref name="UN">{{cite web|url=http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf|title=Human Development Report 2009. Human development index trends: Table G|publisher=The United Nations|accessdate=5 October 2009}}</ref>
+|HDI_rank                 = 66th
+|HDI_category             = {{fontcolour|green|high}}
+|currency                 = [[Malaysian ringgit|Ringgit]] (RM)
+|currency_code            = MYR
+|date_format              = dd-mm-yyyy
+|time_zone                = [[Malaysian Standard Time|MST]]
+|utc_offset               = +8
+|time_zone_DST            = not observed
+|utc_offset_DST           = +8
+|drives_on                = Left
+|cctld                    = [[.my]]
+|calling_code             = [[+60]]
+|ISO_3166-1_alpha2        = MY
+|ISO_3166-1_alpha3        = MYS
+|ISO_3166-1_numeric       = 458
+|sport_code               = [[IOC]]/[[FIFA]]: MAS<br />[[ISO]]: MYS
+|vehicle_code             = MAL
+|footnotes                = 
+{{note|capital}} a. [[Kuala Lumpur]] is the capital city of Malaysia and is home to the legislative branch of the Federal government. [[Putrajaya]] is the primary seat of the federal government where the executive and judicial branches are located.
 
+{{note|language}}b. The current terminology as per government policy is ''Bahasa Malaysia'' (literally Malaysian language)<ref>[http://thestar.com.my/news/story.asp?file=/2007/6/4/nation/17923478&sec=nation "Back to Bahasa Malaysia"], ''The Star'', Kuala Lumpur, 4 June 2007.</ref> but legislation continues to refer to the official language as ''Bahasa Melayu'' (literally Malay language). English may continue to be used for some official purposes under the National Language Act 1967.
+
+{{note|Singapore}}c. Singapore became an independent country on 9 August 1965.
+}}
+'''Малайзи''' - Аазийн орон болон улас.
+
+== Зүүлтэ ==
+{{зүүлтэ}}
+
+{{Аази}}
+{{stub}}
 [[Category:Аази]]
 
 [[ace:Malaysia]]
