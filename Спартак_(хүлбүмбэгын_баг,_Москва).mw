@@ -1,9 +1,9 @@
 {{Карточка ФК
  |нэрэ            = {{Ородой Холбооной Улсай түрын туг}} Спартак (хүл бүмбэгын клуб, Мушхаваа)
  |ябагша  сезон   = 2012/2013
- |логотип         = [[File:Спартак Мушхаваа.svg.png]]
+ |логотип         = 
  |бүхэли нэрэ     = ОАО «Футбольный клуб «Спартак-Москва»
- |прозвища        = ''мясо''
+ |прозвища        = ''красно-белые'', ''мясо''
  |основан         = 27 апрель 1922 (91 жэл)
  |расформирован   = 
  |стадион         = БСА Лужники
@@ -18,24 +18,28 @@
  |бюджет          = 94 млн $
  |мүрысөөн        = {{Ородой Холбооной Улсай түрын туг}} Лукойл 
  |сезон           = 2012/2013
- |һуури           = 4
+ |место           = 4
  |сайт            = [http://spartak.com/ http://spartak.com/]
-|pattern_la1=
-|pattern_b1=_spartak home
-|pattern_ra1=
-|leftarm1=FF0000
-|body1=FF0000
-|rightarm1=FF0000
-|shorts1=FFFFFF
-|socks1=FF0000
-|pattern_la2=
-|pattern_b2=_spartak away
-|pattern_ra2=
-|leftarm2=FFFFFF
-|body2=FFFFFF
-|rightarm2=FFFFFF
-|shorts2=FF0000
-|socks2=FFFFFF
+ |pattern_la1     = _spartakmoscow1314h
+ |pattern_b1      = _spartakmoscow1314h
+ |pattern_ra1     = _spartakmoscow1314h
+ |pattern_sh1     =
+ |pattern_so1     = _spartakmoscow1314h
+ |leftarm1        = F40000
+ |body1           = F40000
+ |rightarm1       = F40000
+ |shorts1         = FFFFFF
+ |socks1          = F40000
+ |pattern_la2     = _spartakmoscow1314a
+ |pattern_b2      = _spartakmoscow1314a
+ |pattern_ra2     = _spartakmoscow1314a
+ |pattern_so2     = _spartakmoscow1314a
+ |leftarm2        = FFFFFF
+ |body2           = FFFFFF
+ |rightarm2       = FFFFFF
+ |shorts2         = 000000
+ |socks2          = 000000
 }}
+
 '''Спартак Мушхаваа''' ([[Ород хэлэн|ород]] '''«Спартак Москва»''') - [[Ород]]ой [[Мушхаваа]]гай хүл бүмбэгын клуб.
 {{stub}}
