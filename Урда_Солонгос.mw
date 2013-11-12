@@ -1,13 +1,15 @@
 {{Орн Зура
-|conventional_long_name = {{collapsible list |titlestyle = background:transparent;text-align:center;font-size:90%; |title = {{big|Republic of Korea}} |liststyle = text-align:center;font-size:90%;font-weight:normal; |1 = {{unbulleted list|{{nobold|{{lang|ko|대한민국}}}}|{{nobold|{{lang|ko|大韓民國}}}}|''Daehan Minguk''}}}}
-|common_name = South Korea
+|native_name=대한민국
+|native_name=大韓民國
+|conventional_long_name = Бүгдэ Найрамдаха Солонгос Улас
+|common_name = Урда Солонгос
 |image_flag = Flag of South Korea.svg
 |alt_flag = Centered taegeuk on a white rectangle inclusive of four black trigrams
 |image_coat = Emblem of South Korea.svg
 |alt_coat = Centered taegeuk on a hibiscus syriacus surrounded by five stylized petals and a ribbon
 |symbol_type = Emblem
-|national_motto = {{"홍익인간"|italics=off}} {{small|(''[[de facto]]'')}}<ref>{{cite journal |url=http://www.fssp.uaic.ro/argumentum/Numarul%2010%20%282%29/Articol%20Cozmiuc.pdf |page=6 |format=PDF |title=A New Way of Seeing Country Social Responsibility |work=Faculty of Philosophy and Social-Political Sciences |publisher=[[Alexandru Ioan Cuza University]] |accessdate=September 21, 2013}}</ref><br />{{small|"Benefit Broadly the Human World"}}
-|national_anthem = {{"[[Эгүкка|애국가]]"|italics=off}} {{small|(''[[de jure]]'')}}<br />{{small|"Patriotic Song"}}
+|national_motto = "홍익인간" {{small|(''[[de facto]]'')}}<ref>{{cite journal |url=http://www.fssp.uaic.ro/argumentum/Numarul%2010%20%282%29/Articol%20Cozmiuc.pdf |page=6 |format=PDF |title=A New Way of Seeing Country Social Responsibility |work=Faculty of Philosophy and Social-Political Sciences |publisher=[[Alexandru Ioan Cuza University]] |accessdate=September 21, 2013}}</ref><br />{{small|"Benefit Broadly the Human World"}}
+|national_anthem = "[[Эгүкка|애국가]]" {{small|(''[[de jure]]'')}}<br />{{small|"Patriotic Song"}}
 |image_map = South Korea (orthographic projection).svg
 |alt_map = Projection of Asia with South Korea in green
 |map_width = 220px
