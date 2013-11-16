@@ -1,77 +1,64 @@
-{{Орн Зура
-|native_name = {{lang|ko|조선민주주의인민공화국}}<br /><small>''Chosŏn Minjujuŭi Inmin Konghwaguk''</small><ref>{{cite web |title=Administrative Population and Divisions Figures (#26) |work=DPRK: The Land of the Morning Calm |publisher=Permanent Committee on Geographical Names for British Official Use |date=2003-04 |url=http://www.pcgn.org.uk/North%20Korea-%20Land%20of%20the%20Morning%20Calm-%202003.pdf |format=PDF |accessdate=2006-10-10}}</ref>
-|conventional_long_name=<small>Democratic People's Republic of Korea</small>
-|conventional_short_name=North Korea
-|common_name=North Korea
-|image_flag=Flag of North Korea.svg
-|image_coat=Coat of Arms of North Korea.svg
-|symbol_type=Coat of arms
-|image_map=<!--Do not change without discussing at the Talk page-->North Korea (orthographic projection).svg<!--Do not change without discussing at the Talk page-->
-|mapsize=220px
-|motto=강성대국<br />''Powerful and Prosperous Nation''
-|national_anthem=''[[Aegukka]]'' (애국가)<br /><small>("The Patriotic Song")</small>
-|official_languages=[[Солонгос хэлэн|Солонгос]]
-|languages_type         = [[Бэшэг]]
-|languages              = [[Чосонгыль]]
-|demonym= Хойто Солонгос, Солонгос
-|capital=[[Пёнъян]] |latd=39 |latm=2 |latNS=N |longd=125 |longm=45 |longEW=E
-|government_type=''[[Чучхэ]]''<!-- <<<--DO NOT CHANGE! --> [[socialist republic]],<br />[[коммунизм]]
-|leader_title1=[[Юрэнхылэгшэ|Мүнхэ Юрэнхылэгшэ]]
-|leader_title2=[[List of leaders of North Korea|Үндэр Тэргүүн]]
-|leader_name1=[[Ким Ильсон]]<small>(үхэһэн)</small>, <br />[[Ким Жониль]]<small>(үхэһэн)</small>
-|leader_name2=[[Ким Жонын]]
-|legislature=[[Supreme People's Assembly of North Korea|Supreme People's Assembly]]
-|largest_city=[[Пёнъян]]
-|area_km2=120,540
-|area_sq_mi=46,528 <!--Do not remove per [[WP:MOSNUM]]-->
-|area_rank=98th
-|area_magnitude=1 E11
-|percent_water=4.87
-|population_estimate=24,051,218<ref name=unfpa>{{cite paper | url=http://news.joins.com/article/686/4109686.html | title=한반도 인구 7천400만명 시대 임박 |  publisher=United Nations | author=UNFPA | date=2009-10-01 | accessdate= 2010-04-14}}</ref>
-|population_estimate_year=2009
-|population_estimate_rank=51st
-|population_census=
-|population_census_year=
-|population_density_km2=198.3
-|population_density_sq_mi=513.8 <!--Do not remove per [[WP:MOSNUM]]-->
-|population_density_rank=55th
-|GDP_PPP_year=2008<ref>{{cite web | url=http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/country-profile/asia-oceania/north-korea?profile=economy|title=Country Profile: North Korea |accessdate=2010-02-10 |date=2009-06-25 |work=[[Foreign and Commonwealth Office]], UK }}</ref>
-|GDP_nominal_year = 2009<ref name="cia-kn" >ref>
-|GDP_nominal=$28.2 billion
-|GDP_nominal_rank=88th
-|GDP_nominal_per_capita=$1,244<ref>[https://www.cia.gov/library/publications/the-world-factbook/fields/2195.html GDP (official exchange rate)], [[The World Factbook]], [[Central Intelligence Agency]], last updated on April 26, 2010; accessed on May 17, 2010. Population data obtained from [http://www.census.gov/ipc/www/idb/tables.html Total Midyear Population], [[U.S. Census Bureau]], International Data Base, accessed on May 17, 2010. Note: Per capita values were obtained by dividing the GDP (official exchange rate) data by the Population data.</ref>
-|GDP_nominal_per_capita_rank=139th
-|GDP_PPP = [[United States dollar|$]]40 billion
-|GDP_PPP_rank=94th
-|GDP_PPP_per_capita=$1,900 (2009 est.)<ref name="cia-kn" />
-|GDP_PPP_per_capita_rank=188th
-|Gini=n/a
-|Gini_year=2009<ref name="UN-HDR">{{cite web |url=http://hdrstats.undp.org/en/indicators/161.html |title=Korea, North |accessdate=2009-10-09 |year=2009) | work=The United Nations Human Development Report}}</ref><br />({{Verify credibility|date=October 2009}}
-|Gini_category=<span style="color:#090;">low</span>
-|FSI=97.7 {{increase}} 0.4
-|FSI_year=2007
-|FSI_rank=13th
-|FSI_category=<span style="color:#f00;">Alert</span>
-|sovereignty_type=[[Division of Korea#In the North|Establishment]]
-|established_event1=[[March 1st Movement|Independence&nbsp;declared]]
-|established_event2=[[Victory over Japan Day|Liberation]]
-|established_event3=Formal declaration
-|established_date1=March 1, 1919
-|established_date2=August 15, 1945
-|established_date3=September 9, 1948
-|currency=[[Хойто Солонгос вон]] (₩)
-|currency_code=KPW
-|time_zone=[[Солонгос стандарт саг]]
-|utc_offset=+9
-|time_zone_DST=
-|utc_offset_DST=
-|date_format=yy, yyyy년 mm월 dd일<br />yy, yyyy/mm/dd ([[Juche calendar|CE–1911]], [[Common Era|CE]])
-|drives_on=right
-|cctld=[[.kp]]
-|calling_code=[[Telephone numbers in North Korea|850]]
-|footnotes=
-{{note|aaa}} a. Died 1994, named "Eternal President" in 1998.<br />
-{{note|bbb}} b. [[Kim Yong-nam]] is the "[[Head of State|head of state]] for foreign affairs".
+{{Улас
+|буряад_нэрэ         = '''Бүгэдэ Найрамдаха Арадшалһан Солонгос Арадай Улас'''<br/>[[Файл:БНАСАУ мб.png]]
+|уугуул_нэрэ  =  조선민주주의인민공화국<br/>Жүсон минжу жуый инмин күнхуагук
+|богони_нэрэ = Хойто Солонгос
+|һүлдын_зураг                    = Emblem_of_North_Korea.svg
+|тугай_зураг                     = Flag of North Korea.svg
+|түрын_уряа           = {{lang-ko|강성대국}}<br>«Хүшэрхэгэ, cэcэглэн хүгэжэһэн үндэһэтэн»
+|түрын_дуулал        = «[[Эгүкга|애국가]]»
+<!-- |Аудио=-->
+|засаглалай_хэлбэри       = [[Жучхэ]] [[Бүгэдэ найрамдаха улас]]
+|газарай_зураг                   = North Korea (orthographic projection).svg
+|албан_ёһоной_хэлэн                    = [[Солонгос хэлэн]]
+|үндэһэ_язгуур                  =100% - [[Солонгос үндэһэтэн]]
+|ниислэл_хото            = [[Пёнъян]]
+|тэргүүнэй_класс1          = [[Юрэнхылэгшэ|Мүнхэ Юрэнхылэгшэ]]
+|тэргүүнэй_класс2          = [[Үндэр тэргүүн]]
+|тэргүүнэй_нэрэ1                = [[Ким Ильсон]]<small>(үхэһэн)</small>, <br />[[Ким Жониль]]<small>(үхэһэн)</small>
+|тэргүүнэй_нэрэ2                = [[Ким Жонын]]
+|хуули_тогтоогшо               =«Арадай Ехэ Хурал» 
+|түүхэн_утга                   = Түүхэ
+|түүхэн_огноо1                 =НТӨ 2333- 10 һара 3
+|түүхэн_үйл1                   =[[Гүжүсон улас]]
+|түүхэн_огноо2                 =[[1945]] - 8 һара 15
+|түүхэн_үйл2                   =[[Япон]]һоо шүлөөлэгдэһэн
+|түүхэн_огноо3                 =[[1948]]- 9 һара 9
+|түүхэн_үйл3                   =БНАСАУ тунхаглагдаһан
+|газар_нютаг_км2             = 120,540
+|уһанай_процент            = 4.87 %
+|хүн_амай_тоосоо              = 24,554,000<ref name="unfpa">{{ko}} {{Cite journal | url = http://article.joinsmsn.com/news/article/article.asp?total_id=4109686 | title = 한반도 인구 7천400만명 시대 임박 | publisher = United Nations | author = UNFPA | date = 2009-10-01 | accessdate =  21 November 2012}}</ref>
+|хүн_ам_тооцоолсон_он = 2011
+|хүн_амай_нягтрал_нэгжэ_км2 = 198.3
+|хүн_амын_тоогоор_эрэмбэ_дэс   = 48
+|хүн_амын_тооллого             =24,052,231 хүн<ref name="Nkorea2008">{{cite web|url=http://unstats.un.org/unsd/demographic/sources/census/2010_PHC/North_Korea/Final%20national%20census%20report.pdf|title=DPR Korea 2008 Population Census National Report|year=2009|publisher=DPRK Central Bureau of Statistics|accessdate=2011-02-19|location=Pyongyang}}</ref>
+|хүн_ам_тоолсон_он             =2008
+|хүн_амын_тооллого_эрэмбэ_тоологдсоноор  =
+|хүн_амын_нягтрал_нэгж_км2     =198.3
+|хүн_амын нягтрал_эрэмбэ_дэс   =55
+|ДНБ_ХАЧ                       =$40 тэрбум
+|ДНБ_ХАЧ_он                    =2008<ref>{{cite web| url = http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/country-profile/asia-oceania/north-korea?profile=economy|title=Country Profile: North Korea |accessdate=2010-02-10 |date=2009-06-25 |work=[[Foreign and Commonwealth Office]], UK }}</ref>
+|ДНБ_ХАЧ_эрэмбэ                =94
+|ДНБ_ХАЧ_Нэг_хүнд              =$1,900
+|ДНБ_ХАЧ_Нэг_хүнд_эрэмбэ       =154
+|ДНБ_нэрлэсэн                  =$28.2 тэрбум
+|ДНБ_нэрлэсэн_он               =2009
+|ДНБ_нэрлэсэн_эрэмбэ           =88 
+|ДНБ_нэрлэсэн_нэг_хүнд         =$1,244<ref>[https://www.cia.gov/library/publications/the-world-factbook/fields/2195.html GDP (official exchange rate)], [[The World Factbook]], [[Central Intelligence Agency]], last updated on April 26, 2010; accessed on May 17, 2010. Population data obtained from [http://www.census.gov/ipc/www/idb/tables.html Total Midyear Population], [[U.S. Census Bureau]], International Data Base, accessed on May 17, 2010. Note: Per capita values were obtained by dividing the GDP (official exchange rate) data by the Population data.</ref>
+|ДНБ_нэрлэсэн_нэг_хүнд_эрэмбэ  =139
+|ХТББИ                         =
+|Илтгэлцүүр_он                 =
+|Илтгэлцүүр_ангилал            =
+|Илтгэлцүүр_эрэмбэ             =
+|ХХИ                           =
+|ХХИ_он                        =
+|ХХИ_ангилал                   =
+|ХХИ_эрэмбэ                    =
+|мүнгэн_тэмдэгтэ                   = [[Хойто Солонгос вон|БНАСАУ-ай вон]] (₩)
+|мүнгэн_тэмдэгтэ_код    = KPW
+|интернет_домэйн                   = [[.kp]]
+|телефоной_код            = +976
+|сагай_бүһэ               = +9
+|зүүлтэ                   = 
 }}
 '''Бүгэдэ Найрамдаха Арадшалһан Солонгос Арадай Улас''' ({{lang-ko|조선 민주주의 인민 공화국|朝鮮民主主義人民共和國}}), '''БНАСАУ''' [[Солонгосой хойго]]й хойто байһан [[Аази]]ин улас юм. Ниислэл, хамагай ехэ хотонь '''Пёнъян''' хото. 
 == Зүүлтэ ==
