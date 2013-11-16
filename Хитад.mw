@@ -1,34 +1,64 @@
-</table>
-<table border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left:0.5em;" width="300px">
-<caption><font size="+1">'''Хитад Улас''' <br /> '''中华人民共和国'''</font></caption>
-<tr>
-<td align="center" colspan="2">
-<table border="0" cellpadding="2" cellspacing="10" style="background:#e8e8e8;"> 
-<tr>
-<td align="left" width="150px">
-[[File:Flag of the People's Republic of China.svg|150px]]
-</td>
-<td align="left" width="150px">
-[[File:National Emblem of the People's Republic of China.svg|150px]]</td>
-</td>
-</tr>
-<tr>
-<td align="center" width="150px">
-[[Хитадын түрын туг|Түрын туг]]
-</td><td align="left" width="150px">
-[[Хитадын эзэн хаанай гэр бүлын һүлдэ|Хаанай гэр бүлын һүлдэ]]</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td colspan=2 align="center" width="140px">
-[[File:China in its region (claimed hatched).svg|250px]]
-</td></tr>
-<tr><td width="150px">[[Албан ёһоной хэлэн]]</td><td>[[Хитад хэлэн]]</td></tr>
-<tr><td width="150px">[[Ниислэл хото]]</td> <td>[[Бээжин]]</td></tr>
+{{Улас
+|буряад_нэрэ         = '''Бүгэдэ Найрамдаха Хитад Арад Улс'''<br />[[Файл:БНХАУ мб.png]]
+|уугуул_нэрэ  =  '''中华人民共和国'''
+|богони_нэрэ = Хитад
+|һүлдын_зураг                    = National Emblem of the People's Republic of China.svg
+|тугай_зураг                     = Flag of the People's Republic of China.svg
+|түрын_уряа           = 
+|түрын_дуулал        =  {{lang-zho|义勇军进行曲}}<br />«Журамта сэрэгэй марш»<br /><center>[[File:March of the Volunteers instrumental.ogg]]</center>
+<!-- |Аудио=-->
+|засаглалай_хэлбэри       = [[Бүгэдэ найрамдаха улас]]
+|газарай_зураг                   = CHN orthographic.svg
+|албан_ёһоной_хэлэн                    = [[Хитад хэлэн]]
+|үндэһэ_язгуур                  =91.65% - [[Хитад үндэһэтэн]]<br>&nbsp;&nbsp;8.35% - бусад арад түмэн 
+|тогтносон_үйл_явдал1                = 1911 12 һара 29 үдэр
+|Сүвэрэнитэт = Сүвэрэнитэт
+|ниислэл_хото            = [[Бээжин]]
+|тэргүүнэй_класс1          = Уласай дарга
+|тэргүүнэй_класс2          = [[БНХАУ-ын Түрын Зүблэл|ТЗ-иин дарга]]
+|тэргүүнэй_класс3         = АТИХ-ын дарга
+|тэргүүнэй_нэрэ1                = [[Ши Жиньпин]]
+|тэргүүнэй_нэрэ2                = [[Ли Кэчянь]]
+|тэргүүнэй_нэрэ3                = Ю Жөншэн
+|хуули_тогтоогшо               =Бүхэ Хитадай Арадай<br>Түлөөлэгшэдэй Ехэ Хурал
+|түүхэн_утга                   = Түүхэ
+|түүхэн_огноо1                 =НТӨ 221 он
+|түүхэн_үйл1                   =Хитадын нэгэдэһэн [[Цинь улас]]
+|түүхэн_огноо2                 =[[1912]]- 1 һара 1
+|түүхэн_үйл2                   =[[Дундад Иргэн Улс|ДИУ]] байгуулагдаба
+|түүхэн_огноо3                 =[[1949]]-10 һара 1
+|түүхэн_үйл3                   =БНХАУ тунхаглагдаһан
+|газар_нютаг_км2             = 9,640,821
+|уһанай_процент            = 2.8 %
+|хүн_амай_тоосоо              = 1,339,724,852 хүн<ref name="Census2010">{{cite web|url=http://www.stats.gov.cn/english/newsandcomingevents/t20110428_402722244.htm |title=Communiqué of the National Bureau of Statistics of People's Republic of China on Major Figures of the 2010 Population Census |publisher=Stats.gov.cn |accessdate=1 November 2011}}</ref>
+|хүн_ам_тооцоолсон_он = 2010
+|хүн_амай_нягтрал_нэгжэ_км2 = 139.6
+|ДНБ_ХАЧ                       =$11.299 их наяд<ref name="imf2" />
+|ДНБ_ХАЧ_он                    =2011
+|ДНБ_ХАЧ_эрэмбэ                =2
+|ДНБ_ХАЧ_Нэг_хүнд              =$8,382<ref name=imf2/>
+|ДНБ_ХАЧ_Нэг_хүнд_эрэмбэ       =91
+|ДНБ_нэрлэсэн                  =$7.298 их наяд<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=42&pr.y=14&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=924&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= |title=China |publisher=International Monetary Fund |accessdate=2012-04-18}}</ref>
+|ДНБ_нэрлэсэн_он               =2011 
+|ДНБ_нэрлэсэн_эрэмбэ           =2 
+|ДНБ_нэрлэсэн_нэг_хүнд         =$5,413<ref name=imf2/>
+|ДНБ_нэрлэсэн_нэг_хүнд_эрэмбэ  =90 
+|ХТББИ                         =41.5<ref name="Ref_">[https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html АНУ-ын Тагнуулын төв газрын мэдээлэл] [Gini rankings]</ref>
+|Илтгэлцүүр_он                 =2007
+|Илтгэлцүүр_ангилал            =
+|Илтгэлцүүр_эрэмбэ             =
+|ХХИ                           ={{increase}} 0.687<ref name="HDI">{{cite web|url=http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf|title=Human Development Report 2011|year=2011|publisher=United Nations|accessdate=5 November 2011}}</ref>
+|ХХИ_он                        =2011
+|ХХИ_ангилал                   =<span style="color:#fc0;">дундаж</span>
+|ХХИ_эрэмбэ                    =101
+|мүнгэн_тэмдэгтэ                   = [[БНХАУ-ай юань]] (¥)
+|мүнгэн_тэмдэгтэ_код    = CNY
+|интернет_домэйн                   = [[.cn]], хоёр ханзаар [[.中国]], [[.中國]]
+|телефоной_код            = +86
+|сагай_бүһэ               = +8
+|зүүлтэ                   = 
+}}
 
-</table>
 '''Хитад Улас''' (хитад: ''中华人民共和国'') — [[Аази]] ([[Эбраази]])-ин дурнада хэһэгтэ [[Номгон тэнгис]]эй үрнэдэ хэһэгээр оршохо аралай улас юм.<ref name="Census2010">{{cite web|url=http://www.stats.gov.cn/english/newsandcomingevents/t20110428_402722244.htm |title=Communiqué of the National Bureau of Statistics of People's Republic of China on Major Figures of the 2010 Population Census |publisher=Stats.gov.cn |accessdate=1 November 2011}}</ref><ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=42&pr.y=14&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=924&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= |title=China |publisher=International Monetary Fund |accessdate=2012-04-18}}</ref><ref name="Ref_">[https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html АНУ-ын Тагнуулын төв газрын мэдээлэл] [Gini rankings]</ref> Хүн ама - 1 370 536 875 хүн.<ref name="HDI">{{cite web|url=http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf|title=Human Development Report 2011|year=2011|publisher=United Nations|accessdate=5 November 2011}}</ref> 
 == Геограафи ==
 Хитадтай хилээ ниилэhэн уласууд (сагай зүүнэй эсрэгээр, баруун-хойто зүгhөө зүүн-үмэнэдэ зүг рүү): [[Монгол Улас]], [[Ородой Холбооной Улас]], [[Казакстан]], [[Жибэн]]. Мүн харисангы бага уhаар [[Хитадын тэнгис]], [[Жибэн тэнгис]] ойролсоо.
