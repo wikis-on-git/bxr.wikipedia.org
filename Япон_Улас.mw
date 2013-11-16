@@ -1,47 +1,70 @@
-<table border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left:0.5em;" width="300px">
-<caption><font size="+1">'''Япон Улас''' <br /><small>японоор</small> '''日本国'''→<br />Ниппон кокү, Ниһон кокү</td></tr></font></caption>
-</td></tr>
-<td align="center" colspan="2">
-<table border="0" cellpadding="2" cellspacing="10" style="background:#e8e8e8;"> 
-<tr>
-<td align="left" width="150px">
-[[File:Flag of Japan.svg|150px|Түрын туг]]
-</td>
-<td align="left" width="150px">
-[[File:Imperial Seal of Japan.svg|150px]]
-</td>
-</tr>
-<tr>
-<td align="center" width="150px">
-[[Японой түрын туг|Түрын туг]]
-</td><td align="left" width="150px">
-[[Японой эзэн хаанай гэр бүлын һүлдэ|Хаанай гэр бүлын һүлдэ]]</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td colspan=2 align="center" width="140px">
-[[Японой түрын дуулал|Түрын дуулал]]
-японоор 君が代 → Кими га ё<br/>«Эзэн дээдэһээ танай хаан түрэ барилга»<br/><center>[[File:Kimi ga Yo instrumental.ogg]]</td></tr>
-</td></tr>
-[[File:Japan (orthographic projection).svg|250px|Японой байра]]</td></tr>
-<tr><td width="150px">[[Албан ёһоной хэлэн]]</td><td>[[Япон хэлэн]]</td></tr>
-<tr><td width="150px">[[Ниислэл|Ниислэл хото]]</td> <td>[[Тоокёо]]</td></tr>
-<tr><td width="150px">[[Ниислэлэй оршохо газарзүйн солбилсол]] </td> <td>35°41' N, 139°46' E</td></tr>
-<tr><td width="150px">[[Түрын тэргүүн|Эзэн хаан]]</td> <td>[[Акихито]]</td></tr>
-<tr><td width="150px">[[Юрэнхы һайд]]</td> <td>[[Абэ Синдзоо]]</td></tr>
-<tr><td width="150px">[[Газар нютагай хэмжээ]]<br />&nbsp;- Бүгэдэ<br />&nbsp;- % уһа</td><td>[[Газар нютагай хэмжээгээрээ|Дэлхэйдэ 60-рта]]<br /> 337,835 [[дүрбэлжэн модо]] <br /> 0.8%</td></tr> 
-<tr><td width="150px">[[Хүн ама]]<br />&nbsp;- Бүгэдэ (2010)<br />&nbsp;- [[Хүн аманай нягтарал]]</td><td>[[Улас оронуудай хүн ама|дэлхэйдэ 10]]<br /> 126,804,433<br /> 337.01/км² </td></tr>
-<tr><td width="150px">[[Тусгаар тогтонол]]
-<br />&nbsp;- </td>
-<td> [[Бурхадай домог]]то үндэһэлэбэл, 
-<br />[[2-дугаар һарын 11]], [[660 он]]</td></tr>
-<tr><td width="150px">[[Мүнгэнэй нэгэжэ]]</td><td>Иена (JPY)</td></tr>
-<tr><td width="150px">[[Сагай бүһэ]]</td><td>[[Гринвичэй сагай бүһэ]]һээ +9 </td></tr>
-<tr><td width="150px">[[Уласай нэрын тоо]]</td><td>JP, JPN</td></tr>
-<tr><td width="150px">[[Утаһанай тоо]]</td><td>81</td></tr>
-</table>
+{{Улас
+|буряад_нэрэ         = '''Япон Улас'''<br />[[Файл:Я᠋᠋пУ мб.png]]
+|уугуул_нэрэ  =  '''日本国'''
+|богони_нэрэ = Япон
+|һүлдын_зураг                    = Imperial Seal of Japan.svg
+|symbol_type                   =Эзэн хаанай гэр бүлын һүлдэ
+|тугай_зураг                     = Flag of Japan.svg
+|түрын_уряа           = 
+|түрын_дуулал        =  {{lang-jp|君が代}} → Кими га ё<br/>«Эзэн дээдэһээ танай хаан түрэ барилга»<br/><center>[[File:Kimi ga Yo instrumental.ogg]]</center>
+<!-- |Аудио=-->
+|засаглалай_хэлбэри       = [[Арадшалһан дэглэм]]
+|газарай_зураг                   = Japan on the globe (de-facto) (Japan centered).svg
+|албан_ёһоной_хэлэн                    = [[Япон хэлэн]], [[Хаан|Хаанай Улас]]
+|үндэһэ_язгуур                  = 98.5% - [[Япон үндэһэтэн]]<br>&nbsp;&nbsp;1.5% - бусад арад түмэн 
+|тогтносон_үйл_явдал1                = 1911 12 һара 29 үдэр
+|Сүвэрэнитэт = Сүвэрэнитэт
+|ниислэл_хото            = [[Тоокёо]]
+|тэргүүнэй_класс1          = [[Түрын тэргүүн|Эзэн хаан]]
+|тэргүүнэй_класс2          = [[Акихито]]
+|тэргүүнэй_нэрэ1                = [[Юрэнхы һайд]]
+|тэргүүнэй_нэрэ2                = [[Абэ Синдзоо]]
+|хуули_тогтоогшо               =Коккай → «Уласай Хурал»
+|түүхэн_утга                   = Түүхэ
+|түүхэн_огноо1                 =НТӨ [[660]] - 2-дугаар һарын 11
+|түүхэн_үйл1                   =Түрэ улас үүһэһэн домогто үдэр
+|түүхэн_огноо2                 =[[1890]] - 11-дугаар һарын 29
+|түүхэн_үйл2                   =1890 оной үндэһэн хуули
+|түүхэн_огноо3                 =[[1947]] - 5-дугаар һарын 3
+|түүхэн_үйл3                   =1947 оной үндэһэн хуули
+|газар_нютаг_км2             = 377,944
+|уһанай_процент            = 0.8 %
+|хүн_амай_тоосоо              = 1,339,724,852 хүн<ref>{{cite web|url=http://www.stat.go.jp/english/data/jinsui/tsuki/index.htm |title=Official Japan Statistics Bureau estimate |publisher=Statistics Bureau |accessdate=25 August 2010}}</ref>
+|хүн_ам_тооцоолсон_он = 2011
+|хүн_амай_нягтрал_нэгжэ_км2 = 139.6
+|хүн_ам_тооцоолсон_он          =2011
+|хүн_амын_тоогоор_эрэмбэ_дэс   =10
+|хүн_амын_тооллого             =128,056,026<ref>{{cite web|url=http://www.e-stat.go.jp/SG1/estat/ListE.do?bid=000001029548&cycode=0|title=Preliminary Counts of the Population and Households |publisher=Statistics Bureau |accessdate=February 25, 2011}}</ref>
+|хүн_ам_тоолсон_он             =2010
+|хүн_амын_тооллого_эрэмбэ_тоологдсоноор  =
+|хүн_амын_нягтрал_нэгж_км2     =337.1
+|хүн_амын нягтрал_эрэмбэ_дэс   =36
+|ДНБ_ХАЧ                       =$4.396 их наяд<ref name=imf2>{{cite web |title=Japan|publisher=International Monetary Fund|accessdate=30 September 2011 |year=2011 |url=http://www.imf.org/external/pubs/ft/weo//02/weodata/weorept.aspx?sy=2010&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&c=158&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr1.x=65&pr1.y=19}}</ref>
+|ДНБ_ХАЧ_он                    =2011
+|ДНБ_ХАЧ_эрэмбэ                =4
+|ДНБ_ХАЧ_Нэг_хүнд              =$34,362<ref name=imf2/>
+|ДНБ_ХАЧ_Нэг_хүнд_эрэмбэ       =25
+|ДНБ_нэрлэсэн                  =$5.855 их наяд<ref name=imf2/>
+|ДНБ_нэрлэсэн_он               =2011
+|ДНБ_нэрлэсэн_эрэмбэ           =3
+|ДНБ_нэрлэсэн_нэг_хүнд         =$45,774<ref name=imf2/>
+|ДНБ_нэрлэсэн_нэг_хүнд_эрэмбэ  =18
+|ХТББИ                         =37.6<ref>{{cite web|title=World Factbook: Gini Index|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html|publisher=[[CIA]]|accessdate=11 May 2011}}</ref>
+|Илтгэлцүүр_он                 =2008
+|Илтгэлцүүр_ангилал            =
+|Илтгэлцүүр_эрэмбэ             =
+|ХХИ                           ={{increase}} 0.884<ref name="HDI">{{cite web|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf|title=Human Development Report 2010|year=2010|publisher=[[United Nations|UN]]|accessdate=5 November 2010}}</ref>
+|ХХИ_он                        =2011
+|ХХИ_ангилал                   =<span style="color:#090;">онц сайн</span>
+|ХХИ_эрэмбэ                    =11
+|мүнгэн_тэмдэгтэ                   = [[Иена]] (¥)
+|мүнгэн_тэмдэгтэ_код    = JPY
+|интернет_домэйн                   = [[.cn]], хоёр ханзаар [[.中国]], [[.中國]]
+|телефоной_код            = +81
+|сагай_бүһэ               = [[Гринвичэй сагай бүһэ]]һээ +9
+|зүүлтэ                   = 
+}}
+
 '''Япон Улас''' (''日本国, Ниппон, Ниһон'', албан ёһоной нэрэ {{lang|ja|日本国}} {{audio|help=no|Ja-nippon_nihonkoku.ogg|'''''Ниппон кокү'''''}} али '''''Ниһон кокү''''') — [[Ази]] ([[Еврази|Евразиин]]) дурнада хэһэгтэ [[Номгон далай]]н үрнэдэ хэһэгээр оршохо аралай улас юм. 
 
 == Орошол ==
