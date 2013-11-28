@@ -2,12 +2,14 @@
 |богони_нэрэ                = НҮБ
 |буряад_нэрэ = '''Нэгэдэмэл Үндэhэнэй Байгуулга'''
 |уугуул_нэрэ          = <!-- Место для официальных языков ООН -->
+<small>
 '''United Nations'''<br />
 '''Organisation des Nations unies<br />
 '''{{lang|ar|الأمم المتحدة}}'''<br />
 '''Организация Объединённых Наций'''<br />
 '''Organización de las Naciones Unidas'''<br />
 '''{{lang|zh|联合国}}'''
+<small/>
 <!-- Место для официальных языков ООН -->
 |name_color = #FFFFFF
 |background_color = #4B92DB
