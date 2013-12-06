@@ -1,0 +1,102 @@
+{{Гараг
+| bgcolour = #E8AB79
+| name = Мягмар
+| symbol = [[Файл:Mars symbol.svg|25px|Мягмар гарагай одон ороной тэмдэг]]
+| image = [[Файл:Mars Hubble.jpg|240px|Мягмар]]
+| caption = [[Хаббл сансарай дуран абай]]гаар абаһан зураг
+| orbit_ref =
+<ref name=horizons>{{cite web
+ | last = Yeomans | first = Donald K. | date = 2006-07-13
+ | url = http://ssd.jpl.nasa.gov/?horizons
+ | title = HORIZONS System | publisher = NASA JPL
+ | accessdate = 2007-08-08 }} — At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Mars" and "Center: Sun".</ref>
+| epoch = [[J2000]]
+| apoapsis = 249,209,300 км<br />
+1.665&nbsp;861 [[одон орны нэгж|а.н.]]
+| periapsis = 206,669,000 км<br />
+1.381&nbsp;497 а.н.
+| semimajor = 227,939,100 км<br />
+1.523&nbsp;679 а.н.
+| eccentricity = 0.093&nbsp;315<br />
+| period = 686.971 өдөр<br />
+1.8808 [[Юлианы жил (одон орон)|юлианы жил]]<br />
+668.5991 нарны хоног
+| synodic_period = 779.96 өдөр<br />
+2.135 Юлианы жил
+| avg_speed = 24.077 км/с
+| inclination = 1.850° ([[Эклиптик]]т)<br />5.65° to ([[Нар]]ны [[экваторт]])<br />1.67° ([[Тогтмол тавцан]]д)<ref name=meanplane>{{cite web
+  |date=2009-04-03
+  |title=The MeanPlane (Invariable plane) of the Solar System passing through the barycenter
+  |url=http://home.comcast.net/~kpheider/MeanPlane.gif
+  |accessdate=2009-04-10|archiveurl=http://web.archive.org/20090420194536/home.comcast.net/~kpheider/MeanPlane.gif|archivedate=2009-04-20}} (produced with [http://chemistry.unina.it/~alvitagl/solex/ Solex 10] written by Aldo Vitagliano; see also [[Invariable plane]])</ref>
+| asc_node = 49.562°
+| arg_peri = 286.537°
+| satellites = 2
+| physical_characteristics = yes
+| equatorial_radius = 3,396.2 ± 0.1&nbsp;км{{Ref label|A|a|none}}<ref name=Seidelmann2007>{{cite journal
+ | last= Seidelmann| first= P. Kenneth
+ | coauthors= Archinal, B. A.; A'hearn, M. F.; et al.
+ | title= Report of the IAU/IAG Working Group on cartographic coordinates and rotational elements: 2006
+ | journal= Celestial Mechanics and Dynamical Astronomy
+ | volume=98 | issue=3 | pages=155–180 | year=2007
+ | doi=10.1007/s10569-007-9072-y
+ | url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y
+ | accessdate=2007-08-28 }}</ref><br />
+0.533 Дэлхэй
+| polar_radius = 3,376.2 ± 0.1&nbsp;км{{Ref label|A|a|none}}<ref name=Seidelmann2007/><br />
+0.531 Дэлхэй
+| flattening = 0.005&nbsp;89 ± 0.000&nbsp;15 <!-- calculated from data in ref name=Seidelmann2007 -->
+| surface_area = 144,798,500&nbsp;км²<br />
+0.284 Дэлхэй
+| volume = 1.6318{{e|11}} км³<br />
+0.151 Дэлхэй
+| mass = 6.4185{{e|23}} кг<br />
+0.107 Дэлхэй
+| density = 3.934 г/см³
+| surface_grav = 3.69 [[Хурдатгал|м/с²]]<br />
+0.376 ''[[хүндын хүшэнэй хурдатгал|g]]''
+| escape_velocity = 5.027 км/с
+| sidereal_day = 1.025&nbsp;957 өдөр<br />
+ 24.622&nbsp;96 h<ref name=nasa/>
+| rot_velocity = 868.22 км/ц (241.17 м/с)
+| axial_tilt = 25.19°
+| right_asc_north_pole = 21 цаг 10 мин 44 сек<br />
+317.681&nbsp;43°
+| declination = 52.886&nbsp;50°
+| albedo = 0.15 ([[Геометри албедо|геометри]]) эсэбэл 0.25 ([[Бондын албедо|бонд]])<ref name="nssdc"/>
+| magnitude = +1.8 to −2.91<ref name="nssdc"/>
+| angular_size = 3.5—25.1"<ref name="nssdc" />
+| temperatures = yes
+| temp_name1 = [[Кельвин]]
+| min_temp_1 = 186&nbsp;K
+| mean_temp_1 = 227&nbsp;K
+| max_temp_1 = 268&nbsp;K<ref name=nasa>{{cite web
+ | title = Mars: Facts & Figures
+ | publisher = NASA
+ | url = http://solarsystem.jpl.nasa.gov/planets/profile.cfm?Object=Mars&Display=Facts&System=Metric
+ | accessdate = 2007-03-06 }}</ref>
+| temp_name2 = [[Цельси]]
+| min_temp_2 = −87&nbsp;°C
+| mean_temp_2 = −46&nbsp;°C
+| max_temp_2 = −5&nbsp;°C
+| atmosphere = yes
+| surface_pressure = 0.6–1.0 [[Паскаль (нэгэжэ)|кПа]]
+| atmosphere_density =
+| atmosphere_composition = 95.72% [[Нүүрсхүшэлын хии]]<br />
+2.7% [[Азот]]<br />
+1.6% [[Аргон]]<br />
+0.2% [[Хүсэлтүрэгшэ]]<br />
+0.07% [[Угаарай хии]]<br />
+0.03% [[Уһан]]ай уур<br />
+0.01% [[Азотын исэл]]<br />
+2.5 [[Сая тутмын хэсэг|ppm]] [[Неон]]<br />
+300 [[Тэрбум тутмын хэсэг|ppb]] [[Криптон]]<br />
+130 ppb [[Формальдегид]]<br />
+80 ppb [[Ксенон]]<br />
+30 ppb [[Озон]]<br />
+10 ppb [[Метан]]<br />
+}}
+'''Мягмар''' ({{lang-bod|མིག་དམར}}) буюу '''Ангараг''' ({{lang-san|मङ्गलवारः}}) [[наранай аймаг|наранай аймгын]] дүрбэдэхи [[гараг]] юм. Хоёр дагуултай бүгөөд хүрсэтэ гараг. Уг гараг маша нимгэн [[нүүрсэхүшэлын хии]]һээ тогтоһон агаар мандалтай. Дэлхэйһээ илүү хүйтэн байдаг  [[Наран]]һаа алһалагдаһан байдагтай холбоотой. Уг гарагай туйлууд дээрэнь [[мүльһэн]] байгаае тогтооһон бүгөөд эрдэмтэд [[уһан]] байһан гэжэ үзэдэг. 
+
+== Зүүлтэ ==
+{{зүүлтэ}}
