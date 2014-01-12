@@ -1,3 +1,61 @@
+{{Гараг
+| name = Һара
+| background = #dddddd
+| symbol = [[Файл:Moon symbol decrescent.svg|25px|Һарын одон ороной тэмдэг]]
+| image = [[Файл:Full Moon Luc Viatour.jpg|280px|Бүтэн һара]]
+| caption = [[Дэлхэй]]н хойто хахадһаа абаһан [[бүтэн һара|бүтэн һарын]] зураг
+| periapsis = {{nowrap|363,104 км&nbsp;}} {{nowrap|(0.002 4 [[одон орны нэгж|а.н.]])}}
+| apoapsis = {{nowrap|405,696 км&nbsp;}} {{nowrap|(0.002 7 а.н.)}}
+| semimajor = {{nowrap|384,399 км&nbsp;}} {{nowrap|(0.002 57 а.н.<ref name="W06">{{cite journal | last = Wieczorek | first = M. | coauthors = et al. | title = The constitution and structure of the lunar interior | journal = Reviews in Mineralogy and Geochemistry | volume = 60 | pages = 221–364 | year = 2006 | doi = 10.2138/rmg.2006.60.3}}</ref>)}}
+| eccentricity = 0.054&nbsp;9<ref name="W06"/>
+| period = {{nowrap|27.321 582 [[өдөр]]&nbsp;}} {{nowrap|(27 өдөр 7 [[цаг]] 43.1 [[минут|мин]]<ref name="W06"/>)}}
+| synodic_period = {{nowrap|29.530 589 өдөр&nbsp;}} {{nowrap|(29 өдөр 12 цаг 44 мин 2.9 сек)}}
+| avg_speed = 1.022 км/с
+| inclination = 5.145[[градус (өнцөг)|°]] ([[эклиптик]]т)<ref name="W06"/><!--Wieczorek et al. 2006; 18.29° when the longitude of the Moon's ascending node is 180°, 28.58° when it is 0°--><br />([[дэлхий]]н [[экватор]]т 18.29°-с 28.58°-н хооронд)
+| asc_node = 18.6 жилд нэг орбитийн эргэлтээр буцна
+| arg_peri = 8.85 жилд нэг эргэлтээр урагшилна
+| satellite_of = [[Дэлхий]]
+| flattening = 0.001&nbsp;25 <!--Calculated from data below-->
+| equatorial_radius = {{nowrap|1,738.14 км&nbsp;}} {{nowrap|(0.273 дэлхий)}}<!--Smith et al. 1997--><!--more detail needed for this ref--><ref name="NSSDC">{{cite web
+  |last=Williams |first=Dr. David R.
+  |title=Moon Fact Sheet
+  |publisher=[[NASA]] (National Space Science Data Center)
+  |url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html
+  |date=February 2, 2006
+  |accessdate =2008-12-31}}</ref>
+| polar_radius = {{nowrap|1,735.97 км&nbsp;}} {{nowrap|(0.273 дэлхий)}}<!--Smith et al. 1997--><ref name="NSSDC"/>
+| mean_radius = {{nowrap|1,737.10 км&nbsp;}} {{nowrap|(0.273 дэлхий)}}<ref name="W06"/><ref name="NSSDC"/>
+| circumference = 10,921 км ([[экватор]]ын)
+| surface_area = {{nowrap|3.793{{e|7}} км²&nbsp;}} {{nowrap|(0.074 дэлхий)}}
+| volume = {{nowrap|2.195 8{{e|10}} км³&nbsp;}} {{nowrap|(0.020 дэлхий)}}
+| mass = {{nowrap|7.347 7{{e|22}} кг&nbsp;}} {{nowrap|(0.012 3 дэлхий<ref name="W06"/>)}}
+| density = 3,346.4 кг/м³<ref name="W06"/>
+| surface_grav = {{nowrap|1.622 м/с²}} {{nowrap|(0.165 4 [[хүндийн хүчний хурдатгал|g]])}}
+| escape_velocity = 2.38 км/с
+| sidereal_day = 27.321&nbsp;582 [[өдөр]] (дэлхийн эргэлттэй жил хугацааны орбиттой)
+<!--Wieczorek et al. 2006-->
+| rot_velocity = 4.627 м/с
+| axial_tilt = 1.542&nbsp;4° ([[эклиптик]]т)<br />6.687° ([[орбитын хавтгай]]д)
+| albedo = 0.12
+| magnitude = −2.5 -с −12.9<br />−12.74 ([[бүтэн сар]]ын дундаж)<ref name="NSSDC"/>
+| angular_size = 29.3 to 34.1 [[нумын минут]]<ref name="NSSDC"/>
+| temp_name1 = экватор
+| min_temp_1 = 100 [[кельвин|K]]
+| mean_temp_1 = 220 K
+| max_temp_1 = 390 K
+| temp_name2 = 85°N{{lower|0.3em|<ref name="Vasavada1999">{{cite journal |author=A.R. Vasavada, D.A. Paige, and S.E. Wood |journal=Icarus |title= Near-Surface Temperatures on Mercury and the Moon and the Stability of Polar Ice Deposits |volume=141 |pages=179 |yesr=1999 |url=http://adsabs.harvard.edu/abs/1999Icar..141..179V |doi= 10.1006/icar.1999.6175 |year= 1999}}</ref>}}
+| min_temp_2 = 70 K
+| mean_temp_2 = 130 K
+| max_temp_2 = 230 K
+| atmosphere_ref = <ref name="L06"/><ref name="pressure explanation" group="nb">Lucey et al. (2006) give 10<sup>7</sup> particles [[Cubic centimetre|cm<sup>−3</sup>]] by day and 10<sup>5</sup> particles cm<sup>−3</sup> by night. Along with equatorial surface temperatures of 390&nbsp;[[Kelvin|K]] by day and 100&nbsp;K by night, the [[ideal gas law]] yields the pressures given in the infobox (rounded to the nearest [[order of magnitude]]; 10<sup>-7</sup>&nbsp;[[Pascal (unit)|Pa]] by day and 10<sup>-10</sup>&nbsp;Pa by night.</ref>
+| surface_pressure = 10<sup>-7</sup> [[Паскаль (нэгж)|Па]] (day)<br />10<sup>-10</sup> Па (шөнө)
+| surface_pressure = 2.25 {{e|-12}} [[torr]] <ref name="Brittanica">{{Cite web|chapter=
+Moon| title=Encyclopædia Britannica| year=2008| work=Encyclopædia Britannica Online| date=September 10, 2008| url=http://www.britannica.com/EBchecked/topic/391266/Moon| accessdate=July 14, 2009}}</ref>
+}}
 '''Һара''' буюу '''Дабаа''' [[дэлхэй]]н [[байгалиин дахуул]], [[наранай аймаг]]ай табадахи томо дахуул юм. Дэлхэйн түб һаранай түбһээ аласлаха дундажа зай 384,403 км буюу дэлхэйн [[диаметр]]һаа гушадахин ехэ. Энэгүүр системэгэй массын түб (барицентр) дэлхэйн гадаргаһаа 1,700 км гүндэ буюу дэлхэйн радиусай дүрбэнэй нэгэ зайда оршоно. Һара дэлхэйе 27.3 үдэр бүри нэгэ тойродог ба Дэлхэй-Һара-Наранай системэгэй үетэ өөршэлэлтүүдэй уламһаа һара дэлхэйһээ олон олон хэлбэртэй (29.5 үдэр бүри үелдэг, үзэгдэхэ орбитын үе) харагдадаг байна.
+
 Һарын диаметр дэлхэйн дүрбэнэй нэгэ оршом буй 3,474 км юм. Тиихэдэнь һарын гадаргын талбайнь дэлхэйн арбанай нэгэ, хуурай газарай дүрбэнэй нэгэтэй буюу ойролсоогоор [[АНУ]], [[ОХУ]], [[Канада|Канадын]] ниитэ нютаг дэбисхэртэй тэнсэнэ. Эзлэхүүн дэлхэйн 2 хуби, гадарга дээрхи татаха хүсэниинь дэлхэйн гадарга дээрхи татаха хүсэнэй 17% байдаг ажаа.
 Һара дээрэ хүмүүн анха [[1969 он]]до [[11-р Апполо]] газардаһан бүгөөд одоогоор хүмүүнэй ошоһон ганса одон ороной бэетэ юм.
+
+== Зүүлтэ ==
+{{зүүлтэ}}'''Полужирное начертание'''
