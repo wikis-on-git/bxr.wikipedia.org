@@ -1,11 +1,102 @@
+{{Гараг
+| bgcolour=#c0c0ff
+| name = Дэлхэй
+| symbol = [[Файл:Earth symbol.svg|25px|Дэлхэйн одон ороной тэмдэг]]
+| image = [[Файл:The Earth seen from Apollo 17.jpg|240px|Дэлхэй]]
+| flag = {{flagicon|world}}
+| caption = [[Аполлон 17]]-һоо абаһан дэлхэйн үнгэтэ зураг
+| epoch = [[J2000.0]]
+| apoapsis = 152,097,701&nbsp;км <br />1.0167103335&nbsp;[[Одон ороной нэгэжэ|а.н.]]
+| periapsis = 147,098,074&nbsp;км <br /> 0.9832898912&nbsp;А.Н.
+| semimajor = 149,597,887.5&nbsp;км <br /> 1.0000001124&nbsp;А.Н.
+| eccentricity = 0.016710219
+| inclination = 1°34'43.3"<ref name=Allen294>{{cite book
+ | title=Allen's Astrophysical Quantities
+ | а.н.thor=Allen, Clabon Walter; Cox, Arthur N.
+ | publisher=Springer | year=2000 | isbn=0387987460
+ | url=http://books.google.com/books?id=w8PK2XFLLH8C&pg=PA294
+ | pages=294}}</ref> <br /> [[тогтомол хабтан|тогтомол хабтанда]]
+| asc_node = 348.73936°
+| arg_peri = 114.20783°
+| period = 365.256366&nbsp;өдөр<br /> 1.0000175&nbsp;[[Юлианай жэл (одон орон)|Юлианай жэл]]
+| avg_speed = 29.783&nbsp;км/с <br /> 107,218&nbsp;км/цаг
+| satellites = 1&nbsp;([[Һара]])
+| physical_characteristics = yes
+| flattening = 0.0033528<ref name=iers/>
+| equatorial_radius = 6,378.1&nbsp;км<ref name=iers>{{cite conference
+ | а.н.thor=IERS Working Groups
+ | editor=McCarthy, Dennis D.; Petit, Gérard
+ | title=General Definitions and Numerical Standards
+ | year=2003 | booktitle=IERS Technical Note No. 32
+ | publisher=U.S. Naval Observatory and Bureа.н. International des Poids et Mesures
+ | url=http://www.iers.org/MainDisp.csl?pid=46-25776
+ | accessdate=2008-08-03 }}</ref>
+| polar_radius = 6,356.8&nbsp;км<ref>{{cite book
+ | first=Anny | last=Cazenave
+ | editor=Ahrens, Thomas J. | year=1995
+ | chaptertitle=Geoid, Topography and Distribution of Landforms
+ | title=Global earth physics a handbook of physical constants
+ | publisher=American Geophysical Union
+ | location=Washington, DC | isbn=0-87590-851-9
+ | url=http://www.agu.org/reference/gephys/5_cazenave.pdf
+ | accessdate=2008-08-03 |format=PDF}}</ref>
+| mean_radius = 6,371.0&nbsp;км<ref>{{cite book
+ | а.н.thor=Various | editor=David R. Lide | year=2000
+ | title=Handbook of Chemistry and Physics
+ | edition=81st | publisher=CRC
+ | isbn=0849304814 }}</ref>
+| circumference = 40,075.02&nbsp;км&nbsp;([[экватор]]ын)<br />40,007.86&nbsp;км&nbsp;([[уртрагийн]])<br />40,041.47&nbsp;км&nbsp;(дундаж)
+| surface_area = 510,072,000&nbsp;км²<ref>{{cite journal
+ | last = Pidwirny | first = Michael | date=2006-02-02
+ | title=Surface area of our planet covered by oceans and continents.(Table 8o-1)
+ | publisher=University of British Columbia, Okanagan
+ | url=http://www.physicalgeography.net/fundamentals/8o.html
+ | accessdate=2007-11-26
+}}</ref><ref name=cia>{{cite web
+ | author=Staff | date=2008-07-24
+ | url=https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html
+ | title=World | work=The World Factbook
+ | publisher=Central Intelligence Agency
+ | accessdate=2008-08-05
+}}</ref>
+148,940,000&nbsp;км²&nbsp;- хуурай газар &nbsp;&nbsp;(29.2 %)<br />
+361,132,000&nbsp;км²&nbsp;- ус &nbsp;(70.8 %)
+| volume = [[Дэлхэйн эзлэхүүн|1.0832073{{e|12}}]]&nbsp;км<sup>3</sup>
+| mass = 5.9736{{e|24}}&nbsp;кг<ref name="earth_fact_sheet">{{cite web | last = Williams | first = David R. | date = 2004-09-01 | url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html | title = Earth Fact Sheet | publisher = NASA | accessdate = 2007-03-17 }}</ref>
+| density = 5.5153&nbsp;г/см<sup>3</sup>
+| surface_grav = [[Дэлхийн татах хүч|9.780327]] м/с²<ref name="yoder12">Yoder, C. F. (1995) p. 12.</ref><br />0.99732&nbsp;[[хүндийн хүчний хурдатгал|''g'']]
+| escape_velocity = 11.186&nbsp;км/с&nbsp;
+| sidereal_day = 0.99726968&nbsp;өдөр<ref name=Allen296>{{cite book
+ | title=Allen's Astrophysical Quantities
+ | а.н.thor=Allen, Clabon Walter; Cox, Arthur N.
+ | publisher=Springer | year=2000 | isbn=0387987460
+ | url=http://books.google.com/books?id=w8PK2XFLLH8C&pg=PA296
+ | pages=296}}</ref><br />23{{smallsup|ц}}&nbsp;56{{smallsup|м}}&nbsp;4.100{{smallsup|с}}
+| rot_velocity = 1,674.4 км/цаг (465.1 м/с)
+| axial_tilt = 23.439281°
+| albedo = 0.367<ref name="earth_fact_sheet"/>
+| atmosphere = yes
+| temperatures = yes
+| temp_name1 = [[Кельвин]]
+| min_temp_1 = 184&nbsp;K
+| mean_temp_1 = 287&nbsp;K
+| max_temp_1 = 331&nbsp;K
+| temp_name2 = [[Цельс]]
+| min_temp_2 = −89&nbsp;°C
+| mean_temp_2 = 14&nbsp;°C
+| max_temp_2 = 57.7&nbsp;°C
+| surface_pressure = 101.3&nbsp;[[кПа]] ([[Далайн түвшин|Дундаж далайн түвшин]])
+| atmosphere_composition = 78.08%&nbsp;[[Азот]] (N<sub>2</sub>)<br /> 20.95%&nbsp;[[Хүчилтөрөгч]] (O<sub>2</sub>)<br /> 0.93%&nbsp;[[Аргон]]<br /> 0.038%&nbsp;[[Нүүрсхүчлийн хий]]<br /> 1% орчмын [[усны уур]] ([[уур амьсгал]]аас хамаарч өөр байна)<ref name="earth_fact_sheet"/>
+|note=no
+}}
 {{Хадмал
 |монгол_бэшэг = [[Файл:Delehei.PNG|21px]]
 |кирилл_буряад = Дэлхэй
 |кирилл_монгол = Дэлхий
 |кирилл_хальмаг = Делкә
 }}
-[[Файл:The Earth seen from Apollo 17.jpg|мини|[[Аполлон 17]]-һоо абаһан дэлхэйн үнгэтэ зураг]]
-'''Дэлхэй''' - [[Наранай аймаг|наранай аймагай]] 3 дэхи [[гариг]], соро ганса амидралта [[юртэмсэ]] юм. Дэлхэйни 4.57 тэрбум [[жэлэ|жэлэйн]] үмэнэ үүһэһэн<ref name="age_earth">{{cite book  | first=G.B. | last=Dalrymple | year=1991 | title=The Age of the Earth | publisher=Stanford University Press | location=California | id=ISBN 0-8047-1569-6 }}</ref>, нэг дагуултай ([[Сар]]), 365.26 [[өдөр|өдөрт]] [[Нар|Нарыг]] бүтэн тойрдог).<ref>This period is known as the [[sidereal year]]. The number of solar өдөр is one less than the number of [[sidereal day]]s becа.н.se the orbital motion of the Earth about the Sun results in one additional revolution of the planet about its axis.</ref>. Дэлхэйн эргэлтэйн тэнхлэг 23.5° хазайһан байдаг, дэлхэй дээрхи [[Жэлэйн дүрбэн улирал|улирлын]] өөршлэлтэйн шалтгаан болоно<ref>Ahrens, ''Global Earth Physics: A Handbook of Physical Constants'', p. 8.</ref>.
+
+'''Дэлхэй''' - [[Наранай аймаг|наранай аймагай]] 3 дэхи [[гариг]], соро ганса амидралта [[юртэмсэ]] юм. Дэлхэйни 4.57 тэрбум [[жэлэ|жэлэйн]] үмэнэ үүһэһэн<ref name="age_earth">{{cite book  | first=G.B. | last=Dalrymple | year=1991 | title=The Age of the Earth | publisher=Stanford University Press | location=California | id=ISBN 0-8047-1569-6 }}</ref>, нэгэ дахуултай ([[Һара]]), 365.26 [[үдэр|үдэрдэ]] [[Наран|Нараные]] бүтэн тойрдог).<ref>This period is known as the [[sidereal year]]. The number of solar өдөр is one less than the number of [[sidereal day]]s becа.н.se the orbital motion of the Earth about the Sun results in one additional revolution of the planet about its axis.</ref>. Дэлхэйн эргэлтэйн тэнхлэг 23.5° хазайһан байдаг, дэлхэй дээрхи [[Жэлэйн дүрбэн улирал|улирлын]] өөршлэлтэйн шалтгаан болоно<ref>Ahrens, ''Global Earth Physics: A Handbook of Physical Constants'', p. 8.</ref>.
 
 ==Зүүлтэ==
 {{Зүүлтэ}}
