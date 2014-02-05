@@ -6,7 +6,11 @@
  | caption2 = Дунай мүрэн Европо хамагай шухал гол мүрэдэй нэгэ юм
  | rivers = [[Хара ой]] (Шварцвальд), [[Германи]]
  | outflow = [[Хара тэнгис]]
- | basin_countries = 	{{flagicon|Germany}} [[Германи]] <br /> {{flagicon|Austria}} [[Австри]] <br /> {{flagicon|Hungary}} [[Унгар]] <br /> {{flagicon|Croatia}} [[Хорват]] <br /> {{flagicon|Serbia}} [[Серби]] <br /> {{flagicon|Bulgaria}} [[Болгари]] <br /> {{flagicon|Romania}} [[Румын]] <br /> {{flagicon|Moldova}} [[Молдав]]и <br /> {{flagicon|Ukraine}} [[Украйн]]<ref name=icpdr>{{cite web|url=http://www.icpdr.org/icpdr-pages/countries.htm|title=Countries of the Danube River Basin|publisher=International Commission for the protection of the Danube River|accessdate=2010-11-13}}</ref>
+ | basin_countries = 	 {{hidden | fw1=normal | headerstyle=text-align:left
+  | header  = 10+ уласууд 
+  | content = <div class="hlist hwrap">
+{{flagicon|Germany}} [[Германи]] <br /> {{flagicon|Austria}} [[Австри]] <br /> {{flagicon|Hungary}} [[Унгар]] <br /> {{flagicon|Croatia}} [[Хорват]] <br /> {{flagicon|Serbia}} [[Серби]] <br /> {{flagicon|Bulgaria}} [[Болгари]] <br /> {{flagicon|Romania}} [[Румын]] <br /> {{flagicon|Moldova}} [[Молдав]]и <br /> {{flagicon|Ukraine}} [[Украйн]]<ref name=icpdr>{{cite web|url=http://www.icpdr.org/icpdr-pages/countries.htm|title=Countries of the Danube River Basin|publisher=International Commission for the protection of the Danube River|accessdate=2010-11-13}}</ref>
+</div>}}
  | depth = 230 м
  | length = 2860 км
  | elevation = Эхин:1 078 м
@@ -14,6 +18,9 @@
  | catchment = 817 000 км<sup>2</sup>
 }}
 '''Дунай мүрэн''' — [[Эжэл мүрэн]]эй дараахи [[Европо|Европын]] хоёр дахи урта мүрэн юм. Дунай мүрэниинь [[Альпууд]]ай нюруунай арын баруун урда [[Герман]]и дахи голуудһаа эхэ абажа дурнада Европо руу [[Герман]]и, [[Австри]], [[Унгар]], [[Словак]]и, [[Хорват]]и, [[Серби]], [[Унгар]], [[Австри]], [[Унгар]], [[Болгар]]и, [[Румын]]и уласуудые дамжан урдажа, [[Хара тэнгис]]тэ шудхадаг. Ниитэ урта 2,860 км, һаба газара талбай 817 мянган км² байдаг.
+
+== Зүүлтэ ==
+{{зүүлтэ}}
 
 == Холбооһон ==
 {{Commonscat|Danube}}
@@ -30,10 +37,9 @@
 * [http://www.bridgesofbudapest.com/ Bridges of Budapest over the Danube]
 * [http://www.ticket.info.hu/en/special-programs/private-guided-tours/danube-bend-tour Danube Bend Tours, Hungary]
 
-== Зүүлтэ ==
-{{зүүлтэ}}
-
 {{1000 үгүүлэл}}
+
+[[Категори:Гол мүрэн]]
 
 {{Link GA|de}}
 {{Link GA|pl}}
