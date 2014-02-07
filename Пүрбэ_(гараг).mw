@@ -1,0 +1,116 @@
+{{Гараг
+| bgcolour = #FFC8A0
+| name = Пүрбэ гараг
+| symbol = [[Файл:Jupiter symbol.svg|25px|Пүрбэ гарагай одон орны тэмдэг]]
+| image = [[Файл:Jupiter.jpg|240px|Пүрбэ гараг]]
+| caption = 1979 оной Вояджер 1 сансарай хүлгын абаһан зурагые сайжаруулһан хэлбэри.
+| orbit_ref =
+<ref name=horizons>{{cite web
+ | last = Yeomans | first = Donald K. | date = 2006-07-13
+ | url = http://ssd.jpl.nasa.gov/?horizons
+ | title = HORIZONS System | publisher = NASA JPL
+ | accessdate = 2007-08-08 }} — At the site, go to the "web interface" then select "Ephemeris Type: Elements", "Target Body: Jupiter Barycenter" and "Center: Sun".</ref><ref name=barycenter>Orbital elements refer to the barycenter of the Jupiter system, and are the instantaneous [[osculating orbit|osculating]] values at the precise [[J2000]] epoch. Barycenter quantities are given because, in contrast to the planetary centre, they do not experience appreciable changes on a day-to-day basis from to the motion of the moons.</ref>
+| epoch = [[J2000]]
+| apoapsis = 816,520,800 км (5.458104 [[одон ороной нэгэжэ|а.н.]])
+| periapsis = 740,573,600 км (4.950429 а.н.)
+| semimajor = 778,547,200 км (5.204267 а.н.)
+| eccentricity = 0.048775
+| inclination = 1.305° ([[Эклиптика]]да<br />6.09° (Наранай экваторда)<br />0.32°   ([[Тогтомол хабтанда]])<ref name=meanplane>{{cite web
+  |date=2009-04-03
+  |title=The MeanPlane (Invariable plane) of the Solar System passing through the barycenter
+  |url=http://home.comcast.net/~kpheider/MeanPlane.gif
+  |accessdate=2009-04-10|archiveurl=http://web.archive.org/20090420194536/home.comcast.net/~kpheider/MeanPlane.gif|archivedate=2009-04-20}} (produced with [http://chemistry.unina.it/~alvitagl/solex/ Solex 10] written by Aldo Vitagliano; see also [[Invariable plane]])</ref>
+| asc_node = 100.492°
+| arg_peri = 275.066°
+| mean_anomaly = 18.818°
+| period = 4,331.572&nbsp;[[өдөр]]<br />11.85920&nbsp;[[Юлианай жэл (одон орон)|Юлианай жэл]]
+| synodic_period = 398.88&nbsp;өдөр<ref name="fact">{{cite web|url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html|title = Jupiter Fact Sheet|publisher = NASA|last = Williams|first = Dr. David R.|accessdate = 2007-08-08|date = November 16, 2004}}</ref>
+| avg_speed = 13.07&nbsp;км/с<ref name="fact"/>
+| satellites = [[Бархасбадийн дагуулууд|63]]
+| physical_characteristics = yes
+| flattening = 0.06487 ± 0.00015 <!-- calculated from data in ref name=Seidelmann2007 -->
+| equatorial_radius = 71,492 ± 4&nbsp;км<ref name=Seidelmann2007>{{cite journal
+  | last= Seidelmann| first= P. Kenneth
+  | coauthors= Archinal, B. A.; A’hearn, M. F.; et al.
+  | title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006
+  | journal= Celestial Mechanics and Dynamical Astronomy
+  | volume=90 | pages=155–180 | year=2007
+  | doi=10.1007/s10569-007-9072-y
+  | url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y
+  | accessdate=2007-08-28 }}</ref><ref name=1bar>Refers to the level of 1 bar atmospheric pressure</ref> <br />11.209 дэлхэй
+| polar_radius = 66,854 ± 10&nbsp;км<ref name=Seidelmann2007/><ref name=1bar/> <br />10.517&nbsp;дэлхэй
+| surface_area = 6.21796×10<sup>10</sup>&nbsp;км²<ref name=1bar/><ref name="nasafact">[http://solarsystem.nasa.gov/planets/profile.cfm?Object=Jupiter&Display=Facts NASA: Solar System Exploration: Planets: Jupiter: Facts & Figures]</ref><br />121.9 дэлхэй
+| volume = 1.43128×10<sup>15</sup>&nbsp;км³<ref name="fact"/><ref name=1bar/> <br />1321.3&nbsp;дэлхэй
+| mass = 1.8986×10<sup>27</sup>&nbsp;kg<ref name="fact"/> <br />317.8&nbsp;дэлхэй
+| density = 1.326&nbsp;г/см³<ref name="fact"/><ref name=1bar/>
+| surface_grav = 24.79&nbsp;[[Хурдатгал|м/с²]]<ref name="fact"/><ref name=1bar/><br />2.528&nbsp;[[хүндийн хүчний хурдатгал|g]]
+| escape_velocity = 59.5&nbsp;км/с<ref name="fact"/><ref name=1bar/>
+| sidereal_day = 9.925&nbsp;саг<ref>{{cite web
+  | author = Seidelmann, P. K.; Abalakin, V. K.; Bursa, M.; Davies, M. E.; de Burgh, C.; Lieske, J. H.; Oberst, J.; Simon, J. L.; Standish, E. M.; Stooke, P.; Thomas, P. C.
+  | year = 2001 | url = http://www.hnsky.org/iau-iag.htm
+  | title = Report of the IAU/IAG Working Group on Cartographic Coordinates and Rotational Elements of the Planets and Satellites: 2000
+  | publisher = HNSKY Planetarium Program
+  | accessdate = 2007-02-02 }}</ref>
+| rot_velocity = 12.6&nbsp;км/с<br />45,300&nbsp;км/саг
+| axial_tilt = 3.13°<ref name="fact"/>
+| right_asc_north_pole = 268.057°<br />17&nbsp;саг 52&nbsp;мин 14&nbsp;сек<ref name=Seidelmann2007/>
+| declination = 64.496°<ref name=Seidelmann2007/>
+| albedo = 0.343 ([[Бондын албедо|бонд]])<br />
+0.52 ([[Geometric albedo|geom.]])<ref name="fact"/>
+| magnitude = -1.6-с -2.94<ref name="fact"/>
+| angular_size = 29.8" — 50.1"<ref name="fact"/>
+| temperatures = yes
+| temp_name1 = 1 bar level
+| min_temp_1 = 
+| mean_temp_1 = 165&nbsp;[[Кельвин|K]]<ref name="fact"/>
+| max_temp_1 = 
+| temp_name2 = 0.1 bar
+| min_temp_2 = 
+| mean_temp_2 = 112&nbsp;K<ref name="fact"/>
+| max_temp = 
+| atmosphere = yes
+| atmosphere_ref =
+<ref name="fact"/>
+| surface_pressure = 20–200&nbsp;[[Pascal (unit)|kPa]]<ref>{{cite journal
+  | author=Anonymous | title=Probe Nephelometer
+  | journal=Galileo Messenger | publisher=NASA/JPL
+  | month=March | year=1983 | issue=6
+  | url=http://www2.jpl.nasa.gov/galileo/messenger/oldmess/2Probe.html
+  | accessdate = 2007-02-12 }}</ref> (үүлэн&nbsp;дабхраа)
+| scale_height = 27&nbsp;км 
+| atmosphere_composition = 
+<table>
+<tr><td>
+89.8±2.0%</td><td>[[Уһантүрэгшэ]] (H<sub>2</sub>)
+</td></tr><tr><td>
+10.2±2.0%</td><td>[[Гели]]
+</td></tr><tr><td>
+~0.3%</td><td>[[Метан]]
+</td></tr><tr><td>
+~0.026%</td><td>[[Аммон]]
+</td></tr><tr><td>
+~0.003%</td><td>[[Уһантүрэгшын детрит]] (HD)
+</td></tr><tr><td>
+0.0006%</td><td>[[Этан]]
+</td></tr><tr><td>
+0.0004%</td><td>[[Уһан]] 
+</td></tr><tr><td>
+'''Мүльһэн''':</td><td>
+</td></tr><tr><td>
+</td><td>[[Амони]]
+</td></tr><tr><td>
+</td><td>[[Уһан]]
+</td></tr><tr><td>
+</td><td>[[Аммониин гидросульфат]](NH<sub>4</sub>SH)
+</td></tr></table>
+}}
+'''Пүрбэ гараг''' ({{lang-bod|ཕུར་བུ}}) [[наранай аймаг]] дахи табадахи [[гараг]] юм. Эные абарга томо хиин гараг гэжэ нэрэлдэг ба ушариинь уг гарга хиинһээ тогтодог бүгөөд наранай аймагай хамагай томо гараг юм. Түүнэй массань маша ехэ ба наранай аймагай бусад долоон гарагай массын ниилбэриһээшье ехэ байдаг. Пүрбэ гарагай [[татадаг хүсэн]] [[дэлхэй]]һээ олон дахин ехэ. Һүниинь цельсиин 1250 хэм халуун байха ба үглөөнь цельсиин 1700 хэм халуун байна. Сасараг туяа ехэтэй байдаг ушарһаа 150 000 километрай зайда байһаншье ами наһанда аюултай хэмжээһээ 500 дахин ехэ сасараг туяатай байдаг. [[Агаар мандаал]]дань [[гели]] байдаг болобошье ехэнхи хубииень уһантүрэгшэ эзэлнэ. [[Ород хэлэн|Ород]], бусад [[Европо|Европын]] [[хэлэн]]уудта [[Эртэнэй Рома|Ромын]] [[мифологи|бурхадай]] хаан [[Юпитер]]ай (''Jupiter'') нэрээр нэрэлэгдэһэн.
+
+== Зүүлтэ ==
+{{зүүлтэ}}
+
+{{Наранай аймаг}}
+
+[[Категори:Наранай аймаг]]
+[[Категори:Гарагууд]]
+{{1000 үгүүлэл|Пүрбэ (гараг)}}
