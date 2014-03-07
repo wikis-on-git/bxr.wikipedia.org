@@ -1,0 +1,82 @@
+{{Гараг
+| bgcolour = #D8BBA6
+| name = Һагба
+| symbol = [[Файл:mercury symbol.svg|25px|Һагба гарагай одон ороной тэмдэг]]
+| image = [[Файл:Mercury in color - Prockter07 centered.jpg|240px|Һагба]]
+| caption = [[MESSENGER]] хүлгэнһөө абаһан Һагба гарагай худал үнгэтэ зураг
+| orbit_ref =<ref name=horizons>{{cite web
+  | date=[[April 7]], [[2008]] | first=Donald K. | last=Yeomans
+  | url=http://ssd.jpl.nasa.gov/?horizons
+  | title=HORIZONS System
+  | publisher=NASA JPL | accessdate=2008-04-07 }}</ref>
+| epoch = [[J2000]]
+| apoapsis = 69,816,900 км<br />0.466&nbsp;697 [[одон ороной нэгэжэ|а.н.]]
+| periapsis = 46,001,200 км<br />0.307&nbsp;499 а.н.
+| semimajor = 57,909,100 км<br />0.387&nbsp;098 а.н.
+| eccentricity = 0.205&nbsp;630<ref name="nssdcMercury" />
+| period = 87.969&nbsp;1 [[өдөр]]<br />(0.240&nbsp;846 [[Юлианай жэл (одон орон)|Юлианай жэл]])
+| synodic_period = 115.88&nbsp;өдөр<ref name="nssdcMercury">{{cite web|title=Mercury Fact Sheet|url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html|publisher=[[NASA]] Goddard Space Flight Center | date=[[November 30]], [[2007]] |accessdate=2008-05-28}}</ref>
+| avg_speed = 47.87 км/с<ref name="nssdcMercury" />
+| inclination = 7.005° ([[эклиптик]]т)<br />3.38° ([[эклиптик|наранай экваторда]])<br />6.34° ([[тогтмол хабатан]]да)<ref name=meanplane>{{cite web
+  |date=2009-04-03
+  |title=The MeanPlane (Invariable plane) of the Solar System passing through the barycenter
+  |url=http://home.comcast.net/~kpheider/MeanPlane.gif
+  |accessdate=2009-04-03|archiveurl=http://web.archive.org/20090420194536/home.comcast.net/~kpheider/MeanPlane.gif|archivedate=2009-04-20}} (produced with [http://chemistry.unina.it/~alvitagl/solex/ Solex 10] written by Aldo Vitagliano; see also [[Invariable plane]])</ref>
+| asc_node = 48.331°
+| arg_peri = 29.124°
+| mean_anomaly = 174.796°
+| satellites = Байхагүй
+| physical_characteristics = yes
+diameter = 4,880 km
+| mean_radius = 2,439.7&nbsp;±&nbsp;1.0&nbsp;км<ref name=nasa>{{cite web
+  | date=May 28, 2009 | first=Kirk | last=Munsell
+  | coauthors=Smith, Harman; Harvey, Samantha
+  | url=http://solarsystem.nasa.gov/planets/profile.cfm?Object=Mercury&Display=Facts
+  | title=Mercury: Facts & Figures
+  | work=Solar System Exploration
+  | publisher=NASA | accessdate=2008-04-07 }}
+</ref><ref name=Seidelmann2007>{{cite journal
+  | last= Seidelmann| first= P. Kenneth
+  | coauthors= Archinal, B. A.; A’hearn, M. F.; et al.
+  | title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006
+  | journal= Celestial Mechanics and Dynamical Astronomy
+  | volume=90 | pages=155–180 | year=2007
+  | doi=10.1007/s10569-007-9072-y
+  | url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y
+  | accessdate=2007-08-28 }}</ref><br />0.3829 Дэлхэй
+| flattening = < 0.0006<ref name=Seidelmann2007/> <!-- calculated from data in ref name=Seidelmann2007 -->
+| surface_area = 7.48{{e|7}}&nbsp;км²<br />0.147 Дэлхэй<ref name=nasa/>
+| volume = 6.083{{e|10}}&nbsp;км³<br />0.054 Дэлхэй<ref name=nasa/>
+| mass = 3.3022{{e|23}}&nbsp;кг<br />0.055 Дэлхэй<ref name=nasa/>
+| density = 5.427&nbsp;г/см³<ref name=nasa/>
+| surface_grav = 3.7&nbsp;[[хурдатгал|м/с²]]<br />0.38 [[татадаг хүсэнэй хурдадхал|g]]<ref name=nasa/>
+| escape_velocity = 4.25&nbsp;км/с<ref name=nasa/>
+| sidereal_day = 58.646 өдөр<br />1407.5&nbsp;[[саг]]<ref name=nasa/>
+| rot_velocity = 10.892 км/цаг (3.026 м/с)
+| axial_tilt = 2.11′&nbsp;±&nbsp;0.1′<ref name=Margot2007>{{cite journal| last=Margot | first=L.J.| coauthors=Peale, S. J.; Jurgens, R. F.; Slade, M. A.; Holin, I. V.| title=Large Longitude Libration of Mercury Reveals a Molten Core| journal=Science| year=2007 | volume=316 | pages=710–714| doi=10.1126/science.1140514
+| url=http://adsabs.harvard.edu/abs/2007Sci...316..710M| pmid=17478713}}</ref>
+| right_asc_north_pole = 18 цаг 44 мин 2 сек<br />281.01°<ref name="nssdcMercury" />
+| declination = 61.45°<ref name="nssdcMercury" />
+| albedo = 0.119 ([[Бондын албедо|бонд]])<br />
+0.106 ([[Геометр албедо|геом.]])<ref name="nssdcMercury" />
+| magnitude = −1.9 хүртэл<ref name="nssdcMercury" />
+| angular_size = 4.5" – 13"<ref name="nssdcMercury" />
+| temperatures = yes
+| temp_name1 = 0°N, 0°W <!-- Vasavada et al. 1999-->
+| min_temp_1 = 100 K
+| mean_temp_1 = 340 K
+| max_temp_1 = 700 K
+| temp_name2 = 85°N, 0°W
+| min_temp_2 = 80 K
+| mean_temp_2 = 200 K
+| max_temp_2 = 380 K
+| atmosphere = yes
+| surface_pressure = маш бага
+| atmosphere_composition = 42% молекула хэлбэритэй [[хүшэлтүрэгшэ]]<br />29.0% [[натри]]<br />22.0% [[уһантүрэгшэ]]<br />6.0% [[гели]]<br />0.5% [[кали]]<br />Маша бага хэмжээнэй [[аргон]], [[азот]], [[нүүрһэнхүшэлэй хии]], [[уһан|уһанай уурал]], [[ксенон]], [[криптон]], [[неон]]<ref name="nssdcMercury" />
+}}
+'''Һагба''' буюу ''Лхагба'' {{lang-bod|ལྷག་པ།}} — [[Наранай аймаг|наранай аймаг]] дахи наранда хамагай ойрохон, хамагай бишыхан, халуунаараа хоёрто (хамагай халууниинь [[Баасан (гараг)|Баасан]] гараг) орохо [[гараг]] юм. Гадаргуунь тогоонуудаар бүрихэгдэһэн тула [[һара]]тай адлихан харагдадаг. Үдэрынь маша халуун, һүнинь маша хүйтэн.
+
+== Зүүлтэ ==
+{{зүүлтэ}}
+
+{{1000 үгүүлэл}}
