@@ -1,0 +1,152 @@
+{{Гараг
+| bgcolour = #FFCC66 
+| name = Бямба
+| symbol = [[Файл:Saturn symbol.svg|25px|Бямба гарагийн одон орны тэмдэг]] 
+| image = [[Файл:Saturn during Equinox.jpg|280px|Бямба]]
+| caption = [[Кассини-Хюгейнс|Кассини]] хөлгөөр авсан зураг
+| orbit_ref =
+<ref name=horizons>{{cite web
+ | last = Yeomans | first = Donald K. | date = 2006-07-13
+ | url = http://ssd.jpl.nasa.gov/?horizons
+ | title = HORIZONS System | publisher = NASA JPL
+ | accessdate = 2007-08-08 }}—At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Saturn Barycenter" and "Center: Sun".</ref><ref name=barycenter>Orbital elements refer to the barycenter of the Saturn system, and are the instantaneous [[osculating orbit|osculating]] values at the precise [[J2000]] epoch. Barycenter quantities are given because, in contrast to the planetary centre, they do not experience appreciable changes on a day-to-day basis from to the motion of the moons.</ref>
+| epoch = J2000
+| apoapsis = 1,513,325,783&nbsp;км<br />10.115&nbsp;958&nbsp;04 [[одон орны нэгж|а.н.]]
+| periapsis = 1,353,572,956&nbsp;км<br />9.048&nbsp;076&nbsp;35 а.н.
+| semimajor = 1,433,449,370 км<br />9.582&nbsp;017&nbsp;20 а.н.
+| eccentricity = 0.055&nbsp;723&nbsp;219
+| period = 10,832.327 [[өдөр]]<br />29.657&nbsp;296 [[Юлианы жил (одон орон)|жил]]
+| synodic_period = 378.09 өдөр<ref name="fact"/>
+| avg_speed = 9.69&nbsp;км/с<ref name="fact"/>
+| inclination = 2.485&nbsp;240° ([[Эклиптик]]т)<br />5.51° ([[Эклиптик|Наранай экваторт]])<br />0.93° ([[Тогтмол хавтан]]д)<ref name=meanplane>{{cite web
+  |date=2009-04-03
+  |title=The MeanPlane (Invariable plane) of the Solar System passing through the barycenter
+  |url=http://home.comcast.net/~kpheider/MeanPlane.gif
+  |accessdate=2009-04-10|archiveurl=http://web.archive.org/20090420194536/home.comcast.net/~kpheider/MeanPlane.gif|archivedate=2009-04-20}} (produced with [http://chemistry.unina.it/~alvitagl/solex/ Solex 10] written by Aldo Vitagliano; see also [[Invariable plane]])</ref>
+| asc_node = 113.642&nbsp;811°
+| arg_peri = 336.013&nbsp;862°
+| mean_anomaly = 320.346&nbsp;750°
+| satellites = [[Бямбаийн дагуулууд|харагдсан ~ 200 (тогтмол орбиттой 61)]]
+|maximum distance from sun = 1.5 тэрбум км
+|minimum distance from sun = 1.35 тэрбум км
+| physical_characteristics = yes
+| flattening = 0.097&nbsp;96 ± 0.000&nbsp;18 <!-- calculated using data from ref name=Seidelmann2007 -->
+| equatorial_radius = 60,268 ± 4&nbsp;км<ref name=Seidelmann2007>{{cite journal|last= Seidelmann|first= P. Kenneth|coauthors= Archinal, B. A.; A’hearn, M. F.; et al.|title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006|journal= Celestial Mech. Dyn. Astr. |volume=90|pages=155–180|year=2007|doi=10.1007/s10569-007-9072-y|url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y}}</ref><ref name=1bar>Refers to the level of 1 bar atmospheric pressure</ref><br />9.4492 Дэлхэй
+| polar_radius = 54,364 ± 10&nbsp;км<ref name=Seidelmann2007/><ref name=1bar/><br />8.5521 Дэлхэй
+| surface_area = 4.27{{e|10}} км²<ref name=1bar/><ref name="nasafact">[http://solarsystem.nasa.gov/planets/profile.cfm?Object=Saturn&Display=Facts NASA: Solar System Exploration: Planets: Saturn: Facts & Figures]</ref><br />83.703 Дэлхэй
+| volume = 8.2713{{e|14}} км³<ref name="fact">{{cite web
+|url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html
+|title = Saturn Fact Sheet
+|publisher = NASA
+|last = Williams
+|first = Dr. David R.
+|accessdate = 2007-07-31
+|date = September 7, 2006}}</ref><ref name=1bar/><br />763.59 Дэлхэй
+| mass = 5.6846{{e|26}} кг<ref name="fact"/><br />95.152 Дэлхэй
+| density = 0.687 г/см³<ref name="fact"/><ref name=1bar/><br /> ([[ус]]наас бага)
+| surface_grav = 8.96 [[хурдатгал|м/с²]]<ref name="fact"/><ref name=1bar/><br />0.914 [[хүндийн хүчний хурдатгал|''g'']]
+| escape_velocity = 35.5&nbsp;км/с<ref name="fact"/><ref name=1bar/>
+| sidereal_day = 0.439 – 0.449 өдөр<ref name="saturnDay">{{cite web
+|url = http://www.space.com/scienceastronomy/070906_saturn_day.html
+|title = Length of Saturn's Day Revised
+|publisher = Space.com
+|last = Than
+|first = Ker
+|accessdate = 2007-09-06
+|date = September 6, 2007}}</ref><br /> (10 саг 32 – 47 мин)
+| rot_velocity = 9.87&nbsp;км/с<ref name=1bar/><br />35&nbsp;500&nbsp;км/саг
+| axial_tilt = 26.73°<ref name="fact"/>
+| right_asc_north_pole = 2 саг 42 мин 21 сек<br />40.589°<ref name=Seidelmann2007/>
+| declination = 83.537°<ref name=Seidelmann2007/>
+| albedo = 0.342 ([[Бондын албедо|бонд]])<br />
+0.47 ([[Геометр албедо|геом.]])<ref name="fact"/>
+| magnitude = +1.2 to -0.24<ref name="magnitude">{{cite web
+|url = http://findarticles.com/p/articles/mi_qa4015/is_200101/ai_n8933308
+|title = Wideband photoelectric magnitude measurements of Saturn in 2000
+|accessdate = 2007-10-14
+|last = Schmude
+|first = Richard W Junior
+|year = 2001
+|publisher = Georgia Journal of Science}}</ref>
+| angular_size = 14.5" — 20.1"<ref name="fact"/><br />(сагирагуудыг тооцолгүй)
+| temperatures = yes
+| temp_name1 = 1 бар түвшин
+| min_temp_1 = 
+| mean_temp_1 = 134&nbsp;[[Kelvin|K]]<ref name="fact"/>
+| max_temp_1 = 
+| temp_name2 = 0.1 бар
+| min_temp_2 = 
+| mean_temp_2 = 84&nbsp;K<ref name="fact"/>
+| max_temp = 
+| atmosphere = yes
+| atmosphere_ref =
+<ref name="fact"/>
+| scale_height = 59.5 км
+| atmosphere_composition = 
+<table>
+<tr><td>
+~96%</td><td>[[Уһантүрэгшэ]] (H<sub>2</sub>)
+</td></tr><tr><td>
+~3%</td><td>[[Гели]]
+</td></tr><tr><td>
+~0.4%</td><td>[[Метан]]
+</td></tr><tr><td>
+~0.01%</td><td>[[Аммон]]
+</td></tr><tr><td>
+~0.01%</td><td>[[Уһантүрэгшын детрит]] (HD)
+</td></tr><tr><td>
+0.000&nbsp;7%</td><td>[[Этан]]
+</td></tr><tr><td>
+'''Мүльһэнүүд''':</td><td>
+</td></tr><tr><td>
+</td><td>[[Аммон]]
+</td></tr><tr><td>
+</td><td>[[Уһан]]
+</td></tr><tr><td>
+</td><td>[[Аммоний гидросульфид]](NH<sub>4</sub>SH)
+</td></tr></table>
+}}
+'''Бямба гараг''' ({{lang-bod|སྤེན་པ།}}) — [[Наранай аймаг|Наранай аймагай]] хоёрдохи томо гараг ([[Пүрбэ (гараг)|Пүрбын]] дараа), [[наран]]һаа тоолбол зургаадахи гараг юм. Бямба болон [[Пүрбэ (гараг)|Пүрбэ]], [[Далайн ван]], [[Тэнгэриин ван]] нараные хиин гарагууд гэдэг. 
+
+Бямба гарагынь [[уһантүрэгшэ]] болон бага хэмжээнэй [[гели]] зэргэһээ тогтоно.<ref name="Voyager Summary 1">{{cite web
+|title = Voyager Saturn Science Summary
+|url = http://www.solarviews.com/eng/vgrsat.htm
+|first = Calvin
+|middle = J.
+|last = Hamilton
+|accessdate = 2007-07-05
+|year = 1997
+|publisher = Solarviews}}</ref> Бүтэсынь шулуулиг, мүльһэнһөө тогтохо сүмэ, металл уһантүрэгшэһөө тогтохо манти ба хиин гадаад дабхараа юм. Гаданахи [[агаар мандал]]ынь /юрэнхыдөө үнгэлиг бэшэшье гэһэн хааяа удаан оршохо онсолгонууд бии болодог. Бямба дээрэ һалхинай хурдан 1,800&nbsp;км/сагта хүрэхэ бүгөөд энэнь Пүрбынхиһаа харисангы ехэ юм. [[Татадаг хүсэн]]иинь Дэлхэйн болон Пүрбын хүсэнүүдэй дундажа оршом юм.
+[[Файл:The_Day_the_Earth_smiled.jpg|left|500px|Бямба гарагийг 2013 оны 7 сарын 19-нд Кассини хөлгөөс Наранай сүүдэр талаас нь авсан зураг]]
+Бямбань мүльһэн, бага хэмжээнэй шулуунай хэлтэрхы, тооһонһоо тогтохо [[Бямбын сахирганууд|сахиргын системэтэй]]. Гарагые одоогоор жаран нэгэн дахуул тойрожобо тогтооһон бүгөөд үүнһээ гадана хэдэн зуун дахуулансарнууд сахирга дотор оршоно. Бямбын хамагай томо дахуул [[Титан (дахуул)|Титан]]иинь Наранай аймагай хоёрдохи томо дахуул (Пүрбын [[Ганимед (дахуул)|Ганимедэй]] дараа ороно) бүгөөд [[Һагба (гараг)|Һагба]] гарагһаашье томо хэмжээтэй. Үүнһээ гадана ехээхэн хэмжээнэй агаар мандалтай сорын ганса дахуул юм.<ref name="Titan ref">{{cite web
+|url = http://saturn.jpl.nasa.gov/news/features/saturn-story/moons.cfm
+|title = The Story of Saturn
+|accessdate = 2007-07-07
+|last = Munsell
+|first = Kirk
+|date = April 6, 2005
+|publisher = NASA Jet Propulsion Laboratory; California Institute of Technology}}</ref>
+
+Бямбын [[Ород хэлэн|ород нэрэ]] ''сатурн'' — [[Ромын бурхад|Ромын хүдөө ажахы, ургасын бурхан]] [[Сатурн]]ай нэрээр нэрэлэгдэһэн. Одон ороной тэмдэгынь тухайн бурханай хадуур болоно ([[юникод]]: ♄). 
+
+[[File:1Saturn.Aurora.HST.UV-Vis.jpg|left|300px|Бямба гарагай урда туйлын туяае хосолмол спектрын аргаар тодоруулжа абаһан зураг]]
+
+== Зүүлтэ ==
+{{зүүлтэ}}
+
+== Холбооһон ==
+{{commonscat|Saturn (planet)|Бямба}}
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Saturn Introduction to Saturn] by NASA's Solar System Exploration
+* [http://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html Saturn Fact Sheet], by NASA
+* [http://saturn.jpl.nasa.gov/home/index.cfm Cassini-Huygens mission] to Saturn, by NASA
+* [http://www.sciencedaily.com/news/space_time/saturn/ Research News] about Saturn
+* [http://www.solarviews.com/eng/saturn.htm General information] about Saturn
+* [http://www.affs.org/html/studies_on_the_rings_of_saturn.html Studies on the Rings] of Saturn
+* [http://www.astronomycast.com/astronomy/episode-59-saturn/ Astronomy Cast: Saturn]
+
+{{Наранай аймаг}}
+
+[[Категори:Наранай аймаг]]
+[[Категори:Гарагууд]]
+
+{{1000 үгүүлэл|Бямба (гараг)}}
