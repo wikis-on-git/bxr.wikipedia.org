@@ -1,0 +1,109 @@
+{{Гараг
+| bgcolour = #EDD58B
+| name = Баасан
+| symbol = [[Файл:Venus symbol.svg|25px|Сураг гарагай одон ороной тэмдэг]]
+| image = [[Файл:Venus-real.jpg|240px|Баасан]]<!--Licensing conditions: Image processing by R. Nunes http://www.astrosurf.com/nunes-->
+| caption = Баасан гараг, бодито үнгэтэйгээр
+| epoch = [[J2000]]
+| apoapsis = 108,942,109&nbsp;км<br />0.728&nbsp;231&nbsp;28 [[одон ороной нэгэжэ|а.н.]]
+| periapsis = 107,476,259&nbsp;км<br />0.718&nbsp;432&nbsp;70 а.н.
+| semimajor = 108,208,930 км<br />0.723&nbsp;332 а.н.
+| eccentricity = 0.006&nbsp;8
+| period = 224.700&nbsp;69 [[үдэр]]<br />0.615&nbsp;197&nbsp;0 [[Юлианай жэл (одон орон)|Юлианай жэл]]
+| synodic_period = 583.92 үдэр<ref name=nssdc>{{cite web
+  | url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html
+  | title=Venus Fact Sheet | publisher=NASA
+  | last=Williams |first=David R.
+  | date=April 15, 2005 | accessdate=2007-10-12 }}</ref><ref>{{cite web
+ | title = Titan, Mars and Earth: Entropy Production by Latitudinal Heat Transport
+ | author=Lorenz, Ralph D.; Lunine, Jonathan I.; Withers, Paul G.; McKay, Christopher P. 
+ | publisher==[[Ames Research Center]], University of Arizona Lunar and Planetary Laboratory | url=http://sirius.bu.edu/withers/pppp/pdf/mepgrl2001.pdf | year=2001 | accessdate=2007-08-21
+ | format=PDF}}</ref><ref>{{cite web
+ | title=Interplanetary Seasons | work=NASA | url=http://science.nasa.gov/headlines/y2000/interplanetaryseasons.html | accessdate=2007-08-21 }}</ref>
+| avg_speed = 35.02&nbsp;км/с
+| inclination = 3.394&nbsp;71° ([[Эклиптик]]т)<br />3.86° ([[Эклиптик|Нарны экваторт]])<br />2.19° ([[Тогтмол хавтан]]д)<ref name=meanplane>{{cite web
+  |date=2009-04-03
+  |title=The MeanPlane (Invariable plane) of the Solar System passing through the barycenter
+  |url=http://home.comcast.net/~kpheider/MeanPlane.gif
+  |accessdate=2009-04-10|archiveurl=http://web.archive.org/20090420194536/home.comcast.net/~kpheider/MeanPlane.gif|archivedate=2009-04-20}} (produced with [http://chemistry.unina.it/~alvitagl/solex/ Solex 10] written by Aldo Vitagliano; see also [[Invariable plane]])</ref>
+| asc_node = 76.670&nbsp;69°
+| arg_peri = 54.852&nbsp;29°
+| satellites = Байхгүй
+| physical_characteristics = yes
+| mean_radius = {{nowrap|6,051.8 ± 1.0 км}}<ref name=Seidelmann2007>{{cite journal
+  | last= Seidelmann| first= P. Kenneth
+  | coauthors= Archinal, B. A.; A’hearn, M. F.; ''et al.''
+  | title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006
+  | journal= Celestial Mechanics and Dynamical Astronomy
+  | volume=90 | pages=155–180 | year=2007
+  | doi=10.1007/s10569-007-9072-y
+  | url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y
+  | accessdate=2007-08-28 }}</ref><br />0.949&nbsp;9 дэлхэй
+| flattening = < 0.000&nbsp;2<ref name=Seidelmann2007/> <!-- calculated from data in ref name=Seidelmann2007 -->
+| surface_area = 4.60{{e|8}} км²<br />0.902 дэлхэй
+| volume = 9.38{{e|11}}&nbsp;км³<br />0.857 дэлхэй
+| mass = 4.868&nbsp;5{{e|24}} кг<br />0.815 дэлхэй
+| density = 5.204&nbsp;г/см³
+| surface_grav = 8.87&nbsp;[[Хурдадхал|м/с<sup>2</sup>]]<br />{{nowrap|0.904 ''[[хүндийн хүчний хурдатгал|g]]''}}
+| escape_velocity = 10.46&nbsp;км/с
+| sidereal_day = 243.018&nbsp;5&nbsp;үдэр
+| rot_velocity = 6.52 км/саг (1.81 м/с)
+| axial_tilt = 177.3°<ref name=nssdc/>
+| right_asc_north_pole = {{nowrap|18 саг 11 мин 2 сек}}<br />272.76°<ref> 
+{{cite web
+  | title = Report on the IAU/IAG Working Group on cartographic coordinates and rotational elements of the planets and satellites
+  | publisher = International Astronomical Union
+  | year= 2000
+  | url = http://www.hnsky.org/iau-iag.htm
+  | accessdate = 2007-04-12}}</ref>
+| declination = 67.16°
+| albedo = 0.65 ([[Геометр албедо|геометри]]) эсэбэл 0.75 ([[Бондын албедо|бонд]])<ref name=nssdc/>
+| magnitude = -4.6 хүрэтэр<ref name=nssdc/> (хахад тойрог)<br />-3.8<ref name=ephemeris>{{cite web
+ | last=Espenak | first=Fred | year=1996 | url=http://sunearth.gsfc.nasa.gov/eclipse/TYPE/venus2.html | title=Venus: Twelve year planetary ephemeris, 1995–2006
+ | work=NASA Reference Publication 1349
+ | publisher=NASA/Goddard Space Flight Center
+ | accessdate=2006-06-20}}</ref> (бүтэн)
+| angular_size = {{nowrap|9.7" – 66.0"}}<ref name=nssdc/>
+| temperatures = yes
+| temp_name1 = [[Кельвин]]
+| mean_temp_1 = 735&nbsp;K<ref name=nssdc/><ref> 
+{{cite web
+  | title = Venus: Facts & Figures 
+  | publisher = NASA
+  | url = http://sse.jpl.nasa.gov/planets/profile.cfm?Object=Venus&Display=Facts&System=Metric
+  | format = html
+  | accessdate = 2007-04-12}}</ref><ref name="compare">{{cite web
+  | title =Space Topics: Compare the Planets: Mercury, Venus, Earth, The Moon, and Mars 
+  | publisher = Planetary Society
+  | url= http://www.planetary.org/explore/topics/compare_the_planets/terrestrial.html
+  | accessdate = 2007-04-12 }}</ref>
+| temp_name2 = [[Цельси]]
+| mean_temp_2 = 461.85&nbsp;°C
+| atmosphere = yes
+| surface_pressure = 9.3 [[Паскал (нэгэжэ)|МПа]]
+| atmosphere_composition = ~96.5% [[Нүүрсхүчлийн хий]]<br />~3.5% [[Азот]]<br />0.015% [[Хүхрийн давхар исэл]]<br />0.007% [[Аргон]]<br />0.002% [[Усны уур]]<br />0.001&nbsp;7% [[Угаарын хий]]<br />0.001&nbsp;2% [[Гели]]<br />0.000&nbsp;7% [[Неон]]<br />trace [[Карбонилийн сульфид]]<br />маш бага [[Давсны хүчил]]<br />маш бага [[Устөрөгчит фторид]]
+}}
+'''Баасан''' гараг ({{lang-bod|པ་སངས།}}) — [[Наранай аймаг|Наранай аймагай]] хоёрдахи, хүрст (хатуу шулуурхаг гадаргуутай) [[гараг]] юм. Баасан гарагынь [[нүүрһэнхүшэлэй хии]], хүхэрэй хүшэлһээ тогтоһон [[агаар мандал]]тай. [[Хүхэрэй хүшэл]]ынь [[дэлхэй]] дээрэ шэнгэн түлэбтэ байдаг болобошье Баасан гараг маша халуун ушар хиин түлэбтэ оршоно. Уг хүхэрлиг үүл сагта 360 км нүүдэг байна. [[Хүлэмжын хии]]н эффектынь Баасан гарагые Наранай аймагай хамагай халуун гараг болгоно. 
+
+Баасан гарагынь [[Наран]]ые [[Дэлхэй]]н 225 [[үдэр]]тэ бүтэн тойрохо ба тэнхэлгээ 243 хоногто нэгэ эргэнэ. [[Дэлхэй]], Баасан гарагай хоорондохо зайнь 40 [[сая]] км бүгөөд Баасан гарагай [[татадаг хүсэн|татаха хүсэн]]иинь дэлхэйнхитэй ойролсоо байна. 
+
+Баасан гарагынь үглөө эртэ, эсэбэл наран жаргаһанай дараахи хэдэн сагта тэнгэритэ харагдана. [[Монгол]]шууд уг гарагые "Үдшийн гялаан", мүн "Үүрийн цолмон" гэжэ нэрэлдэг. 
+
+== Нэмэр ==
+* [[Наранай аймаг]]
+* [[Одон орон]]
+
+== Зүүлтэ ==
+{{зүүлтэ}}
+
+== Холбооһон ==
+{{commonscat|Venus}}
+* [http://www.nineplanets.org/venus.html Nine Planets: Venus]
+* [http://csep10.phys.utk.edu/astr161/lect/venus/venus.html The Planet Venus]
+* [http://www.mentallandscape.com/V_DigitalImages.htm Images of Venus]
+
+{{Наранай аймаг}}
+{{1000 үгүүлэл}}
+
+[[Категори:Наранай аймаг]]
+[[Категори:Гарагууд]]
