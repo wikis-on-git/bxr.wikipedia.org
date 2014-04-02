@@ -1,5 +1,5 @@
 [[Файл:Абак.jpg|thumb|200px|'''[[Сампинг]]''' (абак) ойролсоогоор МЭҮ 1100 оной үедэ зохёон бүтээһэн ба арифметикэ тоосоололдо ашаглаһаар ерэбэ]]
-'''Арифметикэ''' ({{lang-el|ἀριθμητική}}, {{lang-el|ἀριθμός}} — тоон) буюу '''тооной онол''' — хатуухан хэлэхэд тоон тоосоололые һудалжа бай [[тооной ухаан]]ай нэгэ һэлбэри. Үндэһэндээ түүнэй зорилтонь тооной янза бүриин хэлбэринүүдэй шэнжэлгээ юм.
+'''Арифметикэ''' ({{lang-el|ἀριθμητική}}, {{lang-el|ἀριθμός}} — тоон) буюу '''тооной онол''' — хатуухан хэлэхэд тоон тоосоололые һудалжа бай [[тооной ухаан]]ай хамагай эртэ һэлбэри.<ref>{{cite web |title=Mathematics |url=http://www.scienceclarified.com/Ma-Mu/Mathematics.html |publisher=Science Clarified |accessdate=23 October 2012}}</ref> Үндэһэндээ түүнэй зорилтонь тооной янза бүриин хэлбэринүүдэй шэнжэлгээ юм.
 
 Арифметикын гурбан үйлэдэл бол:
 * '''Нэмэхэ''' үйлэдэл (<math>+</math> тэмдэглэһэн)
@@ -16,7 +16,23 @@
 [[File:NCR ATM.JPG|left|thumb|Тооной онолынь банкай ажаллагаанда хэрэглэгдэдэг]]
 Нэмэхэ, үрэжүүлхэ үйлэдэлнүүд ямар нэгэ шэнэшэлэлгүй <math>\mathbb N</math> натурал тооны олонлогийн хүрээнд хэрэглэгддэг. Бүхэл <math>\mathbb Z</math> тоое олон болгоход <math>\mathbb N</math> тоон дээрэ һүрэг бүхэл тоонууд <math>(-1,-2,-3...)</math> болон <math>0</math> нэмэхэ замаар гараган абадаг. Үүнэй дараа хаһаха үйлэдэлые сүлөөтэй ашаглажа болоно. Саашадаа тооной хүрээе хубааха үйлэдэл хэхэд шаардалгатай <math>\mathbb Q</math> бутархай тоое олонлигой замаар үргэдхэдэг. <math>\mathbb N</math>, <math>\mathbb Z</math>, <math>\mathbb Q</math> хамтадаа рациональ тоо <math>\mathbb Q</math>-эй олонлигые үүдхэһэнээр тэгтэ хубаахаһаа бусад математикын бүхыл үндэһэн үйлэдэлнүүдые сүлөөтэй ашаглаха бололсоое бүридүүлдэг. Рациональ тоо бүри бутархай хэлбэригээр <math>\frac{a}{b}</math> гэхэ ба эндэ <math>b</math>–нь бүхэл тоо байна. Рациональ тооной олонлигые иррациональ болготол үргэдхэхэд хизгааргүй, дабтагдадаггүй арбатын бутархайн бэшэглэлэй боломжые гарган абаха шаардалигтай. Тиимэ хэлбэригээр тойрогой ута болон түүнэй диаметрэй <math>(n)</math> харисаае бэшэдэг. Түүнһээ гадана дурын квадратай тоосоое хизгаарлалтагүйгээр хэхэ бололсоотой болодог. Рациональ болон иррациональ тоонуудой олонлигые нэгэдхэхые жэнхэнэ тооной олонлиг <math>\mathbb R</math> гэжэ нэрэлдэг. Юунай үмэнэ бодито аммдаралда хэрэглээгүй тоонуудай олонлигой саашадын үргэдхэлнүүдшье бололсоотой юм. Тэдэгээрэй тоондо хаһаха нэгэжэһээ квадрат изагуур гаргалтаар дамжуулан <math>i^{2} = -1</math> тэгшэтгэлэй шиидэлээр оруулһан хуурмаг тооной олонлигууд хамаарагдана. “Хуурмаг” гэдэг үгэнь тухайн тоонууд хэрэглээнэй тодорхой һалбарида байдаг һанаанһаа зохёомол үзэл баримталал гэдэгые заажа бай хэрэг. Инженерэй болон физикын тоосоолол жэнхэнэ болон хуурмаг тоое өөртөө багтааһан согсолбор тоонуудые оруулһанаар хямдааршалагдадаг.
 
+{{Sci-stub}}
+== Зүүлтэ ==
+{{зүүлтэ}}
+<div class="references-small" style="-moz-column-count:2; column-count:2;">
+*Cunnington, Susan, ''The Story of Arithmetic: A Short History of Its Origin and Development'', Swan Sonnenschein, London, 1904
+*[[Leonard Eugene Dickson|Dickson, Leonard Eugene]], ''[[History of the Theory of Numbers]]'' (3 volumes), reprints: Carnegie Institute of Washington, Washington, 1932; Chelsea, New York, 1952, 1966
+*[[Leonhard Euler|Euler, Leonhard]], ''[http://web.mat.bham.ac.uk/C.J.Sangwin/euler/ Elements of Algebra]'', Tarquin Press, 2007
+*[[Henry Burchard Fine|Fine, Henry Burchard]] (1858–1928), ''The Number System of Algebra Treated Theoretically and Historically'', Leach, Shewell & Sanborn, Boston, 1891
+*[[Louis Charles Karpinski|Karpinski, Louis Charles]] (1878–1956), ''The History of Arithmetic'', Rand McNally, Chicago, 1925; reprint: Russell & Russell, New York, 1965
+*[[Øystein Ore|Ore, Øystein]], ''Number Theory and Its History'', McGraw&ndash;Hill, New York, 1948
+*[[André Weil|Weil, André]], ''Number Theory: An Approach through History'', Birkhauser, Boston, 1984; reviewed: [[Mathematical Reviews]] 85c:01004
+</div>
+
 [[Категори:Тооной ухаан]]
 
 {{1000 үгүүлэл}}
-{{Sci-stub}}
+
+{{Link FA|he}}
+{{Link FA|ru}}
+{{Link FA|la}}
