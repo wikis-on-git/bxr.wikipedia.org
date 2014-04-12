@@ -1,0 +1,121 @@
+{{Гараг
+| bgcolour = #97C3F4
+| name = Далайн ван
+| symbol = [[Файл:Neptune symbol.svg|20px|Далайн ван гаригийн одон орны тэмдэг]]
+| image = [[Файл:neptune.jpg|240px|Вояжер 2 хөлгөөс авсан Далайн вангийн зураг]]
+| caption = ''Вояджер 2'' хүлэгһөө абаһан Далайн вангай зураг
+| discovery = yes
+| discoverer = [[Урбэйн Ле Верриер]]<br /> [[Жон Кауч Адамс]]<br /> [[Иоханн Готтфрид Галле]]
+| discovered = 1846 оны 9 сарын 23<ref name=Hamilton>{{cite web
+ | first=Calvin J. | last=Hamilton | date=August 4, 2001
+ | url=http://www.solarviews.com/eng/neptune.htm
+ | title=Neptune |publisher=Views of the Solar System
+ | accessdate=2007-08-13}}</ref>
+| orbit_ref =
+<ref name=horizons>{{cite web
+ | first=Donald K. | last=Yeomans | date =July 13, 2006
+ | url = http://ssd.jpl.nasa.gov/?horizons
+ | title = HORIZONS System | publisher = NASA JPL
+ | accessdate = 2007-08-08 }}—At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Neptune Barycenter" and "Center: Sun".</ref><ref name=barycentre>Orbital elements refer to the barycentre of the Neptune system, and are the instantaneous [[osculating orbit|osculating]] values at the precise [[J2000]] epoch. Barycentre quantities are given because, in contrast to the planetary centre, they do not experience appreciable changes on a day-to-day basis from to the motion of the moons.</ref>
+| epoch = [[J2000]]
+| apoapsis = 4,553,946,490&nbsp;[[километр|км]]<br />30.44125206&nbsp;[[одон орны нэгж|а.н.]]
+| periapsis = 4,452,940,833&nbsp;км<br />29.76607095&nbsp;а.н.
+| semimajor = 4,503,443,661&nbsp;км<br />30.10366151&nbsp;а.н.
+| eccentricity = 0.011214269
+| period = 60,190<ref name="fact2">{{cite web
+ | first=K.| last=Munsell | coauthors=Smith, H.; Harvey, S.
+ | url = http://solarsystem.nasa.gov/planets/profile.cfm?Object=Neptune&Display=Facts
+ | title = Neptune: Facts & Figures
+ | date =November 13, 2007
+ | publisher = NASA | accessdate = 2007-08-14}}</ref>&nbsp;[[өдөр]]<br />164.79&nbsp;[[юлианы жил (одон орон)|жил]]
+| synodic_period = 367.49&nbsp;өдөр<ref name="fact">{{cite web
+  | url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html
+  | title = Neptune Fact Sheet
+  | date = September 1, 2004
+  | publisher = NASA | accessdate = 2007-08-14
+  | last = Williams |first = David R. }}</ref>
+| avg_speed = 5.43&nbsp;км/с<ref name="fact"/>
+| inclination = 1.767975° ([[Эклиптик]]т)<br />6.43° to ([[Нар]]ны [[экватор]]т)<br />0.72° ([[Тогтмол хавтан]]д)<ref name=meanplane>{{cite web
+  |date=2009-04-03
+  |title=The MeanPlane (Invariable plane) of the Solar System passing through the barycenter
+  |url=http://home.comcast.net/~kpheider/MeanPlane.gif
+  |accessdate=2009-04-10|archiveurl=http://web.archive.org/20090420194536/home.comcast.net/~kpheider/MeanPlane.gif|archivedate=2009-04-20}} (produced with [http://chemistry.unina.it/~alvitagl/solex/ Solex 10] written by Aldo Vitagliano; see also [[Invariable plane]])</ref>
+| asc_node = 131.794310°
+| arg_peri = 265.646853°
+| mean_anomaly = 267.767281°
+| satellites = [[Тангэрийн вангийн дагуулууд|13]]
+| physical_characteristics = yes
+| flattening = 0.0171 ± 0.0013 <!-- calculated from data in ref name=Seidelmann2007 -->
+| equatorial_radius = 24,764 ± 15&nbsp;км<ref name=Seidelmann2007>{{cite journal
+ | first=Seidelmann | last=P. Kenneth
+ | coauthors=Archinal, B. A.; A’hearn, M. F. et al.
+ | title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements
+ | journal=Celestial Mechanics and Dynamical Astronomy
+ | volume=90 | pages=155–180 | year=2007
+ | doi=10.1007/s10569-007-9072-y
+ | url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y
+ |publisher=Springer Netherlands | accessdate=2008-03-07 }}</ref><ref name=1bar>Refers to the level of 1 bar (100 kPa)</ref><br />3.883 дэлхий
+| polar_radius = 24,341 ± 30&nbsp;км<ref name=Seidelmann2007/><ref name=1bar/><br />3.829 дэлхий
+| surface_area = 7.6408{{e|9}}&nbsp;км²<ref name="fact2"/><ref name=1bar/><br />14.98 дэлхий
+| volume = 6.254{{e|13}}&nbsp;км³<ref name="fact"/><ref name=1bar/><br />57.74 дэлхий
+| mass = 1.0243×10<sup>26</sup>&nbsp;кг<ref name="fact"/><br />17.147 дэлхий
+| density = 1.638&nbsp;г/см³<ref name="fact"/><ref name=1bar/>
+| surface_grav = 11.15&nbsp;[[хурдатгал|м/с²]]<ref name="fact"/><ref name=1bar/><br />1.14&nbsp;[[хүндийн хүчний хурдатгал|''g'']]
+| escape_velocity = 23.5&nbsp;км/с<ref name="fact"/><ref name=1bar/>
+| sidereal_day = 0.6713&nbsp;өдөр<ref name="fact"/><br />16&nbsp;цаг 6&nbsp;мин 36&nbsp;сек
+| rot_velocity = 2.68&nbsp;км/с<br />9,660&nbsp;км/цаг
+| axial_tilt = 28.32°<ref name="fact"/>
+| right_asc_north_pole = 19{{smallsup|цаг}} 57{{smallsup|мин}} 20{{smallsup|сек}}<ref name=Seidelmann2007/>
+| declination = 42.950°<ref name=Seidelmann2007/>
+| albedo = 0.290 ([[Бондын албедо|бонд]])<br />
+0.41 ([[Геометр албедо|геом.]])<ref name="fact"/>
+| magnitude = 8.0 -с 7.78<ref name="fact"/><ref name=ephemeris>{{cite web
+ | last=Espenak | first=Fred | date=July 20, 2005
+ | url=http://sunearth.gsfc.nasa.gov/eclipse/TYPE/TYPE.html
+ | title=Twelve Year Planetary Ephemeris: 1995–2006
+ | publisher=NASA | accessdate=2008-03-01 }}</ref>
+| angular_size = 2.2″–2.4″<ref name="fact"/><ref name=ephemeris/>
+| temperatures = yes
+| temp_name1 = 1 бар түвшин
+| min_temp_1 = 
+| mean_temp_1 = 72&nbsp;[[Кельвин|K]]<ref name="fact"/>
+| max_temp_1 = 
+| temp_name2 = 0.1 бар (10 кПа)
+| min_temp_2 = 
+| mean_temp_2 = 55&nbsp;K<ref name="fact"/>
+| max_temp = 
+| atmosphere = yes
+| atmosphere_ref =
+<ref name="fact"/>
+| scale_height = 19.7&nbsp;±&nbsp;0.6 км
+| atmosphere_composition = 
+<table>
+<tr><td>
+80±3.2%</td><td>[[Уһантүрэгшэ]] (H<sub>2</sub>)
+</td></tr><tr><td>
+19±3.2%</td><td>[[Гели]]
+</td></tr><tr><td>
+1.5±0.5%</td><td>[[Метан]]
+</td></tr><tr><td>
+~0.019%</td><td>[[Уһантүрэгшын детрит]] (HD)
+</td></tr><tr><td>
+~0.00015%</td><td>[[Этан]]
+</td></tr><tr><td>
+'''Мөсүүд''':</td><td>
+</td></tr><tr><td>
+</td><td>[[Аммон]]
+</td></tr><tr><td>
+</td><td>[[Ус]]
+</td></tr><tr><td>
+</td><td>[[Аммониин гидросульфат]](NH<sub>4</sub>SH)
+</td></tr><tr><td>
+</td><td>Метан (?)
+</td></tr></table>
+}}
+'''Далайн ван''' ({{lang-zho|海王星}}, «Далайн ван одон») — [[наранай аймаг|наранай аймагай]] наймадахи гараг юм. Хэмжээрээ дүрбэдэхи томо, массаараа гурбадахи томодо тоосогдоно. Далайн вангиинь хажуу дахи нягта арай багатай [[тэнгэриин ван]] гарагһаа үлүү, дэлхэйһээ 17 дахин ехэ массатай. Тус гарагынь [[наран]]ые ойролсоогоор 30.1 [[одон ороной нэгэжэ|а.н.]] зайнда тойроно. Тэнгэриин ван гарагай орбита бага зэрэг өөршэлэгдэжэ байһаные үндэһэлэн 1846 оной 9 һарын 23-нда нээгдэһэн<ref name="Hamilton" /> далайн ван гарагынь ажаглалтаар буса математика тоосоогоор олдоһон анханай гараг болоо. Энэ үедэ мүн хамагай томо дагуур болохо [[Тритон (дахуул)|Тритон]] нээгдэһэн байна. Далайн ванда ошоһон ганса замбулиинай хүлэгынь 1989 оной 8 һарын 25-нда ошоһон ''[[Вояджер 2]]'' байба.
+
+== Зүүлтэ ==
+{{зүүлтэ}}
+
+{{Наранай аймаг}}
+{{1000 үгүүлэл}}
