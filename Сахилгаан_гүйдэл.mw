@@ -60,6 +60,10 @@
 Эндэ [[Джоуль–Ленцын хуули|Джоуль–Ленц]] хоёрой энерги хубирха ба хадгалагдаха хуулиие ашаглан бүтүү хэлхээн дэхи гүйдэлэй хүсэн <math>I, \varepsilon, (R+r)</math>-ын хоорондо холбоо тогтооё. Дамжуулагшын хүндэлэн огтололоор <math>\Delta t</math> хугасаанда <math>\Delta q</math> сэнэг үнгэрһэн гэбэл, энэ сэнэгые шэлжүүлхэ гаднын хүсэнэй ажал <math>A = \varepsilon \cdot \Delta q</math> байна. 
 
 <math>I=\frac{q}{t} \Rightarrow q=I \cdot t</math> ушар <math>A = \varepsilon \cdot I \cdot \Delta t</math> болоно. Хэлхээнэй гадаада дотоодо хэһэгтэ энэ ажал хэхэд дулаан илгарха бүгөөд түүнэй хэмжээнь Джоуль-Ленцын хуули ёһоор
-<math>Q=I^{2}R \cdot \Delta t - I^{2}r \Delta t</math> байна.
+<math>Q=I^{2}R \cdot \Delta t - I^{2}r \Delta t</math> байна. [[Энерги хадгалагдаха хуули]] ёһоор <math>A=Q \cdot \varepsilon I^{2}R \cdot \Delta t = I^{R} \cdot \Delta t(R+r) \Rightarrow \varepsilon = IR+Ir</math> болоно. <math>IR = U_1; Ir=U_2</math> гадаада, дотоодо хэһэг дээрэхи хүсэдэлэй уналта. Иимэдэ <math>\varepsilon = U_1 + U_2</math> болоно. <math>I = \frac{\varepsilon}{R+r}</math> томьёое '''бүтүү хэлхээнэй Омой хуули''' гэнэ.
+
+Хэрэб <math>R \gg r</math> байбал гүйдэл хамагай ехэ удхада хүрэнэ. <math>R \approx 0; r+R=r</math>
+
+<math>I = \frac{\varepsilon}{r}</math> — гүйдэлые богони холболтын гүйдэл гэнэ. Энэ үедэ дамжуулагша утаһан шатана. Хэрэб <math>r \gg R</math> байбал энэ хэлхээнэй хүсэдэл ойролсоогоор СХХ-тэй тэнсүү <math>U= \varepsilon =I \cdot R</math> байна.
 
 {{1000 үгүүлэл}}
