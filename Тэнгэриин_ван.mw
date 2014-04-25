@@ -1,0 +1,115 @@
+{{Гараг
+| bgcolour = #c0ffff
+| name = Тэнгэриин ван
+| symbol = [[Файл:Uranus symbol.svg|25px| Тэнгэриин вангай одон ороной тэмдэг]]
+| image = [[Файл:Uranus2.jpg|240px|Тэнгэриин ван]]
+| caption = Вояджер 2 хүлэгөөр абаһан зураг
+| discovery = yes
+| discoverer = [[Уильям Хершель]]
+| discovered = 1781 оной 3 һарын 13
+| orbit_ref =
+<ref name=horizons>{{cite web
+ | last = Yeomans | first = Donald K. |date = July 13, 2006
+ | url = http://ssd.jpl.nasa.gov/?horizons
+ | title = HORIZONS System | publisher = NASA JPL
+ | accessdate = 2007-08-08 }} — At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Uranus Barycenter" and "Center: Sun".</ref>
+| epoch = [[J2000]]
+| apoapsis = 3,004,419,704&nbsp;[[километр|км]]<br />20.083&nbsp;305&nbsp;26&nbsp;[[одон орны нэгж|а.н.]]
+| periapsis = 2,748,938,461&nbsp;км<br />18.375&nbsp;518&nbsp;63 а.н.
+| semimajor = 2,876,679,082&nbsp;км<br />19.229&nbsp;411&nbsp;95 а.н.
+| eccentricity = 0.044&nbsp;405&nbsp;586
+| period = 30,799.095&nbsp;[[үдэр]]<br />84.323&nbsp;326 [[юлианы жил (одон орон)|жил]]
+| synodic_period = 369.66&nbsp;үдэр<ref name="fact">{{cite web|url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html|title = Uranus Fact Sheet|publisher = NASA|last = Williams|first = Dr. David R.|accessdate = 2007-08-10|date = January 31, 2005}}</ref>
+| avg_speed = 6.81&nbsp;км/с<ref name="fact"/>
+| inclination = 0.772&nbsp;556° ([[Эклиптик]]т)<br />6.48° ([[Нар]]ны экваторт)<br />1.02° ([[Тогтмол хавтан]]д)<ref name=meanplane>{{cite web
+  |date=2009-04-03
+  |title=The MeanPlane (Invariable plane) of the Solar System passing through the barycenter
+  |url=http://home.comcast.net/~kpheider/MeanPlane.gif
+  |accessdate=2009-04-10|archiveurl=http://web.archive.org/20090420194536/home.comcast.net/~kpheider/MeanPlane.gif|archivedate=2009-04-20}} (produced with [http://chemistry.unina.it/~alvitagl/solex/ Solex 10] written by Aldo Vitagliano; see also [[Invariable plane]])</ref>
+| asc_node = 73.989&nbsp;821°
+| arg_peri = 96.541&nbsp;318°
+| mean_anomaly = 142.955&nbsp;717°
+| satellites = [[Ураны дагуулууд|27]]
+| physical_characteristics = yes
+| flattening = 0.022&nbsp;9&nbsp;±&nbsp;0.000&nbsp;8
+| equatorial_radius = 25,559&nbsp;±&nbsp;4&nbsp;км<br />4.007&nbsp;дэлхий<ref name=Seidelmann2007>{{cite journal|last= Seidelmann|first= P. Kenneth|coauthors= Archinal, B. A.; A’hearn, M. F.; et al.|title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006|journal= Celestial Mech. Dyn. Astr. |volume=90|pages=155–180|year=2007|doi=10.1007/s10569-007-9072-y|url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y}}</ref>
+| polar_radius = 24,973&nbsp;±&nbsp;20&nbsp;км<br />3.929&nbsp;дэлхий<ref name=Seidelmann2007/>
+| surface_area = 8.115&nbsp;6{{e|9}}&nbsp;км²<ref name="nasafact">{{cite web|url = http://solarsystem.nasa.gov/planets/profile.cfm?Object=Uranus&Display=Facts|title = NASA: Solar System Exploration: Planets: Uranus: Facts & Figures|publisher = NASA|last = Munsell|first = Kirk|accessdate = 2007-08-13|date = May 14, 2007}}</ref><br />15.91&nbsp;дэлхий
+| volume = 6.833{{e|13}}&nbsp;км³<ref name="fact"/><br />63.086&nbsp;дэлхий
+| mass = {{nowrap|(8.6810 ± 0.0013){{e|25}} [[килограмм|кг]]}}<br />14.536&nbsp;дэлхий<ref name=Jacobson1992>{{cite journal|last=Jacobson|first=R.A.|coauthors=Campbell, J.K.; Taylor, A.H.; Synnott, S.P.|title=The masses of Uranus and its major satellites from Voyager tracking data and Earth-based Uranian satellite data|journal=The Astronomical Journal|volume=103|issue=6|pages=2068–2078|year=1992|doi=10.1086/116211| url=http://adsabs.harvard.edu/abs/1992AJ....103.2068J}}</ref>
+[[гравитацийн стандарт параметр|GM]]=5&nbsp;793&nbsp;939&nbsp;±&nbsp;13&nbsp;км³/с²
+| density = 1.27&nbsp;г/см³<ref name=fact/>
+| surface_grav = 8.69&nbsp;[[хурдатгал|м/с²]]<ref name=fact/><br />0.886&nbsp;[[хүндийн хүчний хурдатгал|g]]
+| escape_velocity = 21.3&nbsp;км/с<ref name=fact/>
+| sidereal_day = -0.718&nbsp;33 үдэр<br />{{nowrap|17 [[үдэр]] 14 [[минута|мин]] 24 [[секунда|сек]]}}<ref name=Seidelmann2007/>
+| rot_velocity = 2.59&nbsp;км/с<br />9,320&nbsp;км/цаг
+| axial_tilt = 97.77°<ref name=Seidelmann2007/>
+| right_asc_north_pole = {{nowrap|17 цаг 9 мин 15 сек}}<br />257.311°<ref name=Seidelmann2007/>
+| declination = −15.175°<ref name=Seidelmann2007/>
+| albedo = 0.300 ([[Бондын албедо|бонд]])<br />
+0.51 ([[Геометр албедо|геом.]])<ref name="fact"/>
+| magnitude = 5.9<ref name=ephemeris>{{cite web|title=Twelve Year Planetary Ephemeris: 1995 - 2006|author=Fred Espenak|work=NASA|url=http://sunearth.gsfc.nasa.gov/eclipse/TYPE/TYPE.html|year=2005|accessdate=2007-06-14}}</ref> to 5.32<ref name="fact"/>
+| angular_size = 3.3"–4.1"<ref name="fact"/>
+| temperatures = yes
+| temp_name1 = 1&nbsp;[[бар (нэгж)|бар]] level<ref name=Podolak1995>{{cite journal|last=Podolak|first=M.|coauthors=Weizman, A.; Marley, M.|title=Comparative models of Uranus and Neptune|journal=Planet. Space Sci.|volume=43|issue=12|pages=1517–1522|year=1995| url=http://adsabs.harvard.edu/abs/1995P%26SS...43.1517P|doi=10.1016/0032-0633(95)00061-5}}</ref>
+| min_temp_1 = 
+| mean_temp_1 = 76&nbsp;[[кельвин|K]]
+| max_temp_1 = 
+| temp_name2 = 0.1&nbsp;бар <br />([[троропауз]])<ref name=Lunine1993>{{cite journal|title=The Atmospheres of Uranus and Neptune|last=Lunine|first=Jonathan. I.|journal = Annual Review of Astronomy and Astrophysics|volume=31|pages=217–263|year=1993|doi=10.1146/annurev.aa.31.090193.001245| url=http://adsabs.harvard.edu/abs/1993ARA%26A..31..217L}}</ref>
+| min_temp_2 = 49&nbsp;K
+| mean_temp_2 = 53&nbsp;K
+| max_temp_2 = 57&nbsp;K
+| atmosphere = yes
+| atmosphere_ref =
+<ref name=Lunine1993/><ref name=Lindal1987>{{cite journal|last=Lindal|first=G.F.|coauthors=Lyons, J.R.; Sweetnam, D.N.; et al.|title=The Atmosphere of Uranus: Results of Radio Occultation Measurements with Voyager 2 |journal=J. Of Geophys. Res.|volume=92|pages=14,987–15,001|year=1987|url=http://adsabs.harvard.edu/abs/1987JGR....9214987L|doi=10.1029/JA092iA13p14987}}</ref><ref name=Conrath1987>{{cite journal|author=B. Conrath ''et al.''|title=The helium abundance of Uranus from Voyager measurements|journal=Journal of Geophysical Research|volume=92|pages=15003–15010|yar=1987|url=http://adsabs.harvard.edu/abs/1987JGR....9215003C|doi=10.1029/JA092iA13p15003|year=1987}}</ref>
+| scale_height = 27.7&nbsp;км<ref name="fact"/>
+| atmosphere_composition = ''(1.3&nbsp;бараас доош)''
+<table>
+<tr><td>
+83&nbsp;±&nbsp;3%</td><td>[[Уһантүрэгшэ]] (H<sub>2</sub>)
+</td></tr><tr><td>
+15&nbsp;±&nbsp;3%</td><td>[[Гели]]
+</td></tr><tr><td>
+2.3%</td><td>[[Метан]]</td></tr><tr><td>
+0.009%<br />(0.007–0.015%)</td><td>[[Уһантүрэгшэтэй детрит]]&nbsp;(HD)<ref name=Feuchtgruber1999>{{cite journal|last=Feuchtgruber|first=H.|coauthors=Lellouch, E.; B. Bezard; et al.|title=Detection of HD in the atmospheres of Uranus and Neptune: a new determination of the D/H ratio|year=1999|journal=Astronomy and Astrophysics|volume=341|pages=L17–L21|url=http://adsabs.harvard.edu/abs/1999A%26A...341L..17F}}</ref>
+</td></tr><tr><td>
+'''Мүльһэнүүд''':</td><td>
+</td></tr><tr><td>
+</td><td>[[Аммон]]
+</td></tr><tr><td>
+</td><td>[[ус]]
+</td></tr><tr><td>
+</td><td>[[аммоной гидросульфид]]&nbsp;(NH<sub>4</sub>SH)
+</td></tr><tr><td>
+</td><td>[[метан]]&nbsp;(CH<sub>4</sub>)
+</td></tr></table>
+}}
+'''Тэнгэриин ван''' ({{lang-zho|天王星}}, «Тэнгэриин ван одон») — [[наранай аймаг|наранай аймагай]] гурбандахи томо, дүрбэдэхи хүндэ, наранһаа тоолобол долоодохи [[гараг]] юм. Тухайн гарагынь эртэ үедэ мэдэгдэжэ байһан 5 гарагтай эжэлээр ил нүдэндэ харагдахашье тодо буса байдал, удаан орбитоһоо шалтагаалжа гарагта тоосогдодоггүй байба.<ref>{{cite web|title=MIRA's Field Trips to the Stars Internet Education Program|work=Monterey Institute for Research in Astronomy|url=http://www.mira.org/fts0/planets/101/text/txt001x.htm|accessdate=2007-08-27}}</ref> 1781 оной 3 һарын 12-ндо Ноён [[Уильям Хершель]] тэнгэриин ванг нээһэные мэдэгдэжэ оршон үеын түүхэндэ наранай аймагай мэдэгдэхэ хилэ хизгаарые ехэдхэһэн анханай тохёолдол боложо байба. Үүнһээ гадна энэнь [[дуран абай]]гаар олдоһон анханай гараг байгаа.
+
+Тэнгэриин вангиинь бүтэсээрээ [[Далайн ван]]гтай түһэтэй бүгөөд бусад хиин гараг [[Пүрбэ (гараг)|Пүрбэ]], [[Бямба (гараг)|Бямба]] илгаатай тула {{одон орон шудал}}аашад заримдаа "[[мүльһэн гараг]]ууд" хэмээн ангилдаг. Атмосферань [[Пүрбэ (гараг)|Пүрбэ]], [[Бямба (гараг)|Бямбатай]] эжэл [[уһантүрэгшэ]], [[гели|гелиһээ]] ехэнхидээ тогтохошье бага бусалха температуратай бодос ([[уһан]], [[аммони]], [[метан]], маша бага хэмжээнэй [[нүүрһэнуһантүрэгшэ]]д) ехэтэйгээрээ онсолго. <ref name=Lunine1993/> наранай аймаг дахи хамагай хүйтэн атмосфератай; хамагай бага темперутурань 49&nbsp;[[кельвин|K]] (−224&nbsp;[[Цельси|°C]]). Маша нарин, дабхараануудтай үүлэн бүтэсэтэй бүгөөд хамагай дооронь уһан, хамагай дээдэ дабхараае метан эзлэдэг хэмээн үзэжэ байна.<ref name=Lunine1993/> Тэнгэриин вангай сүм хэһэгые мүльһэн, шулуулигһаа тогдог гэжэ үзэдэг.<ref name=Podolak1995/> 
+
+Тэнгэриин вангиинь [[сахаригай системэ]], [[суранзан мандал]], маша олон дахуултайгаар бусад [[хии]]н гарагуудтай эжэл. Эргэхэ тэнхэлигынь нарые тойрохо хабтанда бараг хүрдэгээрээ бусад гарагһаа илгаатай. Иинхүү [[туйл]]уудынь бусад гарагай [[экватор]] байрлаха газар оршом оршоно.<ref name=Smith1986>{{cite journal|last= Smith|first=B.A.|coauthors=Soderblom, L.A.; Beebe, A.; et al. |title=Voyager 2 in the Uranian System: Imaging Science Results|journal=Science|volume=233|pages=97–102| year=1986|url=http://adsabs.harvard.edu/abs/1986Sci...233...43S |doi=10.1126/science.233.4759.43 |pmid=17812889}}</ref> 1986 ондо Вояджер 2 сансарай хүлэгһөө абаһан зурагаар тэнгэриин ваниинь [[үзэгдэхэ сасарал|үзэгдэхэ гэрэлээр]] онсолго үзэмжэгүй гараг болохонь харагдаба.<ref name=Smith1986/> Харин һүүлшын жэлнүүдтэ дэлхэйһээ ажаглахад экваторэйхинь яг дээрэ наран оршохо сэг ойротход уларилай өөршэлэлтэ, саг агаарай үзэгдэл ехэдэжэ байе ажаглаһан. Тэнгэриин ван дээрэхи һалхинай хурданиинь 250 м/с-д хүрэнэ. (900&nbsp;км/цаг).<ref name=Sromovsky2005>{{cite journal|last=Sromovsky|first=L.A.|coauthors=Fry, P.M.|title=Dynamics of cloud features on Uranus|journal=Icarus|volume=179|pages=459–483|year=2005| doi=10.1016/j.icarus.2005.07.022|url=http://adsabs.harvard.edu/abs/2005Icar..179..459S}}</ref>
+
+Тэнгэриин вангай англи нэрэ ''Uranus'' [[Грекай бурхад|эртэнэй Грекай тэнгэриин бурхан]] [[Уран (бурхан)|Уранай]] нэрээр нэрэлэгдэһэн. ({{lang-grc|[[wikt:οὐρανός#Ancient Greek|Οὐρανός]]}})
+
+== Зүүлтэ ==
+{{зүүлтэ}}
+
+== Гадаад холбоос ==
+{{commons|Uranus}}
+* [http://www.eso.org/public/outreach/press-rel/pr-2007/phot-37-07.html Edge On! ESO Press Release]
+* [http://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html NASA's Uranus fact sheet]
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Uranus Uranus Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+* [http://web.archive.org/20041118145738/www2.keck.hawaii.edu/news/science/uranus/ Keck pictures of Uranus show best view from the ground] — Press release with some photographs showing rings, satellites and clouds
+* News reports of December 22, 2005 rings and moons discovery
+** [http://space.com/scienceastronomy/051222_uranus.html New Moons and Rings found at Uranus]'', [[SPACE.com]]
+** [http://www.msnbc.msn.com/id/10574903/ Two more rings discovered around Uranus]'', [[MSNBC]]
+* [http://www.projectshum.org/Planets/uranus.html Planets—Uranus] A kid's guide to Uranus.
+* [http://skytonight.com/news/4435217.html Spring Has Sprung on Uranus]
+* [http://photojournal.jpl.nasa.gov/targetFamily/Uranus Uranus] at [[Jet Propulsion Laboratory]]'s planetary photojournal.
+* [http://www.astronomycast.com/astronomy/episode-62-uranus/ Uranus (Astronomy Cast homepage)]
+
+{{Наранай аймаг}}
+{{1000 үгүүлэл}}
+
+{{Link FA|ru}}
