@@ -75,9 +75,7 @@
 
 == Эзэн хаад ==
 
-<table border="1" cellpadding="2" cellspacing="0">
-
-<tr>
+<table class="prettytable" table border="1" cellpadding="3" cellspacing="0">
 <th style="background:#efefef;">[[Үхэл һүүлшын нэрэ]]</th>
 <th style="background:#efefef;">Обог ба нэрэ</th>
 <th style="background:#efefef;">Захиргаан</th>
@@ -101,7 +99,6 @@
 <td>Hui (惠 [[Пиньинь|пинь.]] hùi)</td>
 <td>Liu Ying (劉盈 [[Пиньинь|пинь.]] liú yíng)</td>
 <td>[[-195]] [[-188]]</td>
-<td></td>
 </tr>
 
 <tr>
