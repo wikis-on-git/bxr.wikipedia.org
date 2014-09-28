@@ -134,15 +134,27 @@ rect 0 0 05 5 [[China]]
 desc bottom-left</imagemap>
 </div imgborder>БНХАУ-ын I дэсийн 33 нутаг, өөрийн гэж мэтгэдэг 1 газрыг харуулсан газрын зураг</div thumbinner></div thumb tright>
 
-{{multiple image|right|Regions of China.svg|210|China provinces.png|280|Зүг чигийн зургаан орон {{nbsp|30}}I дэсийн дөрвөн зүйл нэгжийг өнгөөр ялгасан нь}}
+{{multiple image|right||210||280|{{nbsp|30}}}}
+{{Multiple image
+ | align=right
+ | direction=horizontal
+ | width=
+ | footer    = Сагаан, улаан дарһан.
+ | image1    = Regions of China.svg
+ | caption1= Зүг шэгэй зургаан орон
+ | width1    = 210
+ | caption2= I дэсэй дүрбэн зүйл нэгэжые үнгөөр илгаһаниинь
+ | image2    = China provinces.png
+ | width2    = 280
+}}
 
 {| class="wikitable"  style="font-size:90%;" align=center
 ! №
-! colspan="2" | Нутгийн нэр
-! Хятадаар
-! Талбай (км²)
-! Хүн ам (2010)
-! Нутгийн төв
+! colspan="2" | Нютагай нэрэ
+! Хитадаар
+! Талмай (км²)
+! Хүн зон (2010)
+! Нютагай түб
 |----------bgcolor=lightblue
 |Colspan=7 align=center|— '''[[БНХАУ-ай засаг захиргаанай хубаари|можо]]''' (省)  — 
 |----------
