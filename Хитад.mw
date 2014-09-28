@@ -108,11 +108,11 @@
 {{Image label|x=320|y=200|text=[[Шаньси]]}}
 {{Image label|x=345|y=150|text=[[Хэбэй]]}}
 {{Image label|x=355|y=160|text=[[Бээжэн]]}}
-{{Image label|x=365|y=170|text=[[Тяньжинь]]}}
+{{Image label|x=365|y=170|text=[[Тяньцзинь]]}}
 {{Image label|x=370|y=200|text=[[Шаньдун]]}}
 {{Image label|x=330|y=230|text=[[Хэнань]]}}
 {{Image label|x=230|y=260|text=[[Сычуань]]}}
-{{Image label|x=280|y=280|text=[[Чунчин]]}}
+{{Image label|x=280|y=280|text=[[Чунцин]]}}
 {{Image label|x=330|y=260|text=[[Хүбэй]]}}
 {{Image label|x=370|y=250|text=[[Аньхуй]]}}
 {{Image label|x=400|y=230|text=[[Жянсү]]}}
@@ -164,7 +164,7 @@ desc bottom-left</imagemap>
 |----------
 |3 || [[Гирин]] || {{mongolUnicode|ᠭᠢᠷᠢᠨ|h}} || 吉林 || 187,400 || 27,462,297 || [[Чанчүнь]]
 |----------
-|4 || [[Гуандун]] || {{mongolUnicode|ᠭᠤᠸᠠᠩᠳᠦ᠋ᠩ|h}} || 广东 || 180,000 || 104,303,132 || [[Гуанжоу]]
+|4 || [[Гуандун]] || {{mongolUnicode|ᠭᠤᠸᠠᠩᠳᠦ᠋ᠩ|h}} || 广东 || 180,000 || 104,303,132 || [[Гуанчжоу]]
 |----------
 |5 || [[Гуйжоу]] || {{mongolUnicode|ᠭᠦᠢᠵᠸᠦ|h}} || 贵州 || 176,000 || 34,746,468 || [[Гуйян]]
 |----------
@@ -190,7 +190,7 @@ desc bottom-left</imagemap>
 |----------
 |16 || [[Хүхэ Нуур]] || {{mongolUnicode|ᠬᠥᠬᠡᠨᠠᠭᠤᠷ|h}} || 青海 || 721,200 || 5,626,722 || [[Шинин]]
 |----------
-|17 || [[Хүбэй]] || {{mongolUnicode|ᠬᠤᠪᠸᠢ|h}} || 湖北 || 185,900 || 57,237,740 || [[Үхань]]
+|17 || [[Хүбэй]] || {{mongolUnicode|ᠬᠤᠪᠸᠢ|h}} || 湖北 || 185,900 || 57,237,740 || [[Ухань]]
 |----------
 |18 || [[Хүнань]] ||  {{mongolUnicode|ᠬᠤᠨᠠᠨ|h}} || 湖南 || 210,000 || 65,683,722 || [[Чанша]]
 |----------
@@ -208,11 +208,11 @@ desc bottom-left</imagemap>
 |----------
 |24 || [[Ниншя - Хотонгийн өөртөө засаха орон|Ниншя]] || {{mongolUnicode|ᠨᠢᠩᠰᠢᠶᠠ|h}} || 宁夏 || 66,400  || 6,301,350 || [[Иньчуань]]
 |----------
-|25 || [[Үбэр Монголой өөртөө засаха орон|Үбэр Монгол]] || {{mongolUnicode|ᠥᠪᠦᠷ ᠮᠣᠩᠭᠣᠯ|h}} || 內蒙古 || 1,183,000  || 24,706,321 || [[Хөх хот]]
+|25 || [[Үбэр Монголой өөртөө засаха орон|Үбэр Монгол]] || {{mongolUnicode|ᠥᠪᠦᠷ ᠮᠣᠩᠭᠣᠯ|h}} || 內蒙古 || 1,183,000  || 24,706,321 || [[Хүхэ хото]]
 |----------
 |26 || [[Түбэдийн өөртөө засаха орон|Түбэд]] || {{mongolUnicode|ᠲᠦᠪᠡᠳ|h}} || 西藏 || 1,228,400  || 3,002,166 || [[Лхас]]
 |----------
-|27 || [[Шиньжян - Уйгурай өөртөө засаха орон|Шиньжян]] || {{mongolUnicode|ᠰᠢᠩᠵᠢᠶᠠᠩ|h}} || 新疆 || 1,660,400 || 21,813,334 || [[Өрөмч]]
+|27 || [[Шиньжян - Уйгурай өөртөө засаха орон|Шиньжян]] || {{mongolUnicode|ᠰᠢᠩᠵᠢᠶᠠᠩ|h}} || 新疆 || 1,660,400 || 21,813,334 || [[Үрэмшэ]]
 |----------bgcolor=lightblue
 |Colspan=7 align=center|— '''[[БНХАУ-ай засаг захиргаанай хубаари|онсогой захиргаата орон]]''' (特别行政区)  — 
 |----------
@@ -224,28 +224,28 @@ desc bottom-left</imagemap>
 |----------
 |30 || [[Бээжэн]] || {{mongolUnicode|ᠪᠡᠭᠡᠵᠢᠩ|h}} || 北京 || 16,800  || 19,612,368 || ''Бээжэн''
 |----------
-|31 || [[Тяньжинь]]  || {{mongolUnicode|ᠲᠢᠶᠠᠨᠵᠢᠨ|h}} || 天津 || 11,305 || 12,938,224 || ''Тяньжинь''
+|31 || [[Тяньцзинь]]  || {{mongolUnicode|ᠲᠢᠶᠠᠨᠵᠢᠨ|h}} || 天津 || 11,305 || 12,938,224 || ''Тяньцзинь''
 |----------
-|32 || [[Чунчин]] ||  || 重庆 || 82,300  || 28,846,170 || ''Чунчин''
+|32 || [[Чунцин]] ||  || 重庆 || 82,300  || 28,846,170 || ''Чунцин''
 |----------
 |33 || [[Шанхай]] || {{mongolUnicode|ᠱᠠᠩᠬᠠᠢ|h}} || 上海 || 6,341  || 23,019,148 || ''Шанхай''
 |}
 
 
-== Хотонууд ==
-Ниислэл хото — [[Бээжэн]], хүн ама — 17 550 000 хүн.. Хотонууд: [[Шанхай]] (хүн ама — 18 450 000 хүн), [[Чунцин]], [[Тяньцзинь]], [[Гуанчжоу]].
+=== Хотонууд ===
+Хитадай [[ниислэл хото]] — 17 550 000 хүн зонтой [[Бээжэн]] юм. Ондоо ехэ хотонууд: [[Шанхай]] (хүн зон — 18 450 000 хүн), [[Чунцин]], [[Тяньцзинь]], [[Гуанчжоу]].
 
-<!-- {| class="sortable wikitable" width=100 %;
-!Rank
-!English name/<br />[[Hanyu Pinyin]]/<br />[[Simplified Chinese characters|Simplified]]/<br />[[Traditional Chinese characters|Traditional]]
-!Urban pop.
-!Year
-!Image
-!Jurisdiction
-!Region
+{| class="sortable wikitable" width=100 %;
+!Эрэмбэ
+!Буряад нэрэ/<br />[[Hanyu Pinyin]]/<br />[[Хитад хэлэн|Хялбарижуулһан]]/<br />[[Хитад хэлэн|Уламжалалта]]
+!Хүн зон
+!Он жэл
+!Зураг
+!Харьяалал
+!Бүһэ нютаг
 |-
 | align=center | 1
-| [[Chongqing]]<br />Chóngqìng<br />(simp: 重庆, trad: 重慶)
+| [[Чунцин]]<br />Chóngqìng<br />(simp: 重庆, trad: 重慶)
 | {{sort|28846170|28,846,170}}
 | 2010
 | [[Файл:Chongqing Night Yuzhong.jpg|200px]]
@@ -253,7 +253,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#d16eff|Southwest
 |-
 | align=center | 2
-| [[Shanghai]]<br />Shànghǎi<br />(simp: 上海, trad: 上海)
+| [[Шанхай]]<br />Shànghǎi<br />(simp: 上海, trad: 上海)
 | {{sort|23019148|23,019,148}}
 | 2010
 | [[Файл:Lujiazui Skyline from Bund.jpg|200 px]]
@@ -261,7 +261,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|[[East China|East]]
 |-
 | align=center | 3
-| [[Beijing]]<br />Běijīng<br />(simp: 北京, trad: 北京)
+| [[Бээжэн]]<br />Běijīng<br />(simp: 北京, trad: 北京)
 | {{sort|19612368|19,612,368}}
 | 2010
 | [[Файл:File-Beijing CBD 2008-6-996735.jpg|200 px]]
@@ -269,7 +269,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#79ff76|[[North China|North]]
 |-
 | align=center | 4
-| [[Chengdu]]<br />Chéngdū<br />(simp: 成都, trad: 成都)
+| [[Чэндү]]<br />Chéngdū<br />(simp: 成都, trad: 成都)
 | {{sort|14047625|14,047,625}}
 | 2010
 | [[Файл:Chengdu Skyline.jpg|200px]]
@@ -277,7 +277,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#d16eff|[[Southwest China|Southwest]]
 |-
 | align=center | 5
-| [[Tianjin]]<br />Tiānjīn<br />(simp: 天津, trad: 天津)
+| [[Тяньцзинь]]<br />Tiānjīn<br />(simp: 天津, trad: 天津)
 | {{sort|12938224|12,938,224}}
 | 2010
 | [[Файл:Tianjin Skyline 2009 Sep 11 by Nangua 1.jpg|200px]]
@@ -285,7 +285,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#79ff76|North
 |-
 | align=center | 6
-| [[Guangzhou]]<br />Guǎngzhōu<br />(simp: 广州, trad: 廣州)
+| [[Гуанчжоу]]<br />Guǎngzhōu<br />(simp: 广州, trad: 廣州)
 | {{sort|12700800|12,700,800}}
 | 2010
 | [[Файл:Guangzhou dusk 11-5-2008.png|200 px]]
@@ -293,7 +293,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|[[South Central China|South Central]]
 |-
 | align=center | 7
-| [[Harbin]]<br />Hā'ěrbīn<br />(simp: 哈尔滨, trad: 哈爾濱)
+| [[Харбин]]<br />Hā'ěrbīn<br />(simp: 哈尔滨, trad: 哈爾濱)
 | {{sort|10635971|10,635,971}}
 | 2010
 | [[Файл:TroyParfitt6.JPG|200px]]
@@ -301,7 +301,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#9696ff|Northeast
 |-
 | align=center | 8
-| [[Shenzhen]]<br />Shēnzhèn<br />(simp: 深圳, trad: 深圳)
+| [[Шэньчжэнь]]<br />Shēnzhèn<br />(simp: 深圳, trad: 深圳)
 | {{sort|10357938|10,357,938}}
 | 2010
 | [[Файл:Shenzhen night street.JPG|200 px]]
@@ -309,7 +309,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 9
-| [[Wuhan]]<br />Wǔhàn<br />(simp: 武汉, trad: 武漢)
+| [[Ухань]]<br />Wǔhàn<br />(simp: 武汉, trad: 武漢)
 | {{sort|09785392|9,785,392}}
 | 2010
 | [[Файл:Wuhan from Yellow Crane Tower.jpg|200px]]
@@ -317,7 +317,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 10
-| [[Hangzhou]]<br />Hángzhōu<br />(simp: 杭州, trad: 杭州)
+| [[Ханьчжоу]]<br />Hángzhōu<br />(simp: 杭州, trad: 杭州)
 | {{sort|08700400|8,700,400}}
 | 2010
 | [[Файл:China Hangzhou Westlake-6.jpg|200px]]
@@ -325,7 +325,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 11
-| [[Xi'an]]<br />Xī'ān<br />(simp: 西安, trad: 西安)
+| [[Шиань]]<br />Xī'ān<br />(simp: 西安, trad: 西安)
 | {{sort|08467837|8,467,837}}
 | 2010
 | [[Файл:XiAn qujiang.jpg|200 px]]
@@ -333,7 +333,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#ff9148|[[Northwest China|Northwest]]
 |-
 | align=center | 12
-| [[Shenyang]]<br />Shěnyáng<br />(simp: 沈阳, trad: 瀋陽)
+| [[Мүгдэн]]<br />Shěnyáng<br />(simp: 沈阳, trad: 瀋陽)
 | {{sort|08106171|8,106,171}}
 | 2010
 |
@@ -341,7 +341,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#9696ff|[[Northeast China|Northeast]]
 |-
 | align=center | 13
-| [[Nanjing]]<br />Nánjīng<br />(simp: 南京, trad: 南京)
+| [[Нанжан]]<br />Nánjīng<br />(simp: 南京, trad: 南京)
 | {{sort|08004680|8,004,680}}
 | 2010
 | [[Файл:南京全景.jpg|200px]]
@@ -349,7 +349,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 14
-| [[Changchun]]<br />Chángchūn<br />(simp: 长春, trad: 長春)
+| [[Чаньчунь]]<br />Chángchūn<br />(simp: 长春, trad: 長春)
 | {{sort|07459005|7,459,005}}
 | 2010
 |
@@ -357,7 +357,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#9696ff|Northeast
 |-
 | align=center | 15
-| [[Shangqiu]]<br />Shāngqiū<br />(simp: 商丘, trad: 商丘)
+| [[Шанцю]]<br />Shāngqiū<br />(simp: 商丘, trad: 商丘)
 | {{sort|07362472|7,362,472}}
 | 2010
 | [[Файл:ChinaHenanShangqiu.png|200px]]
@@ -365,7 +365,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 16
-| [[Hong Kong]]<br />Xiānggǎng<br />(simp: 香港, trad: 香港)
+| [[Хонконг]]<br />Xiānggǎng<br />(simp: 香港, trad: 香港)
 | {{sort|07103000|7,103,000}}
 | 2011
 | [[Файл:Hong Kong Night Skyline.jpg|200 px]]
@@ -373,7 +373,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 17
-| [[Taipei]]<br />Táiběi<br />(simp: 台北, trad: 臺北)
+| [[Тайбэй]]<br />Táiběi<br />(simp: 台北, trad: 臺北)
 | {{sort|06900273|6,900,273}}
 | 2010
 | [[Файл:Taipeiview.jpg|200px]]
@@ -381,7 +381,7 @@ desc bottom-left</imagemap>
 |
 |-
 | align=center | 18
-| [[Jinan]]<br />Jǐnán<br />(simp: 济南, trad: 濟南)
+| [[Цзинань]]<br />Jǐnán<br />(simp: 济南, trad: 濟南)
 | {{sort|06814000|6,814,000}}
 | 2010
 | [[Файл:Jinanfromqianfoshan.jpg|200 px]]
@@ -389,7 +389,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 19
-| [[Dalian]]<br />Dàlián<br />(simp: 大连, trad: 大連)
+| [[Далянь]]<br />Dàlián<br />(simp: 大连, trad: 大連)
 | {{sort|06170000|6,170,000}}
 | 2009
 | [[Файл:Dalian birdview.jpg|200px]]
@@ -397,7 +397,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#9696ff|Northeast
 |-
 | align=center | 20
-| [[Taiyuan]]<br />Tàiyuán<br />(simp: 太原, trad: 太原)
+| [[Тайюань]]<br />Tàiyuán<br />(simp: 太原, trad: 太原)
 | {{sort|04201591|4,201,591}}
 | 2010
 | [[Файл:Taiyuan.jpg|200 px]]
@@ -405,7 +405,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#79ff76|North
 |-
 | align=center | 21
-| [[New Taipei]]<br />Xīnběi<br />(simp: 新北, trad: 新北)
+| [[Шэнэ Тайбэй]]<br />Xīnběi<br />(simp: 新北, trad: 新北)
 | {{sort|03893740|3,893,740}}
 | 2010
 | [[Файл:Roctpchall.jpg|200px]]
@@ -413,7 +413,7 @@ desc bottom-left</imagemap>
 |
 |-
 | align=center | 22
-| [[Kunming]]<br />Kūnmíng<br />(simp: 昆明, trad: 昆明)
+| [[Кунминь]]<br />Kūnmíng<br />(simp: 昆明, trad: 昆明)
 | {{sort|02971000|2,971,000}}
 |
 | [[Файл:Old kunming city01.jpg|200px]]
@@ -421,7 +421,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#d16eff|Southwest
 |-
 | align=center | 23
-| [[Wuxi]]<br />Wúxī<br />(simp: 无锡, trad: 無錫)
+| [[Уси]]<br />Wúxī<br />(simp: 无锡, trad: 無錫)
 | {{sort|02359000|2,359,000}}
 |
 | [[Файл:Downtown wuxi.jpg|200px]]
@@ -429,7 +429,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 24
-| [[Shijiazhuang]]<br />Shíjiāzhuāng<br />(simp: 石家庄, trad: 石家莊)
+| [[Шицзячжуан]]<br />Shíjiāzhuāng<br />(simp: 石家庄, trad: 石家莊)
 | {{sort|02280000|2,280,000}}
 |
 | [[Файл:Farviewshijiazhuang.jpg|200px]]
@@ -437,7 +437,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#79ff76|North
 |-
 | align=center | 25
-| [[Zhengzhou]]<br />Zhèngzhōu<br />(simp: 郑州, trad: 鄭州)
+| [[Чжэнчжоу]]<br />Zhèngzhōu<br />(simp: 郑州, trad: 鄭州)
 | {{sort|02280000|2,280,000}}
 |
 | [[Файл:Zhengzhou east district at night.jpg|200 px]]
@@ -445,7 +445,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 26
-| [[Nanning]]<br />Nánníng<br />(simp: 南宁, trad: 南寧)
+| [[Наньнин]]<br />Nánníng<br />(simp: 南宁, trad: 南寧)
 | {{sort|02272000|2,272,000}}
 |
 | [[Файл:Nanning skyline 2008.JPG|200px]]
@@ -453,7 +453,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 27
-| [[Nanchang]]<br />Nánchāng<br />(simp: 南昌, trad: 南昌)
+| [[Наньчан]]<br />Nánchāng<br />(simp: 南昌, trad: 南昌)
 | {{sort|02229000|2,229,000}}
 |
 | [[Файл:Nanchang Buildings.jpg|200px]]
@@ -461,7 +461,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 28
-| [[Changsha]]<br />Chángshā<br />(simp: 长沙, trad: 長沙)
+| [[Чанша]]<br />Chángshā<br />(simp: 长沙, trad: 長沙)
 | {{sort|02187000|2,187,000}}
 |
 | [[Файл:The Huángxīng Lù Commercial Pedestrian Street in Changsha.jpg|200px]]
@@ -469,7 +469,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 29
-| [[Qingdao]]<br />Qīngdǎo<br />(simp: 青岛, trad: 青島)
+| [[Циньдао]]<br />Qīngdǎo<br />(simp: 青岛, trad: 青島)
 | {{sort|02160000|2,160,000}}
 |
 | [[Файл:City View Of Qingdao 1.JPG|200px]]
@@ -477,7 +477,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 30
-| [[Lanzhou]]<br />Lánzhōu<br />(simp: 兰州, trad: 蘭州)
+| [[Ланьчжоу]]<br />Lánzhōu<br />(simp: 兰州, trad: 蘭州)
 | {{sort|02072000|2,072,000}}
 |
 | [[Файл:Lanzhou-036.JPG|200px]]
@@ -485,7 +485,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#ff9148|Northwest
 |-
 | align=center | 31
-| [[Suzhou]]<br />Sūzhōu<br />(simp: 苏州, trad: 蘇州)
+| [[Сучжоу]]<br />Sūzhōu<br />(simp: 苏州, trad: 蘇州)
 | {{sort|02063000|2,063,000}}
 |
 | [[Файл:Suzhoupic11.jpg|200px]]
@@ -493,7 +493,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 32
-| [[Hefei]]<br />Héféi<br />(simp: 合肥, trad: 合肥)
+| [[Хэйфэй]]<br />Héféi<br />(simp: 合肥, trad: 合肥)
 | {{sort|01984000|1,984,000}}
 |
 | [[Файл:Hefeiskyline.jpg|200 px]]
@@ -501,7 +501,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 33
-| [[Nanchong]]<br />Nánchōng<br />(simp: 南充, trad: 南充)
+| [[Наньчун]]<br />Nánchōng<br />(simp: 南充, trad: 南充)
 | {{sort|01913000|1,913,000}}
 |
 | [[Файл:Location of Nanchong Prefecture within Sichuan (China).png|200px]]
@@ -509,7 +509,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#d16eff|Southwest
 |-
 | align=center | 34
-| [[Xiamen]]<br />Xiàmén<br />(simp: 厦门, trad: 廈門)
+| [[Сямэнь]]<br />Xiàmén<br />(simp: 厦门, trad: 廈門)
 | {{sort|01896000|1,896,000}}
 |
 | [[Файл:Xiamen.jpg|200px]]
@@ -517,7 +517,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 35
-| [[Fuzhou]]<br />Fúzhōu<br />(simp: 福州, trad: 福州)
+| [[Фучжоу]]<br />Fúzhōu<br />(simp: 福州, trad: 福州)
 | {{sort|01860000|1,860,000}}
 |
 | [[Файл:FuzhouCity (1).jpg|200 px]]
@@ -525,7 +525,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 36
-| [[Jilin City]]<br />Jílín Shì<br />(simp: 吉林市, trad: 吉林市)
+| [[Гирин]]<br />Jílín Shì<br />(simp: 吉林市, trad: 吉林市)
 | {{sort|01823725|1,823,725}}
 |
 | [[Файл:吉林大桥和世纪广场.jpg|200px]]
@@ -533,7 +533,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#9696ff|Northeast
 |-
 | align=center | 37
-| [[Nanyang]]<br />Nányáng<br />(simp: 南阳, trad: 南陽)
+| [[Наньян]]<br />Nányáng<br />(simp: 南阳, trad: 南陽)
 | {{sort|01797000|1,797,000}}
 |
 | [[Файл:Luoyang city.jpg|200px]]
@@ -541,7 +541,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 38
-| [[Ürümqi]]<br />Wūlǔmùqí<br />(simp: 乌鲁木齐, trad: 烏魯木齊)
+| [[Үрэмшэ]]<br />Wūlǔmùqí<br />(simp: 乌鲁木齐, trad: 烏魯木齊)
 | {{sort|01757000|1,757,000}}
 |
 | [[Файл:Urumqi partial panorama at dusk.JPG|200px]]
@@ -549,7 +549,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#ff9148|Northwest
 |-
 | align=center | 39
-| [[Foshan]]<br />Fóshān<br />(simp: 佛山, trad: 佛山)
+| [[Фошань]]<br />Fóshān<br />(simp: 佛山, trad: 佛山)
 | {{sort|01739000|1,739,000}}
 |
 | [[Файл:Xiqiaoshan2.jpg|200px]]
@@ -557,7 +557,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 40
-| [[Guiyang]]<br />Guìyáng<br />(simp: 贵阳, trad: 貴陽)
+| [[Гуйян]]<br />Guìyáng<br />(simp: 贵阳, trad: 貴陽)
 | {{sort|01643000|1,643,000}}
 |
 |
@@ -565,7 +565,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#d16eff|Southwest
 |-
 | align=center | 41
-| [[Benxi]]<br />Běnxī<br />(simp: 本溪, trad: 本溪)
+| [[Бэньси]]<br />Běnxī<br />(simp: 本溪, trad: 本溪)
 | {{sort|01600000|1,600,000}}
 | 2011
 |
@@ -573,7 +573,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#9696ff|Northeast
 |-
 | align=center | 42
-| [[Ningbo]]<br />Níngbō<br />(simp: 宁波, trad: 寧波)
+| [[Нинбо]]<br />Níngbō<br />(simp: 宁波, trad: 寧波)
 | {{sort|01594000|1,594,000}}
 |
 | [[Файл:Ningbo Tianyi Square.jpg|200px]]
@@ -581,7 +581,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 43
-| [[Weifang]]<br />Wéifāng<br />(simp: 潍坊, trad: 濰坊)
+| [[Вэйфан]]<br />Wéifāng<br />(simp: 潍坊, trad: 濰坊)
 | {{sort|01536000|1,536,000}}
 |
 | [[Файл:Dongfengjie Bridge Weifang.jpg|200px]]
@@ -589,7 +589,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 44
-| [[Kaohsiung]]<br />Gāoxióng<br />(simp: 高雄, trad: 高雄)
+| [[Гаосюн]]<br />Gāoxióng<br />(simp: 高雄, trad: 高雄)
 | {{sort|01526420|1,526,420}}
 |
 | [[Файл:Ddm 2004 027 Kaohsiung Harbor.jpg|200 px]]
@@ -597,7 +597,7 @@ desc bottom-left</imagemap>
 |
 |-
 | align=center | 45
-| [[Datong]]<br />Dàtóng<br />(simp: 大同, trad: 大同)
+| [[Датон]]<br />Dàtóng<br />(simp: 大同, trad: 大同)
 | {{sort|01492000|1,492,000}}
 |
 | [[Файл:Datong Railway Station 20060416002654.jpg|200px]]
@@ -605,7 +605,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#79ff76|North
 |-
 | align=center | 46
-| [[Anshan City|Anshan]]<br />Ānshān<br />(simp: 鞍山, trad: 鞍山)
+| [[Аншань]]<br />Ānshān<br />(simp: 鞍山, trad: 鞍山)
 | {{sort|01474000|1,474,000}}
 |
 | [[Файл:Mosarena.jpg|200px]]
@@ -613,7 +613,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#9696ff|Northeast
 |-
 | align=center | 47
-| [[Baotou]]<br />Bāotóu<br />(simp: 包头, trad: 包頭)
+| [[Бугата хото|Бугата]]<br />Bāotóu<br />(simp: 包头, trad: 包頭)
 | {{sort|01442000|1,442,000}}
 |
 | [[Файл:InnerMongoliaBuddhistTemple.jpg|200px]]
@@ -621,7 +621,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#79ff76|North
 |-
 | align=center | 48
-| [[Neijiang]]<br />Nèijiāng<br />(simp: 内江, trad: 内江)
+| [[Нэйцзян]]<br />Nèijiāng<br />(simp: 内江, trad: 内江)
 | {{sort|01406000|1,406,000}}
 |
 | [[Файл:Location of Neijiang Prefecture within Sichuan (China).png|200px]]
@@ -629,7 +629,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#d16eff|Southwest
 |-
 | align=center | 49
-| [[Fushun]]<br />Fǔshùn<br />(simp: 抚顺, trad: 撫順)
+| [[Фушунь]]<br />Fǔshùn<br />(simp: 抚顺, trad: 撫順)
 | {{sort|01402000|1,402,000}}
 |
 | [[Файл:View of Fushun circa 1940.JPG|200px]]
@@ -637,7 +637,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#9696ff|Northeast
 |-
 | align=center | 50
-| [[Xuzhou]]<br />Xúzhōu<br />(simp: 徐州, trad: 徐州)
+| [[Сучжоу]]<br />Xúzhōu<br />(simp: 徐州, trad: 徐州)
 | {{sort|01400000|1,400,000}}
 |
 | [[Файл:歌风台 the Gefeng Tai Altar of Peixian Couty ,jiangsu .jpg|200px]]
@@ -645,7 +645,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 51
-| [[Yantai]]<br />Yāntái<br />(simp: 烟台, trad: 煙臺)
+| [[Яньтай]]<br />Yāntái<br />(simp: 烟台, trad: 煙臺)
 | {{sort|01328000|1,328,000}}
 |
 | [[Файл:Yantai Coastal View.jpg|200px]]
@@ -653,7 +653,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 52
-| [[Yiyang]]<br />Yìyáng<br />(simp: 益阳, trad: 益陽)
+| [[Иян]]<br />Yìyáng<br />(simp: 益阳, trad: 益陽)
 | {{sort|01296000|1,296,000}}
 |
 | [[Файл:Location of Yiyang Prefecture within Hunan (China).png|200px]]
@@ -661,7 +661,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 53
-| [[Changde]]<br />Chángdé<br />(simp: 常德, trad: 常德)
+| [[Чандэ]]<br />Chángdé<br />(simp: 常德, trad: 常德)
 | {{sort|01284000|1,284,000}}
 |
 | [[Файл:Changde battle.jpg|200px]]
@@ -669,7 +669,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 54
-| [[Tangshan]]<br />Tángshān<br />(simp: 唐山, trad: 唐山)
+| [[Таншань]]<br />Tángshān<br />(simp: 唐山, trad: 唐山)
 | {{sort|01279226|1,279,226}}
 |
 | [[Файл:Font at Tangshan, Hebei - Mobile World.jpg|200px]]
@@ -677,7 +677,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#79ff76|North
 |-
 | align=center | 55
-| [[Luoyang]]<br />Luòyáng<br />(simp: 洛阳, trad: 洛陽)
+| [[Лоян]]<br />Luòyáng<br />(simp: 洛阳, trad: 洛陽)
 | {{sort|01265000|1,265,000}}
 |
 | [[Файл:Luoyang city.jpg|200px]]
@@ -685,7 +685,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 56
-| [[Mianyang]]<br />Miányáng<br />(simp: 绵阳, trad: 綿陽)
+| [[Мяньян]]<br />Miányáng<br />(simp: 绵阳, trad: 綿陽)
 | {{sort|01189000|1,189,000}}
 |
 | [[Файл:绵阳站夜景.jpg|200px]]
@@ -693,7 +693,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#d16eff|Southwest
 |-
 | align=center | 57
-| [[Hohhot]]<br />Hūhéhàotè<br />(simp: 呼和浩特, trad: 呼和浩特)
+| [[Хүхэ хото]]<br />Hūhéhàotè<br />(simp: 呼和浩特, trad: 呼和浩特)
 | {{sort|01144000|1,144,000}}
 |
 | [[Файл:Hohhot Central Square.jpg|200px]]
@@ -701,7 +701,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#79ff76|North
 |-
 | align=center | 58
-| [[Shantou]]<br />Shàntóu<br />(simp: 汕头, trad: 汕頭)
+| [[Шаньтоу]]<br />Shàntóu<br />(simp: 汕头, trad: 汕頭)
 | {{sort|01110000|1,110,000}}
 |
 |
@@ -709,7 +709,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 59
-| [[Jingzhou]]<br />Jīngzhōu<br />(simp: 荆州, trad: 荆州)
+| [[Цзинчжоу]]<br />Jīngzhōu<br />(simp: 荆州, trad: 荆州)
 | {{sort|01104000|1,104,000}}
 |
 | [[Файл:Jingzhou Museum.jpg|200px]]
@@ -717,7 +717,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 60
-| [[Baoding]]<br />Bǎodìng<br />(simp: 保定, trad: 保定)
+| [[Баодин]]<br />Bǎodìng<br />(simp: 保定, trad: 保定)
 | {{sort|01060000|1,060,000}}
 |
 | [[Файл:BaodingYuhuaRoad.jpg|200px]]
@@ -725,7 +725,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#79ff76|North
 |-
 | align=center | 61
-| [[Anyang]]<br />Ānyáng<br />(simp: 安阳, trad: 安陽)
+| [[Аньян]]<br />Ānyáng<br />(simp: 安阳, trad: 安陽)
 | {{sort|01058000|1,058,000}}
 |
 | [[Файл:Yinxu.jpg|200px]]
@@ -733,7 +733,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#79ff76|North
 |-
 | align=center | 62
-| [[Liuzhou]]<br />Liǔzhōu<br />(simp: 柳州, trad: 柳州)
+| [[Лючжоу]]<br />Liǔzhōu<br />(simp: 柳州, trad: 柳州)
 | {{sort|01017000|1,017,000}}
 |
 | [[Файл:Central Liuzhou.JPG|200px]]
@@ -749,7 +749,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#d16eff|Southwest
 |-
 | align=center | 64
-| [[Handan]]<br />Hándān<br />(simp: 邯郸 trad: 邯鄲)
+| [[Ханьдань]]<br />Hándān<br />(simp: 邯郸 trad: 邯鄲)
 | {{sort|00951000|951,000}}
 |
 | [[Файл:Handan2.jpg|200 px]]
@@ -757,7 +757,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#79ff76|North
 |-
 | align=center | 65
-| [[Quanzhou]]<br />Quánzhōu<br />(simp: 泉州, trad: 泉州)
+| [[Цюаньчжоу]]<br />Quánzhōu<br />(simp: 泉州, trad: 泉州)
 | {{sort|00948000|948,000}}
 |
 | [[Файл:QuanzhouCityfromMtQingyuan.JPG|200px]]
@@ -765,7 +765,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 66
-| [[Hengyang]]<br />Héngyáng<br />(simp: 衡阳, trad: 衡陽)
+| [[Хэнян]]<br />Héngyáng<br />(simp: 衡阳, trad: 衡陽)
 | {{sort|00904000|904,000}}
 |
 | [[Файл:Hengyang.jpg|200px]]
@@ -773,7 +773,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 67
-| [[Xining]]<br />Xīníng<br />(simp: 西宁, trad: 西寧)
+| [[Синин]]<br />Xīníng<br />(simp: 西宁, trad: 西寧)
 | {{sort|00871000|871,000}}
 |
 | [[Файл:Xining 2008.png|200px]]
@@ -781,7 +781,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#ff9148|Northwest
 |-
 | align=center | 68
-| [[Huainan]]<br />Huáinán<br />(simp: 淮南, trad: 淮南)
+| [[Хэнань]]<br />Huáinán<br />(simp: 淮南, trad: 淮南)
 | {{sort|00863135|863,135}}
 |
 | [[Файл:Huainan June 2005 01.jpg|200px]]
@@ -789,7 +789,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 69
-| [[Yinchuan]]<br />Yínchuān<br />(simp: 银川, trad: 銀川)
+| [[Инчуань]]<br />Yínchuān<br />(simp: 银川, trad: 銀川)
 | {{sort|00861000|861,000}}
 |
 | [[Файл:Yinchuan aerial.JPG|200px]]
@@ -797,7 +797,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#ff9148|Northwest
 |-
 | align=center | 70
-| [[Changzhou]]<br />Chángzhōu<br />(simp: 常州, trad: 常州)
+| [[Чанчжоу]]<br />Chángzhōu<br />(simp: 常州, trad: 常州)
 | {{sort|00827131|827,131}}
 |
 | [[Файл:20090919 Changzhou 5459.jpg|200px]]
@@ -805,7 +805,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 71
-| [[Huai'an]]<br />Huái'ān<br />(simp: 淮安 trad: 淮安)
+| [[Хайнань]]<br />Huái'ān<br />(simp: 淮安 trad: 淮安)
 | {{sort|00725381|725,381}}
 |
 | [[Файл:镇淮楼.JPG|200px]]
@@ -813,7 +813,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#8bffe8|East
 |-
 | align=center | 72
-| [[Yichang]]<br />Yíchāng<br />(simp: 宜昌, trad: 宜昌)
+| [[Ичан]]<br />Yíchāng<br />(simp: 宜昌, trad: 宜昌)
 | {{sort|00634568|634,568}}
 |
 |
@@ -821,7 +821,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 73
-| [[Xiangyang]]<br />Xiāngyáng<br />(simp: 襄阳, trad: 襄陽)
+| [[Сянян]]<br />Xiāngyáng<br />(simp: 襄阳, trad: 襄陽)
 | {{sort|00633173|633,173}}
 |
 | [[Файл:XiangFanLunaNewYear2007.JPG|200 px]]
@@ -829,7 +829,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 74
-| [[Macau]]<br />Àomén<br />(simp: 澳门, trad: 澳門)
+| [[Макао]]<br />Àomén<br />(simp: 澳门, trad: 澳門)
 | {{sort|00542400|542,400}}
 |
 | [[Файл:Macau viewed from Macau Museum - 20100923.jpg|200px]]
@@ -837,7 +837,7 @@ desc bottom-left</imagemap>
 | Bgcolor=#fffb91|South Central
 |-
 | align=center | 75
-| [[Chiayi]]<br />Jiāyì<br />(simp: 嘉义 trad: 嘉義)
+| [[Цзяи]]<br />Jiāyì<br />(simp: 嘉义 trad: 嘉義)
 | {{sort|00000000|}}
 |
 | [[Файл:Chiayi Railway Station.JPG|200px]]
@@ -845,7 +845,7 @@ desc bottom-left</imagemap>
 |
 |-
 | align=center | 76
-| [[Keelung]]<br />Jīlóng<br />(simp: 基隆 trad: 基隆)
+| [[Цзилун]]<br />Jīlóng<br />(simp: 基隆 trad: 基隆)
 | {{sort|00000000|}}
 |
 | [[Файл:Keelung city01.jpg|200px]]
@@ -853,7 +853,7 @@ desc bottom-left</imagemap>
 |
 |-
 | align=center | 77
-| [[Taoyuan City|Taoyuan]]<br />Táoyuán<br />(simp: 桃园 trad: 桃園)
+| [[Таоюань]]<br />Táoyuán<br />(simp: 桃园 trad: 桃園)
 | {{sort|00000000|}}
 |
 | [[Файл:Taoyuan International Airport Terminal Two.jpg|200px]]
@@ -861,7 +861,7 @@ desc bottom-left</imagemap>
 |
 |-
 | align=center | 78
-| [[Hsinchu]]<br />Xīnzhú<br />(simp: 新竹, trad: 新竹)
+| [[Синьчжу]]<br />Xīnzhú<br />(simp: 新竹, trad: 新竹)
 | {{sort|00000000|}}
 |
 | [[Файл:A Hsinchu street.jpg|200px]]
@@ -869,7 +869,7 @@ desc bottom-left</imagemap>
 |
 |-
 | align=center | 79
-| [[Tainan City|Tainan]]<br />Táinán<br />(simp: 台南, trad: 臺南)
+| [[Тайнань]]<br />Táinán<br />(simp: 台南, trad: 臺南)
 | {{sort|00000000|}}
 |
 | [[Файл:Tainan City.jpg|200px]]
@@ -877,79 +877,13 @@ desc bottom-left</imagemap>
 |
 |-
 | align=center | 80
-| [[Taichung]]<br />Táizhōng<br />(simp: 台中, trad: 臺中)
+| [[Тайчжун]]<br />Táizhōng<br />(simp: 台中, trad: 臺中)
 | {{sort|00000000|}}
 |
 | [[Файл:Shuanlo2.jpg|200 px]]
 | {{flagicon|ROC}} ROC
 |
 |}
--->
-
-== Уласууд ==
-{| class="wikitable sortable" width=100% style="font-size:85%;" align=center
-|+ align=center style="background:#BFD7FF"| '''Китдин Улс Орна Таңһчин буулһавр'''<ref>References and details on data provided in the table can be found within the individual provincial articles.</ref>
-|- bgcolor="#efefef"
-!align="left"|Map #
-!align="left"|[[Region of China|Region]]
-!align="left"|Division name
-!align="left"|[[Traditional Chinese|Trad.]]
-!align="left"|[[Simplified Chinese|Simp.]]
-!align="left"|[[Pinyin]]
-!align="left"|[[Chinese Postal Map Romanization|Postal]]
-!align="left"|Abbr.
-!align="right"|[[ISO 3166-2:CN|ISO]]<ref>[[ISO 3166-2:CN]] ([[International Organization for Standardization|ISO]] [[ISO 3166-2|3166-2]] codes for the provinces of China)</ref>
-!align="left"|Type
-!align="left"|Capital
-!align="right"|Population¹
-!align="right"|Density²
-!align="right"|Area³
-!align="left"|Divisions
-{{tent division chn 1| 1|ff9148|Northwest    |[[Шинҗән]]    |新疆|新疆|Xīnjiāng |Sinkiang |{{lang|zh|新}} xīn  |65|fffb91|[[Autonomous areas of China|AR]]           |Ürümqi      | 19,630,000|    12|1,660,400|Xinjiang}}
-{{tent division chn 1| 2|79ff76|North|[[Өвр моңһл]]|內蒙古|内蒙古|Nèiměnggǔ|Mongolia|{{lang|zh|内蒙古}} nèiměnggǔ|15|fffb91|[[Autonomous areas of China|AR]]           |Hohhot      | 23,840,000|    20|1,183,000|Inner Mongolia}}
-{{tent division chn 1| 3|9696ff|Northeast    |[[Хәлүнҗән]]|黑龍江|黑龙江|Hēilóngjiāng|Heilungkiang|{{lang|zh|黑}} hēi|23|9696ff|[[Province (China)|Province]]       |Harbin      | 38,170,000|   83|454,000|Heilongjiang}}
-{{tent division chn 1| 4|9696ff|Northeast    |[[Җилин]]       |吉林|吉林|Jílín    |Kirin    |{{lang|zh|吉}} jí   |22|9696ff|[[Province (China)|Province]]              |Changchun   | 27,090,000|   145|187,400|Jilin}}
-{{tent division chn 1| 5|9696ff|Northeast    |[[Ляунин]]    |遼寧|辽宁|Liáoníng |Fengtien |{{lang|zh|辽}} liáo |21|9696ff|[[Province (China)|Province]]              |Shenyang    | 42,170,000|   289|145,900|Liaoning}}
-{{tent division chn 1| 6|d16eff|Southwest    |[[Төвд]]|西藏|西藏|Xīzàng   |Tibet    |{{lang|zh|藏}} zàng |54|fffb91|[[Autonomous areas of China|AR]]           |Lhasa       |  2,740,000|     2|1,228,400|Tibet}}
-{{tent division chn 1| 7|ff9148|Northwest    |[[Көк нур]]     |青海|青海|Qīnghǎi  |Tsinghai |{{lang|zh|青}} qīng |63|9696ff|[[Province (China)|Province]]              |Xining      |  5,390,000|     7|721,200|Qinghai}}
-{{tent division chn 1| 8|ff9148|Northwest    |[[Һансу]]       |甘肅|甘肃|Gānsù    |Kansu    |{{lang|zh|甘}} gān  |62|9696ff|[[Province (China)|Province]]              |Lanzhou     | 26,190,000|   58|454,300|Gansu}}
-{{tent division chn 1| 9|ff9148|Northwest    |[[Нинша]]     |寧夏|宁夏|Níngxià  |Ningsia  |{{lang|zh|宁}} níng |64|fffb91|[[Autonomous areas of China|AR]]           |Yinchuan    |  5,880,000|    89|66,400|Ningxia}}
-{{tent division chn 1|10|ff9148|Northwest    |[[Шаанши]]     |陝西|陕西|Shǎnxī   |Shensi   |{{lang|zh|陕}} shǎn |61|9696ff|[[Province (China)|Province]]              |Xi'an       | 37,050,000|   180|205,600|Shaanxi}}
-{{tent division chn 1|11|79ff76|North        |[[Шанши]]      |山西|山西|Shānxī   |Shansi   |{{lang|zh|晋}} jìn  |14|9696ff|[[Province (China)|Province]]              |Taiyuan     | 33,350,000|   213|156,300|Shanxi}}
-{{tent division chn 1|12|79ff76|North        |[[Хевә]]       |河北|河北|Héběi    |Hopeh    |{{lang|zh|冀}} jì   |13|9696ff|[[Province (China)|Province]]              |Shijiazhuang| 68,090,000|   363|187,700|Hebei}}
-{{tent division chn 1|13|79ff76|North        |[[Бееҗн]]     |北京|北京|Běijīng  |Peking   |{{lang|zh|京}} jīng |11|ff8585|[[Direct-controlled municipality|Municip.]]|            | 15,810,000|   941| 16,800|Beijing}}
-{{tent division chn 1|14|79ff76|North        |[[Тянҗн]]     |天津|天津|Tiānjīn  |Tientsin |{{lang|zh|津}} jīn  |12|ff8585|[[Direct-controlled municipality|Municip.]]|            | 11,519,000|   980| 11,305|Tianjin}}
-{{tent division chn 1|15|8bffe8|East         |[[Шандун]]    |山東|山东|Shāndōng |Shantung |{{lang|zh|鲁}} lǔ   |37|9696ff|[[Province (China)|Province]]              |Jinan       | 91,800,000|   586|153,800|Shandong}}
-{{tent division chn 1|16|fffb91|South Central|[[Хенән]]       |河南|河南|Hénán    |Honan    |{{lang|zh|豫}} yù   |41|9696ff|[[Province (China)|Province]]              |Zhengzhou   | 98,690,000|  591|167,000|Henan}}
-{{tent division chn 1|17|d16eff|Southwest    |[[Шичуан]]     |四川|四川|Sìchuān  |Szechuan |{{lang|zh|川}} chuān|51|9696ff|[[Province (China)|Province]]              |Chengdu     | 87,250,000|   180|485,000|Sichuan}}
-{{tent division chn 1|18|d16eff|Southwest    |[[Чончн]]   |重慶|重庆|Chóngqìng|Chungking|{{lang|zh|渝}} yú   |50|ff8585|[[Direct-controlled municipality|Municip.]]|            | 31,442,300|   382| 82,300|Chongqing}}
-{{tent division chn 1|19|fffb91|South Central|[[Хүвә]]       |湖北|湖北|Húběi    |Hupeh    |{{lang|zh|鄂}} è    |42|9696ff|[[Province (China)|Province]]              |Wuhan       | 60,160,000|   324|185,900|Hubei}}
-{{tent division chn 1|20|8bffe8|East         |[[Анх]]       |安徽|安徽|Ānhuī    |Anhwei   |{{lang|zh|皖}} wǎn  |34|9696ff|[[Province (China)|Province]]              |Hefei       | 64,610,000|   463|139,700|Anhui}}
-{{tent division chn 1|21|8bffe8|East         |[[Җянсу]]     |江蘇|江苏|Jiāngsū  |Kiangsu  |{{lang|zh|苏}} sū   |32|9696ff|[[Province (China)|Province]]              |Nanjing     | 75,495,000|   736|102,600|Jiangsu}}
-{{tent division chn 1|22|d16eff|Southwest    |[[Юннан]]      |雲南|云南|Yúnnán   |Yunnan   |{{lang|zh|滇}} diān |53|9696ff|[[Province (China)|Province]]              |Kunming     | 44,150,000|   112|394,000|Yunnan}}
-{{tent division chn 1|23|d16eff|Southwest    |[[Гүҗү]]     |貴州|贵州|Gùizhōu  |Kweichow |{{lang|zh|黔}} qián |52|9696ff|[[Province (China)|Province]]              |Guiyang     | 39,040,000|   222|176,000|Guizhou}}
-{{tent division chn 1|24|fffb91|South Central|[[Хунан]]       |湖南|湖南|Húnán    |Hunan    |{{lang|zh|湘}} xiāng|43|9696ff|[[Province (China)|Province]]              |Changsha    | 66,980,000|   316|210,000|Hunan}}
-{{tent division chn 1|25|8bffe8|East         |[[Җянши]]     |江西|江西|Jiāngxī  |Kiangsi  |{{lang|zh|赣}} gàn  |36|9696ff|[[Province (China)|Province]]              |Nanchang    | 42,840,000|   257|167,000|Jiangxi}}
-{{tent division chn 1|26|8bffe8|East         |[[Җеҗән]]    |浙江|浙江|Zhèjiāng |Chekiang |{{lang|zh|浙}} zhè  |33|9696ff|[[Province (China)|Province]]              |Hangzhou    | 47,200,000|   464|102,000|Zhejiang}}
-{{tent division chn 1|27|8bffe8|East         |[[Шанха]]    |上海|上海|Shànghǎi |Shanghai |{{lang|zh|沪}} hù   |31|ff8585|[[Direct-controlled municipality|Municip.]]|            | 18,450,000| 2,622|  6,341|Shanghai}}
-{{tent division chn 1|28|fffb91|South Central|[[Гуанши]]     |廣西|广西|Guǎngxī  |Kwangsi  |{{lang|zh|桂}} Guì  |45|fffb91|[[Autonomous areas of China|AR]]           |Nanning     | 48,890,000|   207|236,000|Guangxi}}
-{{tent division chn 1|29|fffb91|South Central|[[Гуандун]]   |廣東|广东|Guǎngdōng|Kwangtung|{{lang|zh|粤}} yuè  |44|9696ff|[[Province (China)|Province]]              |Guangzhou   |113,040,000|   467|180,000|Guangdong}}
-{{tent division chn 1|30|8bffe8|East         |[[Фуҗиян]]      |福建|福建|Fújiàn   |Fukien   |{{lang|zh|闽}} mǐn  |35|9696ff|[[Province (China)|Province]]              |Fuzhou      | 35,110,000|   289|121,300|Fujian}}
-{{tent division chn 1|31|fffb91|South Central|[[Макау]]       |澳門|澳门|Àomén    |Macau    |{{lang|zh|澳}} ào   |92|79ff76|[[Special Administrative Region of the People's Republic of China|SAR]]| |    520,400|17,310|29|Macau}}
-{{tent division chn 1|32|fffb91|South Central|[[Гонконг]]   |香港|香港|Xiānggǎng|Hong Kong |{{lang|zh|港}} gǎng |91|79ff76|[[Special Administrative Region of the People's Republic of China|SAR]]| |  6,985,200| 6,352|1,104|Hong Kong}}
-{{tent division chn 1|33|fffb91|South Central|[[Хенән]]      |海南|海南|Hǎinán   |Hainan   |{{lang|zh|琼}} qióng|46|9696ff|[[Province (China)|Province]]              |Haikou      |  8,180,000|   241| 34,000|Hainan}}
-{{tent division chn 1|—|8bffe8|East         |[[Тайван]]'''†'''      |臺灣|台湾|Táiwān   |Formosa  |{{lang|zh|台}} tái  |71|d16eff|[[Political status of Taiwan|Claimed Province]] '''†'''|Taipei      | 23,000,000|   636| 35,581|Taiwan}}
-
-|}
-<div class="small">
-Notes:
-: ¹: as of 2004
-: ²: per [[Square kilometre|km²]]
-: ³: [[Square kilometre|km²]]
-: †: Since its founding in 1949, the [[People's Republic of China|People’s Republic of China (PRC)]] has considered Taiwan to be its 23rd province. However, the PRC has never controlled Taiwan. The [[Republic of China|Republic of China (ROC, «Taiwan»)]] currently controls Taiwan which it governs as [[Taiwan Province]], consisting of Taiwan island and [[Penghu]]. The ROC also controls one county of [[Fuchien]] (or Fukien) province: [[Kinmen]]; and part of a second county: [[Lienchiang]].
-</div>
-
-== Яһатанууд ==
 
 == Мүн үзэхэ ==
 * [[Ород хэлэн]]
