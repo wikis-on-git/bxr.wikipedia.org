@@ -21,50 +21,64 @@ MSKS = +8|
 }}
 Чукотка Автономито Тойрог([[Ород хэлэн|ород]].Чукотский автономный округ)-[[Ородой Холбооной Улас|Ородой Холбооной Уласай]] [[округ]].Ниислэл-[[Анадырь]] хото.
 ==Яһатанууд==
-{| class="wikitable" style="text-align: right;"
-|-bgcolor="#e0e0e0"
-! rowspan="2" | Яһатан
-! colspan="2" | 1959 жэл
-! colspan="2" | 1970 жэл
-! colspan="2" | 1979 жэл
-! colspan="2" | 1989 жэл
-! colspan="2" | 2002 жэл
-! colspan="2" | 2010 жэл
-|-bgcolor="#e0e0e0"
-! Number
-! %
-! Number
-! %
-! Number
-! %
-! Number
-! %
-! Number
-! %
-! Number
-! %
+
+<timeline>
+ImageSize = width:600 height:300
+PlotArea = left:50 right:60 top:20 bottom:20
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:180
+ScaleMajor = unit:year increment:20 start:0 gridcolor:gray1
+PlotData =
+  bar:1939 color:yellow width:1 
+   from:0 till:22 width:15  text:21&nbsp;524 textcolor:red fontsize:9px
+  bar:1939 color:orange width:1 
+   from:0 till:3 width:15  text:3344(15,5%) textcolor:green fontsize:8px
+  bar:1959 color:yellow width:1 
+   from:0 till:47 width:15  text:46&nbsp;689 textcolor:red fontsize:9px
+  bar:1959 color:orange width:1 
+   from:0 till:27 width:15  text:26662(57,1 %) textcolor:green fontsize:8px
+  bar:1970 color:yellow width:1 
+   from:0 till:101 width:15  text:101&nbsp;184 textcolor:red fontsize:9px
+  bar:1970 color:orange width:1 
+   from:0 till:70 width:15  text:69968(69,1%) textcolor:green fontsize:8px
+  bar:1979 color:yellow width:1 
+   from:0 till:140 width:15  text:139&nbsp;944 textcolor:red fontsize:9px
+  bar:1979 color:orange width:1 
+   from:0 till:96 width:15  text:96356(68,9%) textcolor:green fontsize:8px
+  bar:1989 color:yellow width:1 
+   from:0 till:164 width:15  text:163&nbsp;934 textcolor:red fontsize:9px
+  bar:1989 color:orange width:1 
+   from:0 till:119 width:15  text:118986(72,5%) textcolor:green fontsize:8px
+  bar:2002 color:yellow width:1 
+   from:0 till:54 width:15  text:53&nbsp;824 textcolor:red fontsize:9px
+  bar:2002 color:orange width:1 
+   from:0 till:36 width:15  text:35869(66,6%) textcolor:green fontsize:8px
+  bar:2010 color:yellow width:1 
+   from:0 till:51 width:15  text:50&nbsp;526 textcolor:red fontsize:9px
+  bar:2010 color:orange width:1 
+   from:0 till:33 width:15  text:32734(64,8%) textcolor:green fontsize:8px
+</timeline>
+
+
+{| class="standard"
+!Народ ||[[1939]]||[[1959]]||[[1970]]||[[1979]]||[[1989]]||[[2002]] ([http://www.perepis2002.ru/index.html?id=17 *])||2010<ref>[http://www.gks.ru/free_doc/new_site/population/demo/per-itog/tab7.xls Информационные материалы об окончательных итогах Всероссийской переписи населения 2010 года]</ref>
 |-
-| align="left"| Ородууд
-| 96 400||68,9%
-| 108 300||66,1
-| 35,868 ||52.0%
-| 42,362 ||54.9%
-| 45,149 ||62.5%
-| ||
+|[[Ородууд]] || align="right" | 5183 (24,08 %)|| align="right" | 28 318 (60,65 %)|| align="right" | 70 500 (69,7 %)|| align="right" | 96 400 (68,9 %)|| align="right" | 108 300 (66,1 %)|| align="right" | 27 918 (51,87 %)|| align="right" | 25 068 (49,61 %)
 |-
-| align="left"| Украинцууд
-| 23,857 ||48.6%
-| 28,966 ||44.0%
-| 29,098 ||42.1%
-| 31,473 ||40.8%
-| 25,366 ||35.1%
-| ||
+|[[Эскимосууд]] || align="right" | 12 111 (56,27 %)|| align="right" | 9975 (21,36 %)|| align="right" | 11 000 (10,9 %)|| align="right" | 11 300 (8,1 %)|| align="right" | 11 900 (7,3 %)|| align="right" | 12 622 (23,45 %)|| align="right" | 12 772 (25,28 %)
 |-
-| align="left"| Эскимосууд
-| 1,878 ||3.8%
-| 3,685 ||5.6%
-| 4,069 ||5.9%
-| 3,353 ||4.3%
-| 1,698 ||2.4%
-| ||
+|[[Украинецууд]] || align="right" | 571 (2,65 %)|| align="right" | 3543 (7,6 %)|| align="right" | 10 400 (10,3 %)|| align="right" | 20 100 (14,4 %)|| align="right" | 27 600 (16,8 %)|| align="right" | 4960 (9,22 %)|| align="right" | 2869 (5,68 %)
+|-
+|[[Эвенууд]] || align="right" | 817 (3,80 %)|| align="right" | 820 (1,76 %)|| align="right" | 100 (1,0 %)|| align="right" | 1000 (0,7 %)|| align="right" | 1300 (0,8 %)|| align="right" | 1407 (2,61 %)|| align="right" | 1392 (2,76 %)
+|-
+|[[Чуванцууд]] || align="right" | …|| align="right" | …|| align="right" | …|| align="right" | …|| align="right" | 900 (0,6 %)|| align="right" | 951 (1,77 %)|| align="right" | 897 (1,78 %)
+|-
+|[[Белорусууд]] || align="right" |60 (0,28 %)|| align="right" | 578 (1,24 %)|| align="right" | 1700 (1,6 %)||2 400 (1,7 %)|| align="right" | 3000 (1,9 %)|| align="right" | 517 (0,96 %)|| align="right" | 364 (0,72 %)
+|-
+|[[Татарууд]] || align="right" |48 (0,22 %)|| align="right" | 504 (1,08 %)|| align="right" | 1600 (1,6 %)|| align="right" | 2000 (1,4 %)|| align="right" | 2300 (1,4 %)|| align="right" | 534 (0,99 %)|| align="right" | 451 (0,89 %)
+|-
 |}
