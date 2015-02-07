@@ -1,12 +1,12 @@
 {{Ородой Холбооной Уласай сүбъеэктэ тухай мэдээн|
-BxrNm = Чукотка Автономито тойрог|
-OfNm1 = |
+BxrNm = Чукот автономито тойрог|
+OfNm1 = Чукоткакэн автономныкэн округ|
 RuNm = Чукотский автономный округ|
-FSFlag = [[File:Flag of Chukotka.svg|thumb]]|
-FSCoA = [[File:Coat of Arms of Chukotka.png|110px]]|
+FSFlag = [[File:Flag of Chukotka.svg|150px]]|
+FSCoA = [[File:Coat of Arms of Chukotka.png|90px]]|
 FlagLnk = Чукотка туг|
 CoALnk = Чукотка гүрэнэй һүлдэ|
-FSMap = [[File:Chukotka in Russia(crop).svg|350px]]|
+FSMap = [[File:Chukotka in Russia(crop).svg|200px]]|
 FSCtrWhat = Ниислэл|
 FSCtrNm = [[Анадырь]]|
 AreaRnk = |
@@ -19,9 +19,9 @@ PopDens = 0,07|
 CadNo = 80|
 MSKS = +8|
 }}
-Чукотка Автономито Тойрог([[Ород хэлэн|ород]].Чукотский автономный округ)-[[Ородой Холбооной Улас|Ородой Холбооной Уласай]] [[округ]].Ниислэл-[[Анадырь]] хото.
-==Яһатанууд==
+'''Чукот автономито тойрог''' (<small>[[Чукча хэлэн|чукчаар]]</small> ''Чукоткакэн автономныкэн округ'') - [[Ородой Холбооной Улас]]ай захиргаанай нэгэжэ. Ниислэл — [[Анадырь]] хото.
 
+== Хүн зон ==
 <timeline>
 ImageSize = width:600 height:300
 PlotArea = left:50 right:60 top:20 bottom:20
@@ -63,7 +63,7 @@ PlotData =
    from:0 till:33 width:15  text:32734(64,8%) textcolor:green fontsize:8px
 </timeline>
 
-
+=== Яһатанууд ===
 {| class="standard"
 !Народ ||[[1939]]||[[1959]]||[[1970]]||[[1979]]||[[1989]]||[[2002]] ([http://www.perepis2002.ru/index.html?id=17 *])||2010<ref>[http://www.gks.ru/free_doc/new_site/population/demo/per-itog/tab7.xls Информационные материалы об окончательных итогах Всероссийской переписи населения 2010 года]</ref>
 |-
@@ -79,6 +79,10 @@ PlotData =
 |-
 |[[Белорусууд]] || align="right" |60 (0,28 %)|| align="right" | 578 (1,24 %)|| align="right" | 1700 (1,6 %)||2 400 (1,7 %)|| align="right" | 3000 (1,9 %)|| align="right" | 517 (0,96 %)|| align="right" | 364 (0,72 %)
 |-
-|[[Татарууд]] || align="right" |48 (0,22 %)|| align="right" | 504 (1,08 %)|| align="right" | 1600 (1,6 %)|| align="right" | 2000 (1,4 %)|| align="right" | 2300 (1,4 %)|| align="right" | 534 (0,99 %)|| align="right" | 451 (0,89 %)
+|[[Татарнууд]] || align="right" |48 (0,22 %)|| align="right" | 504 (1,08 %)|| align="right" | 1600 (1,6 %)|| align="right" | 2000 (1,4 %)|| align="right" | 2300 (1,4 %)|| align="right" | 534 (0,99 %)|| align="right" | 451 (0,89 %)
 |-
 |}
+
+{{Ородой Холбооной Улас}}
+
+[[Категори:Чукотка|Чукотка]]
