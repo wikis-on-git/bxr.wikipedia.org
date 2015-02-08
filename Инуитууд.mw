@@ -1,4 +1,52 @@
 [[Файл:Inuit women 1907.jpg|right|thumb|Инуит эхэнэр]]
-'''Инуит яһатан''' (заримдаа баһа '''эскимосууд''', <small>[[Инуит хэлэнүүд|инуитаар]]</small> ᐃᓄᐃᑦ) — [[палеоазиатууд|палеоазиат]] хэлэнэй бүлын нэгэ яһатан юм. [[Дани]]ин [[Гренланд]]та, [[Америкын Нэгэдэһэн Улас]]ай [[Аляска]]да, [[Канада|Канадын]] [[Нунавут]], [[Квебек]], ба [[Ньюфаундленд]], мүн [[Ородой Холбооной Улас]]ай [[Чукоткын автономито тойрог|Чукотка]] ажаһуудаг. [[Оро үсхэбэрилгэ|Оро үсхэбэрилэгшэд]].
+'''Инуит яһатан''' (заримдаа баһа '''эскимосууд''', <small>[[Инуит хэлэнүүд|инуитаар]]</small> ᐃᓄᐃᑦ) — [[палеоазиатууд|палеоазиат]] хэлэнэй бүлын нэгэ яһатан юм. [[Дани]]ин [[Гренланд]]та, [[Америкын Нэгэдэһэн Улас]]ай [[Аляска]]да, [[Канада|Канадын]] [[Нунавут]], [[Квебек]], ба [[Ньюфаундленд]], мүн [[Ородой Холбооной Улас]]ай [[Чукот автономито тойрог|Чукот АТ]] ажаһуудаг. [[Оро үсхэбэрилгэ|Оро үсхэбэрилэгшэд]].
+
+== Россида ажаһуудаг инуитууд ==
+
+<timeline>
+ImageSize = width:400 height:300
+PlotArea = left:40 right:40 top:20 bottom:20
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:1800
+ScaleMajor = unit:year increment:200 start:0 gridcolor:gray1
+PlotData =
+  bar:1926 color:gray1 width:1 
+   from:0 till:1292 width:15  text:1292 textcolor:red fontsize:8px
+  bar:1959 color:gray1 width:1 
+   from:0 till:1111 width:15  text:1111 textcolor:red fontsize:8px
+  bar:1970 color:gray1 width:1 
+   from:0 till:1265 width:15  text:1265 textcolor:red fontsize:8px
+  bar:1979 color:gray1 width:1 
+   from:0 till:1460 width:15  text:1460 textcolor:red fontsize:8px
+  bar:1989 color:gray1 width:1 
+   from:0 till:1704 width:15  text:1704 textcolor:red fontsize:8px
+  bar:2002 color:gray1 width:1 
+   from:0 till:1750 width:15  text:1750 textcolor:red fontsize:8px
+  bar:2010 color:gray1 width:1 
+   from:0 till:1738 width:15  text:1738 textcolor:red fontsize:8px
+</timeline>
+
+'''Һуури газарта ажаһуудаг инуитуудай тоо (2002 он):<ref>[http://std.gmcrosstata.ru/webapi/opendatabase?id=vpn2002_pert База микроданных Всероссийской переписи населения 2002 года]</ref>'''
+
+[[Чукот автономито тойрог|Чукот АТ]]:
+
+[[Новое Чаплино]] тосхон 279
+
+[[Сиреники]] тосхон 265
+
+[[Лаврентия (тосхон)|Лаврентия]] 214
+
+[[Провидения]] һуурин 174
+
+[[Анадырь]] хото 153
+
+[[Уэлькаль]] тосхон 131
+
+== Зүүлтэ ==
+{{зүүлтэ}}
 
 [[Категори:Арадууд]]
