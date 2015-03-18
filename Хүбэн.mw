@@ -32,7 +32,7 @@
 |}</div>
 |
 {| class='standard'
-|+ Хүбэнгэй таряалга <sup>[http://faostat.fao.org (FAOSTAT)]</sup><br />тыс. тонн.
+|+ Хүбэнгэй таряалга <sup>[http://faostat.fao.org (FAOSTAT)]</sup><br />мянган тонно
 |-
 ! Улас || [[1985]] || [[1995]] || [[2005]]
 |-
@@ -58,6 +58,38 @@
 |}
 |}
 <br clear=all />
+
+== Эдэй засаг ==
+<!--{| cellpadding="4" align="right" style="margin: 1em 1em 1em 1em; background: #f9f9f9; border: 1px #aaa solid; font-size: 90 %; "
+|-->
+{| class='standard'
+! colspan=6|Дэлхэйдэ хүбэнгэй хэрэглэлгэ, мянган тонно
+|-
+! ||2001−2002||2002−2003||2003−2004||2004−2005*||2005−2006**
+|-
+| Бүгэдэ ||align="right"|20 288||align="right"|21 184||align="right"|21 352||align="right"|23 080||align="right"|23 650
+|-
+| [[БНХАУ|Хитад]] ||align="right"|5 700||align="right"|6 500||align="right"|7 000||align="right"|8 100||align="right"|8 600
+|-
+| [[Энэдхэг]] ||align="right"|2 910||align="right"|2 914||align="right"|3 000||align="right"|3 300||align="right"|3 400
+|-
+| [[Европын Холбоо|ЕХ]]*** ||align="right"|2 430||align="right"|2 399||align="right"|2 224||align="right"|2 240||align="right"|2 200
+|-
+| [[Пакистан]] ||align="right"|1 855||align="right"|2 042||align="right"|2 100||align="right"|2 300||align="right"|2 370
+|-
+| Зүүн Ази, Австрали ба Океани||align="right"|2 127||align="right"|2 075||align="right"|1 885||align="right"|1 850||align="right"|1 830
+|-
+| [[АНУ]] ||align="right"|1 676||align="right"|1 583||align="right"|1 413||align="right"|1 350||align="right"|1 280
+|-
+| [[Бразил]] ||align="right"|830||align="right"|760||align="right"|825||align="right"|900||align="right"|900
+|-
+| [[ТУХН]] ||align="right"|671||align="right"|674||align="right"|686||align="right"|710||align="right"|730
+|-
+| Бусад ||align="right"|2 090||align="right"|2 237||align="right"|2 218||align="right"|2 330||align="right"|2 330
+|-
+! colspan=6|<span style="font-size:smaller;">''Тайлбари: * — үнэлгэ; ** — таамаглал; *** — Турцитай хамта.''</span>
+|}
+<!--|}-->
 
 == Холбооһон ==
 {{commonscat|Cotton}}
