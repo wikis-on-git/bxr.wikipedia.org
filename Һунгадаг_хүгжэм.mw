@@ -9,7 +9,7 @@ Colors =
   id:gray          value:gray(0.4)
   id:darkGray      value:gray(0.2)
 
-  id:ren      value:rgb(0.7,0.8,0.65)     legend:Һэргэн мандалта   
+  id:ren      value:rgb(0.7,0.8,0.65)     legend:Һэргэн_мандалта   
   id:bar      value:rgb(0.75,0.8,0.65)   legend:Барокко
   id:bar-u      value:rgb(0.85,0.9,0.7)  
   id:cla      value:rgb(1,1,0.25)      legend:Классицизм
