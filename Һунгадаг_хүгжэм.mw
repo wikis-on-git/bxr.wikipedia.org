@@ -1,5 +1,152 @@
 '''Һунгадаг хүгжэм''' ({{mongolUnicode|ᠰᠣᠩᠭᠤᠳᠠᠭ ᠬᠥᠭᠵᠢᠮ|h}}), мүн '''классик хүгжэм''' гээшэ баруун хүгжэмэй эгээн гоё уламжалалта [[хүгжэм]]эй түрэл юм.
 
+<timeline>
+Preset = TimeHorizontal_AutoPlaceBars_UnitYear
+ImageSize = width:820
+
+Colors =
+  id:lightGray     value:rgb(1,1,1)
+  id:gray          value:gray(0.4)
+  id:darkGray      value:gray(0.2)
+
+  id:ren      value:rgb(0.7,0.8,0.65)     legend:Һэргэн мандалта   
+  id:bar      value:rgb(0.75,0.8,0.65)   legend:Барокко
+  id:bar-u      value:rgb(0.85,0.9,0.7)  
+  id:cla      value:rgb(1,1,0.25)      legend:Классицизм
+  id:cla-u      value:rgb(1,1,0.55)      
+  id:rom      value:rgb(0.8,0.7,0.7)   legend:Романтизм
+  id:rom-u      value:rgb(0.9,0.7,0.7)  
+  id:mod      value:rgb(0.9,0.8,0.8)      legend:Модерн
+  id:mod-u      value:rgb(0.95,0.85,0.8)
+  id:post     value:rgb(0.9,0.7,0.9)      legend:Постмодерн
+
+BackgroundColors = canvas:lightGray
+
+Period = from:1400 till:2025
+ScaleMajor = unit:year increment:25 start:1400
+Legend = orientation:vertical left:49 top:150
+
+LineData =
+  at:1400 color:darkGray layer:back
+  at:1500 color:darkGray layer:back
+  at:1600 color:darkGray layer:back
+  at:1700 color:darkGray layer:back
+  at:1800 color:darkGray layer:back
+  at:1900 color:darkGray layer:back
+  at:2000 color:darkGray layer:back
+
+BarData=
+  barset:Composers
+
+PlotData=
+
+# set defaults
+  width:17 fontsize:M textcolor:black align:left anchor:from shift:(4,-6)
+
+  barset:Composers
+  from: 1400 till: 1453 color:Ren text:[[Джон Данстейбл|Дж.Данстейбл]]
+  from: 1400 till: 1474 color:Ren text:[[Гийом Дюфаи|Г.Дюфаи]]
+  from: 1405 till: 1460 color:Ren text:[[Жиль Беншуа|Г.Беншуа]]
+  from: 1410 till: 1497 color:Ren text:[[Йоганнес Окегем|Й.Окегем]]
+  from: 1440 till: 1521 color:Ren text:[[Жоскен Депре|Ж.Депре]]
+  from: 1445 till: 1517 color:Ren text:[[Генрих Исаак|Г.Исаак]]
+  from: 1451 till: 1505 color:Ren text:[[Якоб Обрехт|Я.Обрехт]]
+  from: 1525 till: 1594 color:Ren text:[[Джованни Пьерлуиджи да Палестрина|Дж.Палестрина]]
+  from: 1532 till: 1594 color:Ren text:[[Орландо ди Лассо|О.ди Лассо]]
+  from: 1532 till: 1585 color:Ren text:[[Андреа Габриели|А.Габриели]]
+  from: 1540 till: 1623 color:Ren text:[[Вильям Берд|В.Берд]]
+  from: 1548 till: 1611 color:Ren text:[[Томас Луис де Виктория|Т.Л. де Виктория]]
+  from: 1554 till: 1612 color:Ren text:[[Джованни Габриели|Г.Габриели]]
+  from: 1567 till: 1634 color:Bar text:[[Клаудио Монтеверди|К.Монтеверди]]
+  from: 1583 till: 1643 color:Bar text:[[Джироламо Фрескобальди|Дж.Фрескобальди]]
+  from: 1583 till: 1625 color:Bar text:[[Орландо Гиббонс|О.Гиббонс]]
+  from: 1605 till: 1674 color:Bar text:[[Джакомо Кариссими|Г.Кариссими]]
+  from: 1630 till: 1690 color:Bar-u text:[[Микола Павлович Дилецький|М.Дилецький]]
+  from: 1632 till: 1687 color:Bar text:[[Жан-Баптист Люлли|Ж.Б.Люлли]]
+  from: 1637 till: 1707 color:Bar text:[[Дитрих Букстехуде|Д.Букстехуде]]
+  from: 1653 till: 1706 color:Bar text:[[Йоганн Пахельбеля|Й.Пахельбель]]
+  from: 1660 till: 1725 color:Bar text:[[Алессандро Скарлатти|А.Скарлатти]]
+  from: 1668 till: 1733 color:Bar text:[[Франсуа Куперен|F.Куперен]]
+  barset:breakfrom:
+  from: 1653 till: 1713 color:Bar text:[[Арканджело Корелли|А.Корелли]]
+  from: 1658 till: 1709 color:Bar text:[[Джузеппе Торелли|Г.Торелли]]
+  from: 1659 till: 1695 color:Bar text:[[Генри Перселл|Г.Перселл]]
+  from: 1671 till: 1751 color:Bar text:[[Томазо Альбинони|Т.Альбинони]]
+  from: 1678 till: 1741 color:Bar text:[[Антонио Вивальди|А.Вивальди]]
+  from: 1681 till: 1767 color:Bar text:[[Георг Филипп Телеман|Г.Ф.Телеман]]
+  from: 1683 till: 1764 color:Bar text:[[Жан-Филип Рамо|Ж.Ф.Рамо]]
+  from: 1685 till: 1750 color:Bar text:[[Йоганн Себастьян Бах|Й.С.Бах]]
+  from: 1685 till: 1759 color:Bar text:[[Георг Фридрих Гендель|Г.Ф.Гендель]]
+  from: 1714 till: 1788 color:Cla text:[[Карл Филипп Емануель Бах|К.Ф.Е.Бах]]
+  from: 1714 till: 1787 color:Cla text:[[Кристоф Виллибальд Глюк|К.В.Глюк]]
+  from: 1732 till: 1809 color:Cla text:[[Йозеф Гайдн|Й.Гайдн]]
+  from: 1735 till: 1782 color:Cla text:[[Йоганн Кристиан Бах|Й.К.Бах]]
+  from: 1745 till: 1777 color:Cla-u text:[[Березовский Максим Созонтович|М.Березовский]]
+  from: 1750 till: 1825 color:Cla text:[[Антонио Сальери|А.Сальери]]
+  from: 1751 till: 1825 color:Cla-u text:[[Бортнянский Дмитрий Степанович|Д.Бортнянский]]
+  from: 1756 till: 1791 color:Cla text:[[Вольфганг Амадей Моцарт|В.А.Моцарт]]
+  from: 1760 till: 1842 color:Cla text:[[Луиджи Керубини|Л.Керубини]]
+  from: 1770 till: 1827 color:Cla text:[[Людвиг ван Бетховен|Л.ван Бетховен]]
+  from: 1782 till: 1840 color:Rom text:[[Николо Паганини|Н.Паганини]]
+  from: 1786 till: 1826 color:Rom text:[[Карл Мария фон Вебер|К.М.Вебер]]
+  from: 1792 till: 1868 color:Rom text:[[Джоаккино Россини|Д.Россини]]
+  from: 1797 till: 1828 color:Rom text:[[Франц Шуберт|Ф.Шуберт]]
+  from: 1797 till: 1848 color:Rom text:[[Гаетано Доницетти|Г.Доницетти]]
+  from: 1801 till: 1835 color:Rom text:[[Винченцо Беллини|В.Беллини]]
+  from: 1803 till: 1869 color:Rom text:[[Гектор Берлиоз|Г.Берлиоз]]
+  from: 1805 till: 1847 color:Rom text:[[Феликс Мендельсон|Мендельсон]]
+  from: 1810 till: 1849 color:Rom text:[[Фридерик Шопен|Ф.Шопен]]
+  from: 1810 till: 1856 color:Rom text:[[Роберт Шуман|Р.Шуман]]
+  from: 1811 till: 1886 color:Rom text:[[Ференц Лист|Ф.Лист]]
+  from: 1813 till: 1883 color:Rom text:[[Рихард Вагнер|Р.Вагнер]]
+  from: 1813 till: 1901 color:Rom text:[[Джузеппе Верди|Дж.Верди]]
+  from: 1819 till: 1880 color:Rom text:[[Жака Оффенбах|Ж.Оффенбах]]
+  from: 1824 till: 1884 color:Rom text:[[Бедржих Сметана|Б.Сметана]]
+  from: 1833 till: 1897 color:Rom text:[[Йоганнес Брамс|Й.Брамса]]
+  from: 1835 till: 1921 color:Rom text:[[Камиль Сен-Санс|Сен-Санс]]
+  from: 1838 till: 1875 color:Rom text:[[Жорж Бизе|Г.Бизе]]
+  barset:breakfrom:
+  from: 1839 till: 1881 color:Rom text:[[Модест Петрович Мусоргский|М.Мусоргский]]
+  from: 1840 till: 1893 color:Rom text:[[Пётр Чайковский|П.Чайковский]]
+  from: 1841 till: 1904 color:Rom text:[[Антонин Дворжак|А.Дворжак]]
+  from: 1842 till: 1912 color:Rom-u text:[[Микола Виталийович Лисенко|М.Лисенко]]
+  from: 1843 till: 1907 color:Rom text:[[Эдвард Григ|Э. Григ]]
+  from: 1844 till: 1908 color:Rom text:[[Николай Римский-Корсаков|Римский-Корсаков]]
+  from: 1854 till: 1928 color:Rom text:[[Леош Яначек|Л.Яначек]]
+  from: 1858 till: 1924 color:Rom text:[[Джакомо Пуччини|Г.Пуччини]]
+  from: 1860 till: 1911 color:Rom text:[[Густав Малер|Г.Малер]]
+  from: 1860 till: 1909 color:Rom text:[[Исаак Альбенис|I.Альбенис]]
+  from: 1862 till: 1918 color:Mod text:[[Клод Дебюсси|К.Дебюсси]]
+  from: 1866 till: 1925 color:Mod text:[[Эрик Сати|Э.Сати]]
+  from: 1872 till: 1958 color:Mod text:[[Воан Вильямс Ральф|R.Воан-Вильямс]]
+  from: 1873 till: 1943 color:Mod text:[[Сергей Рахманинов|С.Рахманинов]]
+  from: 1874 till: 1951 color:Mod text:[[Арнольд Шенберг|А.Шенберг]]
+  from: 1875 till: 1937 color:Mod text:[[Мориса Равеля|М.Равель]]
+  from: 1885 till: 1945 color:Mod text:[[Бела Барток|Б.Барток]]
+  from: 1872 till: 1915 color:Mod text:[[Олександр Скрябин|О.Скрябин]]
+  from: 1877 till: 1921 color:Mod-u text:[[Леонтович Микола Дмитрович|М.Леонтович]]
+  from: 1882 till: 1971 color:Mod text:[[Игор Стравинський|И.Стравинський]]
+  from: 1883 till: 1945 color:Mod text:[[Антон Веберн|А.Веберн]]
+  from: 1883 till: 1965 color:Mod text:[[Эдгар Варез|Э.Варез]]
+  from: 1891 till: 1953 color:Mod text:[[Сергей Прокофьев|С.Прокофьев]]
+  from: 1895 till: 1953 color:Mod text:[[Карл Орф|К.Орф]]
+  from: 1895 till: 1968 color:Mod-u text:[[Борис Лятошинский|Б.Лятошинский]]
+  from: 1899 till: 1963 color:Mod text:[[Франсис Пуленк|Ф.Пуленк]]
+  from: 1903 till: 1978 color:Mod text:[[Арам Хачатурян|А.Хачатурян]]
+  from: 1906 till: 1975 color:Mod text:[[Дмитрий Шостакович|Д.Шостакович]]
+  from: 1912 till: 1992 color:Post text:[[Джон Кейдж|Дж.Кейдж]]
+  from: 1913 till: 1976 color:Mod text:[[Бенджамин Бриттен|Б.Бриттен]]
+  from: 1910 till: 1971 color:Mod text:[[Дандар Аюшеев|Д. Аюшеев]]
+  from: 1916 till: 1989 color:Mod text:[[Баудоржи Ямпилов|Б. Ямпилов]]
+  from: 1918 till: 1990 color:Mod text:[[Леонард Бернстайн|Л.Бернстайн]]
+  from: 1923 till: 2006 color:Post text:[[Дьёрдь Лигети|Д.Лигети]]
+  from: 1925 till: 2007 color:Post text:[[Пьер Булез|П.Булез]]
+  from: 1928 till: 2007 color:Post text:[[Карлхайнц Штокхаузен|К.Штокгаузен]]
+  from: 1934 till: 1998 color:Post text:[[Альфред Шнитке|А.Шнитке]]
+  from: 1936 till: 2007 color:Post text:[[Стив Райх|С.Рейх]]
+  from: 1942 till: 2007 color:Post text:[[Филип Гласс|Ф.Гласс]]
+  </timeline>
+
 [[Категори:Хүгжэм]]
 
 {{1000 үгүүлэл}}
