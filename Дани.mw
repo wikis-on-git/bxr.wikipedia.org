@@ -1,6 +1,61 @@
-[[Файл:Flag of Denmark.svg|thumb|250px|[[Дани туг]].]]
-[[Файл:National Coat of arms of Denmark.svg|thumb|150px|Дани эзэн хаанай гэр бүлын һүлдэ]]
+{{Улас
+ |буряад_нэрэ='''Даниин Хаанта Улас'''
+ |уугуул_нэрэ='''Kongeriget Danmark'''
+ |богони_нэрэ = Дани
+ |һүлдын_зураг=Coat of Arms of Denmark.svg
+ |тугай_зураг=Flag of Denmark.svg
+ |газарай_зураг=EU-Denmark.svg
+ |түрын_уряа= {{lang-da|Guds hjælp, Folkets kærlighed, Danmarks styrke}}<br />« Бурханай туһа, арадай дуран, Даниин хүсэн»
+ |түрын_дуулал={{lang-da|Der er et yndigt land}}<br />
+ |засаглалай_хэлбэри       = [[Үндэһэн хуулита хаанта засагта улас]] 
+ |албан_ёһоной_хэлэн=[[Дани хэлэн|Дани]]
+ |үндэһэ_язгуур                  =
+ |үндэс_язгуур_он               =
+ |хуули_тогтоогшо               =[[Дани хэлэн|дан.]] "Folketinget"<br/>''Фолькетинг''<br/>
+ |дээдэ_танхим               =
+ |доодо_танхим               =
+ |ниислэл_хото=[[Файл:Greater_coat_of_arms_of_Copenhagen.svg|20px]] [[Копенхаген]]
+ |тэргүүнэй_класс1          = [[Хаан]]
+ |тэргүүнэй_класс2          = [[Юрэнхы сайд]]
+ |тэргүүнэй_нэрэ1                = [[II Маргрете]]
+ |тэргүүнэй_нэрэ2                = Хелле Торнинг-Шмитт
+ |хүн_амай_тоосоо              =
+ |хүн_ам_тооцоолсон_он          =
+ |хүн_амын_тоогоор_эрэмбэ_дэс   =
+ |хүн_амын_тооллого             =5 587 085<ref name="statistics">{{cite web|url=http://www.dst.dk/HomeUK/Statistics/Key_indicators/Population/pop.aspx|title=Population by region and time|date=2012-10|publisher=Statistics Denmark|accessdate=2012-10-02|lang=en||archiveurl=http://www.webcitation.org/6BOkrng3H|archivedate=2012-10-14}}</ref>
+ |хүн_ам_тоолсон_он             =2012
+ |хүн_амын_тооллого_эрэмбэ_тоологдсоноор  =
+ |хүн_амын_нягтрал_нэгж_км2     =126,4
+ |хүн_амын нягтрал_эрэмбэ_дэс   =
+ |ДНБ_ХАЧ                       =[[Америкын доллар|$]]200,796 тэрбум<ref name="imf.org">[http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=128&s=NGDPD,NGDPDPC,PPPGDP,PPPPC,LP&grp=0&a=&pr.x=39&pr.y=4 Report for Selected Countries and Subjects]</ref>
+|ДНБ_ХАЧ_он                    =2010
+|ДНБ_ХАЧ_эрэмбэ                =
+|ДНБ_ХАЧ_Нэг_хүнд              =36 336<ref name="imf.org"/>
+|ДНБ_ХАЧ_Нэг_хүнд_эрэмбэ       =
+|ДНБ_нэрлэсэн                  =
+|ДНБ_нэрлэсэн_он               =
+|ДНБ_нэрлэсэн_эрэмбэ           = 
+|ДНБ_нэрлэсэн_нэг_хүнд         =
+|ДНБ_нэрлэсэн_нэг_хүнд_эрэмбэ  =
+|ХТББИ                         =28,1<ref name=eurogini>{{cite web|title=Gini coefficient of equivalised disposable income (source: SILC)|url=http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_di12|publisher=Eurostat Data Explorer|accessdate=13 August 2013}}</ref>
+|Илтгэлцүүр_он                 =2012
+|Илтгэлцүүр_ангилал            =<span style="color:#090;">бага</span>
+|Илтгэлцүүр_эрэмбэ             =
+|ХХИ                           ={{increase}} 0,901<ref>{{cite web|url=http://hdr.undp.org/en/media/HDR_2013_EN_Table1.pdf|title=Human Development Report 2013|publisher=United Nations|accessdate=2013-03-14|deadlink=404}}</ref>
+|ХХИ_он                        =2013
+|ХХИ_ангилал                   =<span style="color:#090;">маша һайн</span>
+|ХХИ_эрэмбэ                    =10
+ |мүнгэн_тэмдэгтэ                   = Даниин крона
+ |мүнгэн_тэмдэгтэ_код    = DKK
+ |интернет_домэйн                   = [[.dk]]
+ |телефоной_код            = +45
+ |сагай_бүһэ               = +1 ([[Түб Европын саг]])
+ |зүүлтэ                   = 
+}}
 '''Дани''' ({{lang-da|Danmark}}) — [[Европ]]ын улас. Ниислэл — '''[[Копенгаген]]'''.
+
+== Зүүлтэ ==
+{{зүүлтэ}}
 
 == Холбооһон ==
 * {{Commons|Denmark}}
@@ -8,4 +63,4 @@
 {{Европо}}
 {{stub}}
 
-[[Категория:Дани|*]]
+[[Категория:Дани| ]]
