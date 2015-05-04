@@ -72,6 +72,8 @@
 Литва уласай нютаг дэбисхэр эхилээд 10 нэгэжэдэ, саашалбал дотороо 60 нэгэжэдэ хубаагдадаг. [[Литва хэлэн|литваар]] ''"apskritis"'' ({{lang-ru|уезд}}; {{lang-en|county}}) гэхэ томо нэгэжэнь дундажаар 6,530 км² нютаг, 320 мянган хүниие харьяалдаг. Буряад хэлэнээ «[[аймаг]]» гэжэ оршуулан ойлгобол боломоор байдаг юм. Литвада ниислэл [[Вильнюс]] (2011 ондо 552,445 оршон һуугшадтай байба), [[Каунас]] (321 200) тэргүүтэй зуун мянганһаа олон хүнтэй 5 хото байдаг. 
 
 == Засаг захиргаанай хубаари ==
+{|
+|valign=top|
 {{Image label begin|image=Apskritis of Lithuania.png|width={{{width|500}}}|float={{{float|left}}}}}
 
 {{Image label small|x=0.49|y=0.65|scale={{{width|500}}}|text=[[File:Alytus County COA.png|15px]]<br>[[Алитусай аймаг]]}}
@@ -91,7 +93,8 @@
 {{Image label small|x=0.900|y=0.500|scale={{{width|500}}}|text=''[[Беларусь|<span style="color: grey;">Беларусь</span>]]''}}
 {{Image label small|x=0.300|y=0.700|scale={{{width|500}}}|text=''[[Польшо|<span style="color: grey;">Польшо</span>]]''}}
 {{Image label small|x=0.200|y=0.500|scale={{{width|500}}}|text=''[[Ородой Холбооной Улас|<span style="color: grey;">Росси</span>]]''}}
-{{Image label end}}<noinclude>
+{{Image label end}}
+|
 {| class="standard"
 !Аймаг||Түб
 |-
@@ -114,6 +117,7 @@
 |[[Утенын аймаг]]|| [[Утена]]
 |-
 |[[Шяуляйн аймаг]]|| [[Шяуляй]]
+|}
 |}
 
 == Зүүлтэ ==
