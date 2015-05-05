@@ -1,32 +1,56 @@
-</table>
-<table border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left:0.5em;" width="300px">
-<caption><font size="+1">'''Аргентина''' <br /> '''Argentina'''</font></caption>
-<tr>
-<td align="center" colspan="2">
-<table border="0" cellpadding="2" cellspacing="10" style="background:#e8e8e8;"> 
-<tr>
-<td align="left" width="150px">
-[[File:Flag of Argentina.svg|150px]]
-</td>
-<td align="left" width="150px">
-[[File:Coat of arms of Argentina.svg|150px]]</td>
-</td>
-</tr>
-<tr>
-<td align="center" width="150px">
-[[Аргентинын түрын туг|Түрын туг]]
-</td><td align="left" width="150px">
-[[Аргентинын эзэн хаанай гэр бүлын һүлдэ|Хаанай гэр бүлын һүлдэ]]</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td colspan=2 align="center" width="140px">
-[[File:Argentina (orthographic projection).svg|250px]]
-</td></tr>
-<tr><td width="150px">[[Албан ёһоной хэлэн]]</td><td>[[Испани хэлэн]]</td></tr>
-<tr><td width="150px">[[Ниислэл хото]]</td> <td>[[Буэнос-Айрес]]</td></tr>
+{{Улас
+|буряад_нэрэ         = '''Бүгэдэ Найрамдаха Аргентина Улас'''
+|уугуул_нэрэ  =  República Argentina
+|богони_нэрэ = Аргентина
+|һүлдын_зураг                    = Coat of arms of Argentina.svg
+|тугай_зураг = Flag of Argentina.svg
+|түрын_уряа = {{lang-es|En unión y libertad}}<br/>«Эб нэгэдэл ба эрхэ сүлөө»
+|түрын_дуулал = {{lang-es|Himno Nacional Argentino}}<br />«Аргентинын түрын дуулал»<br /><center>[[File:Himno Nacional Argentino instrumental.ogg|noicon|center]]</center>
+<!-- |Аудио=-->
+|засаглалай_хэлбэри       = [[Холбооной улас]]
+|газарай_зураг                   = Argentina_orthographic.svg
+|албан_ёһоной_хэлэн                    = [[Испани хэлэн]]
+|үндэһэ_язгуур                  = 
+|ниислэл_хото            = [[File:Escudo_de_la_Ciudad_de_Buenos_Aires.svg|15px]] [[Буэнос-Айрэс]]
+|хамагай_томо_хото = [[Сан-Паулу]]
+|тэргүүнэй_класс1          = Юрэнхылэгшэ
+|тэргүүнэй_нэрэ1                = [[Кристина Фернандес де Киршнер]]
+|тэргүүнэй_класс2          = Юрэнхы сайд
+|тэргүүнэй_нэрэ2                = [[Анибаль Фернандес]]
+|хуули_тогтоогшо               = 
+|дээдэ_танхим                   = 
+|доодо_танхим                   = 
+|газар_нютаг_км2             = 2 766 890
+|уһанай_процент            = 1,1 %
+|хүн_амай_тоосоо              = {{increase}} 42 610 981<ref>{{cite web|url=http://www.census.gov/population/international/data/countryrank/rank.php|title=Country Rank. Countries and Areas Ranked by Population: 2013|author=Census.gov|date=2013|publisher=U.S. Department of Commerce|accessdate=2013-05-09|archiveurl=http://www.webcitation.org/6GUHbJYCI|archivedate=2013-05-09}}</ref>
+|хүн_ам_тооцоолсон_он = 2013
+|хүн_амай_нягтрал_нэгжэ_км2 = 15
+|хүн_амын нягтрал_эрэмбэ_дэс   =
+|ДНБ_ХАЧ                       =[[Америк доллар|$]]710,7 ехэ наяд <ref name=imf>[http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?sy=2011&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=213&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=10&pr.y=18 Report for Selected Countries and Subjects ].</ref>
+|ДНБ_ХАЧ_он                    =2011 
+|ДНБ_ХАЧ_эрэмбэ                =
+|ДНБ_ХАЧ_Нэг_хүнд              =$17 380<ref name="imf" />
+|ДНБ_ХАЧ_Нэг_хүнд_эрэмбэ       =75
+|ДНБ_нэрлэсэн                  =$435,2 ехэ наяд<ref name="imf" />
+|ДНБ_нэрлэсэн_он               =2011
+|ДНБ_нэрлэһэн_эрэмбэ           =21
+|ДНБ_нэрлэсэн_нэг_хүнд         =$ 10 640 <ref name="imf" />
+|ДНБ_нэрлэсэн_нэг_хүнд_эрэмбэ  =
+|ХТББИ                         =43.6<ref name=gini>{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI |title= GINI index (World Bank estimate) |publisher= World Bank |accessdate= 19 February 2015}}</ref>
+|Илтгэлцүүр_он                 =2011
+|Илтгэлцүүр_ангилал            =
+|Илтгэлцүүр_эрэмбэ             =
+|ХХИ                           = 0,811<ref name="HDR">{{cite web|url=http://hdr.undp.org/sites/default/files/hdr2013_en_summary.pdf|title=Human Development Report 2013 Summary English|publisher=United Nations Development Programme|lang=en|accessdate=2014-07-19}}</ref>
+|ХХИ_он                        =2013
+|ХХИ_ангилал                   =45
+|ХХИ_эрэмбэ                    =<span style="color:#090;">дээгүүр</span>
+|мүнгэн_тэмдэгтэ                   = Аргентинын песо
+|мүнгэн_тэмдэгтэ_код    = ARS
+|интернет_домэйн                   = [[.ar]]
+|телефоной_код            = +54
+|сагай_бүһэ               = -3
+|зүүлтэ                   = 
+}}
 
 </table>
 
