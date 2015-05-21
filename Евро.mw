@@ -8,10 +8,11 @@
 | iso_code = EUR (num. 978)
 | using_countries =
 {{Collapsible list|titlestyle = font-weight:normal; background:transparent; text-align:left;
-|title = {{EU}} [[Еврогой бүһэ]] (18)
-|{{AUT}}|{{BEL}}|{{CYP}}<ref>[[Турк лир]] хэрэглэдэг [[Хойд Кипр]]ийг оруулахгүй</ref>|{{EST}}|{{FIN}}|{{FRA}}<ref>[[Далайн чанад дахь департамент]]уудыг оруулна</ref>|{{DEU}}|{{GRE}}|{{IRL}}|{{ITA}}<ref>[[Швейцари франк]] хэрэглэдэг [[Кампионэ]]г оруулахгүй.</ref>|{{LAT}}|{{LUX}}|{{MLT}}|{{NLD}}<ref>Далайн чанад дахь нутагт [[Нидерландын Антиллийн гилдер]] хэрэглэдэг.</ref>|{{PRT}}|{{SVK}}|{{SVN}}|{{ESP}}|{{EST}}
+|title = {{EU}} [[Еврогой бүһэ]] (19)
+|{{AUT}}|{{BEL}}|{{CYP}}<ref>[[Турк лир]] хэрэглэдэг [[Хойд Кипр]]ийг оруулахгүй</ref>|{{EST}}|{{FIN}}|{{FRA}}<ref>[[Далайн чанад дахь департамент]]уудыг оруулна</ref>|{{DEU}}|{{GRE}}|{{IRL}}|{{ITA}}<ref>[[Швейцари франк]] хэрэглэдэг [[Кампионэ]]г оруулахгүй.</ref>|{{LAT}}|{{LTU}}|{{LUX}}|{{MLT}}|{{NLD}}<ref>Далайн чанад дахь нутагт [[Нидерландын Антиллийн гилдер]] хэрэглэдэг.</ref>|{{PRT}}|{{SVK}}|{{SVN}}|{{ESP}}|{{EST}}
 }}
 {{Collapsible list|titlestyle = font-weight:normal; background:transparent; text-align:left;
+|{{AND}}<ref>Андорра 2003 онд евро гаргах эрх авахаар ЕК-той гэрээ байгуулахаар хэлэлцээ хийж эхэлсэн боловч гэрээнд гарын үсэг зураагүй байна.</ref>
 |title = Гаргах эрхтэй 3 улс
 |{{MCO}}<ref>[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:142:0059:0073:EN:PDF Франц (ЕК-ийн өмнөөс), Монакогийн хоорондох хэлэлцээрийн дагуу]</ref>
 |{{SMR}}<ref>[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2001:209:0001:0004:EN:PDF Итали (ЕК-ийн өмнөөс), Сан-Мариногийн хоорондох хэлэлцээрийн дагуу]</ref>
@@ -30,7 +31,6 @@
 | unofficial_users =
 {{Collapsible list|titlestyle = font-weight:normal; background:transparent; text-align:left;
 | title = бусад 4 хэрэглэгч
-|{{AND}}<ref>Андорра 2003 онд евро гаргах эрх авахаар ЕК-той гэрээ байгуулахаар хэлэлцээ хийж эхэлсэн боловч гэрээнд гарын үсэг зураагүй байна.</ref>
 |{{KOS}}<ref>НҮБ-ын Косово дахь захиргааны шийдвэр 1999/2-ны дагуу ([http://www.unmikonline.org/regulations/admdirect/1999/089%20Final%20%20ADE%201999-02.htm] үзнэ үү)</ref>
 |{{MNE}}<ref>Дотоодын хуулиар</ref>
 |{{ZWE}}<ref>[[зимбабве доллар]], [[америк доллар]], [[фунт стерлинг]], [[өмнөд африкийн ранд]], [[ботсванагийн пула]]гийн зэрэгцээ</ref>
@@ -39,16 +39,15 @@
 | inflation_source_Date = [http://sdw.ecb.europa.eu/quickview.do?SERIES_KEY=122.ICP.M.U2.N.000000.4.ANRSERIES_KEY=122.ICP.M.U2.N.000000.4.ANR ECB], 2009 оны 9 дүгээр сар
 | inflation_method = HICP
 | pegged_by = {{Collapsible list|titlestyle = font-weight:normal; background:transparent; text-align:left;
-|title = 10 валют
+|title = 8 валют
 |frame_style = border:none; padding: 0;
-|[[Босни Герцеговиний хөрвөдөг марк]]
-|[[Болгарын лев]]
-|[[Кабо-Вердегийн эскудо]]
-|[[Төв Африкийн CFA франк]]
-|[[CFP франк]]
-|[[Коморын франк]]
-|[[Данийн крон]] (±2.25%)
-|[[Литвагийн лит]]
+|[[Босни Герцеговиний хөрвөдөг марк]],
+|[[Болгарын лев]],
+|[[Кабо-Вердегийн эскудо]],
+|[[Төв Африкийн CFA франк]],
+|[[CFP франк]],
+|[[Коморын франк]],
+|[[Данийн крон]] (±2.25%),
 |[[Баруун Африкийн CFA франк]]
 }}
 | sub-unit_ratio_1 = 1/100
@@ -112,7 +111,7 @@
 |[http://www.setec.com/ Setec Oy]
 }}
 }}
-'''Евро''' (€) — [[Европын холбоо|Европын Нэгэдэлэй]] гэшүүн 28 уласай 18-ынхинь албан ёһоной [[мүнгэн тэмдэгтэ]] юм. Хамтадаа [[Еврогой бүһэ]] гэгдэдэг [[Австри]], [[Бельги]], [[Кипр]], [[Финланд]], [[Франци]], [[Германи]], [[Греци]], [[Ирланд]], [[Итали]], [[Латви]], [[Люксембург]], [[Мальта]], [[Нидерланд]], [[Португал]], [[Словаки]], [[Словени]], [[Испани]], [[Эстони]] уласуудта албан ёһоор хэрэглэдэг.<ref name="About">{{cite web|url=http://geography.about.com/od/lists/a/euro.htm|title= Euro Countries: 22 Countries use the Euro as their Official Currency|last=Rosenberg|first=Matt|publisher=©2009 [http://www.about.com/ About.com], a part of [http://www.nytco.com/ The New York Times Company].|accessdate=2009-09-12}}</ref> Тус мүнгэн тэмдэгтэ мүн Европын өөр табан уласта албан ёһоной хэрээтэй ба хэрээгүй хэрэглэгдэдэг болоод 327 сая европынхидай үдэр бүри хэрэглэдэг мүнгэн тэмдэгтэ болоо.<ref>{{cite web|url=http://www.eurodesigncontest.eu/emu.cfm?lang=en |title=What is EMU? |publisher=Eurodesigncontest.eu |accessdate=23 November 2008}}</ref> Дэлхэй даяар 175 сая хүн европотой уяһан мүнгэн тэмдэгтэ хэрэглэдгын дотор Африкын 150 сая хүн ороно.
+'''Евро''' (€) — [[Европын холбоо|Европын Нэгэдэлэй]] гэшүүн 28 уласай 19-ынхинь албан ёһоной [[мүнгэн тэмдэгтэ]] юм. Хамтадаа [[Еврогой бүһэ]] гэгдэдэг [[Австри]], [[Бельги]], [[Кипр]], [[Финланд]], [[Франци]], [[Германи]], [[Греци]], [[Ирланд]], [[Итали]], [[Латви]], [[Литва]], [[Люксембург]], [[Мальта]], [[Нидерланд]], [[Португал]], [[Словаки]], [[Словени]], [[Испани]], [[Эстони]] уласуудта албан ёһоор хэрэглэдэг.<ref name="About">{{cite web|url=http://geography.about.com/od/lists/a/euro.htm|title= Euro Countries: 22 Countries use the Euro as their Official Currency|last=Rosenberg|first=Matt|publisher=©2009 [http://www.about.com/ About.com], a part of [http://www.nytco.com/ The New York Times Company].|accessdate=2009-09-12}}</ref> Тус мүнгэн тэмдэгтэ мүн Европын өөр табан уласта албан ёһоной хэрээтэй ба хэрээгүй хэрэглэгдэдэг болоод 327 сая европынхидай үдэр бүри хэрэглэдэг мүнгэн тэмдэгтэ болоо.<ref>{{cite web|url=http://www.eurodesigncontest.eu/emu.cfm?lang=en |title=What is EMU? |publisher=Eurodesigncontest.eu |accessdate=23 November 2008}}</ref> Дэлхэй даяар 175 сая хүн европотой уяһан мүнгэн тэмдэгтэ хэрэглэдгын дотор Африкын 150 сая хүн ороно.
 
 == Зүүлтэ ==
 {{зүүлтэ}}
