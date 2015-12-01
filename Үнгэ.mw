@@ -4,6 +4,45 @@
 Гэрэлэй спектр хүнэй нюдэндэхи гэрэл мэдрэгшэ [[эс]]тэй харилсажа үйлэшэлэлсэһэнээр үнгэ бии болодог. Үнгэ гэрэлэй эхэ үүсэбэри ба гэрэл туһажа бай объект, материаллиг физикын шэнжэ шанарһаа, ондоогоор хэлэбэл тухайн материалай гэрэл шэнгээлтэ, ойлголто зэргэһээ хамаарна. 
 
 Гэрэлые шудалдаг ухааниие ''хроматика'' гэжэ нэрлэхэ бии. Энэ шэнжэлхэ эрдэм хүнэй нюдэн ба [[тархи]] үнгые мэдэрхэ, материалай үнгэ, урлагийн үнгын онол, үзэгдэхэ гэрэлэй можодохи сахилгаан суранзан сасаралтын физикын шэнжэ шанар зэргые шудална.
- 
+
+{| class="wikitable"  style="center; width:400px; margin:1em 0 1em 1em; clear:right;"
+|+'''Үзэгдэхэ гэрэлэй хүреэгэй үнгэнүүд'''<ref>{{cite book | title = Fundamentals of Atmospheric Radiation: An Introduction with 400 Problems | author = Craig F. Bohren | publisher = Wiley-VCH | year = 2006 | isbn = 3-527-40503-8 | url = http://books.google.com/?id=1oDOWr_yueIC&pg=PA214&lpg=PA214&dq=indigo+spectra+blue+violet+date:1990-2007 }}</ref>
+|-
+!style="text-align: left"|үнгэ
+! abbr="wavelength" | долгиной утын интервал
+! abbr="frequency" | дабтамжын интервал
+|-  style="background:red; text-align:center; color:white;"
+!style="text-align: left"|[[улаан]]
+|~ 700&ndash;635&nbsp;nm
+|~ 430&ndash;480&nbsp;THz
+|-  style="background:#ff8000; text-align:center; color:white;"
+!style="text-align: left"|[[улаан хара]]
+|~ 635&ndash;590&nbsp;nm
+|~ 480&ndash;510&nbsp;THz
+|-  style="background:#ff0; text-align:center; color:black;"
+!style="text-align: left"|[[шара]]
+|~ 590&ndash;560&nbsp;nm
+|~ 510&ndash;540&nbsp;THz
+|-  style="background:#0f0; text-align:center; color:black;"
+!style="text-align: left"|[[ногоон]]
+|~ 560&ndash;520&nbsp;nm
+|~ 540&ndash;580&nbsp;THz
+|-  style="background:#0ff; text-align:center; color:black;"
+!style="text-align: left"|[[сэнхир]]
+|~ 520&ndash;490&nbsp;nm
+|~ 580&ndash;610&nbsp;THz
+|-  style="background:#00f; text-align:center; color:white;"
+!style="text-align: left"|[[хүхэ]]
+|~ 490&ndash;450&nbsp;nm
+|~ 610&ndash;670&nbsp;THz
+|-  style="background:#8000ff; text-align:center; color:white;"
+!style="text-align: left"|[[ягаан]]
+|~ 450&ndash;400&nbsp;nm
+|~ 670&ndash;750&nbsp;THz
+|}
+
+== Зүүлтэ ==
+{{зүүлтэ}}
+
 [[Категори:Үнгэ| ]]
 {{1000 үгүүлэл}}
