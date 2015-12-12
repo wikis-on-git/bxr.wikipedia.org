@@ -1,41 +1,41 @@
-'''Оросой холбоото уласай холбооной тойрогууд''' ({{хэлэн+ru|Федера́льные тойрога́ Российской Федерации}}) —
+'''Оросой холбоото уласай холбооной тойрогууд''' ({{хэлэн+ru|Федера́льные округа́ Российской Федерации}}) —
 
-== Жагсаалт холбооной тойрогууд ==
+== Холбооной тойрогуудай жагсаалта  ==
 
 {| border="1" cellpadding="4" cellspacing="0" class="references-small" style="border:1px solid #aaa; border-collapse:collapse"
 |-
 | colspan=6 style="background:#eee;" | [[File:Map of Russian districts, 2010-01-19.svg|500px|center]]
 |- bgcolor="#ECECEC"
 ! №
-! Название тойрога
+! Холбооной тойрог
 ! Талмай<ref>[http://www.gks.ru/bgd/free/b10_107/IssWWW.exe/Stg//%3Cextid%3E/%3Cstoragepath%3E::%7Ctab1-01-09.xls Административно-территориальное деление по субъектам Российской Федерации на 1 января 2010 года] (xls) ({{rus icon}}).</ref>{{br}}(модо²)
 ! Хүн зон{{br}}{{s|[[1 һарын 1|01.01]].[[2010]]<ref>[http://www.gks.ru/bgd/free/b10_107/IssWWW.exe/Stg//%3Cextid%3E/%3Cstoragepath%3E::%7Ctab1-03-09.xls Изменение численности постоянного населения по субъектам Российской Федерации по компонентам] (xls) ({{rus icon}}).</ref>}}{{br}}<small>([[1 һарын 1|01.01]].[[2009]])<ref>[http://www.gks.ru/free_doc/2009/demo/popul09.htm Оценка численности постоянного населения субъектов Российской Федерации на 1 января 2009 года и в среднем за 2008 год; человек] Федеральная служба государственной статистики. ({{rus icon}})</ref></small>
 ! ОХУ-ай нютаг можонууд
 ! Ниислэл
 |-
 | style="background-color: #FFFF80;" | <center>1
-| [[Центральный холбооной тойрог]]
+| [[Түб холбооной тойрог]]
 | align="right" | {{formatnum:650205}}{{br}}{{br}}
 | align="right" | {{formatnum:37117984}}{{br}}<small>({{formatnum:37121812}})</small>
 | align="center" | 18
 | [[Москва]]
 |-
 | style="background-color: #FC8B8B;" | <center>2
-| [[Южный холбооной тойрог]]
+| [[Урда холбооной тойрог]]
 | align="right" | {{formatnum:420876}}{{br}}{{br}}
 | align="right" | {{formatnum:13713495}}{{br}}<small>({{formatnum:14686261}})</small>
 | align="center" | 6
-| [[Ростоов]]
+| [[Ростов]]
 |-
 | style="background-color: #62D2C5;" | <center>3
-| [[Северо-Западный холбооной тойрог]]
+| [[Баруун-Хойто холбооной тойрог]]
 | align="right" | {{formatnum:1686968}}{{br}}{{br}}
 | align="right" | {{formatnum:13437106}}{{br}}<small>({{formatnum:13462259}})</small>
 | align="center" | 11
 | [[Санкт-Петербург]]
 |-
 | style="background-color: #FECE2C;" | <center>4
-| [[Дальневосточный холбооной тойрог]]
+| [[Алас Дурнын холбооной тойрог]]
 | align="right" | {{formatnum:6169329}}{{br}}{{br}}
 | align="right" | {{formatnum:6440385}}{{br}}<small>({{formatnum:6460094}})</small>
 | align="center" | 9
@@ -46,10 +46,10 @@
 | align="right" | {{formatnum:5144953}}{{br}}{{br}}
 | align="right" | {{formatnum:19561087}}{{br}}<small>({{formatnum:19545470}})</small>
 | align="center" | 12
-| [[Новосэбирск]]
+| [[Новосибирск]]
 |-
 | style="background-color: #C7CB8F;" | <center>6
-| [[Уральский холбооной тойрог]]
+| [[Ураалай холбооной тойрог]]
 | align="right" | {{formatnum:1818497}}{{br}}{{br}}
 | align="right" | {{formatnum:12280123}}{{br}}<small>({{formatnum:12254976}})</small>
 | align="center" | 6
@@ -63,7 +63,7 @@
 | [[Доодо Ноовгород]]
 |-
 | style="background-color: #AA6CA6;" | <center>8
-| [[Северо-Кавказский холбооной тойрог]]
+| [[Хойто-Кавказай холбооной тойрог]]
 | align="right" | {{formatnum:170439}}{{br}}{{br}}
 | align="right" | {{formatnum:9254940}}{{br}}<small>({{formatnum:8215263}})</small>
 | align="center" | 7
