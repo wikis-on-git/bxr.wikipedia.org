@@ -1,10 +1,9 @@
 [[File: Asia (orthographic projection).svg|thumb]]
-'''Ази''' — дэлхэйн [[түби газар|түби]].<ref>{{cite web|url=http://www.censtatd.gov.hk/hong_kong_statistics/statistics_by_subject/index.jsp?subjectID=1&charsetID=1&displayMode=T |title=HK Census and Statistics Department |publisher=Censtatd.gov.hk |date= |accessdate=2009-08-28}}</ref><ref>[http://www.stat.go.jp/english/info/meetings/cambodia/pdf/pre_rep1.pdf General Population Census of Cambodia 2008 - Provisional population totals, National Institute of Statistics, Ministry of Planning, released 3rd September, 2008]</ref>
+'''Ази''' — дэлхэйн [[түби газар|түби]].<ref name="Censtatd.gov.hk">{{cite web|url=http://www.censtatd.gov.hk/hong_kong_statistics/statistics_by_subject/index.jsp?subjectID=1&charsetID=1&displayMode=T |title=HK Census and Statistics Department |publisher=Censtatd.gov.hk |date= |accessdate=2009-08-28}}</ref><ref name="stat.go.jp">[http://www.stat.go.jp/english/info/meetings/cambodia/pdf/pre_rep1.pdf General Population Census of Cambodia 2008 - Provisional population totals, National Institute of Statistics, Ministry of Planning, released 3rd September, 2008]</ref>
 
-Ази — дэлхэйн ниитэ гадаргуугай 8.6% (хуурай газарай 29.4%)-ые эзэлдэг, мүнөөнэй дэлхэйн хүн амын 60% (3.88 тэрбум) амидардаг дэлхэйн хамагай томо түби юм. Ехэнхэ хэһэг дэлхэйн зүүн ба хойто хахадта оршодог бүгөөд [[Европо]] түбиин хамта [[Еврази|Евразиин эхэ газарые]] бүрдүүлнэ. Африка түбиһээ [[Улаан тэнгис]], [[Суэцэй һубаг|Суэцэй һубагаар]], Европо түбиһээ [[Уралай нюруу]], [[Кавказай нюруу]], [[Каспиин тэнгис]], [[Хара тэнгис]]ээр тусгаарлагдадаг. Зүүн талаараа [[Номхон далай]], урда талаараа [[Энэдхэгэй далай]], хойто талаараа [[Хойто мүльһэн далай]]тай тус тус залгана. 
+Ази — дэлхэйн ниитэ гадаргуугай 8.6% (хуурай газарай 29.4%)-ые эзэлдэг, мүнөөнэй дэлхэйн хүн амын 60% (3.88 тэрбум) амидардаг дэлхэйн хамагай томо түби юм. Ехэнхэ хэһэг дэлхэйн зүүн ба хойто хахадта оршодог болоод [[Европо]] түбиин хамта [[Еврази|Евразиин эхэ газарые]] бүрдүүлнэ. Африка түбиһээ [[Улаан тэнгис]], [[Суэцэй һубаг]]аар, Европо түбиһээ [[Уралай нюруу]], [[Кавказай нюруу]], [[Каспиин тэнгис]], [[Хара тэнгис]]ээр тусгаарлагдадаг. Зүүн талаараа [[Номхон далай]], урда талаараа [[Энэдхэгэй далай]], хойто талаараа [[Хойто мүльһэн далай]]тай тус тус залгана.
 
-[[Шумер]], [[Хитад Улас|Хитад]], [[Энэдхэг]] гэхэ мэтэ дэлхэйн хамагай анханай [[соёл эрхэншил|соёл эрхэншилүүд]] Ази түбида анха үүһэһэн гэжэ үзэдэг.
-
+[[Шумер]], [[Хитад Улас|Хитад]], [[Энэдхэг]] гэхэ мэтэ дэлхэйн хамагай анханай [[соёл эрхэншил]]үүд Ази түбида анха үүһэһэн гэжэ үзэдэг.
 
 == Улас оронуудай тобшоо ==
 
@@ -58,7 +57,7 @@
 |-
 | {{flag|Хонконг}}<ref>&nbsp;&nbsp;[[Хонконг]] нь [[Хятад]]ын тусгай захиргааны бүс юм.<br /></ref>
 | align="right" | 1,092
-| align="right" | 7,008,300<ref>{{cite web|url=http://www.censtatd.gov.hk/hong_kong_statistics/statistics_by_subject/index.jsp?subjectID=1&charsetID=1&displayMode=T |title=HK Census and Statistics Department |publisher=Censtatd.gov.hk |date= |accessdate=2009-08-28}}</ref>
+| align="right" | 7,008,300<ref name="Censtatd.gov.hk"/>
 | align="right" | 6,417.9
 | —
 |-
@@ -120,7 +119,7 @@
 | align="right" | 70.3
 | [[Найпьидо]]<ref>&nbsp;&nbsp;The administrative capital of [[Burma (Myanmar)]] was officially moved from [[Yangon|Yangon (Rangoon)]] to a militarised greenfield just west of [[Pyinmana]] on 6 November 2005.</ref>
 |-
-| {{flag|Камбож}}<ref>[http://www.stat.go.jp/english/info/meetings/cambodia/pdf/pre_rep1.pdf General Population Census of Cambodia 2008 - Provisional population totals, National Institute of Statistics, Ministry of Planning, released 3rd September, 2008]</ref>
+| {{flag|Камбож}}<ref name="stat.go.jp"/>
 | align="right" | 181,035
 | align="right" | 13,388,910
 | align="right" | 74
@@ -322,7 +321,7 @@
 | align="right" | 92.6
 | [[Дамаск]]
 |-
-| {{flag|Турк}}<ref>&nbsp;&nbsp;[[Турк]] нь [[Ази]] болон [[Европ]]д оршдог, хүн амын 90 хувь нь лалын шашинтай Азийн улс боловч, Олимпийн хороодод Европын улс гэж явдаг. [[Европын холбоо]]нд нэрээ дэвшүүлээд буй.</small><br /></ref>
+| {{flag|Турк}}<ref>&nbsp;&nbsp;[[Турк]] нь Ази болон [[Европ]]д оршдог, хүн амын 90 хувь нь лалын шашинтай Азийн улс боловч, Олимпийн хороодод Европын улс гэж явдаг. [[Европын холбоо]]нд нэрээ дэвшүүлээд буй.</small><br /></ref>
 | align="right" | 
 | align="right" | 
 | align="right" | 
@@ -449,7 +448,7 @@
 | [[Оман]]  
 |- bgcolor="#EEEEEE"
 | 33
-| [[Ородой Холбооной Улас]] 
+| [[Оросой холбоото улас]] 
 |- 
 | 34
 | [[Узбекистан]] 
@@ -603,7 +602,7 @@
 | [[Оман]]  
 |- bgcolor="#EEEEEE"
 | 33
-| [[Ородой Холбооной Улас]] 
+| [[Оросой холбоото улас]] 
 |- 
 | 34
 | [[Узбекистан]] 
@@ -666,7 +665,10 @@
 * {{cite web | title=Display Maps | work=The Soil Maps of Asia | publisher=European Digital Archive of Soil Maps – EuDASM | url=http://eusoils.jrc.ec.europa.eu/esdb_archive/EuDASM/asia/indexes/idx_country.htm | accessdate=26 July 2011}}
 * {{cite web | title=Asia Maps | work=Perry-Castañeda Library Map Collection | url=http://www.lib.utexas.edu/maps/asia.html | publisher=University of Texas Libraries | accessdate=20 July 2011| archiveurl= http://web.archive.org/web/20110718061834/http://www.lib.utexas.edu/maps/asia.html| archivedate= 18 July 2011 <!--DASHBot-->| deadurl= no}}
 * {{cite web | title=Asia | publisher=Norman B. Leventhal Map Center at the Boston Public Library | url=http://maps.bpl.org/search_advanced/?mtid=786 | accessdate=26 July 2011}}
-{{stub}}
-{{Аази}}
 
-[[Категори:Аази| ]]
+{{Ази}}
+
+[[Категори:Ази| ]]
+
+
+{{stub}}
