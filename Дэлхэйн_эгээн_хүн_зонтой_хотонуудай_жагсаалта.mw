@@ -2,10 +2,10 @@
 |-
 !Гарал
 !Хото
-!Хүн ама
+!Хүн зон
 !Тусгаар тогтонол
 !Газар нютагай хэмжээ(км²)
-!Хүн аманай нягтарал (чел./км²)
+!Хүн зоной нягтарал (чел./км²)
 !Улас
 |-
 |1 
@@ -43,7 +43,7 @@
 |5
 | [[Карачи]]
 | {{nts|12991000}}<ref name="GeoHive"/>
-| Городской округ
+| Городской тойрог
 | {{nts|3527}}
 | {{nts|3683}}
 | {{PAK}}
@@ -83,7 +83,7 @@
 |10
 | [[Джакарта]]
 | {{nts|9588198}}<ref name="Индонезия 2010">[http://www.geohive.com/cntry/indonesia.aspx Города Индонезии согласно переписи 1 мая 2010 года.]</ref>
-| Столичный округ
+| Столичный тойрог
 | {{nts|662.33}}
 | {{nts|14476}}
 | {{IDN}}
@@ -106,8 +106,8 @@
 |-
 |13
 | [[Мехико]]
-| {{nts|8873017}}<ref name="Мексика2010">[http://www.geohive.com/cntry/mexico.aspx Города Мексики согласно переписи 31 мая 2010 года.</ref>
-| [[Федеральный округ]]
+| {{nts|8873017}}<ref name="Мексика2010">[http://www.geohive.com/cntry/mexico.aspx Города Мексики согласно переписи 31 мая 2010 года.]</ref>
+| [[Федеральный тойрог]]
 | {{nts|1499}}
 | {{nts|5919}}
 | {{MEX}}
@@ -122,7 +122,7 @@
 |-
 |15
 | [[Нью-Йорк]]
-| {{nts|8175133}}<ref name="США 2010">[http://www.geohive.com/cntry/mexico.aspx Города США согласно переписи 1 апреля 2010 года.</ref>
+| {{nts|8175133}}<ref name="США 2010">[http://www.geohive.com/cntry/mexico.aspx Города США согласно переписи 1 апреля 2010 года.]</ref>
 | [[City proper]]
 | {{nts|789.4}}
 | {{nts|10452}}
@@ -154,10 +154,8 @@
 |-
 |19
 | [[Богота]]
-| {{nts|7050133}}<ref name="DANEproj20052009">[http://www.dane.gov.co/files/investigaciones/poblacion/proyepobla06_20/ProyeccionMunicipios2005_2009.xls population
-2007-06-30
-estimate</ref>
-| Столичный округ
+| {{nts|7050133}}<ref name="DANEproj20052009">[http://www.dane.gov.co/files/investigaciones/poblacion/proyepobla06_20/ProyeccionMunicipios2005_2009.xls population 2007-06-30 estimate]</ref>
+| Столичный тойрог
 | {{nts|1590}}
 | {{nts|4566}}
 | {{COL}}
@@ -221,7 +219,7 @@ estimate</ref>
 |27
 | [[Лахор]]
 | {{nts|7743129}}<ref name="GeoHivePunjabLahore">[http://www.geohive.com/cntry/pakistan.aspx?levels=Punjab GeoHive, Pakistan — The Punjab — Administrative units] 1998 Census result for Lahore District. Accessed on 2008-09-28. The UN estimated the population of Lahore to be 6,577,000 in 2007. However, that estimate is based on now obsolete administrative boundaries for the Lahore Metropolitan Corporation. The administrative boundaries for Lahore was changed in 2001, when it was transformed from Metropolitan Corporation into a City District. The City District includes the old Metropolitan Corporation as well as the surrounding district. The District of Lahore had a total of 6,318,745 inhabitants in 1998, compared to 5,143,495 for the Metropolitan Corporation. Current, but vague, estimates puts the population of the district at somewhere between 7.5 and 10 millions.</ref>
-| Городской округ
+| Городской тойрог
 | {{nts|1772}}
 | {{nts|3566}}
 | {{PAK}}
