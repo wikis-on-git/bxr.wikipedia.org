@@ -1,80 +1,77 @@
-{{Орн Зура
-|native_name = '''جمهوری اسلامی ایران'''<br />''Jomhuri-ye Eslāmi-ye Irān''
-|conventional_long_name = Islamic Republic of Iran
-|common_name = Iran
-|image_flag = Flag of Iran.svg
-|image_coat = Coat of arms of Iran.svg
-|image_map = Iran in its region.svg
-|official_religion = [[Shia Islam]]
-|national_motto = ''Independence, Freedom, Islamic Republic
-|national_anthem = [[Sorud-e Melli-e Iran|National Anthem of Iran]]{{spaces|2}}<small>(official)</small><br />{{lang|fa|''[[Ey Iran]]''}}{{spaces|2}}<small>(traditional)</small><br /><small>([[Persian]]: Oh Iran)</small>
-|capital = [[Tehran]]
-|latd=35 |latm=41 |latNS=N |longd=51 |longm=25 |longEW=E
-|largest_city = capital
-|official_languages = [[Persian language|Persian]]
-|regional_languages = [[Azeri language|Azeri]], [[Kurdish language|Kurdish]], [[Luri language|Luri]], [[Mazandarani language|Mazandarani]], [[Gilaki language|Gilaki]], [[Baluchi language|Baluchi]] and [[Arabic language|Arabic]].
-|demonym = [[Demography of Iran|Iranian]]
-|government_type = [[Islamic republic]] ("[[theocratic]] republic")<ref name="wfbiran">[https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html CIA World Factbook – Iran]</ref> 
-|legislature = [[Parliament of Iran]]
-|leader_title1 = [[Supreme Leader of Iran|Supreme Leader]]
-|leader_name1 = {{nowrap|[[Ayatollah]] [[Ali Khamenei]]}}
-|leader_title2 = [[President of Iran|President]]
-|leader_name2 = {{nowrap|[[Mahmoud Ahmadinejad]]}}
-|leader_title3 = [[Vice President of Iran|First Vice President]]
-|leader_name3 = {{nowrap|[[Mohammad-Reza Rahimi]]}}
-|leader_title4 = Speaker of the [[Majlis of Iran|Parliament]]
-|leader_name4 = {{nowrap|[[Ali Larijani]]}}
-|sovereignty_type = Unification<ref name="Encyclopædia Britannica Encyclopedia Article: Media ancient region, Iran"><ref>[http://www.iranica.com/articles/eran-eransah D.N. Mackenzie, "ĒRĀN, ĒRĀNŠAHR" in Encyclopedia Iranica]</ref> 
-|established_event1 = [[Median Empire]] 
-|established_date1 = 625 BC 
-|established_event2 = [[Safavid Empire]]
-|established_date2 = 1501<ref name="Andrew J. Newman 2006">Andrew J. Newman, Safavid Iran: Rebirth of a Persian Empire, I. B. Tauris (March 30, 2006)</ref>
-|established_event4 = Islamic Republic declared
-|established_date4 = 1 April 1979
-|area_km2 = 1,648,195
-|area_sq_mi = 636,372 <!--Do not remove per [[WP:MOSNUM]]-->
-|area_rank = 18th
-|area_magnitude = 1 E12
-|percent_water = 0.7
-|population_density_rank = 163rd <!--Wiki source-->
-|population_estimate = 74,196,000<ref name=unpop>{{cite paper | url=http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf | title=World Population Prospects, Table A.1| version=2008 revision  | format=.PDF | publisher=United Nations | author=Department of Economic and Social Affairs
-Population Division | year=2009 | accessdate= 2009-03-12}}</ref>
-|population_estimate_year = 2009
-|population_estimate_rank = 18th
-|population_density_km2 = 45
-|population_density_sq_mi = 116.6 <!--Do not remove per [[WP:MOSNUM]]-->
-|population_census = 70,495,782
-|population_census_year = 2006
-|GDP_PPP = $827.858 billion<ref name=imf>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=429&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=49&pr.y=10 |title=Iran|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
-|GDP_PPP_rank = 
-|GDP_PPP_year = 2009
-|GDP_PPP_per_capita = $11,172<ref name="imf"/>
-|GDP_PPP_per_capita_rank = 
-|GDP_nominal = $330.461 billion<ref name="imf"/>
-|GDP_nominal_rank = 
-|GDP_nominal_year = 2009
-|GDP_nominal_per_capita = $4,459<ref name="imf"/>
-|GDP_nominal_per_capita_rank = 
-|Gini = 38<ref name='CBI'>[http://www.cbi.ir/page/5881.aspx CBI: Economic Trends 2008/2009] Retrieved July 4, 2009</ref> 
-|Gini_year = 2008
-|Gini_category = <font color="#ffcc00">medium</font>
-|HDI_year = 2007
-|HDI = {{decrease}} 0.782
-|HDI_rank = 88th
-|HDI_category = <font color="#ffcc00">medium</font>
-|currency = [[Iranian rial|Rial]] (<big>ريال</big>)
-|currency_code = IRR
-|time_zone = [[Iran Standard Time|IRST]]
-|utc_offset = +3:30
-|time_zone_DST = Iran Daylight Time (IRDT)
-|utc_offset_DST = +4:30
-|drives_on = right
-|cctld = [[.ir]]
-|calling_code = [[Telephone numbers in Iran|98]]
-|footnote1 = [http://www.bookrags.com/browse/Encyclopedia%20of%20Religious%20Practices/50 Bookrags.com]
-|footnote2 = [http://www.iranchamber.com/geography/articles/flag_anthem.php Iranchamber.com]
-|footnote3 = {{cite web |url=http://www.sci.org.ir/content/userfiles/_sci/sci/SEL/f02/2.1.html |title=جمعيت و متوسط رشد سالانه |author=Statistical Center of Iran |accessdate=2009-02-13 |language=Persian}}
-|footnote4 = [https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html#Econ CIA Factbook]
+{{Улас
+|уугуул_нэрэ                    =<small>[[Перс хэлэн|пер.]]</small> '''جمهوری اسلامی ایران'''
+|буряад_нэрэ                ='''Лалын Бүгэдэ Найрамдаха Иран Улас'''
+|богони_нэрэ                    =Иран
+|тугай_зураг                =Flag of Iran.svg
+|һүлдын_зураг                 =Coat of arms of Iran.svg
+|уряа                          =''استقلال. آزادی. جمهوری اسلامی''</br>(Бэе даанги байдал, эрхэ сүлөө, лалын бүгэдэ найрамдаха улас)
+|дуулал = ''استقلال. آزادی. جمهوری اسلامی''<br />(Иран уласай түрын дуулал)<br /> <center>[[Файл:Iran National Anthem.ogg]]</center>
+|үндэһэнэй_дуулал               =
+|газарай_зураг                  =Iran (orthographic projection).svg
+|map_size                      =100px
+|ниислэл_хото                  = [[Тегеран]]
+|хамагай_томо_хото               =[[Файл:Tehran_Logo.png|20px]] [[Тегеран]]
+|албан_ёһоной_хэлэн                =[[Перс хэлэн]]
+|бүһэ_нютагай_хэлэн               =
+|үндэһэ_язгуур                  =
+|үндэһэ_язгуур_он               =
+| demonym                      =Иранайнхид
+|засаглалай_хэлбэри             =[[Лалын шажан|Лалын]] [[бүгэдэ найрамдаха улас|бүгэдэ найрамдаха засаг]]
+|тэргүүнэй_класс1              = Дээдэ түрүүлэгшэ
+|тэргүүнэй_нэрэ1              =[[Али Хаменеи]]
+|тэргүүнэй_класс2              =Юрэнхылэгшэ
+|тэргүүнэй_нэрэ2              =[[Хасан Рухани]]
+|тэргүүнэй_класс3              =
+|тэргүүнэй_нэрэ3              =
+|хууль_тогтоогч                =
+|дээдэ_танхим                   =
+|доодо_танхим                   =
+|түүхэн_утга          =
+|тогтносон_үйл_явдал1          =
+|түүхэн_огноо1            =
+|түүхэн_үйл1          =
+|түүхэн_огноо2           =
+|түүхэн_үйл2          =
+|газар_нютаг_км2               =1 648 000 км²
+|нутгийн_талбайгаарх_эрэмбэ_дэс  =17
+|уһанай_процент               = 0,7 %
+|хүн_амай_тоосоо               = {{increase}} 78 408 412 хүн<ref>[http://www.amar.org.ir/Default.aspx?tabid=133 Statistical Centre of Iran] на 9 июня 2015</ref>
+|хүн_ам_тооцоолсон_он          =2015
+|хүн_амын_тоогоор_эрэмбэ_дэс   =
+|хүн_амын_тооллого             ={{increase}} 75 149 669<ref name="censIRI"/>
+|хүн_ам_тоолсон_он             =2011
+|хүн_амын_тооллого_эрэмбэ_тоологдсоноор  =17
+|хүн_амай_нягтрал_нэгжэ_км2     =42
+|хүн_амын нягтрал_эрэмбэ_дэс   =
+|ДНБ_ХАЧ                       =[[Америк доллар|$]]374.111 тэрбум<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=32&pr.y=1&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=299&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= |title=Venezuela|publisher=International Monetary Fund|accessdate=24 April 2012}}</ref>
+|ДНБ_ХАЧ_он                    =2013
+|ДНБ_ХАЧ_эрэмбэ                =17
+|ДНБ_ХАЧ_Нэг_хүнд              =$12,803<ref name="imf"/>
+|ДНБ_ХАЧ_Нэг_хүнд_эрэмбэ       =
+|ДНБ_нэрлэсэн                  =$388.512 тэрбум<ref name="imf"/>
+|ДНБ_нэрлэсэн_он               =2010
+|ДНБ_нэрлэсэн_эрэмбэ           = 
+|ДНБ_нэрлэсэн_нэг_хүнд         =$5,039<ref name="imf"/>
+|ДНБ_нэрлэсэн_нэг_хүнд_эрэмбэ  =
+|ХТББИ                         =38<ref name='CBI'>{{cite web|url=http://www.cbi.ir/page/5881.aspx |title=Central Bank of Iran: Economic Trends 2008/2009 |date=}}</ref>
+|Илтгэлцүүр_он                 =2008
+|Илтгэлцүүр_ангилал            =<span style="color:#fc0;">дундажа</span>
+|Илтгэлцүүр_эрэмбэ             =
+|ХХИ                           ={{increase}} 0.742<ref name="HDI">{{cite web|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf|title=Human Development Report 2010|year=2010|publisher=United Nations}}</ref>
+|ХХИ_он                        =2013
+|ХХИ_ангилал                   =<span style="color:forestgreen;">һайн</span>
+|ХХИ_эрэмбэ                    =76
+|мүнгэн_тэмдэгтэ                =Иранай риал
+|мүнгэн_тэмдэгтэ_код            =IRR
+|сагай_бүһэ                    = Иранай саг
+| utc_offset = +03:30
+| зуны_цагийн_бүсийн_нэр = Иранай зунай саг
+| utc_offset_DST = +04:30
+|хэв_огноо                     =
+|аль_гарын_замын_хөдөлгөөн     =
+|интернет_домэйн               =.ir
+|телефоной_код                    =+98
+|тэмдэглэл                     =
 }}
 
 '''Иран''' - Азийн орон болон улас.
