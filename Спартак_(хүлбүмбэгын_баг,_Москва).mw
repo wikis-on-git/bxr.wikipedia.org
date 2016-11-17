@@ -20,25 +20,26 @@
  |сезон           = 2012/2013
  |место           = 4
  |сайт            = [http://spartak.com/ http://spartak.com/]
- |pattern_la1     = _spartakmoscow1314h
- |pattern_b1      = _spartakmoscow1314h
- |pattern_ra1     = _spartakmoscow1314h
- |pattern_sh1     =
- |pattern_so1     = _spartakmoscow1314h
- |leftarm1        = F40000
- |body1           = F40000
- |rightarm1       = F40000
- |shorts1         = FFFFFF
- |socks1          = F40000
- |pattern_la2     = _spartakmoscow1314a
- |pattern_b2      = _spartakmoscow1314a
- |pattern_ra2     = _spartakmoscow1314a
- |pattern_so2     = _spartakmoscow1314a
- |leftarm2        = FFFFFF
- |body2           = FFFFFF
- |rightarm2       = FFFFFF
- |shorts2         = 000000
- |socks2          = 000000
+ |pattern_la1 = 
+|pattern_b1  = _spartak1617h
+|pattern_ra1 = 
+|pattern_sh1 = 
+|pattern_so1 = _polonia16h
+|leftarm1    = FF0000
+|body1       = FF0000
+|rightarm1   = FF0000
+|shorts1     = FF0000
+|socks1      = FFFFFF
+|pattern_la2 = _spartak1617a
+|pattern_b2  = _spartakmoscow1617a
+|pattern_ra2 = _spartak1617a
+|pattern_sh2 = 
+|pattern_so2 = _turquia16h
+|leftarm2    = 000000
+|body2       = 000000
+|rightarm2   = 000000
+|shorts2     = 000000
+|socks2      = 000000
 }}
 
 '''Спартак Москва''' ([[Ород хэлэн|ород]] '''«Спартак Москва»''') - [[Ород]]ой [[Москва]]гай хүл бүмбэгын клуб.
