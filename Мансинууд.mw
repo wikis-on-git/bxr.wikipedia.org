@@ -1,5 +1,38 @@
 '''Мансинууд''' (хуушан нэрэнь: '''вогулнууд''') гээшэ [[Ханты-Манси автономито тойрог — Югра|Ханты-Манси автономито тойрогто]] ажаһуудаг арад түмэнээр, нэгэ хубинь [[Тюмениин можо]]до болон Оросой гадаада баһа ажаһууна. Мансинууд [[финн-угор хэлэнүүд]]эй бүлэгтэ агуулдаг [[кирилл үзэг]]ээр бэшэдэг манси хэлээр дуугараад, [[ород хэлэн|ород хэлые]] мүн хэрэглэнэ.
 
+== Нэрэ ==
+Эндоэтноним (уугуул нэрэ) ''манси'' гэжэ ''хүн'' удхатай болоод [[Протофинн-угор хэлэн|протофинно-угор]] *''mańćɜ'' «эрэ хүн, хүн» гэһэн үгэһөө гаралтай ба ондоо угор хэлэнүүдтэ адли үгэтэй: [[Ханты хэлэн|ханты]] ''маньть'' (mańt́) ({{abbr|В|ваховскын аялгуу|0}}), ''моньть'' (mońt́) ({{abbr|И|Эрчисэй аялгуу|0}}), ''мась'' (maś) ({{abbr|О|обдорой аялгуу|0}}), мүн ''magyar'' гэһэн [[унгарнууд]]ай уугуул нэрэ. Манси хэлэнэй аялгуунуудта олон маягтай юм: [[Сосьва гол|сосьвын]] ''маньси'' (mańśi), [[Пелым гол|пелымэй]] ''ма̄ньсь'' (māńś), [[Конда (Эрчисэй шудхал)|доодо кондын]] ''мӧ̄ньсь'' (mɔ̄̈ńś), [[Тавда гол|тавдын]] ''мӓньцӣ'' (mäńćī), [[Лозьва гол|доодо лозьвын]] ''ма̊ньсь'' (måńś)<ref>{{книга|автор=Rédei, Károly|заглавие=Uralisches etymologisches Wörterbuch|ссылка=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&basename=%2fdata%2furalic%2furalet&text_number=1820&root=config|место=Budapest|издательство=Akadémiai Kiadó|год=1988|страницы=866—867}}</ref><ref name="Напольских2005"/>.
+
+== Хүн зон ==
+<timeline>
+ImageSize = width:500 height:300
+PlotArea = left:40 right:40 top:20 bottom:20
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:14000
+ScaleMajor = unit:year increment:2000 start:0 gridcolor:gray1
+PlotData =
+  bar:1926 color:gray1 width:1 
+   from:0 till:5754 width:15  text:5754 textcolor:red fontsize:8px
+  bar:1939 color:gray1 width:1 
+   from:0 till:6295 width:15  text:6295 textcolor:red fontsize:8px
+  bar:1959 color:gray1 width:1 
+   from:0 till:6318 width:15  text:6318 textcolor:red fontsize:8px
+  bar:1970 color:gray1 width:1 
+   from:0 till:7609 width:15  text:7609 textcolor:red fontsize:8px
+  bar:1979 color:gray1 width:1 
+   from:0 till:7434 width:15  text:7434 textcolor:red fontsize:8px
+  bar:1989 color:gray1 width:1 
+   from:0 till:8279 width:15  text:8279 textcolor:red fontsize:8px
+  bar:2002 color:gray1 width:1 
+   from:0 till:11432 width:15  text:11432 textcolor:red fontsize:8px
+  bar:2010 color:gray1 width:1 
+   from:0 till:12269 width:15  text:12269 textcolor:red fontsize:8px
+</timeline>
+
 [[Категори:Ханты-Манси автономито тойрог]]
 [[Категори:Ураалай арадууд]]
 [[Категори:Сибириин арадууд]]
