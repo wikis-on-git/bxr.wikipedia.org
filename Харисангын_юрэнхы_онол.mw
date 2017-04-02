@@ -22,10 +22,20 @@
 
 == Ном зохёол ==
 === Эхэ һорболжо ===
-* {{저널 인용|성=Albert|이름=Einstein|저자고리=알베르트 아인슈타인|제목=Die formale Grundlage der allgemeinen Relativitätstheorie|저널=Sitzungsberichte der Preußischen Akademie der Wissenschaften zu Berlin|연도=1914|쪽=1030–1085|언어=de}} (점입자는 측지선을 따라 움직임)
-* {{저널 인용|성=Albert|이름=Einstein|저자고리=알베르트 아인슈타인|제목=Grundgedanken der allgemeinen Relativitätstheorie und Anwendung dieser Theorie in der Astronomie|저널=Sitzungsberichte der Preußischen Akademie der Wissenschaften zu Berlin|쪽=315|연도=1915|언어=de}}
-* {{Cite paper}}
-* {{Cite paper}}
-* {{Cite paper}} ([[Һагба (гараг)|수성]]의 세차 운동의 설명)
-* {{Cite paper|url=http://nausikaa2.mpiwg-berlin.mpg.de/cgi-bin/toc/toc.x.cgi?dir=6E3MAXK4&step=thumb}} (아인슈타인 방정식)
-* {{Cite paper|url=http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1916_49_769-822.pdf|DOI=10.1002/andp.19163540702|doi=10.1002/andp.19163540702}}
+* {{Cite paper|last=Albert|first=Einstein|title=Die formale Grundlage der allgemeinen Relativitätstheorie|journal=Sitzungsberichte der Preußischen Akademie der Wissenschaften zu Berlin|year=1914|pages=1030–1085|language=de}}
+* {{Cite paper|last=Albert|first=Einstein|title=Grundgedanken der allgemeinen Relativitätstheorie und Anwendung dieser Theorie in der Astronomie |journal=Sitzungsberichte der Preußischen Akademie der Wissenschaften zu Berlin|pages=315|year=1915|language=de|language=de}}
+* {{Cite paper|last=Albert|first=Einstein|title=Zur allgemeinen Relativitätstheorie|journal=Sitzungsberichte der Preußischen Akademie der Wissenschaften zu Berlin|pages=778–786|year=1915|language=de}}
+* {{Cite paper|last=Albert|first=Einstein|title=Zur allgemeinen Relativitätstheorie (Nachtrag)|journal=Sitzungsberichte der Preußischen Akademie der Wissenschaften zu Berlin|pages=799–801|year=1915|language=de}}
+* {{Cite paper|last=Albert|first=Einstein|title=Erklärung der Perihelbewegung des Merkur aus der allgemeinen Relativitätstheorie|journal=Sitzungsberichte der Preußischen Akademie der Wissenschaften zu Berlin|pages=831–839|year=1915|language=de}}
+* {{Cite paper|last=Albert|first=Einstein|title=Die Feldgleichungen der Gravitation|journal=Sitzungsberichte der Preußischen Akademie der Wissenschaften zu Berlin|pages=844–847|url=http://nausikaa2.mpiwg-berlin.mpg.de/cgi-bin/toc/toc.x.cgi?dir=6E3MAXK4&step=thumb|year=1915|language=de}}
+* {{Cite paper|url=http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1916_49_769-822.pdf|last=Albert|first=Einstein|author고리=알베르트 아인슈타인|title=Die Grundlage der allgemeinen Relativitätstheorie|journal=Annalen der Physik|volume=49|issue=7|pages=769–822|doi=10.1002/andp.19163540702|year=1916|language=de}}
+
+=== Һураха бэшэг ===
+* {{Cite book | title=일반상대론 | author=이철훈 | series=대우학술총서 자연과학 | volume=38 | date=1986-06-01 | edition=2edition|isbn= 89-374-3538-1 | language=ko |url=http://minumsa.minumsa.com/book/936/}}
+* {{Cite book | title=시간공간의 물리학|publisher= 홍릉과학출판사 |author=이열| date=2003-05-10| isbn=978-897283325-3 | language=ko|url=http://www.hongpub.co.kr/sub.php?goPage=view_product&Code=20090219172737}}
+* {{Cite book|last=Carroll|first=Sean M.|title=Spacetime and geometry: an introduction to general relativity|url=http://preposterousuniverse.com/spacetimeandgeometry/|publisher=Addison-Wesley|isbn=0805387323|date=2003 | language=en}}
+* {{Cite book | last = Misner | first = Charles | authors = Kip S. Thorne, John Archibald Wheeler | title = Gravitation | location = San Francisco | publisher = W. H. Freeman | date = 1973 | isbn = 0-7167-0344-0 | language=en}}
+* {{Cite book | first= Robert M. | last= Wald | title=General relativity | publisher=University of Chicago Press | date=1984-06 | url=http://press.uchicago.edu/ucp/books/book/chicago/G/bo5952261.html | language=en | isbn=978-022687033-5}}
+* {{Cite book | last=Hawking | first=Stephen | authors =G. F. R. Ellis | title = The large scale structure of space-time | location= Cambridge | publisher=Cambridge University Press | series=Cambridge Monographs on Mathematical Physics|volume=1|date=1975-03|zbl=0265.53054 |isbn= 978-052109906-6 |url=http://www.cambridge.org/us/academic/subjects/physics/cosmology-relativity-and-gravitation/large-scale-structure-space-time| language=en | doi =10.1017/CBO9780511524646}}
+* {{Cite book|author=内山 龍雄|date=1978-07|title=一般相対性理論|series=物理学選書|volume=15|publisher=裳華房|isbn=978-4-7853-2315-8|url=http://www.shokabo.co.jp/mybooks/ISBN978-4-7853-2315-8.htm|language=ja}}
+* {{Cite book|author=佐藤 文隆|authors=小玉 英雄|date=2000-06-15|title=一般相対性理論|series=現代物理学叢書|publisher=岩波書店|isbn=4-00-006742-7|url=http://www.iwanami.co.jp/.BOOKS/00/7/0067420.html|language=ja}}
