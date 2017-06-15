@@ -1,44 +1,33 @@
-{| border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left:1em; background:#f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|----
-|---- bgcolor="#e3e3e3"
-! colspan="2" bgcolor="#e3e3e3" | Монгол хэлэн
-|---- bgcolor="#e3e3e3"
-! colspan="2" bgcolor="#e3e3e3" |[[File:Monggol kele.svg|40px]]
-|----
-|---- bgcolor="#e3e3e3"
-! colspan="2" bgcolor="#e3e3e3" | 
-|----
-| align="center" | '''[[Нэрэ:]]'''
-| align="center" | Монгол: Монгол хэл
-|----
-| align="center" | '''[[Угсаатан]]'''
-| align="center" | Монголшууд
-|----
-| align="center" | '''[[Улас]]'''
-| align="center" | [[File:Flag of Mongolia.svg|22px]] [[Монгол Улас]]
-|----
-| align="center" | '''[[ISO 639-1]]'''
-| align="center" | mn
-|----
-| align="center" | '''ISO 639-2'''
-| align="center" | mon<ref>[http://www.sil.org/iso639-3/documentation.asp?id=mon Documentation for ISO 639 identifier: mon]</ref>
-|----
-| align="center" | '''ISO 639-3'''
-| align="center" | [http://www.sil.org/iso639-3/documentation.asp?id=mon mon]– Монгол хэл бүхлээрээ
-Дотор нь ялгасан энэ: 
-
-[http://www.sil.org/iso639-3/documentation.asp?id=khk khk]– Халх
-
-[http://www.sil.org/iso639-3/documentation.asp?id=mvf mvf] – Эргэн тойрны
-|---- bgcolor="#e3e3e3"
-! colspan="2" bgcolor="#e3e3e3" |[[File:Mongols-map.png|300px|Монгол хэлэний газар нютагай хэмжээ]]
-|----
-| align="center" style="background:#e3e3e3;" colspan="2" style="border-bottom:3px solid gray;" | 
-|}
+{{Infobox language
+|boxsize=250px
+|name=Монгол хэлэн
+|nativename=<big>{{mongolUnicode|ᠮᠤᠨᠭᠭᠤᠯ ᠬᠡᠯᠡ|v}}</big> 
+|states=[[Монгол Улас]]; [[Хитад Улас]]ай [[Үбэр Монгол]] орониие багтаагаад найман можо орон; [[Оросой холбоото улас|Оросой]] [[Буряад Улас]], [[Хальмаг Улас]], бусад газар; бусад улас 
+|ethnicity=[[Монголшууд]]
+|speakers=6,5 сая хүн
+|date=1982–2010
+|ref=e17
+|familycolor=Altaic
+|fam1=[[Монгол хэлэн]]
+|fam2=Түб Монгол
+|nation= {{MNG}}<br />
+'''Нютагай албан хэлэн:'''<br />
+{{CHN}} ([[Үбэр Монгол]])<br />
+|script=[[Кирилл үзэг|Кирилл]], [[Монгол бэшэг]], [[Вагиндра бэшэг]]
+|agency        = Монгол Улас:<br>Түрын хэлэнэй зүблэл<ref>{{cite web|url= http://www.edulaws.pmis.gov.mn/edulaws/web/index.php?modules=law&viewid=2&law_id=189|title= Törijn alban josny helnij tuhaj huul<nowiki>'</nowiki>|publisher= MongolianLaws.com|date=2003-05-15|accessdate=2009-03-27}}</ref><br>Хитад:<br>Монгол хэлэ бэшэгэй ажалай зүблэл<ref>"Mongγul kele bičig-ün aǰil-un ǰöblel". See Sečenbaγatur ''et al.'' 2005: 204.</ref>
+|iso1          = mn
+|iso2          = mon
+|iso3          = mon
+|lc1           = khk
+|ld1           = Халха-монгол
+|lc2           = mvf
+|ld2           = Ондоо монгол
+|lingua        = part of 44-BAA-b
+}}
 [[File:MOV00979.ogg|thumb|200px|Монголшууд]]
 [[File:Phagspa imperial edict dragon year.jpg|thumb|200px]]
 [[File:Secret history.jpg|thumb|200px]]
-'''Монгол хэлэн''' (Монгол: ''Монгол хэл'' [[Image:Monggol kele.svg|17px]],<ref>Rendered in Unicode as ᠮᠣᠨᠭᠭᠣᠯ ᠬᠡᠯᠡ</ref>) - нэгэ из гурба Алтайин хэлэн. Монгол хзлэхэ бэшэхэ Монголшууд. Энэ гурэнэй хэлэн [[Монгол Улас]]ай. Монгол хэлэн - турэлхи хэлэн обо 10.000.000 хγн. 
+'''Монгол хэлэн''' (Монгол: ''Монгол хэл'' [[Image:Monggol kele.svg|17px]],<ref>Rendered in Unicode as ᠮᠣᠨᠭᠭᠣᠯ ᠬᠡᠯᠡ</ref>) - Алтайн хэлэнэй бүлын нэгэ хэлэн, монголшуудай хэлэн. Энэ гурэнэй хэлэн [[Монгол Улас]]ай. Монгол хэлэн - турэлхи хэлэн обо 10.000.000 хγн. 
 
 [[Алтай хэлний язгуур]]ын ерөнхий шинж болох SOV（өгүүлэгдэхүүн-тусагдахуун-өгүүлэхүүн） гэсэн дарааллаар орно. Мөн нэр үгийн холбоос болон үйл үгийн хувирал нь үгийн төгсгөл нь хувирах зарчимтай. [[Эгшиг зохицох ёс]]д захирагдана.
 
