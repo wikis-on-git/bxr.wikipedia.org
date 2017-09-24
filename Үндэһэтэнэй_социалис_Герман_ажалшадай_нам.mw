@@ -1,0 +1,42 @@
+'''Үндэһэтэнэй социалис Герман ажалшадай нам''' ({{lang-de|National-sozialistische Deutsche Arbeiterpartei}}, тайлбар. '''НСДАП''', {{lang-de|NSDAP}}), гээшэ 1933 — 1945 он хоорондо [[Нацис Германи|Германида]] [[тоталитаризм|тоталитарис]] [[фашизм|фашис]] түхэлэй массын [[улас түрын нам|уласай түрын нам]] юм. Түб эмхи зургааниинь — «Арадай тоймошо» сонин (1920 оной 12 һара — 1945 оной 4 һара). 
+1919 ондо бага зодтой баруун үндэһэн үзэлтэй холбооной баазада [[Бавари]]ин [[Мюнхен]]дэ Герман ажалшадай нам гэжэ нэрэтэй бии болобо. 1920 оной 8 һарада һүүлшын нэрэеэ абтанхай. 
+
+1921 ондо [[Адольф Һитлер|Һитлер]] ударидагша болоһоной дараа олон тоогой националис байгуулгануудһаа илгарба. 1923 оной 11 һарада Штурмабтайлунгуудай (СА) туһаламжаар Мюнхендэ арадшалалда эсэргүү түрын эрьелтые туршаба («[[Пивын путч]]»). Путчын алдаанай һүүлдэ бараг буталһан, 1925 ондо һэргэһэн байна. Германида илангаяа хүндэ эдэй засагай химаралай үедэ (1929 — 1933) Германиин эгээн олон зодтой баруун үндэһэн үзэлтэй нам болобо. 
+
+{| class="wikitable" style="text-align:left"
+|-
+|+ Германиин парламентын һунгуули (1924—1933) соо НСДАП абтаһан һаналнууд (процент)<ref>A New Illustrated History of the Nazis. 2005. стр. 46</ref>
+|-
+|<timeline>
+ImageSize = width:600 height:200
+PlotArea = left:40 right:20 top:20 bottom:20
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.6,0.2,0.2)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:50
+ScaleMajor = unit:year increment:10 start:0 gridcolor:linegrey
+PlotData =
+  color:cobar width:50 align:left
+  bar:04.05.1924 from:0 till:7
+  bar:07.12.1924 from:0 till:3
+  bar:20.05.1928 from:0 till:2
+  bar:14.09.1930 from:0 till:18
+  bar:31.07.1932 from:0 till:37
+  bar:06.11.1932 from:0 till:33
+  bar:05.03.1933 from:0 till:44
+PlotData=
+  textcolor:black fontsize:L
+  bar:04.05.1924 at: 8 text: 6,6 shift:(-10)
+  bar:07.12.1924 at: 4 text: 3 shift:(-8)
+  bar:20.05.1928 at: 3 text: 2,3 shift:(-10)
+  bar:14.09.1930 at: 19 text: 18,3 shift:(-15)
+  bar:31.07.1932 at: 38 text: 37,4 shift:(-15)
+  bar:06.11.1932 at: 34 text: 33,1 shift:(-15)
+  bar:05.03.1933 at: 45 text: 43,9 shift:(-15)
+</timeline>
+|}
