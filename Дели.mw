@@ -3,15 +3,18 @@
 |албан_нэрэ                    = Дели үндэһэтэнэй ниислэлэй тойрог
 |type       = холбооной нютаг дэбисхэр
 |анхаарах_нэр           = {{lang-hi|दिल्ली}}, {{lang-en|Delhi}}
-|image_flag             = 
+|image_flag             = ..Delhi Flag(INDIA).png
 |flag_size              = 
-|image_seal             = 
-|seal_size              = 80px
+|image_seal             = Emblem_of_India.svg
+|seal_size              = 50px
 |image_skyline          = Skyline at Rajiv Chowk.JPG
-|image_map              = 
-|map_caption            = 
-|latd= |latm= |lats= |latNS=N
-|longd= |longm= |longs= |longEW=E
+|pushpin_map = India
+|pushpin_label = Дели
+|pushpin_label_position = bottom
+|pushpin_mapsize = 280
+|pushpin_map_caption = Энэдхэгтэхи Дели хото
+|latd= 28|latm= 42|lats= 0|latNS=N
+|longd= 77|longm= 12|longs= 0|longEW=E
 |улас_эсбэл                 = Улас орон
 |али_улас_эсбэл             = {{flagcountry|India}}
 |нэгэдүгээр_зэрэгэй_нэгэжэ    = Холбооной нютаг дэбисхэр 
