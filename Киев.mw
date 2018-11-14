@@ -8,8 +8,13 @@
 |seal_size              = 70px
 |image_skyline          = Kiew Zentrum.jpg
 |image_caption          = Киев хотын түб
-|image_map              = Kiev highlighted.JPG
-|map_caption            = Украйн орон дахи Киев хотын нютаг (улаан)
+|latd=50 |latm=27 |lats=00 |latNS=N
+|longd=30 |longm=31 |longs=24 |longEW=E
+|pushpin_map = Украина
+|pushpin_label = Киев
+|pushpin_label_position = bottom
+|pushpin_mapsize = 280
+|pushpin_map_caption = Украинадахи Киев хото
 |улас_эсбэл               = Улас орон
 |али_улас_эсбэл               = {{flagicon|Ukraine}} [[Украйн]]а
 |нэгэдүгээр_зэрэгэй_нэгэжэ    = Уласай хото
