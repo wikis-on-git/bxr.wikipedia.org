@@ -4,6 +4,12 @@
 
 Гар дээрэ [[һөөргэ тоо]] бии байхада, хаһалтые һөөргэ тоотой нэмэхэ үйлдэлэй нэгэ түрэлөөр тодорхойлжо болохо<ref>{{PlanetMath|title=Subtraction|urlname=Subtraction}}</ref>. Жэшээлбэл, <math>5-2=3</math> гэхые <math>5+(-2)=3</math> нэмэхээр үзэжэ болохо.
 
+Хаһалта зарим шухала шанартай байна (жэшээлбэл, <math>A=</math>[[бодото тоо|<math>\mathbb{R}</math>]]):
+:[[Антикоммутатив үйлэдэл]]:  <math>a-b = -(b-a),\quad\forall a, b \in\ A.</math>
+:Ассоциатив бэшэ үйлэдэл: <math>(a-b)-c \ne a-(b-c),\quad\forall a, b,c \in\ A.</math>
+:[[Дистрибутив үйлэдэл]]: <math>x\cdot (a-b)=(x\cdot a)-(x\cdot b),\quad\forall a, b \in\ A.</math>
+:[[Тэг|<math>0</math>]] (тэг элементые) хаһахын дүн эхин тоо болохо: <math>x-0=x,\quad\forall x\in A, \quad\exists 0\in A.</math>
+
 == Зүүлтэ ==
 {{зүүлтэ}}
 
