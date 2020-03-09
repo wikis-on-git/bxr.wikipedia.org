@@ -20,26 +20,27 @@
  |сезон           = 2018/19
  |газар         = 4.
  |сайт            = [http://www.pfc-cska.com www.pfc-cska.com]
- |pattern_la1=_cska1718h
- |pattern_b1=_cska1718h
- |pattern_ra1=_cska1718h
- |pattern_sh1=_cska1718h
- |pattern_so1=_band_stripes_blue
- |leftarm1=0000FF
- |body1=0000FF
- |rightarm1=0000FF
- |shorts1=FF0000
- |socks1=FF0000
- |pattern_la2=_cska1718a
- |pattern_b2=_cska1718a
- |pattern_ra2=_cska1718a
- |pattern_sh2=_cska1718a
- |pattern_so2=_cska1718a
- |leftarm2=FF4F00
- |body2=FF4F00
- |rightarm2=FF4F00
- |shorts2=FF4F00
- |socks2=FF4F00
+
+| pattern_la1 = _cska1920h
+| pattern_b1 = _cska1920h
+| pattern_ra1 = _cska1920h
+| pattern_sh1 = _shorts
+| pattern_so1 = _socks
+| leftarm1 = E20E0E
+| body1 = E20E0E
+| rightarm1 = E20E0E
+| shorts1 = 004BB3
+| socks1 = E20E0E
+| pattern_la2 = _cska1920a
+| pattern_b2 = _cska1920a
+| pattern_ra2 = _cska1920a
+| pattern_sh2 = _shorts
+| pattern_so2 = _socks
+| leftarm2 = FFFFFF
+| body2 = FFFFFF
+| rightarm2 = FFFFFF
+| shorts2 = FFFFFF
+| socks2 = FFFFFF
 }}
 '''ЦСКА Москва''' ([[Ород хэлэн|ород]] '''«Профессиональный футбольный клуб ЦСКА»''') — [[Ород]]ой [[Москва]]гай хүл бүмбэгын клуб.
 
