@@ -81,7 +81,7 @@
 |HDI                         = {{increase}} 0.895<ref name="HDI">{{cite web|url=http://hdrstats.undp.org/en/countries/country_fact_sheets/cty_fs_BHR.html|title=Human Development Report 2009: Bahrain|publisher=The United Nations|accessdate=2009-10-18}}</ref>
 |HDI_rank                    = 39th
 |HDI_year                    = 2007
-|HDI_category                = <font color="#0089500">high</font>
+|HDI_category                = <span style="color:#009900;">high</span>
 |currency                    = [[Bahraini dinar]]
 |currency_code               = BHD
 |time_zone                   =
