@@ -15,13 +15,13 @@
 == Тодо үзгүдин нерэ ==
 
 {| class="wikitable" style="text-align:left;"
-|bgcolor=#730906|<font color="#FFD900"> '''#''' 
-|bgcolor=#730906|<font color="#FFD900"> '''Code''' 
-|bgcolor=#730906|<font color="#FFD900"> '''Тодо үсэг''' 
-|bgcolor=#730906|<font color="#FFD900"> '''Кирилл дарцар''' 
-|bgcolor=#730906|<font color="#FFD900"> '''Латин дарцар''' 
-|bgcolor=#730906|<font color="#FFD900"> '''Ахр Нерэ''' 
-|bgcolor=#730906|<font color="#FFD900"> '''Удан Нерэ''' 
+|bgcolor=#730906|<span style="color:#FFD900;"> '''#''' </span>
+|bgcolor=#730906|<span style="color:#FFD900;"> '''Code''' </span>
+|bgcolor=#730906|<span style="color:#FFD900;"> '''Тодо үсэг''' </span>
+|bgcolor=#730906|<span style="color:#FFD900;"> '''Кирилл дарцар''' </span>
+|bgcolor=#730906|<span style="color:#FFD900;"> '''Латин дарцар''' </span>
+|bgcolor=#730906|<span style="color:#FFD900;"> '''Ахр Нерэ''' </span>
+|bgcolor=#730906|<span style="color:#FFD900;"> '''Удан Нерэ''' </span>
 |-
 |1||6176||{{MongolUnicode|size=30px|[[ᠠ]]}}|| А|| A||А || хойр арата || Худам әдл
 |-
