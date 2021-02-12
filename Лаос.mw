@@ -56,10 +56,10 @@ Population Division | date=2009 | accessdate= 2009-03-12}}</ref>
 |HDI_year                 = 2007 <!--Please use the year in which the HDI data refers to and not the publication year-->
 |HDI                      = {{increase}} 0.619<ref name="UN">{{cite web|url=http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf|title=Human Development Report 2009. Human development index trends: Table G|publisher=[[The United Nations]]|accessdate=2009-10-05}}</ref>
 |HDI_rank                 = 133rd
-|HDI_category             = <font color="#ffcc00">medium</font>
+|HDI_category             = <span style="color:#ffcc00;">medium</span>
 |Gini                     = 34.6
 |Gini_year                = 2008
-|Gini_category            = <font color="#ffcc00">medium</font>
+|Gini_category            = <span style="color:#ffcc00;">medium</span>
 |currency                 = [[Lao kip|Kip]]
 |currency_code            = LAK
 |time_zone                = 
