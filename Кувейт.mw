@@ -49,7 +49,7 @@
 | HDI = {{increase}} 0.916<ref name="HDI">{{cite web|url=http://hdrstats.undp.org/en/countries/country_fact_sheets/cty_fs_KWT.html|title=Human Development Report 2009: Kuwait|publisher=The United Nations|accessdate=2009-10-18}}</ref>
 | HDI_rank = 31st
 | HDI_year = 2009
-| HDI_category = <font color="#009900">very&nbsp;high</font>
+| HDI_category = <span style="color:#009900;">very&nbsp;high</span>
 | currency = [[Kuwaiti dinar]]
 | currency_code = KWD
 | country_code =
