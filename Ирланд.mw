@@ -13,7 +13,7 @@
 | map_caption = 
 | national_anthem = "{{lang|ga|[[Amhrán na bhFiann]]|italic=no}}"<br />{{raise|0.1em|({{Lang-en|"The Soldiers' Song"}})}}<br />{{raise|0.1em|(<small>[[Буряад хэлэн|буряадаар.]]</small> "Сэрэгэй Дуулал")}}<br /><div style="display:inline-block;margin-top:0.4em;">[[File:United States Navy Band - Amhrán na bhFiann.ogg|center]]</div>
 <!--Irish is "the first official language" and English "a second official language" – please do not change the order; see reference -->
-| official_languages = [[Irish language|Irish]],{{ref label|national language|b}}  [[English language|English]]<ref name=lang>{{cite web |url=http://www.irishstatutebook.ie/2003/en/act/pub/0032/sec0002.html#sec2 |title=Official Languages Act 2003 |publisher=Office of the Attorney-General |access-date=18 February 2012}}</ref>
+| official_languages = [[Ирланд хэлэн|Ирланд]], [[Англи хэлэн|Англи]]<ref name=lang>{{cite web |url=http://www.irishstatutebook.ie/2003/en/act/pub/0032/sec0002.html#sec2 |title=Official Languages Act 2003 |publisher=Office of the Attorney-General |access-date=18 February 2012}}</ref>
 | capital = [[Дублин]]
 | ethnic_groups_year = 2016<ref>{{cite web|title=CSO Census 2016 Chapter 6 – Ethnicity and Irish Travellers|url=http://www.cso.ie/en/media/csoie/releasespublications/documents/population/2017/Chapter_6_Ethnicity_and_irish_travellers.pdf|access-date=28 April 2017}}</ref>
 | ethnic_groups = 85.5% [[Ирландшууд]] </br> 14.5% буhад
@@ -23,19 +23,17 @@
 | coordinates = 
 | largest_city = capital
 | government_type = [[Нэгэдэмэл улас|Нэгэдэмэл]] [[Бүгэдэ найрамдаха улас|бүгэдэ </br>найрамдаха улас]]
-| leader_title1 = [[President of Ireland|President]]
+| leader_title1 = [[Ирланд Уласай Юрэнхылэгшэ|Юрэнхылэгшэ]]
 | leader_name1  = [[Michael D. Higgins]]
-| leader_title2 = [[Taoiseach]]
+| leader_title2 = [[Ирланд Уласай Юрэнхэй Сайд|Юрэнхэй сайд]]
 | leader_name2  = [[Micheál Martin]]
 | leader_title3 = [[Tánaiste]]
 | leader_name3  = [[Leo Varadkar]]
-| leader_title4 = [[Chief Justice of Ireland|Chief Justice]]
-| leader_name4  = [[Frank Clarke (judge)|Frank Clarke]]
 | legislature   = [[Oireachtas]]
 | upper_house   = [[Seanad Éireann|Seanad]]
 | lower_house   = [[Dáil Éireann|Dáil]]
 | area_km2      = 70,273
-| area_rank     = 118th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_rank     = 118 <!-- Area rank should match [[List of countries and dependencies by area]] -->
 | percent_water = 2.0%
 | population_estimate = {{IncreaseNeutral}}  4,977,400<ref>{{cite web |url=https://www.cso.ie/en/releasesandpublications/er/pme/populationandmigrationestimatesapril2020/ |publisher = Central Statistics Office |title=Population and Migration Estimates |date=20 August 2020 | accessdate = 18 April 2021 }}</ref>
 | population_estimate_year = 2020
@@ -44,11 +42,11 @@
 | population_density_sq_mi = {{#expr: 4977400/27133 round 1}} <!-- Do not remove per WP:MOSNUM -->
 | population_density_rank  = 113
 | GDP_PPP_year = 2020
-| GDP_PPP      = {{increase}} $448&nbsp;billion<ref name=imf2>{{cite web |url= https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=512,914,612,614,311,213,911,314,193,122,912,313,419,513,316,913,124,339,638,514,218,963,616,223,516,918,748,618,624,522,622,156,626,628,228,924,233,632,636,634,238,662,960,423,935,128,611,321,243,248,469,253,642,643,939,734,644,819,172,132,646,648,915,134,652,174,328,258,656,654,336,263,268,532,944,176,534,536,429,433,178,436,136,343,158,439,916,664,826,542,967,443,917,544,941,446,666,668,672,946,137,546,674,676,548,556,678,181,867,682,684,273,868,921,948,943,686,688,518,728,836,558,138,196,278,692,694,962,142,449,564,565,283,853,288,293,566,964,182,359,453,968,922,714,862,135,716,456,722,942,718,724,576,936,961,813,726,199,733,184,524,361,362,364,732,366,144,146,463,528,923,738,578,537,742,866,369,744,186,925,869,746,926,466,112,111,298,927,846,299,582,487,474,754,698,&s=NGDPD,&sy=2018&ey=2025&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |title=World Economic Outlook Database, October 2020 |website=IMF.org |publisher=International Monetary Fund |access-date=8 January 2020}}</ref>
+| GDP_PPP      = {{increase}} $448&nbsp;тэрбүм<ref name=imf2>{{cite web |url= https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=512,914,612,614,311,213,911,314,193,122,912,313,419,513,316,913,124,339,638,514,218,963,616,223,516,918,748,618,624,522,622,156,626,628,228,924,233,632,636,634,238,662,960,423,935,128,611,321,243,248,469,253,642,643,939,734,644,819,172,132,646,648,915,134,652,174,328,258,656,654,336,263,268,532,944,176,534,536,429,433,178,436,136,343,158,439,916,664,826,542,967,443,917,544,941,446,666,668,672,946,137,546,674,676,548,556,678,181,867,682,684,273,868,921,948,943,686,688,518,728,836,558,138,196,278,692,694,962,142,449,564,565,283,853,288,293,566,964,182,359,453,968,922,714,862,135,716,456,722,942,718,724,576,936,961,813,726,199,733,184,524,361,362,364,732,366,144,146,463,528,923,738,578,537,742,866,369,744,186,925,869,746,926,466,112,111,298,927,846,299,582,487,474,754,698,&s=NGDPD,&sy=2018&ey=2025&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |title=World Economic Outlook Database, October 2020 |website=IMF.org |publisher=International Monetary Fund |access-date=8 January 2020}}</ref>
 | GDP_PPP_rank = 46
 | GDP_PPP_per_capita = {{increase}} $89,383<ref name=imf2/>
 | GDP_PPP_per_capita_rank = 4
-| GDP_nominal = {{increase}} $399&nbsp;billion<ref name=imf2/>
+| GDP_nominal = {{increase}} $399&nbsp;тэрбүм<ref name=imf2/>
 | GDP_nominal_rank = 32
 | GDP_nominal_year = 2020
 | GDP_nominal_per_capita = {{decrease}} $79,669<ref name=imf2/>
@@ -77,9 +75,9 @@
 | established_date5  = 29 December 1937
 | established_event6 = [[Republic of Ireland Act 1948|Republic Act]]
 | established_date6  = 18 April 1949
-| currency = [[Euro]] ([[Euro sign|€]])
+| currency = [[Евро]] ([[Еврогой тэмдэг|€]])
 | currency_code  = EUR
-| utc_offset     = {{sp}}
+| utc_offset     = +0{{sp}}
 | time_zone      = [[Greenwich Mean Time|GMT]]
 | calling_code   = [[Telephone numbers in the Republic of Ireland|+353]]
 | cctld          = [[.ie]]{{ref label|tld|c}}
