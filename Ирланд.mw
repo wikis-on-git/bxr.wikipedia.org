@@ -17,8 +17,7 @@
 | capital = [[Дублин]]
 | ethnic_groups_year = 2016<ref>{{cite web|title=CSO Census 2016 Chapter 6 – Ethnicity and Irish Travellers|url=http://www.cso.ie/en/media/csoie/releasespublications/documents/population/2017/Chapter_6_Ethnicity_and_irish_travellers.pdf|access-date=28 April 2017}}</ref>
 | ethnic_groups = 85.5% [[Ирландшууд]] </br> 14.5% буhад
-| religion = {{ublist |item_style=white-space:nowrap; |85.1% [[Christianity in Ireland|Christianity]] |—78.3% [[Catholic Church in Ireland|Roman Catholic]] |—2.6% [[Church of Ireland]] |—4.2% Other [[List of Christian denominations|Christian]] |10.1% [[Irreligion in the Republic of Ireland|No religion]] |2.0% [[Religion in the Republic of Ireland|Other]]s
-|2.8% Unspecified}}	
+| religion = 85.1% [[Христосой шажан|Христос]] </br>{{ublist |item_style=white-space:nowrap; |78.3% [[Католик церковь|Католик]] |2.6% [[Ирландын церковь|Ирланд]] |4.2% буhад}} </br>10.1% [[Шажангүйн үзэл|Шажангүй]] </br>4.8% буhад
 | religion_year = 2016
 | coordinates = 
 | largest_city = capital
@@ -61,20 +60,18 @@
 | HDI         = 0.955 <!--number only-->
 | HDI_ref     = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/latest-human-development-index-ranking|title=Human Development Report 2020|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|access-date=10 December 2019|format=PDF}}</ref>
 | HDI_rank    = 2
-| sovereignty_type   = [[History of the Republic of Ireland|Stages of independence]]
-| sovereignty_note   = from the </br>[[United Kingdom of Great Britain and Ireland|United Kingdom]]
-| established_event1 = [[Proclamation of the Irish Republic|Proclamation]]
-| established_date1  = 24 April 1916
-| established_event2 = [[Irish Declaration of Independence|Declaration]]
-| established_date2  = 21 January 1919
-| established_event3 = {{nowrap|[[Anglo-Irish Treaty]]}}
-| established_date3  = 6 December 1921
-| established_event4 = [[Constitution of the Irish Free State|1922 constitution]]
-| established_date4  = 6 December 1922
-| established_event5 = [[Constitution of Ireland|1937 constitution]]
-| established_date5  = 29 December 1937
-| established_event6 = [[Republic of Ireland Act 1948|Republic Act]]
-| established_date6  = 18 April 1949
+| sovereignty_type   = [[Ирланд уласай түүхэ|Түүхэ]]
+| sovereignty_note   = 
+| established_event1 = [[Ирланд уласай тусгаар тогтонолой тунхаглал|Тусгаар тогтоhон]]
+| established_date1  = 1919 оной 1 hарын 21
+| established_event2 = {{nowrap|[[Anglo-Irish Treaty]]}}
+| established_date2  = 1921 оной 12 hарын 6
+| established_event3 = [[Сүлөөтэ Ирланд Уласай Үндэһэн хуули|1922 оной Үндэһэн хуули]]
+| established_date3  = 1922 оной 12 hарын 6
+| established_event4 = [[Ирланд Уласай Үндэһэн хуули|1937 оной Үндэһэн хуули]]
+| established_date4  = 1937 оной 12 hарын 29
+| established_event5 = [[1948 оной Бүгэдэ Найрамдаха Ирланд Уласай хуули|БНУ-ай хуули]]
+| established_date5  = 1949 оной 4 hарын 18
 | currency = [[Евро]] ([[Еврогой тэмдэг|€]])
 | currency_code  = EUR
 | utc_offset     = +0{{sp}}
