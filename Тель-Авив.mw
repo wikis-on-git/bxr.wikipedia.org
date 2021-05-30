@@ -1,5 +1,5 @@
 {{Инфобокс һуурин
-| name                  = Тель-Авив-Яффо
+| name                  = Тель-Авив-Яффа
 | native_name           = תל־אביב-יפו ([[Иврит]])<br />تل أبيب - يافا ([[Араб хэлэн|Араб]])
 | settlement_type       = [[Израилиин хотын жагсаалта|Хото]]
 | iso_code              = IL-TA
@@ -30,41 +30,29 @@
 | pushpin_relief        = 1
 | coordinates           = {{coord|32|4|N|34|47|E|display=inline,title}}
 | coordinates_footnotes=
-| subdivision_type      = [[List of sovereign states|Country]]
-| subdivision_name      = {{flag|Israel}}
-| subdivision_type1     = [[Districts of Israel|District]]
-| subdivision_name1     = {{flag|Tel Aviv District|name=Tel Aviv}}
-| subdivision_type2     = Metropolitan area
-| subdivision_name2     = [[Tel Aviv metropolitan area|Gush Dan]]
+| subdivision_type      = [[Улас оронуудай жагсаалта|Улас]]
+| subdivision_name      = {{flag|Израиль}}
+| subdivision_type1     = [[Израилиин Дүүрэгүүд|Дүүрэг]]
+| subdivision_name1     = {{flag|Тель-Авив дүүрэг|name=Тель-Авив}}
 | subdivision_type3=
 | subdivision_name3=
-| established_title     = Founded
+| established_title     = Үүсэһэн
 | established_date      = {{start date|df=yes|1909|04|11}}
 | established_title1=
 | established_date1=
 | founder=
-| named_for             = [[Tel Abib]] in {{bibleverse||Ezekiel|3:15|HE}}, via [[Theodor Herzl|Herzl]]'s ''[[Altneuland]]''
 | seat_type=
 | seat=
 | government_footnotes=
-| government_type       = [[Mayor–council government|Mayor–council]]
-| governing_body        = [[Tel Aviv-Yafo Municipality]]
-| leader_title          = Mayor
-| leader_name           = [[Ron Huldai]]
+| government_type       = 
+| governing_body        = [[Тель-Авивын муниципалитет]]
+| leader_title          = Хотын дарга
+| leader_name           = [[Рон Хулдаи]]
 | unit_pref=
 | area_magnitude=
 | area_footnotes=
 | area_total_km2        = 52
 | area_total_sq_mi=
-| area_land_km2=
-| area_land_sq_mi=
-| area_water_km2=
-| area_water_sq_mi=
-| area_water_percent=
-| area_urban_km2        = 176
-| area_urban_sq_mi=
-| area_metro_km2        = 1516
-| area_metro_sq_mi=
 | area_note=
 | elevation_footnotes=
 | elevation_m           = 5
@@ -72,15 +60,6 @@
 | population_footnotes        = {{Israel populations|reference}}
 | population_total            = {{Israel populations|Tel Aviv - Yafo}}
 | population_rank             = [[List of Israeli cities|2nd]] in Israel
-| population_urban            = 1,388,400
-| population_metro            = 3,854,000
-| population_as_of            = {{Israel populations|Year}}
-| population_density_km2      = 8468.7
-| population_density_rank     = [[List of Israeli cities|12th]] in Israel
-| population_density_urban_km2= 8057.7
-| population_density_metro_km2= 2286
-| population_est=
-| pop_est_as_of=
 | population_demonym          = Tel Avivian<ref>{{cite book |title= Tel Aviv: Mythography of a City |first= Maoz |last= Azaryahu |year=2007 |publisher= Syracuse University Press |location= Syracuse, New York |isbn= 9780815631293 |pages=133–134}}</ref><ref>{{cite book |title=A Place in History: Modernism, Tel Aviv, and the Creation of Jewish Urban Space |first= Barbara E. |last=Mann |year=2006 |publisher= Stanford University Press |location= Stanford, California |isbn= 9780804750196 |pages=148, 166}}</ref><ref>{{cite book |title= The Cities Book: A Journey Through the Best Cities in the World |year=2009 |publisher= Lonely Planet |location= Melbourne, Oakland and London |isbn= 9781741798876 |pages=380–381}}</ref>
 | population_note=
 | blank_name_sec1       = GDP
