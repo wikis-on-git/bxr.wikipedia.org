@@ -1,6 +1,6 @@
 {{Инфобокс һуурин
-| name                            = Jerusalem
-| native_name                     = {{unbulleted list|{{native name|he|ירושלים|italics=off}}|{{native name|ar|القُدس|italics=off}}}}
+| name                            = Иерусалим
+| native_name                     = ירושלים ([[Иврит]]) </br> القُدس ([[Араб хэлэн|Араб]])
 | settlement_type                 = [[Израилиин хотын жагсаалта|Хото]]
 | image_skyline                   = 
 | image_caption                   = From upper left: Jerusalem skyline looking north from [[Mar Elias Monastery|St. Elijah Monastery]], a [[souq]] in the [[Old City (Jerusalem)|Old City]], [[Mamilla Mall]], the [[Knesset]], the [[Dome of the Rock]], the citadel (known as the [[Tower of David]]) and the [[Walls of Jerusalem|Old City walls]], and the [[Western Wall]].
@@ -17,14 +17,12 @@
 | pushpin_label_position          = bottom
 | pushpin_map_alt                 = 
 | coordinates                     = {{coord|31|47|N|35|13|E|region:IL-JM_type:city(880000)|format=dms|display=inline,title}}
-| subdivision_type                = Administered by
-| subdivision_name                = [[Israel]]
-| subdivision_type1               = Claimed by
-| subdivision_name1               = [[Israel]] and [[State of Palestine|Palestine]]{{refn|group=note|The State of Palestine (according to the Basic Law of Palestine, Title One: Article 3) regards Jerusalem as its capital.<ref name=BasicLawPal-T1A3>[http://www.palestinianbasiclaw.org/basic-law/2003-amended-basic-law 2003 Amended Basic Law]. Basic Law of Palestine. Retrieved 9 December 2012.</ref> But the documents of the [[PLO]]'s Negotiations Affairs Department (NAD) often refer to [[East Jerusalem]] (rather than the whole of Jerusalem) as a future capital, and sometimes as the current capital. One of its 2010 documents, described as "for discussion purposes only", says that Palestine has a '"vision"' for a future in which "East Jerusalem ... shall be the capital of Palestine, and West Jerusalem shall be the capital of Israel",<ref name=PLO-NAD-2010>{{cite web |work=PLO-NAD |date=June 2010 |url=http://www.nad-plo.org/userfiles/file/Non-Peper/Jerusalem%20Non-Paper-%20Final%20%20June%202010.pdf |title=Jerusalem Non-Paper |archive-url=https://web.archive.org/web/20120206101131/http://www.nad-plo.org/userfiles/file/Non-Peper/Jerusalem%20Non-Paper-%20Final%20%20June%202010.pdf |archive-date=6 February 2012 |access-date=25 July 2018 }}</ref><ref>{{cite web |url=http://www.nad-plo.org/etemplate.php?id=59 |title=Statements and Speeches |archive-url=https://web.archive.org/web/20160418223336/http://www.nad-plo.org/etemplate.php?id=59 |archive-date=18 April 2016 |work=nad-plo.org |access-date=25 November 2014 |page=2 |quote="This paper is '''for discussion purposes only'''. Nothing is agreed until everything is agreed.<br /><br />Palestinian '''vision''' for Jerusalem<br />...<br />Pursuant to our '''vision''', '''East Jerusalem''', as defined by its pre-1967 occupation municipal borders, '''shall be the capital of Palestine, and West Jerusalem shall be the capital of Israel''', with each state enjoying full sovereignty over its respective part of the city."}}</ref> and one of its 2013 documents refers to "Palestine's capital, East Jerusalem", and states that "Occupied East Jerusalem is the natural socio-economic and political center for the future Palestinian state", while also stating that "Jerusalem has always been and remains the political, administrative and spiritual heart of Palestine" and that "The Palestinian acceptance of the 1967 border, which includes East Jerusalem, is a painful compromise".<ref name=PLO-NAD-2013>{{cite web |work=PLO-Negotiations Affairs Department (NAD) |date=August 2013 |url=http://www.nad-plo.org/userfiles/file/Factsheet%202013/EJ%20TODAY_FINAL%20REPORT_II.pdf |title=East Jerusalem today – Palestine's Capital: The 1967 border in Jerusalem and Israel's illegal policies on the ground |archive-url=https://web.archive.org/web/20160304121305/http://www.nad-plo.org/userfiles/file/Factsheet%202013/EJ%20TODAY_FINAL%20REPORT_II.pdf |archive-date=4 March 2016 |access-date=25 November 2014 |quote=" ... Palestine's capital, East Jerusalem ... The Palestinian acceptance of the 1967 border, which includes East Jerusalem, is a painful compromise: ... Jerusalem has always been and remains the political, administrative and spiritual heart of Palestine. Occupied East Jerusalem is the natural socio-economic and political center for the future Palestinian state."}}</ref>}}
-| subdivision_type2               = [[Districts of Israel|Israeli district]]
-| subdivision_name2               = [[Jerusalem District|Jerusalem]]
-| subdivision_type3               = [[Governorates of Palestine|Palestinian governorate]]
-| subdivision_name3               = [[Quds Governorate|Quds]]
+| subdivision_type                = Улас
+| subdivision_name                = {{flag|Израиль}}
+| subdivision_type1               = 
+| subdivision_name1               = 
+| subdivision_type2               = [[Израилиин Дүүрэгүүд|Дүүрэг]]
+| subdivision_name2               = [[Иерусалим Дүүрэг|Иерусалим]]
 | established_title               = [[Gihon Spring]] settlement
 | established_date                = 3000–2800 BCE
 | established_title1              = [[City of David]]
