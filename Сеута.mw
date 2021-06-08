@@ -1,0 +1,124 @@
+{{Инфобокс һуурин
+| name                    = Ceuta 
+| official_name           = <!-- if different from the English name -->
+| native_name             = سَبْتَة ([[Араб хэлэн|Араб]])
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| other_name              = 
+| settlement_type         = [[Испаниин Автономито ниигэмлигүүд#Автономито хотонууд|Автономито хото]]
+| image_skyline           = Vista de Ceuta y la península de Almina desde el mirador de Isabel II.jpg
+| image_size              = 275px
+| image_caption           = 
+| image                   = <!-- other image (specify File: or Image: namespace) -->
+| image_flag              = Flag Ceuta.svg
+| flag_size               = 125px
+| flag_alt                = 
+| flag_link               = 
+| image_seal              = 
+| seal_size               = 
+| seal_alt                = 
+| seal_link               = 
+| image_shield            = Escudo de Ceuta.svg
+| shield_size             = 100x100px
+| shield_alt              = 
+| shield_link             = 
+| image_blank_emblem      = 
+| blank_emblem_type       = <!-- defaults to Logo -->
+| blank_emblem_size       = 
+| blank_emblem_alt        = 
+| blank_emblem_link       = 
+| nickname                = 
+| motto                   = 
+| anthem                  = <center>"Ceuta, mi ciudad querida"<br /> {{smaller|"Сеута, минии дуратай хото"}}<center>
+<!-- maps and coordinates ------>
+| image_map               = [[File:Ceuta in Spain (plus Canarias).svg|275px]]
+| mapsize                 = 
+| map_alt                 = 
+| map_caption             = <center>Испани дахи Сеута хото</center>
+| image_map1              = 
+| mapsize1                = 
+| map_alt1                = 
+| map_caption1            = 
+| image_dot_map           = 
+| dot_mapsize             = 
+| dot_map_base_alt        = 
+| dot_map_alt             = 
+| dot_map_caption         = 
+| dot_x                   = 
+| dot_y                   = 
+| pushpin_map             = <!-- name of a location map as per Template:Location_map -->
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_label           = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt         = 
+| pushpin_mapsize         = 
+| pushpin_map_caption     = 
+| pushpin_map1            = 
+| pushpin_label_position1 = 
+| pushpin_label1          = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt1        = 
+| pushpin_mapsize1        = 
+| pushpin_map_caption1    = 
+| coordinates             = {{coord|35|53|18|N|5|18|56|W|region:ES|format=dms|display=inline,title}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+| subdivision_type        = Улас
+| subdivision_name        = {{flagicon|Spain}} [[Испани]]
+| subdivision_type1       = [[Испаниин Автономито ниигэмлигүүд#Автономито хотонууд|Автономито хото]]
+| subdivision_name1       = Сеута
+| subdivision_type2       = 
+| subdivision_name2       = <!-- etc., subdivision_type6 / subdivision_name6 -->
+<!-- established --------------->
+| established_title       = Нэгэдэхи һуурин<!-- Settled -->
+| established_date        = МЭӨ{{nbsp}}1-р мянган
+| established_title2      = Испанида дамжуулһан<!-- Incorporated (town) -->
+| established_date2       = 1668 оной 1 һарын 1
+| established_title3      = Автономито статус<!-- Incorporated (city) -->
+| established_date3       = 1995 оной 3 һарын 14
+| established_title1      = Лалын засаглалай эсэс
+| established_date1       = 1415 оной 8 һарын 14
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| government_type         = Автономито хото
+| governing_body          = Засагай Газарай Зүблэл
+| leader_party            = [[Арадай Нам (Испани)|PP]]
+| leader_title            = [[Сеутагын Майор-Юрэнхылгэгшэ|Майор-Юрэнхылгэгшэ]]
+| leader_name             = [[Хуан Хесус Вивас]] <!-- add &nbsp; (no-break space) to disable automatic links -->
+| leader_title1           = 
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  --------->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area ---------------------->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_total_km2          = 18.5
+| elevation_m             = 10
+| population_as_of       = 2018
+| population_total       = 85,144
+| population_density_km2   = 4,600
+| population_rank          = 
+| population_demonyms       = Сеутачууд <br/> ''ceutí'' ([[Испани хэлэн|исп]])
+| population_note          = 
+| timezone1               = [[Европын Түб Саг|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Европын Түб Зунай Саг|CEST]]
+| utc_offset1_DST         = +2
+| postal_code_type        = [[ISO 3166 код]]<!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code             = ES-CE
+| postal2_code_type       = Почтын кодо<!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal2_code            = 51001–51005
+| blank1_name_sec1        = [[Албан ёһоной хэлэ]]
+| blank1_info_sec1        = [[Канарай Испани хэлэн|Испани]]
+| blank2_name_sec1        = Парламент
+| blank2_info_sec1        = [[Сеутагын Ассемблея]]
+| blank3_name_sec1        = [[Депутатын Конгресс (Испани)|Конгресс дэхи һуудал]]
+| blank3_info_sec1        = 1 (350-һаа)
+| blank4_name_sec1        = [[Испаниин Сенат|Сенат дахи һуудал]]
+| blank4_info_sec1        = 2 (264-һаа)
+| website                 = {{URL|http://www.ceuta.es/|www.ceuta.es}}<!-- {{URL|example.com}} -->
+| footnotes               = 
+}}
+
+'''Сеута''' ([[Испани хэлэн|Испани:]] Ceuta; [[Бербер хэлэнүүд|Бербер:]] Sebta; [[Араб хэлэн|Араб:]] سَبْتَة) болбол [[Африка|Африкын]] эрье шадар байрладаг [[Испани|Испаниин]] [[Испаниин Автономито ниигэмлигүүд#Автономито хотонууд|Автономито хото]] юм.
+
+[[Испани хэлэн|Испани хэлиинь]] албан ёһоной хэлэн юм. [[Марокко Араб хэл|Дарижа Араб хэлээр]] хүн зоной 40–50% харилсадаг.<ref>{{cite journal|url=https://www.um.es/tonosdigital/znum12/secciones/Estudios%20U-CEUTA.htm |author=Verónica Rivera |title=IMPORTANCIA Y VALORACIÓN SOCIOLINGÜÍSTICA DEL DARIJA EN EL CONTEXTO DE LA EDUCACIÓN SECUNDARIA PÚBLICA EN CEUTA |language=es |trans-title=Importance and Socio-Linguistic Valuation of Darija in the Context of Public Secondary Education in Ceuta |journal=Revista Electrónica de Estudios Filológicos |issue=12 |issn=1577-6921 |date=December 2006}}</ref><ref>{{Cite journal |volume=33 |issue=1 |year=2016 |pages=23–46 |journal=Revista de Filología Románica |issn=0212-999X |doi=10.5209/RFRM.55230 |publisher=Universidad Complutense de Madrid |title=Nacionalismo y representaciones lingüísticas en Ceuta y en Melilla |first=Alicia |location=Madrid |last=Fernández García|doi-access=free }}</ref>
