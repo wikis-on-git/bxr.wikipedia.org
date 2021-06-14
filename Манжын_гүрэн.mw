@@ -1,51 +1,101 @@
 : <span class="dablink">'' Дүтэрхы удхатай бусад үгүүлэлые баһа [[Манжа]]да үзээрэйгты.''</span>
-{{Түүхын улас
- |буряад_нэрэ                 = Ехэ Цин<br />{{mongolUnicode|ᠮᠠᠨᠵᠤ ᠤᠨ ᠴᠢᠨ ᠭᠦᠷᠦᠨ|v}}
- |уугуул_нэрэ             = 大清<br />[[File:Daicing gurun.svg|20px]]
- |статус                   = [[Эзэнтэ гүрэн]]
- |дуулал                     = 
- |туг                     = Flag of the Qing Dynasty (1889-1912).svg
- |тугай_бэшэлгэ           = 
- |һүлдэ                     = 
- |һүлдын_бэшэлгэ           = 
- |газарай_зураг                    = Empire of the Great Qing (orthographic projection).svg
- |хэмжээ                   = 
- |бэшэлгэ                 = Чин гүрэнэй газар
- |байгуулга               = 1644 
- |усадхалга            = 1911
- <!-- |type_before              = если этот параметр присутствует в шаблоне,
-то необходимо указать примерно следующее: «Государства-основатели»,
-иначе удалите его, автоматически будет указано: «Предшественники».-->
- |p1                     = Мин улас
- |flag_p1                  = Imperial seal of Ming dynasty.svg
- |image_p1                 = 
- <!-- |type_after               = если этот параметр присутствует в шаблоне,
-то необходимо указать примерно следующее: «Государства после распада…»,
-иначе удалите его, автоматически будет указано: «Преемники».-->
- |s1                     = Бүгэдэ Найрамдаха Хитад Улас
- |flag_s1                = Flag of China (1912–1928).svg
- |image_s1                 = 
- |s2                       = Монгол Улас (1911-21)
- |flag_s2                  = Flag of Mongolia (1911-1921).svg
- |image_s2                 = 
- |s3                       = Түбэд
- |flag_s3                  = Flag of Tibet 1920-1925.svg
- |image_s3                 = 
- |уряа                    = 
- |ниислэл                  = [[Мүгдэн]] <small>(1636–1644)</small><br/> [[Бээжин]] <small>(1644–1912)</small>
- |хотонууд                   = 
- |хэлэн                     = [[Манжын хэлэн|манжа]], [[Монгол хэлэн|монгол]], [[Хитад хэлэн|хитад]], [[Түбэд хэлэн|түбэд]]
- |мүнгэн_тэмдэгтэ                   = 
- |дополнительный_параметр  = 
- |содержимое_параметра     = 
- |газар_нютаг                  = 14,7 сая км² (1790 он)
- |хүн_ама                = 383 100 000
- |засаглалай_хэлбэри          = [[Эзэнтэ Хаанта улас]]
- |обог_удам                 = Айсингиоро
- |шажан                  = [[Буддын шажан]]<br/>[[күнзын һургаал]]<br/>[[бомбын шажан]]<br/>[[хитад арадай шажан]]<br/>[[бөө мүргэл]]
- |дополнительный_параметр1 = 
- |содержимое_параметра1    = 
-}}
+{{Инфобокс улас
+| native_name            = {{nobold|{{lang|zh-hant|大清|nocat=true}}}}<br />{{small|''Da Ching''}}<br/>{{ManchuSibeUnicode|lang=mnc|ᡩᠠᡳ᠌ᠴᡳᠩ<br />ᡤᡠᡵᡠᠨ|style=text-align:left}}
+| conventional_long_name = Great Qing
+| common_name            = Qing dynasty or Manchu dynasty
+| era                    = [[History of Asia#Late modern|Late modern]]
+| year_start             = 1636
+| date_start             = April
+| year_end               = 1912/1917
+| date_end               = 12 February
+| event_start            = Dynasty established
+| event_end              = [[Puyi#Abdication|Imperial monarchy abolished]]
+| event1                 = [[Qing conquest of the Ming|Conquest of Beijing]]
+| date_event1            = 1644
+| event2                 = {{nowrap|[[Dzungar–Qing Wars|Incorporated Dzungar]]}}
+| date_event2            = 1687–1759
+| event3                 = [[First Opium War|1st Opium War]]
+| date_event3            = 1839–1842
+| event4                 = [[Second Opium War|2nd Opium War]]
+| date_event4            = 1856–1860
+| event5                 = [[First Sino-Japanese War|Sino-Japanese War]]
+| date_event5            = 1894–1895
+| event6                 = [[Xinhai Revolution]]
+| date_event6            = 10 October 1911
+| event_pre              = [[Later Jin (1616–1636)|Later Jin]] rule
+| date_pre               = 1616–1636
+| p1                     = Later Jin (1616–1636){{!}}Later Jin
+| p2                     = Shun dynasty
+| p3                     = Southern Ming
+| p4                     = Dzungar Khanate
+| s1                     = Republic of China (1912–1949){{!}}Republic <br/> {{nowrap|of China}}
+| flag_s1                = Flag of China (1912–1928).svg
+| s2                     = Bogd Khanate of Mongolia{{!}}Bogd Khanate
+| flag_s2                = Flag of Bogd Khaanate Mongolia.svg
+| border_s2              = no
+| s3                     = Tibet (1912–1951){{!}}Tibet
+| flag_s3                = Flag of Tibet.svg
+| s4                     = Uryankhay Republic
+| flag_s4                = Flag of Uriankhai (1918-1921).svg
+| image_flag             = Flag of the Qing Dynasty (1889-1912).svg
+| flag_type              = [[Flag of the Qing dynasty|Flag]] (1889–1912)
+| flag_border            = no
+| image_coat             = Seal of Qing dynasty.svg
+| symbol                 = Heirloom Seal of the Realm
+| symbol_type            = Imperial seal
+| image_map              = Empire of the Great Qing (orthographic projection).svg
+| image_map_caption      = The Qing dynasty in 1890
+| anthem                 = [[Cup of Solid Gold|Gong Jin'ou]]"<br />({{Lang-en|"Cup of Solid Gold"}})<br />(1911–1912)<br />{{center|[[File:Gǒng Jīn'ōu.ogg]]}}
+| capital                = [[Shenyang|Mukden]]<br />(1636–1644)<br />[[Beijing|Peking]]<br />(1644–1912)
+| official_languages       = [[Хитад хэлэн|Хитад]], [[Манжа хэлэн|Манжа]], </br>[[Монгол хэлэн|Монгол]], [[Түбэд хэлэн|Түбэд]], </br>[[Цагадайн хэлэн|Цагадай]]
+| government_type        = [[Absolute monarchy]]
+| title_leader           = [[List of emperors of the Qing dynasty|Emperor]]
+| leader1                = [[Hong Taiji]] <small>(founder)</small>
+| year_leader1           = 1636–1643
+| leader2                = [[Shunzhi Emperor]] <small>(first in Peking)</small>
+| year_leader2           = 1644–1661
+| leader3                = [[Kangxi Emperor]] <small>(longest)</small>
+| year_leader3           = 1661–1722
+| leader4                = [[Yongzheng Emperor]]
+| year_leader4           = 1723–1735
+| leader5                = [[Qianlong Emperor]]
+| year_leader5           = 1736–1796
+| leader6                = [[Jiaqing Emperor]]
+| year_leader6           = 1796–1820
+| leader7                = [[Daoguang Emperor]]
+| year_leader7           = 1821–1850
+| leader8                = [[Xianfeng Emperor]]
+| year_leader8           = 1851–1861
+| leader9                = [[Tongzhi Emperor]]
+| year_leader9           = 1862–1875
+| leader10               = [[Guangxu Emperor]]
+| year_leader10          = 1875–1908
+| leader11               = [[Puyi|Xuantong Emperor]] <small>(last)</small>
+| year_leader11          = 1908–1912; 1917|
+| title_representative   = [[Regent]]
+| representative1        = [[Dorgon]], Prince Rui
+| representative2        = [[Zaifeng]], Prince Chun
+| year_representative1   = 1643–1650
+| year_representative2   = 1908–1911|
+| deputy1                = {{nowrap|[[Yikuang]], Prince Qing}}
+| deputy2                = [[Yuan Shikai]]
+| year_deputy1           = 1911
+| year_deputy2           = 1911–1912
+| title_deputy           = [[Prime Minister of the Imperial Cabinet|Prime Minister]]|
+| legislature            = None (1636-1910)<br>[[Advisory Council (Qing dynasty)|Advisory Council]] (1910-1912)           
+| religion               = [[Түбэдэй Буддын шажан]], </br>[[Хитад арадай шажан]], </br>[[Күнзын һургаал]], </br>[[Бомбын шажан]], </br>[[Лалын шажан]], </br>[[Бөө түргэл]], </br>[[Христосой шажан]]
+| stat_year1             = 1700
+| stat_area1             = 8800000
+| ref_area1              = <ref name="Taagepera1997p500">{{cite journal|author=Taagepera|first=Rein|author-link=Rein Taagepera|date=September 1997|title=Expansion and Contraction Patterns of Large Polities: Context for Russia|url=https://escholarship.org/content/qt3cn68807/qt3cn68807.pdf|url-status=live|journal=[[International Studies Quarterly]]|volume=41|issue=3|page=500|doi=10.1111/0020-8833.00053|jstor=2600793|archive-url=https://web.archive.org/web/20200707203055/https://escholarship.org/content/qt3cn68807/qt3cn68807.pdf|archive-date=2020-07-07|access-date=2020-07-24}}</ref>
+| stat_year2             = 1790
+| stat_area2             = 14700000
+| ref_area2              = <ref name="Taagepera1997p500" />
+| stat_year3             = 1860
+| stat_area3             = 13400000
+| ref_area3              = <ref name="Taagepera1997p500" />
+| currency               = [[Qing dynasty coinage|Cash]] (wén)<br />[[Tael]] (liǎng)<br />[[Paper money of the Qing dynasty|Paper money]]
+|demonym=|area_km2=|area_rank=|GDP_PPP=|GDP_PPP_year=|HDI=|HDI_year=|population_estimate=432 million (1912)}}
+
 '''Манжын Цин гүрэн''' ([[Файл:Daicing gurun.svg|12px]] ''дайчин гүрүн'', {{lang-zho|清朝}}, ''Цин чао'') — [[1644 он]]һоо [[1911 он]] хүрэтэр эдүгээгэй [[Хитад]], [[Монгол]], [[Тайвань|Тайваниие]] эрхэшээһэн [[Манжанууд|Манжа]] үндэһэтэнэй байгуулһан улас юм. Уласай нэрэ [[Манжа хэлэн|Манжа хэлээр]] ''Дайчин гүрүн'', [[Хитад хэлэн|хитад нанхяадаар]] ''Да Чин'' (大清) гэдэг байһаниинь «ехэ арюун» гэһэн удхатай үгэ юм.
 
 Энэ уласынь анхандаа [[Хойто Юань]] болон Нанхяадай [[Минь улас|Минб уласай]] тэмсэлые ашаглан гаража ерэһэн нүүдэлшэн арадай улас байһан болобошье анханай жэлнүүдһээ эхилэн хитаджаһан байна.
