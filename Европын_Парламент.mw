@@ -1,8 +1,9 @@
 {{Инфобокс хуули тогтоохо эмхидхэлгэ
 | background_color = #0C4DA2
-| name = European Parliament
+| name = Европын Парламент
 | native_name = {{Name in official languages
- | name = Name in official languages
+ | name = Нэрэ албан хэлэнүүдээр
+ | en = European Parliament
  | bg = Европейски парламент
  | hr = Europski parlament
  | cs = Evropský parlament
@@ -30,24 +31,24 @@
 }}
 | native_name_lang = 
 | transcription_name = 
-| legislature = [[Ninth European Parliament]]
+| legislature = <center>[[Юһэдэхи Европын Парламент|9-р Европарламент]]</center>
 | coa_pic = 
 | coa_res = 
 | coa_alt = 
 | coa_caption = 
-| logo_pic = European Parliament logo.svg
+| logo_pic = <center>[[File:European Parliament logo.svg|150px]]
 | logo_res = 
-| logo_alt = European Parliament logo
-| logo_caption = European Parliament logo
-| house_type = A house
+| logo_alt = Европын Парламентай лого</center>
+| logo_caption = Европын Парламентай лого
+| house_type = танхим
 | houses =
 | chambers =
-| body = European Union legislative procedure
-| jurisdiction = <!-- [[European Union]] -->
-| term_limits =none 
+| body = [[Европын Холбооны хуули тогтоохо процедур|Европын Холбооны </br>хуули тогтоохо </br>процедурын]]
+| jurisdiction = <!-- [[Европын холбоон]] -->
+| term_limits = 
 | foundation = {{Start date|1952|09|10|df=y}}
 | disbanded = <!--{{End date|YYYY|MM|DD}}-->
-| preceded_by = Common Assembly of the [[European Coal and Steel Community]]
+| preceded_by = [[Европын Нүүрһэн Буладай Ниигэмлэг|Европын Нүүрһэн </br>Буладай Ниигэмлэгэй]] </br>Нэгэдэһэн Хурал
 | succeeded_by = 
 | new_session = 
 | leader1_type = [[President of the European Parliament|President]]
@@ -97,8 +98,8 @@
   | '''[[European United Left–Nordic Green Left|GUE-NGL]]''': [[Manon Aubry]] & [[Martin Schirdewan]]
 }}
 | members = 705
-| structure1 = 2021 European Parliament.svg
-| structure1_res = 250px
+| structure1 = <center>[[File:2021 European Parliament.svg|250px]]</center>
+| structure1_res = 
 | structure1_alt = Political seats configuration for the 9th legislature of the European Parliament (2019-2024)
 | house1 = 
 | political_groups1 = {{Collapsible list|title = 8
@@ -146,27 +147,27 @@
   | [[Committee on International Trade|International Trade]]
 }}
 | joint_committees = 
-| term_length = 5 years
+| term_length = 5 жэл
 | authority = 
-| salary = {{Currency|8932.86|EUR}} {{Small|(gross per month)}}
+| salary = 	[[Евро|€]]8,932.86
 | seats1_title = 
 | seats1 = 
 | voting_system1 = 
-| first_election1 = [[1979 European Parliament election|7–10 June 1979]] 
-| last_election1 = [[2019 European Parliament election|23–26 May 2019]]
-| next_election1 = [[2024 European Parliament election|2024]]
+| first_election1 = [[1979 оной Европын Парламентай һонгуули|1979 оной 6 һарын 7–10]] 
+| last_election1 = [[2019 оной Европын Парламентай һонгуули|2019 оной 5 һарын 23–26]]
+| next_election1 = [[2024 оной Европын Парламентай һонгуули|2024]]
 | redistricting = 
-| motto = [[Motto of the European Union|United in diversity]]
-| session_room = <center>[[File:European Parliament Strasbourg Hemicycle - Diliff.jpg|200px]]</center>
+| motto = <center>''"[[Европын Холбооной уряа|United in diversity]]"''</center>
+| session_room = <center>[[File:European Parliament Strasbourg Hemicycle - Diliff.jpg|250px]]</center>
 | session_res = 
-| session_alt = European parliament hemicycle in Strasbourg, France
-| meeting_place = [[Seat of the European Parliament in Strasbourg|Louise Weiss]]: [[Strasbourg]], France
-| session_room2 = Hémycicle du Parlement européen (Bruxelles).JPG
+| session_alt = Франциин Страсбург дахи Европын Парламентын хахад круг
+| meeting_place = <center>[[Европын Парламентын Страсбург дахи һуудал|Louise Weiss]]: [[Страсбург]], Франци</center>
+| session_room2 = <center>[[File:Hémycicle du Parlement européen (Bruxelles).JPG|250px]]</center>
 | session_res2 = 
-| session_alt2 = European parliament hemicycle in Brussels, Belgium
-| meeting_place2 = [[Espace Léopold]]: [[Brussels]], Belgium
-| website = {{URL|https://www.europarl.europa.eu}}
-| constitution = [[Treaties of the European Union]]
+| session_alt2 = Бельгиин Брюссель дэхи Европын Парламентын хахад круг
+| meeting_place2 = <center>[[Espace Léopold]]: [[Брюссель]], Бельги</center>
+| website = <center>{{URL|https://www.europarl.europa.eu}}</center>
+| constitution = <center>[[Европын Холбооной Хэрээнүүд]]</center>
 | footnotes = 
 }}
 
