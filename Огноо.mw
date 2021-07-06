@@ -1,5 +1,50 @@
 '''Огноо''' ({{lang-ru|дата}}) — [[он жэл]], [[һара]], [[үдэр]] ба хэрэг ябадалай тухай лаблаһан [[саг]]; алибаа [[баримта бэшэг]] дээрэ тэрэнэй бэшэгдэһэн, үзэгдэһэн сагай тэмдэг.<ref name="Абашеев">{{cite book |author=Абашеев Д.А.|date=1941 |title=Военно-политическэ терминүүдэй хуряангы словарь |trans-title= |url= |url-status= |url-access= |format= |language=буряад |location=Улаан-Үдэ |publisher=Бурят-монгол гүрэнэй хэблэл |isbn= |pages=42}}</ref>
 
+== Огноо табиха хэлбэри ==
+{| class="standard"
+ ! №
+ ! width="120"| Огноо&nbsp;табиха хэлбэри
+ ! width="100"| Огноо табихын&nbsp;жэшээ<br>«2006 оной&nbsp;5 һарын 30» 
+ ! Ажаглалта
+|-
+|1
+|<code>ОООО-ҺҺ-ҮҮ</code>
+|2006-05-30
+|[[ISO 8601]]-дэ (ГОСТ ИСО 8601) таарамжатай
+|-
+| 2
+| <code>ҮҮ.ҺҺ.ОООО</code>
+| 30.05.2006
+| [[ГОСТ]] Р 7.0.97-2016 (п. 5.10) таарамжатай.
+|-
+| 3
+| <code>ҺҺ/ҮҮ/ОООО</code>
+| 5/30/2006
+| [[АНУ]]-да хэрэглэдэг<ref>{{cite web | url=ftp://ftp.software.ibm.com/software/globalization/locales/UnitedStates-English_Date.pdf | format=pdf | accessdate=2008-10-12 | title=Globalization Library — Locale Data: United States | publisher=IBM }} {{dead link}}</ref><ref>{{cite web|url=http://www.microsoft.com/globaldev/nlsweb/default.mspx?submitted=0409&OS=Windows%20Vista|publisher=Microsoft|accessdate=2009-02-08|title=NLS information page — English (United States)|deadlink=404}}</ref>, 2 хэлбэритэй һамаржа болохо.
+ |-
+ |4
+ |<code>ОООО.ҮҮ.ҺҺ</code>
+ |2006.30.05
+ |Хасаг хэлэнэй баримта бэшэгтэ хэрэглэдэг<ref name="adilet">[http://adilet.zan.kz/rus/docs/V1400010129/compare Об утверждении Типовых правил документирования и управления документацией в государственных и негосударственных организациях]</ref>.
+ |-
+ |5
+ | <math>\text{ОО}\frac{\text{ҮҮ}}{\text{Һ}}\text{ОО}</math>
+ | <math>20\frac{30}{V}06</math>
+ | 1960-аад он хүрэтэр [[СССР]]-дэ таараһан.
+ |-
+ |6
+ | <code>он долоон хоног</code>
+ | 0619<br>&nbsp;619
+ | Алибаа бүтэгдэхүүн маркировкалхада хэрэглэдэг (сахим түхеэрэмжэ, телефон, [[микросхемэ]]&nbsp;г.&nbsp;м.).
+ |}
+
+'''Тэмдэгүүд:'''
+: <code>ОООО</code> — оной 4 тоо
+: <code>ОО</code> — оной 2 тоо
+: <code>ҺҺ</code> — һарын 2 тоо
+: <code>Һ</code> — [[Римэйхи тоо]]гоор бэшэгдэһэн һарын тоо 
+: <code>ҮҮ</code> — үдэрэй 2 тоо
+
 == Зүүлтэ ==
 {{зүүлтэ}}
 
