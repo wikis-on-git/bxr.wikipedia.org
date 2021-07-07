@@ -1,0 +1,36 @@
+<section begin="pfizerauthmap"/>
+{{infobox|image={{Graph:Map|scale=50|defaultValue=gainsboro
+|AD=dodgerblue|AE=dodgerblue|AF=dodgerblue|AG=dodgerblue|AI=dodgerblue|AL=dodgerblue|AM=limegreen|AO=limegreen|AR=dodgerblue|AS=dodgerblue|AT=dodgerblue|AU=blueviolet|AW=dodgerblue|AZ=limegreen
+|BA=dodgerblue|BB=dodgerblue|BD=dodgerblue|BE=dodgerblue|BF=limegreen|BG=dodgerblue|BH=dodgerblue|BJ=limegreen|BM=dodgerblue|BN=limegreen|BO=dodgerblue|BQ=dodgerblue|BR=blueviolet|BS=dodgerblue|BT=dodgerblue|BW=dodgerblue|BZ=dodgerblue
+|CA=dodgerblue|CD=limegreen|CF=limegreen|CG=limegreen|CH=blueviolet|CI=limegreen|CK=dodgerblue|CL=dodgerblue|CM=limegreen|CO=dodgerblue|CR=dodgerblue|CV=dodgerblue|CW=dodgerblue|CY=dodgerblue|CZ=dodgerblue
+|DE=dodgerblue|DJ=limegreen|DK=dodgerblue|DM=dodgerblue|DO=limegreen|DZ=limegreen
+|EC=dodgerblue|EE=dodgerblue|EG=limegreen|ES=dodgerblue|ET=limegreen
+|FI=dodgerblue|FJ=limegreen|FM=dodgerblue|FO=dodgerblue|FR=dodgerblue
+|GB=dodgerblue|GD=dodgerblue|GE=dodgerblue|GH=limegreen|GI=dodgerblue|GL=dodgerblue|GM=limegreen|GN=dodgerblue|GP=dodgerblue|GR=dodgerblue|GT=dodgerblue|GU=dodgerblue|GY=dodgerblue
+|HK=dodgerblue|HN=dodgerblue|HR=dodgerblue|HT=dodgerblue|HU=dodgerblue
+|ID=limegreen|IE=dodgerblue
+|IL=dodgerblue|IM=dodgerblue|IN=limegreen|IQ=dodgerblue|IR=limegreen|IS=dodgerblue|IT=dodgerblue
+|JE=dodgerblue|JM=dodgerblue|JO=dodgerblue|JP=dodgerblue
+|KE=limegreen|KG=limegreen|KH=limegreen|KI=limegreen|KM=limegreen|KN=dodgerblue|KP=limegreen|KR=dodgerblue|KW=dodgerblue|KY=dodgerblue
+|LA=dodgerblue|LB=limegreen|LC=dodgerblue|LI=dodgerblue|LK=dodgerblue|LR=limegreen|LS=limegreen|LT=dodgerblue|LU=dodgerblue|LV=dodgerblue|LY=dodgerblue
+|MA=limegreen|MC=dodgerblue|MD=dodgerblue|ME=dodgerblue|MH=dodgerblue|MK=dodgerblue|ML=limegreen|MM=limegreen|MN=dodgerblue|MO=dodgerblue|MP=dodgerblue|MR=limegreen|MS=dodgerblue|MT=dodgerblue|MU=limegreen|MV=dodgerblue|MW=limegreen|MX=dodgerblue|MY=dodgerblue|MZ=limegreen
+|NA=limegreen|NC=dodgerblue|NE=limegreen|NG=limegreen|NI=limegreen|NL=dodgerblue|NO=dodgerblue|NP=limegreen|NR=limegreen|NU=dodgerblue|NZ=blueviolet
+|OM=dodgerblue
+|PA=dodgerblue|PE=dodgerblue|PF=dodgerblue|PG=limegreen|PH=dodgerblue|PK=dodgerblue|PL=dodgerblue|PR=dodgerblue|PS=dodgerblue|PT=dodgerblue|PW=dodgerblue|PY=limegreen
+|QA=dodgerblue
+|RO=dodgerblue|RS=dodgerblue|RW=dodgerblue
+|SA=blueviolet|SB=limegreen|SD=dodgerblue|SE=dodgerblue|SG=dodgerblue|SI=dodgerblue|SK=dodgerblue|SL=limegreen|SM=dodgerblue|SN=limegreen|SO=limegreen|SR=dodgerblue|SS=limegreen|ST=limegreen|SV=dodgerblue|SX=dodgerblue|SY=limegreen|SZ=limegreen
+|TC=dodgerblue|TD=limegreen|TG=limegreen|TH=dodgerblue|TJ=limegreen|TK=dodgerblue|TL=limegreen|TN=dodgerblue|TO=limegreen|TR=dodgerblue|TT=dodgerblue|TV=limegreen
+|UA=dodgerblue|UG=limegreen|US=dodgerblue|UY=dodgerblue|UZ=limegreen
+|VA=dodgerblue|VC=dodgerblue|VE=limegreen|VG=dodgerblue|VN=dodgerblue|VU=limegreen
+|WS=limegreen
+|XK=limegreen
+|YE=limegreen
+|ZA=dodgerblue|ZM=limegreen|ZW=limegreen
+}}
+|caption=
+{{leftlegend|blueviolet|Full authorization}}
+{{leftlegend|dodgerblue|Emergency authorization}}
+{{leftlegend|limegreen|Eligible [[COVAX]] recipient}}
+}}
+<section end="pfizerauthmap"/>
