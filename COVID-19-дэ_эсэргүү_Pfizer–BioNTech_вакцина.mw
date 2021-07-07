@@ -20,20 +20,20 @@ Pfizer–BioNTech COVID-19 вакциные COVID-19-һээ уридшалан �
 !Госпитализаци
 |-
 |Бусад эрьежэ байһан
-|{{good|{{Estimate|92|88|95|unit=%|mini=auto}}{{efn|name=nejm-effectiveness-israel|Surveillance study from {{nowrap|20 December 2020}} to {{nowrap|1 February 2021}} in Israel.<ref>{{cite journal |vauthors=Dagan N, Barda N, Kepten E, Miron O, Perchik S, Katz MA, Hernán MA, Lipsitch M, Reis B, Balicer RD |display-authors=6 |date=April 2021 |title=BNT162b2 mRNA Covid-19 Vaccine in a Nationwide Mass Vaccination Setting |journal=New England Journal of Medicine |volume=384 |issue=15 |at=Table 2 |doi=10.1056/NEJMoa2101765 |pmc=7944975 |pmid=33626250}}</ref> During this period, according to [[Nextstrain]], the dominant variant in Israel was lineage B.1.1.50 and the Alpha variant was becoming dominant.}}|align=left}}
-|{{good|{{Estimate|94|87|98|unit=%|mini=auto}}{{efn|name=nejm-effectiveness-israel}}|align=left}}
-|{{good|{{Estimate|87|55|100|unit=%|mini=auto}}{{efn|name=nejm-effectiveness-israel}}|align=left}}
-|{{good|{{Estimate|60|53|66|unit=%|mini=auto}}{{efn|name=nejm-effectiveness-israel}}|align=left}}
-|{{good|{{Estimate|66|57|73|unit=%|mini=auto}}{{efn|name=nejm-effectiveness-israel}}|align=left}}
-|{{good|{{Estimate|78|61|91|unit=%|mini=auto}}{{efn|name=nejm-effectiveness-israel}}|align=left}}
+|{{good|{{Estimate|92|88|95|unit=%|mini=auto}}<ref>{{cite journal |vauthors=Dagan N, Barda N, Kepten E, Miron O, Perchik S, Katz MA, Hernán MA, Lipsitch M, Reis B, Balicer RD |display-authors=6 |date=April 2021 |title=BNT162b2 mRNA Covid-19 Vaccine in a Nationwide Mass Vaccination Setting |journal=New England Journal of Medicine |volume=384 |issue=15 |at=Table 2 |doi=10.1056/NEJMoa2101765 |pmc=7944975 |pmid=33626250}}</ref>|align=left}}
+|{{good|{{Estimate|94|87|98|unit=%|mini=auto}}|align=left}}
+|{{good|{{Estimate|87|55|100|unit=%|mini=auto}}|align=left}}
+|{{good|{{Estimate|60|53|66|unit=%|mini=auto}}|align=left}}
+|{{good|{{Estimate|66|57|73|unit=%|mini=auto}}|align=left}}
+|{{good|{{Estimate|78|61|91|unit=%|mini=auto}}|align=left}}
 |-
-|[[SARS-CoV-2 Alpha variant|Альфа]]
+|[[SARS-CoV-2-ай Альфа хубилбари|Альфа]]
 |{{good|{{Estimate|90|86|92|unit=%|mini=auto}}<ref name=":2">{{cite journal |vauthors=Abu-Raddad LJ, Chemaitelly H, Butt AA |title=Effectiveness of the BNT162b2 Covid-19 Vaccine against the B.1.1.7 and B.1.351 Variants |at=Table 1 |journal=New England Journal of Medicine |date=5 May 2021 |pmid=33951357 |pmc=8117967 |doi=10.1056/NEJMc2104974 |doi-access=free |url=https://www.nejm.org/doi/full/10.1056/NEJMc2104974 }}</ref>|align=left}}
-|{{good|{{Estimate|93|90|96|unit=%|mini=yes}}{{efn|name=effectiveness-symptomatic|Preliminary data of effectiveness against symptomatic disease referenced by Public Health England.<ref>{{cite journal |vauthors=Bernal JL, Andrews N, Gower C, Gallagher E, Simmons R, Thelwall S, Stowe J, Tessier E, Groves N, Dabrera G, Myers R |display-authors=6 |date=2021-05-24 |title=Effectiveness of COVID-19 vaccines against the B.1.617.2 variant |at=Table 2 |url=https://www.medrxiv.org/content/10.1101/2021.05.22.21257658v1 |via=[[medRxiv]] |type=[[Preprint]] |doi=10.1101/2021.05.22.21257658}}</ref><ref name="briefing17">{{cite techreport |type=Briefing |title=SARS-CoV-2 variants of concern and variants under investigation in England, technical briefing 17 |id=GOV-8576 |institution=Public Health England |date=2021-06-25 |url=https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/996740/Variants_of_Concern_VOC_Technical_Briefing_17.pdf |format=PDF |access-date=2021-06-26}}</ref>}}|align=left}}
-|{{good|{{Estimate|95|78|99|unit=%|mini=auto}}{{efn|name=effectiveness-hospitalization}}|align=left}}
+|{{good|{{Estimate|93|90|96|unit=%|mini=yes}}<ref>{{cite journal |vauthors=Bernal JL, Andrews N, Gower C, Gallagher E, Simmons R, Thelwall S, Stowe J, Tessier E, Groves N, Dabrera G, Myers R |display-authors=6 |date=2021-05-24 |title=Effectiveness of COVID-19 vaccines against the B.1.617.2 variant |at=Table 2 |url=https://www.medrxiv.org/content/10.1101/2021.05.22.21257658v1 |via=[[medRxiv]] |type=[[Preprint]] |doi=10.1101/2021.05.22.21257658}}</ref><ref name="briefing17">{{cite techreport |type=Briefing |title=SARS-CoV-2 variants of concern and variants under investigation in England, technical briefing 17 |id=GOV-8576 |institution=Public Health England |date=2021-06-25 |url=https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/996740/Variants_of_Concern_VOC_Technical_Briefing_17.pdf |format=PDF |access-date=2021-06-26}}</ref>|align=left}}
+|{{good|{{Estimate|95|78|99|unit=%|mini=auto}}|align=left}}
 |{{Estimate|30|23|36|unit=%|mini=auto}}
 |{{Estimate|49|43|55|unit=%|mini=auto}}
-|{{good|{{Estimate|83|62|93|unit=%|mini=auto}}{{efn|name=effectiveness-hospitalization}}|align=left}}
+|{{good|{{Estimate|83|62|93|unit=%|mini=auto}}|align=left}}
 |-
 |[[SARS-CoV-2-ай Бета хубилбари|Бета]]
 |{{good|{{Estimate|75|71|79|unit=%|mini=auto}}<ref name=":2" />|align=left}}
@@ -53,11 +53,11 @@ Pfizer–BioNTech COVID-19 вакциные COVID-19-һээ уридшалан �
 |-
 |[[SARS-CoV-2-ай Дельта хубилбари|Дельта]]
 |{{good|{{Estimate|79|75|82|unit=%|mini=auto}}<ref name="effectiveness-scotland">{{cite journal |vauthors=Sheikh A, McMenamin J, Taylor B, Robertson C |date=2021-06-14 |title=SARS-CoV-2 Delta VOC in Scotland: demographics, risk of hospital admission, and vaccine effectiveness |at=Table S4 |url=https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01358-1/abstract |journal=The Lancet |doi=10.1016/S0140-6736(21)01358-1 |issn=0140-6736 |pmid=34139198|pmc=8201647 }}</ref>|align=left}}
-|{{good|{{Estimate|88|78|93|unit=%|mini=auto}}{{efn|name=effectiveness-symptomatic}}|align=left}}
-|{{good|{{Estimate|96|86|99|unit=%|mini=auto}}{{efn|name=effectiveness-hospitalization|Preliminary data of effectiveness against hospitalization referenced by Public Health England.<ref>{{cite techreport |type=[[Preprint]] |via=Knowledge Hub |vauthors=Stowe J, Andrews N, Gower C, Gallagher E, Utsi L, Simmons R, Thelwall S, Tessier E, Groves N, Dabrera G, Myers R, Campbell C, Amirthalingam G, Edmunds M, Zambon M, Brown K, Hopkins S, Chand M, Ramsay M, Bernal JL |display-authors=6 |title=Effectiveness of COVID-19 vaccines against hospital admission with the Delta (B.1.617.2) variant |at=Table 1 |institution=Public Health England |date=2021-06-14 |url=https://khub.net/documents/135939561/479607266/Effectiveness+of+COVID-19+vaccines+against+hospital+admission+with+the+Delta+%28B.1.617.2%29+variant.pdf/1c213463-3997-ed16-2a6f-14e5deb0b997?t=1623689315431}}</ref><ref name="briefing17"/>}}|align=left}}
+|{{good|{{Estimate|88|78|93|unit=%|mini=auto}}|align=left}}
+|{{good|{{Estimate|96|86|99|unit=%|mini=auto}}<ref>{{cite techreport |type=[[Preprint]] |via=Knowledge Hub |vauthors=Stowe J, Andrews N, Gower C, Gallagher E, Utsi L, Simmons R, Thelwall S, Tessier E, Groves N, Dabrera G, Myers R, Campbell C, Amirthalingam G, Edmunds M, Zambon M, Brown K, Hopkins S, Chand M, Ramsay M, Bernal JL |display-authors=6 |title=Effectiveness of COVID-19 vaccines against hospital admission with the Delta (B.1.617.2) variant |at=Table 1 |institution=Public Health England |date=2021-06-14 |url=https://khub.net/documents/135939561/479607266/Effectiveness+of+COVID-19+vaccines+against+hospital+admission+with+the+Delta+%28B.1.617.2%29+variant.pdf/1c213463-3997-ed16-2a6f-14e5deb0b997?t=1623689315431}}</ref><ref name="briefing17"/>|align=left}}
 |{{Estimate|30|17|41|unit=%|mini=auto}}
 |{{Estimate|33|8|51|unit=%|mini=auto}}
-|{{good|{{Estimate|94|46|99|unit=%|mini=auto}}{{efn|name=effectiveness-hospitalization}}|align=left}}
+|{{good|{{Estimate|94|46|99|unit=%|mini=auto}}|align=left}}
 |}
 
 == Зүүлтэ ==
