@@ -65,9 +65,8 @@ The 2020 Summer Olympic program featured 33 sports with 50 disciplines, and a to
  | gold_NOR = 1 | silver_NOR = 0 | bronze_NOR = 0 |
  | gold_PHI = 1 | silver_PHI = 0 | bronze_PHI = 0 | 
  | gold_THA = 1 | silver_THA = 0 | bronze_THA = 0 |
- 
  | gold_ESP = 0 | silver_ESP = 2 | bronze_ESP = 1 |  
- 
+ | gold_NZL = 0 | silver_NZL = 2 | bronze_NZL = 1 |
  | gold_RSA = 0 | silver_RSA = 2 | bronze_RSA = 0 |
  | gold_MGL = 0 | silver_MGL = 1 | bronze_MGL = 2 | 
  | gold_CZE = 0 | silver_CZE = 1 | bronze_CZE = 1 | 
@@ -90,7 +89,7 @@ The 2020 Summer Olympic program featured 33 sports with 50 disciplines, and a to
  | gold_CUB = 0 | silver_CUB = 0 | bronze_CUB = 1 | 
  | gold_ISR = 0 | silver_ISR = 0 | bronze_ISR = 1 |
  | gold_KUW = 0 | silver_KUW = 0 | bronze_KUW = 1 | 
- | gold_NZL = 0 | silver_NZL = 0 | bronze_NZL = 1 |
+ 
 }}</onlyinclude>
 
 ==See also==
