@@ -31,67 +31,76 @@ This is the table of the medal count of the [[2020 Summer Olympics]], based on t
  | flag_template  = flagIOCteam
  | event          = 2020 оной Зунай
  | team           = Команда
- | gold_JPN = 13 | silver_JPN = 4 | bronze_JPN = 5 | host_JPN = yes
- | gold_CHN = 12 | silver_CHN = 6 | bronze_CHN = 9 |
- | gold_USA = 10 | silver_USA = 11 | bronze_USA = 9 |
- | gold_ROC = 7 | silver_ROC = 8 | bronze_ROC = 6 |  
- | gold_AUS = 6 | silver_AUS = 1 | bronze_AUS = 9 |
- | gold_GBR = 5 | silver_GBR = 6 | bronze_GBR = 5 |
- | gold_KOR = 4 | silver_KOR = 2 | bronze_KOR = 5 |
- | gold_GER = 3 | silver_GER = 2 | bronze_GER = 5 |
- | gold_FRA = 3 | silver_FRA = 2 | bronze_FRA = 3 |
- | gold_NED = 2 | silver_NED = 6 | bronze_NED = 3 |
- | gold_CAN = 2 | silver_CAN = 3 | bronze_CAN = 4 |
- | gold_HUN = 2 | silver_HUN = 1 | bronze_HUN = 2 |
+ | gold_CHN = 19 | silver_CHN = 10 | bronze_CHN = 11 |
+ | gold_JPN = 17 | silver_JPN = 4 | bronze_JPN = 7 | host_JPN = yes
+ | gold_USA = 14 | silver_USA = 16 | bronze_USA = 11 |
+ | gold_ROC = 10 | silver_ROC = 14 | bronze_ROC = 10 | 
+ | gold_AUS = 9 | silver_AUS = 2 | bronze_AUS = 11 |
+ | gold_GBR = 6 | silver_GBR = 9 | bronze_GBR = 9 |
+ | gold_KOR = 5 | silver_KOR = 4 | bronze_KOR = 6 |
+ | gold_NED = 3 | silver_NED = 7 | bronze_NED = 5 |
+ | gold_GER = 3 | silver_GER = 4 | bronze_GER = 9 |  
+ | gold_FRA = 3 | silver_FRA = 5 | bronze_FRA = 5 |
+ | gold_ITA = 2 | silver_ITA = 7 | bronze_ITA = 11 |
+ | gold_CAN = 3 | silver_CAN = 3 | bronze_CAN = 5 |
+ | gold_NZL = 3 | silver_NZL = 3 | bronze_NZL = 2 |
+ | gold_CZE = 3 | silver_CZE = 2 | bronze_CZE = 1 | 
+ | gold_CRO = 3 | silver_CRO = 1 | bronze_CRO = 2 |
+ | gold_HUN = 2 | silver_HUN = 1 | bronze_HUN = 2 |  
  | gold_SLO = 2 | silver_SLO = 1 | bronze_SLO = 1 |
  | gold_KOS = 2 | silver_KOS = 0 | bronze_KOS = 0 | 
- | gold_ITA = 1 | silver_ITA = 6 | bronze_ITA = 8 |
- | gold_SUI = 1 | silver_SUI = 3 | bronze_SUI = 2 | 
- | gold_BRA = 1 | silver_BRA = 2 | bronze_BRA = 2 |
+ | gold_BRA = 1 | silver_BRA = 3 | bronze_BRA = 3 |
+ | gold_SUI = 1 | silver_SUI = 3 | bronze_SUI = 3 | 
+ | gold_GEO = 1 | silver_GEO = 3 | bronze_GEO = 0 |
+ | gold_ROU = 1 | silver_ROU = 3 | bronze_ROU = 0 |
  | gold_TPE = 1 | silver_TPE = 2 | bronze_TPE = 3 |
- | gold_GEO = 1 | silver_GEO = 2 | bronze_GEO = 0 |
- | gold_ROU = 1 | silver_ROU = 2 | bronze_ROU = 0 |
+ | gold_HKG = 1 | silver_HKG = 2 | bronze_HKG = 0 |
+ | gold_AUT = 1 | silver_AUT = 1 | bronze_AUT = 2 |
  | gold_SRB = 1 | silver_SRB = 1 | bronze_SRB = 2 |
- | gold_AUT = 1 | silver_AUT = 1 | bronze_AUT = 1 |
- | gold_HKG = 1 | silver_HKG = 1 | bronze_HKG = 0 |
- | gold_TUN = 1 | silver_TUN = 1 | bronze_TUN = 0 |  
- | gold_CRO = 1 | silver_CRO = 0 | bronze_CRO = 1 |
+ | gold_NOR = 1 | silver_NOR = 1 | bronze_NOR = 0 |
+ | gold_SVK = 1 | silver_SVK = 1 | bronze_SVK = 0 |
+ | gold_TUN = 1 | silver_TUN = 1 | bronze_TUN = 0 | 
  | gold_EST = 1 | silver_EST = 0 | bronze_EST = 1 | 
+ | gold_IRL = 1 | silver_IRL = 0 | bronze_IRL = 1 |  
  | gold_UZB = 1 | silver_UZB = 0 | bronze_UZB = 1 | 
  | gold_BER = 1 | silver_BER = 0 | bronze_BER = 0 |
  | gold_ECU = 1 | silver_ECU = 0 | bronze_ECU = 0 | 
+ | gold_ETH = 1 | silver_ETH = 0 | bronze_ETH = 0 | 
  | gold_FIJ = 1 | silver_FIJ = 0 | bronze_FIJ = 0 |
+ | gold_GRE = 1 | silver_GRE = 0 | bronze_GRE = 0 |
  | gold_IRI = 1 | silver_IRI = 0 | bronze_IRI = 0 |
- | gold_NOR = 1 | silver_NOR = 0 | bronze_NOR = 0 |
+ | gold_LAT = 1 | silver_LAT = 0 | bronze_LAT = 0 |
  | gold_PHI = 1 | silver_PHI = 0 | bronze_PHI = 0 | 
  | gold_THA = 1 | silver_THA = 0 | bronze_THA = 0 |
  | gold_ESP = 0 | silver_ESP = 2 | bronze_ESP = 1 |  
- | gold_NZL = 0 | silver_NZL = 2 | bronze_NZL = 1 |
- | gold_RSA = 0 | silver_RSA = 2 | bronze_RSA = 0 |
+ | gold_RSA = 1 | silver_RSA = 2 | bronze_RSA = 0 |
+ | gold_COL = 0 | silver_COL = 2 | bronze_COL = 1 | 
  | gold_INA = 0 | silver_INA = 1 | bronze_INA = 2 |
  | gold_MGL = 0 | silver_MGL = 1 | bronze_MGL = 2 | 
  | gold_BEL = 0 | silver_BEL = 1 | bronze_BEL = 1 |
- | gold_CZE = 0 | silver_CZE = 1 | bronze_CZE = 1 | 
+ | gold_CUB = 0 | silver_CUB = 1 | bronze_CUB = 1 |
+ | gold_DEN = 0 | silver_DEN = 1 | bronze_DEN = 1 |
+ | gold_UGA = 0 | silver_UGA = 1 | bronze_UGA = 1 |
  | gold_BUL = 0 | silver_BUL = 1 | bronze_BUL = 0 |
- | gold_COL = 0 | silver_COL = 1 | bronze_COL = 0 | 
- | gold_DEN = 0 | silver_DEN = 1 | bronze_DEN = 0 |
  | gold_MKD = 0 | silver_MKD = 1 | bronze_MKD = 0 |
  | gold_IND = 0 | silver_IND = 1 | bronze_IND = 0 |
  | gold_JOR = 0 | silver_JOR = 1 | bronze_JOR = 0 | 
  | gold_POL = 0 | silver_POL = 1 | bronze_POL = 0 |
  | gold_TKM = 0 | silver_TKM = 1 | bronze_TKM = 0 |
  | gold_VEN = 0 | silver_VEN = 1 | bronze_VEN = 0 |
+ | gold_UKR = 0 | silver_UKR = 0 | bronze_UKR = 4 |
  | gold_KAZ = 0 | silver_KAZ = 0 | bronze_KAZ = 3 | 
- | gold_UKR = 0 | silver_UKR = 0 | bronze_UKR = 3 |
  | gold_EGY = 0 | silver_EGY = 0 | bronze_EGY = 2 | 
  | gold_MEX = 0 | silver_MEX = 0 | bronze_MEX = 2 | 
  | gold_TUR = 0 | silver_TUR = 0 | bronze_TUR = 2 | 
  | gold_ARG = 0 | silver_ARG = 0 | bronze_ARG = 1 | 
+ | gold_AZE = 0 | silver_AZE = 0 | bronze_AZE = 1 | 
  | gold_CIV = 0 | silver_CIV = 0 | bronze_CIV = 1 | 
- | gold_CUB = 0 | silver_CUB = 0 | bronze_CUB = 1 | 
- | gold_IRL = 0 | silver_IRL = 0 | bronze_IRL = 1 | 
+ | gold_FIN = 0 | silver_FIN = 0 | bronze_FIN = 1 | 
  | gold_ISR = 0 | silver_ISR = 0 | bronze_ISR = 1 |
  | gold_KUW = 0 | silver_KUW = 0 | bronze_KUW = 1 | 
+ | gold_POR = 0 | silver_POR = 0 | bronze_POR = 1 | 
+ | gold_SMR = 0 | silver_SMR = 0 | bronze_SMR = 1 |
 }}</onlyinclude>
 
 ==See also==
