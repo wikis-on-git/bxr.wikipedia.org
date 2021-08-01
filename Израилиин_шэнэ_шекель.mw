@@ -1,7 +1,5 @@
 {{Инфобокс мүнгэн тэмдэгтэ
-| currency_name_in_local = {{plainlist|{{Nobold|
-*{{native name|he|{{Script/Hebrew|שקל חדש}}|italics=no}}
-*{{native name|ar|{{script/Arabic|شيكل جديد}}|italics=no}}}}}}
+| currency_name_in_local = {{Script/Hebrew|שקל חדש}} ([[Иврит]])</br>{{script/Arabic|شيكل جديد}} ([[Араб хэлэн|Араб]])
 | image_1 = File:השטרות החדשים של ישראל.jpg
 | image_title_1 = New shekel banknotes (Current Series C)
 | iso_code = ILS
