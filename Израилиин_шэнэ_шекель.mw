@@ -28,6 +28,159 @@
 
 Шэнэ шекелиин [[Валютын тэмдэг|валютын тэмдэгиинь]] ⟨ '''[[Шекелиин тэмдэг|₪]]''' ⟩ ''шекель'' ({{Script/Hebrew|[[ש]]}}) ба ''хадаш'' ({{Script/Hebrew|[[ח]]}}) (шэнэ) гэһэн үгэнүүдэй эхинэй [[Еврей бэшэг|Еврей үзэгнүүдэй]] тааралдал юм. Энэнь үмэниинь '''шэнэ Израилиин шекель''' гэжэ нэрлэгдэдэг байһан ба '''''NIS''''' ('''ש"ח'''‎ ба '''ش.ج'''‎) гэһэн албан ёһоной буһа хуряамжалагдаһан үгые дотоододоо үүные нэрлэхэ зорилгоор ашагладаг хэбээр байгаа ба [[Израилиин Банк|Израилиин Банкын]] вебсайт дээри гарадаг. Гэбэшье '''Израилиин шэнэ шекелиин''' уласхоорондын ''албан ёһоной'' валютын кодиинь [[ISO 4217]] стандартын дагуу [[Уласхоорондын Стандартизациин Байгуулга|Уласхоорондын Стандартизациин Байгуулгаһаа]] тогтооһониинь '''ILS''' юм.
 
+== Мүнгэнэй сэн ==
+[[Файл:Euro_exchange_rate_to_ILS.svg|мини|368x368пкс|The cost of one Euro in ILS (from 2011).]]
+{| class="wikitable" style="text-align:left; margin:1em auto 1em auto;"
+|+ILS валют бүри, жэлэй дундуур
+!Валюта
+![[ISO 4217]]
+!Единицэ
+!1986
+!1991
+!1996
+!2001
+!2006
+!2011
+!2016
+|-
+|[[United States dollar]]
+|USD
+|1
+|1.36
+|2.59
+|3.36
+|4.22
+|4.47
+|3.46
+|3.77
+|-
+|[[Soviet ruble]]
+|SUR<sup>1</sup>
+|1
+|1.80
+|4.61
+| bgcolor="#EEEFE4" |
+| bgcolor="#EEEFE4" |
+| bgcolor="#EEEFE4" |
+| bgcolor="#EEEFE4" |
+| bgcolor="#EEEFE4" |
+|-
+|[[Russian ruble]]
+|RUB
+|1
+| bgcolor="#EEEFE4" |
+| bgcolor="#EEEFE4" |
+|0.62
+|0.14
+|0.16
+|0.12
+|0.05
+|-
+|[[Japanese yen]]
+|JPY
+|100
+|0.81
+|1.87
+|3.16
+|3.42
+|4.00
+|4.27
+|3.44
+|-
+|[[Pound sterling]]
+|GBP
+|1
+|2.07
+|4.47
+|5.16
+|6.10
+|8.36
+|5.53
+|5.15
+|-
+|[[Deutsche Mark]]
+|DEM<sup>2</sup>
+|1
+|0.61
+|1.50
+|2.22
+| bgcolor="#EEEFE4" |''1.86''
+| bgcolor="#EEEFE4" |''2.89''
+| bgcolor="#EEEFE4" |''2.51''
+| bgcolor="#EEEFE4" |''2.17''
+|-
+|[[French franc]]
+|FRF<sup>3</sup>
+|1
+|0.19
+|0.44
+|0.65
+| bgcolor="#EEEFE4" |''0.55''
+| bgcolor="#EEEFE4" |''0.86''
+| bgcolor="#EEEFE4" |''0.75''
+| bgcolor="#EEEFE4" |''0.65''
+|-
+|[[Euro]]
+|EUR
+|1
+| bgcolor="#EEEFE4" |
+| bgcolor="#EEEFE4" |
+| bgcolor="#EEEFE4" |
+|3.63
+|5.65
+|4.91
+|4.25
+|-
+|[[Swiss franc]]
+|CHF
+|1
+|0.73
+|1.78
+|2.68
+|2.37
+|3.67
+|4.14
+|3.89
+|-
+|[[Jordanian dinar]]
+|JOD
+|1
+|4.25
+|3.34
+|4.50
+|5.89
+|6.44
+|4.81
+|5.32
+|-
+|[[Egyptian pound]]
+|EGP
+|1
+|2.12
+|0.72
+|0.94
+|1.07
+|0.77
+|0.57
+|0.42
+|-
+|[[Renminbi]]
+|CNY
+|1
+|0.39
+|0.47
+|0.39
+|0.50
+|0.55
+|0.55
+|0.58
+|-
+| colspan="10" |*<sup>1</sup> [[Soviet ruble|SUR]] ceased to exist after 1993, and was replaced by [[Russian ruble|RUB]].
+<nowiki>*</nowiki><sup>2</sup> [[Deutsche Mark|DEM]] ceased to exist after 1999, and was replaced by [[Euro|EUR]].
+<nowiki>*</nowiki><sup>3</sup> [[French franc|FRF]] ceased to exist after 1999, and was replaced by [[Euro|EUR]].
+|}
+{{Exchange rate|ILS|RUB|CNY|USD}}
+
 == Мүн үзэхэ ==
 
 * [[Израилиин Банк]]
