@@ -4,7 +4,7 @@
 | native_name             = {{collapsible list
   | titlestyle = background:transparent;text-align:center;line-height:normal;font-size;90%
   | title = 10 бусад албан нэрэнүүд<ref name="constitution">{{cite book|url=https://www.concourt.org.za/images/phocadownload/the_text/english-2013.pdf|title=The Constitution of the Republic of South Africa|publisher=Constitutional Court of South Africa|year=2013|edition=2013 English version}}</ref>
-  | {{Infobox
+  | <center>{{Infobox
  | subbox=yes
  | bodystyle=font-size:77%;font-weight:normal;
  | rowclass1 = mergedrow
@@ -37,7 +37,7 @@
  | rowclass10 = mergedrow
  | label10 = [[Урда Ндебеле хэлэн|Урда&nbsp;Ндебеле]]:
  | data10 = {{lang|nr|iRiphabliki yeSewula Afrika}}
-}}
+}}</center>
 }}
 | image_flag              = Flag of South Africa.svg
 | alt_flag=
