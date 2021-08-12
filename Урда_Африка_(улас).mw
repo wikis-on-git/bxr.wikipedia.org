@@ -140,10 +140,8 @@
 | DST_note=
 | time_zone_DST=
 | antipodes=
-| date_format             = Short formats:
-* yyyy/mm/dd<ref>{{Cite web|title=Data Source Comparison for en-ZA|url=https://www.localeplanet.com/compare/en-ZA/index.html|access-date=2021-05-05|website=www.localeplanet.com}}</ref>
-* yyyy-mm-dd<ref>{{Cite web|title=Data Source Comparison for af-ZA|url=https://www.localeplanet.com/compare/af-ZA/index.html|access-date=2021-05-05|website=www.localeplanet.com}}</ref>
-| drives_on               = [[Right- and left-hand traffic|left]]
+| date_format             = 
+| drives_on               = 
 | calling_code            = [[+27]]
 | iso3166code=ZA
 | cctld                   = [[.za]]
