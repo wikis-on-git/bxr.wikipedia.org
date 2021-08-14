@@ -4,7 +4,7 @@
 | native_name            = {{collapsible list
   |titlestyle = background:transparent;text-align:center;line-height:normal;font-size:85%;
   |title = Нэрэ үндэһэнэй хэлэнүүдээр
-| {{Infobox
+| <center>{{Infobox
 | subbox=yes
 | bodystyle=font-size:78%;font-weight:normal;
 | rowclass1 = mergedrow
@@ -31,7 +31,7 @@
 | rowclass8 = mergedrow 
 | label8 = [[Lozi language|siLozi]]:
 | data8  = {{lang|loz| Namibia ye Lukuluhile}}<ref>{{cite web |url=http://209.88.21.36/opencms/export/sites/default/grnnet/MLRR/DocArchive/Land-Reform/Communal_Land_Reform_Act_Lozi.pdf |title=Communal Land Reform Act, Lozi |publisher=Government of Namibia |access-date=18 February 2016 |archive-url=https://web.archive.org/web/20160225104949/http://209.88.21.36/opencms/export/sites/default/grnnet/MLRR/DocArchive/Land-Reform/Communal_Land_Reform_Act_Lozi.pdf |archive-date=25 February 2016 |url-status=dead}}</ref>
-}}
+}}</center>
 }}
 | image_flag           = Flag of Namibia.svg
 | image_coat           = Coat of arms of Namibia.svg
