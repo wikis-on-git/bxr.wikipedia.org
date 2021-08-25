@@ -1,8 +1,8 @@
 {{Инфобокс улас
 | name = {{collapsible list
   | titlestyle = background:transparent;line-height:normal;font-size:84%;
-  | title = <center>{{center|{{resize|1.25em|Европын Холбоон}}}}
-  | {{Infobox |subbox=yes |bodystyle=font-size:76%;font-weight:normal;
+  | title = {{center|{{resize|1.25em|Европын Холбоон}}}}
+  | <center>{{Infobox |subbox=yes |bodystyle=font-size:76%;font-weight:normal;
    | rowclass1 = mergedrow |label1=[[Bulgarian language|Bulgarian]]:|data1={{lang|bg| Европейски съюз}}
    | rowclass2 = mergedrow |label2=[[Croatian language|Croatian]]:|data2={{lang|hr|Europska unija}}
    | rowclass3 = mergedrow |label3=[[Czech language|Czech]]: |data3={{lang|cs|Evropská unie}}
