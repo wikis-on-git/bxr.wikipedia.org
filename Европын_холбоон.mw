@@ -1,3 +1,250 @@
+{{Инфобокс улас
+| name = {{collapsible list
+  | titlestyle = background:transparent;line-height:normal;font-size:84%;
+  | title = {{center|{{resize|1.25em|European Union}}}}
+  | {{Infobox |subbox=yes |bodystyle=font-size:76%;font-weight:normal;
+   | rowclass1 = mergedrow |label1=[[Bulgarian language|Bulgarian]]:|data1={{lang|bg| Европейски съюз}}
+   | rowclass2 = mergedrow |label2=[[Croatian language|Croatian]]:|data2={{lang|hr|Europska unija}}
+   | rowclass3 = mergedrow |label3=[[Czech language|Czech]]: |data3={{lang|cs|Evropská unie}}
+   | rowclass4 = mergedrow |label4=[[Danish language|Danish]]: |data4={{lang|da|Den Europæiske Union}}
+   | rowclass5 = mergedrow |label5=[[Dutch language|Dutch]]: |data5={{lang|nl|Europese Unie}}
+   | rowclass6 = mergedrow |label6=[[Estonian language|Estonian]]: |data6={{lang|et|Euroopa Liit}}
+   | rowclass7 = mergedrow |label7=[[Finnish language|Finnish]]: |data7={{lang|fi|Euroopan unioni}}
+   | rowclass8 = mergedrow |label8=[[French language|French]]: |data8={{lang|fr|Union européenne}}
+   | rowclass9 = mergedrow |label9=[[German language|German]]: |data9={{lang|de|Europäische Union}}
+   | rowclass10 = mergedrow |label10=[[Greek language|Greek]]: |data10={{lang|el|Ευρωπαϊκή Ένωση}}
+   | rowclass11 = mergedrow |label11=[[Hungarian language|Hungarian]]: |data11={{lang|hu|Európai Unió}}
+   | rowclass12 = mergedrow |label12=[[Irish language|Irish]]: |data12={{lang|ga|An tAontas Eorpach}}
+   | rowclass13 = mergedrow |label13=[[Italian language|Italian]]: |data13={{lang|it|Unione europea}}
+   | rowclass14 = mergedrow |label14=[[Latvian language|Latvian]]: |data14={{lang|lv|Eiropas Savienība}}
+   | rowclass15 = mergedrow |label15=[[Lithuanian language|Lithuanian]]: |data15={{lang|lt|Europos Sąjunga}}
+   | rowclass16 = mergedrow |label16=[[Maltese language|Maltese]]: |data16={{lang|mt|Unjoni Ewropea}}
+   | rowclass17 = mergedrow |label17=[[Polish language|Polish]]: |data17={{lang|pl|Unia Europejska}}
+   | rowclass18 = mergedrow |label18=[[Portuguese language|Portuguese]]: |data18={{lang|pt|União Europeia}}
+   | rowclass19 = mergedrow |label19=[[Romanian language|Romanian]]: |data19={{lang|ro|Uniunea Europeană}}
+   | rowclass20 = mergedrow |label20=[[Slovak language|Slovak]]: |data20={{lang|sk|Európska únia}}
+   | rowclass21 = mergedrow |label21=[[Slovene language|Slovene]]: |data21={{lang|sl|Evropska unija}}
+   | rowclass22 = mergedrow |label22=[[Spanish language|Spanish]]: |data22={{lang|es|Unión Europea}}
+   | rowclass23 = mergedrow |label23=[[Swedish language|Swedish]]: |data23={{lang|sv|Europeiska unionen}}
+  }}
+  }}
+| linking_name = Europe
+| image_flag = Flag of Europe.svg
+| alt_flag = Circle of 12 gold stars on a blue background
+| flag_border = no
+| year_start = <!-- {{Start date and age|1958}} -->
+| year_end =
+| symbol_type = <!-- Symbol, Emblem, Logo, etc. -->
+| image_symbol = <!-- Symbol image's filename -->
+| alt_symbol = <!-- alt text for symbol -->
+| symbol_width = <!-- Symbol image's width (default 85px) -->
+| motto = {{Native phrase|la|"[[Motto of the European Union|In Varietate Concordia]]"|nbsp=omit|nolink=on|italics=off|parensize=90%}}
+| englishmotto = "United in Diversity"
+| anthem = "[[Anthem of Europe]]" (instrumental) {{Align|center|[[File:Anthem of Europe (US Navy instrumental short version).ogg]]|style=margin-top:0.4em}}
+| text_symbol_type =  <!-- for other types of text symbol -->
+| text_symbol =       <!-- e.g. ''[hymn name]'' -->
+| image_map = {{Switcher|[[File:Global European Union.svg|frameless]]|Show main EU territory (within [[Europe]])|[[File:Special member state territories and the European Union.svg|upright=1.15|frameless]]|Show the whole EU with its [[Special member state territories and the European Union|special territories]]|default=1}}
+| loctext = <!-- text description of location of organization -->
+| alt_map = Globe projection with the EU in green
+| map_width =         <!-- Map image's width (default 250px) -->
+| map_caption = 
+| admin_center_type = [[Institutional seats of the European Union|Institutional seats]]
+| admin_center =
+[[Brussels]]
+*[[European Commission|Commission]]
+*[[European Council]] <!-- Do not shorten to "Council". That is the official title of the Council of the EU in the treaties, so its confusing. -->
+*[[Council of the European Union|Council of the EU]]
+*[[European Parliament|Parliament]] (secondary seat)
+[[Frankfurt]]
+*[[European Central Bank|Central Bank]]
+[[Luxembourg City]]
+*[[European Court of Auditors|Court of Auditors]] 
+*[[Court of Justice of the European Union]]
+*[[Council of the European Union|Council of the EU]] (for the months of April, June and October)
+*[[Secretariat of the European Parliament|Secretariat of the Parliament]]
+*[[European Commission|Commission]] (various departments and services)
+[[Strasbourg]]
+*Parliament (official seat)
+| largest_settlement_type = [[metropolis]]
+| largest_settlement = [[Paris metropolitan area|Paris]] <!-- if the parameter is metropolis, then link to the article about the metropolitan area. If the parameter is municipality, then Berlin is largest, not Paris -->
+| official_languages = {{Collapsible list
+  | framestyle = text-align:left;border:0;padding:0;line-height:16px;
+  | titlestyle = background:transparent;text-align:left;font-weight:normal;
+  | title = [[Languages of the European Union|24 languages]]{{efn|The 24 languages are equally official and accepted as working languages. Three of them – English, French and German – have the higher status of ''procedural languages'' and are used in the day-to-day workings of the European institutions.<ref name="procedural">{{cite web|url=http://europa.eu/rapid/press-release_MEMO-13-825_en.htm|title=European Commission – Frequently asked questions on languages in Europe|website=europa.eu}}</ref>}}
+  | [[Bulgarian language|Bulgarian]]
+  | [[Croatian language|Croatian]]
+  | [[Czech language|Czech]]
+  | [[Danish language|Danish]]
+  | [[Dutch language|Dutch]]
+  | [[English language|English]]
+  | [[Estonian language|Estonian]]
+  | [[Finnish language|Finnish]]
+  | [[French language|French]]
+  | [[German language|German]]
+  | [[Greek language|Greek]]
+  | [[Hungarian language|Hungarian]]
+  | [[Irish language|Irish]]
+  | [[Italian language|Italian]]
+  | [[Latvian language|Latvian]]
+  | [[Lithuanian language|Lithuanian]]
+  | [[Maltese language|Maltese]]
+  | [[Polish language|Polish]]
+  | [[Portuguese language|Portuguese]]
+  | [[Romanian language|Romanian]]
+  | [[Slovak language|Slovak]]
+  | [[Slovene language|Slovene]]
+  | [[Spanish language|Spanish]]
+  | [[Swedish language|Swedish]]
+  }}
+| national_languages = <!-- Country/territory-wide languages recognised but not necessarily in country/territory-wide law, etc -->
+| regional_languages = <!-- Languages recognised or associated with particular regions within the country/territory -->
+| languages_type = Official scripts
+| languages = {{Hlist
+  | [[Latin script|Latin]]
+  | [[Greek alphabet|Greek]]
+  | [[Cyrillic alphabet|Cyrillic]]<ref name="auto">{{cite web|url=http://europa.eu/rapid/press-release_SPEECH-07-330_en.pdf|title=Cyrillic, the third official alphabet of the EU, was created by a truly multilingual European|date=24 May 2007|website=europe.eu|author1=Leonard Orban|access-date=3 August 2014}}</ref>
+  }}
+| languages_sub = <!-- Is this further type of language a sub-item of the previous non-sub type? ("yes" or "no") -->
+| languages2_type = <!-- Another further type of language -->
+| languages2 = <!-- Languages of this second further type -->
+| languages2_sub = <!-- Is the second alternative type of languages a sub-item of the previous non-sub type? ("yes" or "no") -->
+| ethnic_groups = <!-- List/breakdown of ethnic groups within the country/territory -->
+| ethnic_groups_year = <!-- Year of ethnic groups data (if provided) -->
+| ethnic_groups_ref = <!-- (for any ref/s to associate with ethnic groups data) -->
+| religion = {{Unbulleted list
+  | style=white-space:nowrap;line-height:16px;
+  | 71.6% [[Christianity in Europe|Christianity]]
+    | —45.3% [[Catholic Church in Europe|Catholic]]
+    | —11.1% [[Protestantism in Europe|Protestant]]
+    | —9.6% [[Eastern Orthodoxy in Europe|Eastern Orthodox]]
+    | —5.6% Other [[List of Christian denominations|Christian]]
+ | 24% [[Irreligion in Europe|No religion]]
+ | 1.8% [[Islam in Europe|Islam]]
+ | 2.6% [[Religion in the European Union|Others]]
+ }}
+| religion_year = 2015
+| religion_ref = <ref name="EB2015">{{cite web |title=DISCRIMINATION IN THE EU IN 2015|work=[[Eurobarometer|Special Eurobarometer]] |year=2015 |series=437 |url=http://zacat.gesis.org/webview/index.jsp?headers=http%3A%2F%2F193.175.238.79%3A80%2Fobj%2FfVariable%2FZA6595_V355&V355slice=1&previousmode=table&stubs=http%3A%2F%2F193.175.238.79%3A80%2Fobj%2FfVariable%2FZA6595_V10&weights=http%3A%2F%2F193.175.238.79%3A80%2Fobj%2FfVariable%2FZA6595_V42&analysismode=table&study=http%3A%2F%2F193.175.238.79%3A80%2Fobj%2FfStudy%2FZA6595&tabcontenttype=row&gs=362&V10slice=1&mode=table&top=yess |access-date=15 October 2017|publisher=[[European Commission]] |location=European Union|via=[[GESIS – Leibniz Institute for the Social Sciences|GESIS]]}}</ref>
+| demonym = [[Citizenship of the European Union|European]]
+| org_type = [[Supranational union]]
+| membership_type = [[Member state of the European Union|Member states]]
+| membership = {{Collapsible list
+  | framestyle = text-align:left;border:0;padding:0;line-height:16px;white-space:nowrap;
+  | titlestyle = background:transparent;text-align:left;font-weight:normal;
+  | title = [[Member state of the European Union|27 states]]
+  | {{Flaglist|Austria}}
+  | {{Flaglist|Belgium}}
+  | {{Flaglist|Bulgaria}}
+  | {{Flaglist|Croatia}}
+  | {{Flaglist|Cyprus}}
+  | {{Flaglist|Czech Republic}}
+  | {{Flaglist|Denmark}}
+  | {{Flaglist|Estonia}}
+  | {{Flaglist|Finland}}
+  | {{Flaglist|France}}
+  | {{Flaglist|Germany}}
+  | {{Flaglist|Greece}}
+  | {{Flaglist|Hungary}}
+  | {{Flaglist|Ireland}}
+  | {{Flaglist|Italy}}
+  | {{Flaglist|Latvia}}
+  | {{Flaglist|Lithuania}}
+  | {{Flaglist|Luxembourg}}
+  | {{Flaglist|Malta}}
+  | {{Flaglist|Netherlands}}
+  | {{Flaglist|Poland}}
+  | {{Flaglist|Portugal}}
+  | {{Flaglist|Romania}}
+  | {{Flaglist|Slovakia}}
+  | {{Flaglist|Slovenia}}
+  | {{Flaglist|Spain}}
+  | {{Flaglist|Sweden}}
+  }}
+| government_type = [[intergovernmentalism|Intergovernmental]]<!-- PLEASE DO NOT change this to say the European Union is a "Staatenverbund." The term is only recognized by the German Federal Constitutional Court. No EU institution and none of the other 26 Member States has been using this term in a legal document. -->
+| leader_title1 = [[President of the European Commission|President of the Commission]]
+| leader_name1 = [[Ursula von der Leyen]]
+| leader_title2  = [[President of the European Parliament|President of the Parliament]]
+| leader_name2 = [[David Sassoli]]
+| leader_title3 = [[President of the European Council|President of the European Council]]<!-- Do not shorten to "Council". That is the official title of the Council of the EU in the treaties, so its confusing. -->
+| leader_name3 = [[Charles Michel]]
+| leader_title4 = [[Presidency of the Council of the European Union|Presidency of the Council of the EU]]
+| leader_name4 = {{Flag|Slovenia}}
+| sovereignty_type = [[History of the European Union|Formation]]<ref>Current Article 1 of the [[Treaty of Maastricht|Treaty on European Union]] reads: "The Union shall be founded on the present Treaty and on the [[Treaty of Rome|Treaty on the Functioning of the European Union]]. Those [[Treaties of the EU|two Treaties]] shall have the same legal value. The Union shall replace and succeed the [[European Community]]".</ref>
+| sovereignty_note = 
+| established_event1 = [[Treaty of Rome]]
+| established_date1 = 1 January 1958
+| established_event2 = [[Single European Act]]
+| established_date2 = 1 July 1987
+| established_event3 = <span style=white-space:nowrap;>[[Maastricht Treaty|Treaty of Maastricht]]</span><!-- NOTE: [[Template:Nowrap]] is ignored on mobile. -->
+| established_date3 = 1 November 1993
+| established_event4 = [[Treaty of Lisbon]]
+| established_date4 = 1 December 2009
+| established_event5 = [[2013 enlargement of the European Union|Last polity admitted]]
+| established_date5 = 1 July 2013 ([[Croatia]])
+| established_event6 = {{nowrap|[[Brexit|Last polity withdrawn]]}}
+| established_date6 = 31 January 2020 ([[United Kingdom]])
+| area =               <!-- Major area size (in [[Template:convert]] either km2 or sqmi first) -->
+| area_km2 = 4,233,262<!-- Do not remove per [[WP:MOSNUM]] -->
+| area_sq_mi = {{Convert|4,233,262|km2|sqmi|disp=number}}<!-- Do not remove per [[WP:MOSNUM]] -->
+| area_footnote =      <!-- Optional footnote for area -->
+| percent_water = 3.08
+| area_label = Total
+| area_label2 = <!-- Label below area_label (optional) -->
+| area_data2 = <!-- Text after area_label2 (optional) -->
+| population_estimate = {{Decrease}} 447,706,209<ref>[https://ec.europa.eu/eurostat/databrowser/view/tps00001/default/table?lang=en]</ref>
+| population_estimate_rank = 
+| population_estimate_year = 2020
+| population_census = 
+| population_census_year = 
+| population_density_km2 = 106<!-- 447,706,209 / 4,233,262km2 = 106 people/km2 (1 February 2019) -->
+| population_density_sq_mi = 307.5<!-- 4,233,262 / 1,669,807sq_mi = 307.5 people/sq_mi (1 January 2019) -->
+| population_density_rank = 
+| GDP_PPP = {{Increase}} $20.918{{nbsp}}trillion<ref name="GDP"/>
+| GDP_PPP_rank = 
+| GDP_PPP_year = 2021
+| GDP_PPP_per_capita = $46,888<!-- GDP/population -->
+| GDP_PPP_per_capita_rank = <!-- 18th -->
+| GDP_nominal = {{Increase}} $17.128{{nbsp}}trillion<ref name="GDP">{{cite web |title=World Economic Outlook Database, April 2021 (EU countries)|url=https://www.imf.org/en/Publications/WEO/weo-database/2021/April/weo-report?a=1&c=998,&s=NGDPD,PPPGDP,PPPPC,&sy=2019&ey=2026&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |website=IMF.org |publisher=International Monetary Fund |access-date=13 May 2021}}</ref>
+| GDP_nominal_rank = 
+| GDP_nominal_year = 2021
+| GDP_nominal_per_capita = $38,256<!-- GDP/population -->
+| GDP_nominal_per_capita_rank = <!-- 15th -->
+| Gini = 30.2
+| Gini_change = decrease<!-- increase/decrease/steady; rank change from previous year -->
+| Gini_year = 2019
+| Gini_rank = <!-- 16th -->
+| Gini_ref = <ref name=eurogini>{{cite web |url=https://ec.europa.eu/eurostat/databrowser/view/tessi190/default/table?lang=en |title=Gini coefficient of equivalised disposable income – EU-SILC survey|publisher=[[Eurostat]] |website=ec.europa.eu |access-date=10 August 2021}}</ref>
+| HDI = 0.911
+| HDI_change = increase<!-- increase/decrease/steady; rank change from previous year -->
+| HDI_year = 2019
+| HDI_rank = 14th
+| HDI_ref = <ref name="MLT">{{cite web|url=http://hdr.undp.org/sites/all/themes/hdr_theme/country-notes/MLT.pdf |title= Inequalities in Human Development in the 21st Century|publisher=Human Development Report|page=5}}</ref>
+|currency = [[Euro]] ([[ISO 4217|EUR]]; [[€]]; in [[eurozone]]) and {{Collapsible list
+  | framestyle = text-align:left;border:0;padding:0;line-height:16px;
+  | titlestyle = background:transparent;text-align:left;font-weight:normal;
+  | title = 9 others
+  | [[Bulgarian lev|Lev]] (BGN; Bulgaria)
+  | [[Czech koruna|Koruna]] (CZK; Czech Republic)
+  | [[Danish krone|Krone]] (DKK; Denmark)
+  | [[Croatian kuna|Kuna]] (HRK; Croatia)
+  | [[Hungarian forint|Forint]] (HUF; Hungary)
+  | [[Polish złoty|Złoty]] (PLN; Poland)
+  | [[Romanian leu|Leu]] (RON; Romania)
+  | [[Swedish krona|Krona]] (SEK; Sweden)
+  | [[Swiss franc]] (CHF; Campione d'Italia, Italy)
+  }}
+| currency_code = 
+| time_zone = [[Western European Time|WET]], [[Central European Time|CET]], [[Eastern European Time|EET]]
+| utc_offset = <!-- NOTE:No offset -->&nbsp;to&nbsp;UTC+2
+| time_zone_DST = [[Western European Summer Time|WEST]], [[Central European Summer Time|CEST]], [[Eastern European Summer Time|EEST]]
+| utc_offset_DST = +1&nbsp;to&nbsp;UTC+3
+| DST_note = ''(see also [[Summer Time in Europe]])''{{efn|With the exception of the [[Canary Islands]] and [[Madeira]], the [[Special member state territories and the European Union#Outermost regions|outermost regions]] observe different time zones not shown: [[Martinique]], [[Guadeloupe]], [[Collectivity of Saint Martin|Saint Martin]] (UTC−4); [[French Guiana]] (UTC−3); [[Azores]] (UTC−1 / UTC); [[Mayotte]] (UTC+3); and [[La Réunion]] (UTC+4); which, other than the Azores, do not observe DST.}}
+| cctld = [[.eu]]{{efn|.eu is representative of the whole of the EU; member states also have their own TLDs.}}
+| iso3166code = <!-- ISO code only; no extra text. Use to override default from common_name parameter above; omit using "omit". -->
+| image_map3 = <!-- Optional third map position, e.g. for use with reference to footnotes below it -->
+| alt_map3 = <!-- alt text for third map position -->
+| footnote_a = <!-- For any footnote <sup>a</sup> used above -->
+| official_website = {{URL|europa.eu}}
+|area_rank=|today=}}
 {{Улас
 |буряад_нэрэ         = '''Европын холбоо'''
 |уугуул_нэрэ  = 
