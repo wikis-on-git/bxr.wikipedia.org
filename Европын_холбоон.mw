@@ -234,10 +234,10 @@
   }}
 | currency_code = 
 | time_zone = [[Western European Time|WET]], [[Central European Time|CET]], [[Eastern European Time|EET]]
-| utc_offset = <!-- NOTE:No offset -->&nbsp;to&nbsp;UTC+2
+| utc_offset = <!-- NOTE:No offset -->&nbsp;-&nbsp;UTC+2
 | time_zone_DST = [[Western European Summer Time|WEST]], [[Central European Summer Time|CEST]], [[Eastern European Summer Time|EEST]]
-| utc_offset_DST = +1&nbsp;to&nbsp;UTC+3
-| DST_note = ''(see also [[Summer Time in Europe]])''{{efn|With the exception of the [[Canary Islands]] and [[Madeira]], the [[Special member state territories and the European Union#Outermost regions|outermost regions]] observe different time zones not shown: [[Martinique]], [[Guadeloupe]], [[Collectivity of Saint Martin|Saint Martin]] (UTC−4); [[French Guiana]] (UTC−3); [[Azores]] (UTC−1 / UTC); [[Mayotte]] (UTC+3); and [[La Réunion]] (UTC+4); which, other than the Azores, do not observe DST.}}
+| utc_offset_DST = +1&nbsp;-&nbsp;UTC+3
+| DST_note = 
 | cctld = [[.eu]]{{efn|.eu is representative of the whole of the EU; member states also have their own TLDs.}}
 | iso3166code = <!-- ISO code only; no extra text. Use to override default from common_name parameter above; omit using "omit". -->
 | image_map3 = <!-- Optional third map position, e.g. for use with reference to footnotes below it -->
