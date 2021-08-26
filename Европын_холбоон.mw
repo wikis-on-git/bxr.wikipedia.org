@@ -233,9 +233,9 @@
   | [[Swiss franc]] (CHF; Campione d'Italia, Italy)
   }}
 | currency_code = 
-| time_zone = [[Баруун Европын Саг|WET]], [[Түб Европын Саг|CET]], [[Зүүн Европын Саг|EET]]
+| time_zone = [[Баруун Европын Саг|WET]], </br>[[Түб Европын Саг|CET]], [[Зүүн Европын Саг|EET]]
 | utc_offset = <!-- NOTE:No offset -->&nbsp;-&nbsp;UTC+2
-| time_zone_DST = [[Western European Summer Time|WEST]], [[Central European Summer Time|CEST]], [[Eastern European Summer Time|EEST]]
+| time_zone_DST = [[Баруун Европын Зунай Саг|WEST]], [[Түб Европын Зунай Саг|CEST]], [[Зүүн Европын Зунай Саг|EEST]]
 | utc_offset_DST = +1&nbsp;-&nbsp;UTC+3</br>
 | DST_note = 
 | cctld = [[.eu]]{{efn|.eu is representative of the whole of the EU; member states also have their own TLDs.}}
