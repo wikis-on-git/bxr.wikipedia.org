@@ -233,10 +233,10 @@
   | [[Swiss franc]] (CHF; Campione d'Italia, Italy)
   }}
 | currency_code = 
-| time_zone = [[Western European Time|WET]], [[Central European Time|CET]], [[Eastern European Time|EET]]
+| time_zone = [[Баруун Европын Саг|WET]], [[Түб Европын Саг|CET]], [[Зүүн Европын Саг|EET]]
 | utc_offset = <!-- NOTE:No offset -->&nbsp;-&nbsp;UTC+2
 | time_zone_DST = [[Western European Summer Time|WEST]], [[Central European Summer Time|CEST]], [[Eastern European Summer Time|EEST]]
-| utc_offset_DST = +1&nbsp;-&nbsp;UTC+3
+| utc_offset_DST = +1&nbsp;-&nbsp;UTC+3</br>
 | DST_note = 
 | cctld = [[.eu]]{{efn|.eu is representative of the whole of the EU; member states also have their own TLDs.}}
 | iso3166code = <!-- ISO code only; no extra text. Use to override default from common_name parameter above; omit using "omit". -->
