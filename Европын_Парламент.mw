@@ -4,17 +4,13 @@
 | native_name = {{Name in official languages
  | name = Нэрэ албан хэлэнүүдээр
  | en = European Parliament
- | bg = Европейски парламент
- | hr = Europski parlament
- | cs = Evropský parlament
- | da = Europa-Parlamentet
- | nl = Europees Parlement
  | en = European parliament
- | et = Euroopa Parlament
- | fi = Euroopan parlamentti
- | fr = Parlement européen
+ | bg = Европейски парламент
  | de = Europäisches Parlament
  | el = Ευρωπαϊκό Κοινοβούλιο
+ | da = Europa-Parlamentet
+ | nl = Europees Parlement
+ | et = Euroopa Parlament
  | hu = Európai Parlament
  | ga = Parlaimint na hEorpa
  | it = Parlamento europeo
@@ -27,6 +23,10 @@
  | sk = Európsky parlament
  | sl = Evropski parlament
  | es = Parlamento Europeo
+ | hr = Europski parlament
+ | fi = Euroopan parlamentti
+ | fr = Parlement européen
+ | cs = Evropský parlament
  | sv = Europaparlamentet
 }}
 | native_name_lang = 
