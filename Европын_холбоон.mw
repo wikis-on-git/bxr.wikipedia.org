@@ -3,29 +3,29 @@
   | titlestyle = background:transparent;line-height:normal;font-size:84%;
   | title = {{center|{{resize|1.25em|Европын Холбоон}}}}
   | {{Infobox |subbox=yes |bodystyle=font-size:76%;font-weight:normal;
-   | rowclass1 = mergedrow |label1=[[Bulgarian language|Bulgarian]]:|data1={{lang|bg| Европейски съюз}}
-   | rowclass2 = mergedrow |label2=[[Croatian language|Croatian]]:|data2={{lang|hr|Europska unija}}
-   | rowclass3 = mergedrow |label3=[[Czech language|Czech]]: |data3={{lang|cs|Evropská unie}}
-   | rowclass4 = mergedrow |label4=[[Danish language|Danish]]: |data4={{lang|da|Den Europæiske Union}}
-   | rowclass5 = mergedrow |label5=[[Dutch language|Dutch]]: |data5={{lang|nl|Europese Unie}}
-   | rowclass6 = mergedrow |label6=[[Estonian language|Estonian]]: |data6={{lang|et|Euroopa Liit}}
-   | rowclass7 = mergedrow |label7=[[Finnish language|Finnish]]: |data7={{lang|fi|Euroopan unioni}}
-   | rowclass8 = mergedrow |label8=[[French language|French]]: |data8={{lang|fr|Union européenne}}
-   | rowclass9 = mergedrow |label9=[[German language|German]]: |data9={{lang|de|Europäische Union}}
-   | rowclass10 = mergedrow |label10=[[Greek language|Greek]]: |data10={{lang|el|Ευρωπαϊκή Ένωση}}
-   | rowclass11 = mergedrow |label11=[[Hungarian language|Hungarian]]: |data11={{lang|hu|Európai Unió}}
-   | rowclass12 = mergedrow |label12=[[Irish language|Irish]]: |data12={{lang|ga|An tAontas Eorpach}}
-   | rowclass13 = mergedrow |label13=[[Italian language|Italian]]: |data13={{lang|it|Unione europea}}
-   | rowclass14 = mergedrow |label14=[[Latvian language|Latvian]]: |data14={{lang|lv|Eiropas Savienība}}
-   | rowclass15 = mergedrow |label15=[[Lithuanian language|Lithuanian]]: |data15={{lang|lt|Europos Sąjunga}}
-   | rowclass16 = mergedrow |label16=[[Maltese language|Maltese]]: |data16={{lang|mt|Unjoni Ewropea}}
-   | rowclass17 = mergedrow |label17=[[Polish language|Polish]]: |data17={{lang|pl|Unia Europejska}}
-   | rowclass18 = mergedrow |label18=[[Portuguese language|Portuguese]]: |data18={{lang|pt|União Europeia}}
-   | rowclass19 = mergedrow |label19=[[Romanian language|Romanian]]: |data19={{lang|ro|Uniunea Europeană}}
-   | rowclass20 = mergedrow |label20=[[Slovak language|Slovak]]: |data20={{lang|sk|Európska únia}}
-   | rowclass21 = mergedrow |label21=[[Slovene language|Slovene]]: |data21={{lang|sl|Evropska unija}}
-   | rowclass22 = mergedrow |label22=[[Spanish language|Spanish]]: |data22={{lang|es|Unión Europea}}
-   | rowclass23 = mergedrow |label23=[[Swedish language|Swedish]]: |data23={{lang|sv|Europeiska unionen}}
+   | rowclass1 = mergedrow |label1=[[Болгар хэлэн|Болгар]]:|data1={{lang|bg| Европейски съюз}}
+   | rowclass2 = mergedrow |label2=[[Германи хэлэн|Германи]]: |data2={{lang|de|Europäische Union}}
+   | rowclass3 = mergedrow |label3=[[Грек хэлэн|Грек]]: |data3={{lang|el|Ευρωπαϊκή Ένωση}}
+   | rowclass4 = mergedrow |label4=[[Дани хэлэн|Дани]]: |data4={{lang|da|Den Europæiske Union}}
+   | rowclass5 = mergedrow |label5=[[Ирланд хэлэн|Ирланд]]: |data5={{lang|ga|An tAontas Eorpach}}
+   | rowclass6 = mergedrow |label6=[[Испани хэлэн|Испани]]: |data6={{lang|es|Unión Europea}}
+   | rowclass7 = mergedrow |label7=[[Итали хэлэн|Итали]]: |data7={{lang|it|Unione europea}}
+   | rowclass8 = mergedrow |label8=[[Латыш хэлэн|Латыш]]: |data8={{lang|lv|Eiropas Savienība}}
+   | rowclass9 = mergedrow |label9=[[Литва хэлэн|Литва]]: |data9={{lang|lt|Europos Sąjunga}}
+   | rowclass10 = mergedrow |label10=[[Мальт хэлэн|Мальт]]: |data10={{lang|mt|Unjoni Ewropea}}
+   | rowclass11 = mergedrow |label11=[[Нидерланд хэлэн|Нидерланд]]: |data11={{lang|nl|Europese Unie}}
+   | rowclass12 = mergedrow |label12=[[Польшо хэлэн|Польшо]]: |data12={{lang|pl|Unia Europejska}}
+   | rowclass13 = mergedrow |label13=[[Португал хэлэн|Португал]]: |data13={{lang|pt|União Europeia}}
+   | rowclass14 = mergedrow |label14=[[Румыни хэлэн|Румыни]]: |data14={{lang|ro|Uniunea Europeană}}
+   | rowclass15 = mergedrow |label15=[[Словаки хэлэн|Словак]]: |data15={{lang|sk|Európska únia}}
+   | rowclass16 = mergedrow |label16=[[Словен хэлэн|Словен]]: |data16={{lang|sl|Evropska unija}}
+   | rowclass17 = mergedrow |label17=[[Унгар хэлэн|Унгар]]: |data17={{lang|hu|Európai Unió}}
+   | rowclass18 = mergedrow |label18=[[Фин хэлэн|Фин]]: |data18={{lang|fi|Euroopan unioni}}
+   | rowclass19 = mergedrow |label19=[[Франци хэлэн|Франци]]: |data19={{lang|fr|Union européenne}}
+   | rowclass20 = mergedrow |label20=[[Хорват хэлэн|Хорват]]:|data20={{lang|hr|Europska unija}}
+   | rowclass21 = mergedrow |label21=[[Чехи хэлэн|Чехи]]: |data21={{lang|cs|Evropská unie}}
+   | rowclass22 = mergedrow |label22=[[Швед хэлэн|Швед]]: |data22={{lang|sv|Europeiska unionen}}
+   | rowclass23 = mergedrow |label23=[[Эстони хэлэн|Эстони]]: |data23={{lang|et|Euroopa Liit}}
   }}
   }}
 | linking_name = Europe
