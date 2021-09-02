@@ -43,7 +43,7 @@
 | anthem = "[[Европын Гимн]]" </br>(инструментальна) {{Align|center|[[File:Anthem of Europe (US Navy instrumental short version).ogg]]|style=margin-top:0.4em}}
 | text_symbol_type =  <!-- for other types of text symbol -->
 | text_symbol =       <!-- e.g. ''[hymn name]'' -->
-| image_map = {{Switcher|[[File:Global European Union.svg|frameless]]|Show main EU territory (within [[Europe]])|[[File:Special member state territories and the European Union.svg|upright=1.15|frameless]]|Show the whole EU with its [[Special member state territories and the European Union|special territories]]|default=1}}
+| image_map = [[File:Global European Union.svg|frameless]]
 | loctext = <!-- text description of location of organization -->
 | alt_map = Globe projection with the EU in green
 | map_width =         <!-- Map image's width (default 250px) -->
