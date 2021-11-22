@@ -50,8 +50,8 @@
 | established_date2 = 8 April 1812
 |area_footnotes = {{Data Finland municipality|area_footnotes|Helsinki}}
 |area_total_km2 = {{Data Finland municipality|area_total_km2|Helsinki}}
-|area_land_km2 = {{Data Finland municipality|area_land_km2|Helsinki}}
-|area_water_km2 = {{Data Finland municipality|area_water_km2|Helsinki}}
+|area_land_km2 = 213.75
+|area_water_km2 = 501.74
 | area_urban_km2 = 680.12
 | area_metro_km2 = {{#expr: {{Data Finland municipality/land area|Helsinki}} + {{Data Finland municipality/land area|Espoo}} + {{Data Finland municipality/land area|Vantaa}} + {{Data Finland municipality/land area|Kauniainen}} + {{Data Finland municipality/land area|Kirkkonummi}} + {{Data Finland municipality/land area|Vihti}} + {{Data Finland municipality/land area|Nurmijärvi}} + {{Data Finland municipality/land area|Hyvinkää}} + {{Data Finland municipality/land area|Tuusula}} + {{Data Finland municipality/land area|Kerava}} + {{Data Finland municipality/land area|Järvenpää}} + {{Data Finland municipality/land area|Mäntsälä}} + {{Data Finland municipality/land area|Sipoo}}  + {{Data Finland municipality/land area|Pornainen}} }}
 |area_rank = {{Data Finland municipality|area_rank|Helsinki}}
