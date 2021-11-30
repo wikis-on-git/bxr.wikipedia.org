@@ -56,7 +56,7 @@
 | area_metro_km2 = {{#expr: {{Data Finland municipality/land area|Helsinki}} + {{Data Finland municipality/land area|Espoo}} + {{Data Finland municipality/land area|Vantaa}} + {{Data Finland municipality/land area|Kauniainen}} + {{Data Finland municipality/land area|Kirkkonummi}} + {{Data Finland municipality/land area|Vihti}} + {{Data Finland municipality/land area|Nurmijärvi}} + {{Data Finland municipality/land area|Hyvinkää}} + {{Data Finland municipality/land area|Tuusula}} + {{Data Finland municipality/land area|Kerava}} + {{Data Finland municipality/land area|Järvenpää}} + {{Data Finland municipality/land area|Mäntsälä}} + {{Data Finland municipality/land area|Sipoo}}  + {{Data Finland municipality/land area|Pornainen}} }}
 |area_rank = 
 |population_as_of = {{Data Finland municipality|population_as_of|Helsinki}}
-|population_footnotes = {{Data Finland municipality|population_footnotes|Helsinki}}
+|population_footnotes =
 |population_total = {{Data Finland municipality|population_total|Helsinki}}
 |population_density_km2 = {{Data Finland municipality|population_density_km2|Helsinki}}
 | population_demonym = {{lang|fi|helsinkiläinen}} (Finnish)<br/>{{lang|sv|helsingforsare}} (Swedish)<br />{{lang|en|Helsinkian}} (English)
