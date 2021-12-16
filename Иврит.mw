@@ -1,3 +1,62 @@
+{{Инфобокс хэлэн
+| name         = Hebrew
+| nativename   = {{Script/Hebrew|עִבְרִית}}, {{transl|he|Ivrit}}
+| pronunciation= {{small|[[Modern Hebrew|Modern]]:}} {{IPA|[ivˈʁit]}}<br/>{{small|[[Tiberian vocalization|Tiberian:]]}} {{IPA|[ʕiv'riθ]}}{{refn|{{small|[[Sephardi Hebrew|Sephardi]]:}} {{IPA|[ʕivˈɾit]}}; {{small|[[Judeo-Arabic dialects|Iraqi]]:}} {{IPA|[ʕibˈriːθ]}}; {{small|[[Yemenite Hebrew|Yemenite]]:}} {{IPA|[ʕivˈriːθ]}}; {{small|[[Ashkenazi Hebrew language|Ashkenazi]]:}} {{IPA|[iv'ʀis]}} or {{IPA|[iv'ris]}} strict pronunciation {{IPA|[ʔiv'ris]}} or {{IPA|[ʔiv'ʀis]}}}} 
+<br/>{{small|[[Biblical Hebrew|Biblical]]:}} {{IPA|[ʕibˈrit]}}
+
+| states       = [[Israel]]
+| region       = [[Land of Israel]]
+| ethnicity    = [[Israelites]]; [[Jews]] and [[Samaritans]]
+| speakers     = 15 million{{cn|date=September 2021}}
+| extinct      = [[Mishnaic Hebrew]] extinct as a [[first language|spoken language]] by the 5th century CE, surviving as a [[liturgical language]] along with [[Biblical Hebrew]] for [[Judaism]]<ref name=ASB>Sáenz-Badillos (1993)</ref><ref>H. S. Nyberg 1952. ''Hebreisk Grammatik''. s. 2. Reprinted in Sweden by Universitetstryckeriet, Uppsala 2006.</ref>
+| revived      = [[Revival of the Hebrew language|Revived in the late 19th century CE]]. {{sigfig|9|1}} million speakers of [[Modern Hebrew]] of which 5 million are native speakers (2017)<ref name=eth>{{Cite web | url=https://www.ethnologue.com/language/heb | title=Hebrew |website=Ethnologue}}</ref>
+| ref          = e19
+| familycolor  = Афро-Ази
+| fam2         = [[Semitic languages|Semitic]]
+| fam3         = [[West Semitic languages|West Semitic]]
+| fam4         = [[Central Semitic languages|Central Semitic]]
+| fam5         = [[Northwest Semitic languages|Northwest Semitic]]
+| fam6         = [[Canaanite languages|Canaanite]]
+| ancestor     = [[Biblical Hebrew]]
+| ancestor2    = [[Mishnaic Hebrew]]
+| ancestor3    = [[Medieval Hebrew]]
+| stand1       = [[Modern Hebrew]]
+| script       = [[Hebrew alphabet]]<br />[[Hebrew Braille]]<br />[[Paleo-Hebrew alphabet]] ([[Archaic Biblical Hebrew]])<br />[[Imperial Aramaic script]] ([[Late Biblical Hebrew]])
+| nation       = [[Israel]] (as [[Modern Hebrew]])<ref>{{cite web |title=Basic Law: Israel - the Nation State of the Jewish People |url=https://knesset.gov.il/laws/special/eng/BasicLawNationState.pdf |website=The Knesset |publisher=The State of Israel |access-date=31 August 2020}}</ref>
+| agency       = [[Academy of the Hebrew Language]]<br />{{lang|he|האקדמיה ללשון העברית}} ({{transl|he|ha-akademyah la-lashon ha-ʿivrit}})
+| iso1         = he
+| iso2         = heb
+| iso2b=
+| iso2t=
+| iso3=
+| iso3comment=
+| lc1          = heb
+| ld1          = [[Modern Hebrew]]
+| lc2          = hbo
+| ld2          = [[Biblical Hebrew|Classical Hebrew]] (liturgical)
+| lc3          = smp
+| ld3          = [[Samaritan Hebrew]] (liturgical)
+| lc4          = obm
+| ld4          = [[Moabite language|Moabite]] (extinct)
+| lc5          = xdm
+| ld5          = [[Edomite language|Edomite]] (extinct)
+| iso6=
+| lingua       = 12-AAB-a
+| image        = File:Temple Scroll.png
+| imagesize    = 250px
+| imagecaption = Portion of the [[Temple Scroll]], one of the longest of the [[Dead Sea Scrolls]] discovered at [[Qumran]]
+| imageheader=
+| map=
+| mapcaption=
+| map2=
+| mapcaption2=
+| notice       = IPA
+| sign         = [[Signed Hebrew]] (oral Hebrew accompanied by sign)<ref>{{cite book|first1=Irit|last1=Meir|first2=Wendy|last2=Sandler|year=2013|title=A Language in Space: The Story of Israeli Sign Language}}</ref>
+| glotto       = hebr1246
+| glottoname=
+| glottorefname= Hebrewic
+| minority     = [[Poland]]<ref>{{cite web |url=http://www.efnil.org/documents/conference-publications/dublin-2009/16-Dublin-Pisarek-Mother.pdf |title=The relationship between official and minority languages in Poland |last=Pisarek |first=Walery |publisher=European Federation of National Institutions for Language |access-date=7 November 2017}}</ref><br/>[[South Africa]]<ref>{{Cite web|title=Constitution of the Republic of South Africa, 1996 – Chapter 1: Founding Provisions {{!}} South African Government|url=https://www.gov.za/documents/constitution/chapter-1-founding-provisions|access-date=2020-08-29|website=www.gov.za}}</ref>
+}}
 {{Infobox language
 |boxsize  =  250px
 |name          = Еврей
