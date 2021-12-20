@@ -68,9 +68,296 @@
 
 Иврит хэлэн араб хэлэнһээ, [[Германи хэлэн|герман хэлэнһээ]] абтаһан  үгэнүүд олон байна.
 
+== Абяалбар зүй ==
+
+=== Гиигүүлэгшэ ===
+{| class="wikitable" style="text-align:center;"
+! rowspan="2" |[[Proto-Semitic language|Proto-Semitic]]
+! rowspan="2" |IPA
+! colspan="5" |Hebrew
+! colspan="2" |Example
+|-
+! colspan="2" style="font-size:85%" |written
+! style="font-size:85%" |[[Biblical Hebrew|Biblical]]
+! style="font-size:85%" |[[Tiberian Hebrew|Tiberian]]
+! style="font-size:85%" |[[Modern Hebrew|Modern]]
+! style="font-size:85%" |Word
+! style="font-size:85%" |Meaning
+|-
+!{{transl|sem|[[Bet (letter)|*b]]}}
+!{{IPAblink|b}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|ב}}</big><sup>3</sup>
+|{{transl|sem|ḇ}}/{{transl|sem|b}}
+|{{IPA|/b/}}
+|{{IPA|/v/, /b/}}
+|{{IPA|/v/, /b/}}
+|<big>{{lang|he|'''ב'''ית}}</big>
+|house
+|-
+!{{transl|sem|[[Dalet|*d]]}}
+!{{IPAblink|d}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|ד}}</big><sup>3</sup>
+|{{transl|sem|ḏ}}/{{transl|sem|d}}
+|{{IPA|/d/}}
+|{{IPA|/ð/, /d/}}
+|{{IPA|/d/}}
+|<big>{{lang|he|'''ד'''ב}}</big>
+|bear
+|-
+!{{transl|sem|[[Gimel|*g]]}}
+!{{IPAblink|ɡ}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|ג}}</big><sup>3</sup>
+|{{transl|sem|ḡ}}/{{transl|sem|g}}
+|{{IPA|/ɡ/}}
+|{{IPA|/ɣ/, /g/}}
+|{{IPA|/ɡ/}}
+|<big>{{lang|he|'''ג'''מל}}</big>
+|camel
+|-
+!{{transl|sem|[[Pe (Semitic letter)|*p]]}}
+!{{IPAblink|p}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|פ}}</big><sup>3</sup>
+|{{transl|sem|p̄}}/{{transl|sem|p}}
+|{{IPA|/p/}}
+|{{IPA|/f/, /p/}}
+|{{IPA|/f/, /p/}}
+|<big>{{lang|he|'''פ'''חם}}</big>
+|coal
+|-
+!{{transl|sem|[[Taw|*t]]}}
+!{{IPAblink|t}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|ת}}</big><sup>3</sup>
+|{{transl|sem|ṯ}}/{{transl|sem|t}}
+|{{IPA|/t/}}
+|{{IPA|/θ/, /t/}}
+|{{IPA|/t/}}
+|<big>{{lang|he|'''ת'''מר}}</big>
+|palm
+|-
+!{{transl|sem|[[Kaph|*k]]}}
+!{{IPAblink|k}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|כ}}</big><sup>3</sup>
+|{{transl|sem|ḵ}}/{{transl|sem|k}}
+|{{IPA|/k/}}
+|{{IPA|/x/, /k/}}
+|{{IPA|/χ/, /k/}}
+|<big>{{lang|he|'''כ'''ו'''כ'''ב}}</big>
+|star
+|-
+!{{transl|sem|[[Teth|*ṭ]]}}
+!{{IPAblink|tʼ}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|ט}}</big>
+|{{transl|sem|ṭ}}
+|{{IPA|/tˤ/}}
+|{{IPA|/tˤ/}}
+|{{IPA|/t/}}
+|<big>{{lang|he|'''ט'''בח}}</big>
+|cook
+|-
+!{{transl|sem|[[Qoph|*q]]}}
+!{{IPAblink|kʼ}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|ק}}</big>
+|{{transl|sem|q}}
+|{{IPA|/kˤ/}}
+|{{IPA|/q/}}
+|{{IPA|/k/}}
+|<big>{{lang|he|'''ק'''בר}}</big>
+|tomb
+|-
+!{{transl|sem|[[Ḏāl|*ḏ]]}}
+!{{IPAblink|ð}} / {{IPAblink|d͡ð}}
+| rowspan="2" style="text-align:center; font-size:140%;" |<big>{{script|Hebr|ז}}</big><sup>2</sup>
+| rowspan="2" |{{transl|sem|z}}
+| rowspan="2" |{{IPA|/z/}}
+| rowspan="2" |{{IPA|/z/}}
+| rowspan="2" |{{IPA|/z/}}
+|<big>{{lang|he|'''ז'''כר}}</big>
+|male
+|-
+!{{transl|sem|[[Zayin|*z]]}}
+!{{IPAblink|z}} / {{IPAblink|d͡z}}
+|<big>{{lang|he|'''ז'''רק}}</big>
+|threw
+|-
+!{{transl|sem|[[Samekh|*s]]}}
+!{{IPAblink|s}} / {{IPAblink|t͡s}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|ס}}</big>
+|{{transl|sem|s}}
+|{{IPA|/s/}}
+|{{IPA|/s/}}
+|{{IPA|/s/}}
+|<big>{{lang|he|'''ס'''וכר}}</big>
+|sugar
+|-
+!{{transl|sem|[[Shin (letter)|*š]]}}
+!{{IPAblink|ʃ}} / {{IPAblink|t͡ʃ}}
+| rowspan="2" style="text-align:center; font-size:140%;" |<big>{{script|Hebr|שׁ}}</big><sup>2</sup>
+| rowspan="2" |{{transl|sem|š}}
+| rowspan="2" |{{IPA|/ʃ/}}
+| rowspan="2" |{{IPA|/ʃ/}}
+| rowspan="2" |{{IPA|/ʃ/}}
+|<big>{{lang|he|'''שׁ'''מים}}</big>
+|sky
+|-
+!{{transl|sem|[[Ṯāʾ|*ṯ]]}}
+!{{IPAblink|θ}} / {{IPAblink|t͡θ}}
+|<big>{{lang|he|'''שׁ'''מונה}}</big>
+|eight
+|-
+!{{transl|sem|[[Shin (letter)|*ś]]}}
+!{{IPAblink|ɬ}} / {{IPAblink|t͡ɬ}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|שׂ}}</big><sup>1</sup>
+|{{transl|sem|ś}}
+|{{IPA|/ɬ/}}
+|{{IPA|/s/}}
+|{{IPA|/s/}}
+|<big>{{lang|he|'''שׂ'''מאל}}</big>
+|left
+|-
+!{{transl|sem|[[Ẓāʾ|*ṱ]]}}
+!{{IPAblink|θʼ}} / {{IPAblink|t͡θʼ}}
+| rowspan="3" style="text-align:center; font-size:140%;" |<big>{{script|Hebr|צ}}</big>
+| rowspan="3" |{{transl|sem|ṣ}}
+| rowspan="3" |{{IPA|/sˤ/}}
+| rowspan="3" |{{IPA|/sˤ/}}
+| rowspan="3" |{{IPA|/ts/}}
+|<big>{{lang|he|'''צ'''ל}}</big>
+|shadow
+|-
+!{{transl|sem|[[Tsade|*ṣ]]}}
+!{{IPAblink|sʼ}} / {{IPAblink|t͡sʼ}}
+|<big>{{lang|he|'''צ'''רח}}</big>
+|screamed
+|-
+!{{transl|sem|[[Ḍād|*ṣ́]]}}
+!{{IPAblink|ɬʼ}} / {{IPAblink|t͡ɬʼ}}
+|<big>{{lang|he|'''צ'''חק}}</big>
+|laughed
+|-
+!{{transl|sem|[[Ghayn|*ġ]]}}
+!{{IPAblink|ɣ}}~{{IPAblink|ʁ}}
+| rowspan="2" style="text-align:center; font-size:140%;" |<big>{{script|Hebr|ע}}</big>
+| rowspan="2" |{{transl|sem|ʻ}}
+|{{IPA|/ʁ/}}
+| rowspan="2" |{{IPA|/ʕ/}}
+| rowspan="2" |{{IPA|/ʔ/, -}}
+|<big>{{lang|he|'''ע'''ורב}}</big>
+|raven
+|-
+!{{transl|sem|[[Ayin|*ʻ]]}}
+!{{IPAblink|ʕ}}
+|{{IPA|/ʕ/}}
+|<big>{{lang|he|'''ע'''שׂר}}</big>
+|ten
+|-
+!{{transl|sem|[[Aleph|*ʼ]]}}
+!{{IPAblink|ʔ}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|א}}</big>
+|{{transl|sem|ʼ}}
+|{{IPA|/ʔ/}}
+|{{IPA|/ʔ/}}
+|{{IPA|/ʔ/, -}}
+|<big>{{lang|he|'''א'''ב}}</big>
+|father
+|-
+!{{transl|sem|[[Ḫāʾ|*ḫ]]}}
+!{{IPAblink|x}}~{{IPAblink|χ}}
+| rowspan="2" style="text-align:center; font-size:140%;" |<big>{{script|Hebr|ח}}</big><sup>2</sup>
+| rowspan="2" |{{transl|sem|ḥ}}
+|{{IPA|/χ/}}
+| rowspan="2" |{{IPA|/ħ/}}
+| rowspan="2" |{{IPA|/χ/}}
+|<big>{{lang|he|'''ח'''משׁ}}</big>
+|five
+|-
+!{{transl|sem|[[Heth|*ḥ]]}}
+!{{IPAblink|ħ}}
+|{{IPA|/ħ/}}
+|<big>{{lang|he|'''ח'''בל}}</big>
+|rope
+|-
+!{{transl|sem|[[He (letter)|*h]]}}
+!{{IPAblink|h}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|ה}}</big>
+|{{transl|sem|h}}
+|{{IPA|/h/}}
+|{{IPA|/h/}}
+|{{IPA|/h/, -}}
+|<big>{{lang|he|'''ה'''גר}}</big>
+|emigrated
+|-
+!{{transl|sem|[[Mem|*m]]}}
+!{{IPAblink|m}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|מ}}</big>
+|{{transl|sem|m}}
+|{{IPA|/m/}}
+|{{IPA|/m/}}
+|{{IPA|/m/}}
+|<big>{{lang|he|'''מ'''ים}}</big>
+|water
+|-
+!{{transl|sem|[[Nun (letter)|*n]]}}
+!{{IPAblink|n}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|נ}}</big>
+|{{transl|sem|n}}
+|{{IPA|/n/}}
+|{{IPA|/n/}}
+|{{IPA|/n/}}
+|<big>{{lang|he|'''נ'''ביא}}</big>
+|prophet
+|-
+!{{transl|sem|[[Resh|*r]]}}
+!{{IPAblink|ɾ}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|ר}}</big>
+|{{transl|sem|r}}
+|{{IPA|/ɾ/}}
+|{{IPA|/ɾ/}}
+|{{IPA|/ʁ/}}
+|<big>{{lang|he|'''ר'''גל}}</big>
+|leg
+|-
+!{{transl|sem|[[Lamedh|*l]]}}
+!{{IPAblink|l}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|ל}}</big>
+|{{transl|sem|l}}
+|{{IPA|/l/}}
+|{{IPA|/l/}}
+|{{IPA|/l/}}
+|<big>{{lang|he|'''ל'''שׁון}}</big>
+|tongue
+|-
+!{{transl|sem|[[Yodh|*y]]}}
+!{{IPAblink|j}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|י}}</big>
+|{{transl|sem|y}}
+|{{IPA|/j/}}
+|{{IPA|/j/}}
+|{{IPA|/j/}}
+|<big>{{lang|he|'''י'''ד}}</big>
+|hand
+|-
+!{{transl|sem|[[Waw (letter)|*w]]}}
+!{{IPAblink|w}}
+| style="text-align:center; font-size:140%;" |<big>{{script|Hebr|ו}}</big>
+|{{transl|sem|w}}
+|{{IPA|/w/}}
+|{{IPA|/w/}}
+|{{IPA|/v/}}
+|<big>{{lang|he|'''ו'''רד}}</big>
+|rose
+|-
+!Proto-Semitic
+!IPA
+! colspan="2" |Hebrew
+! style="font-size:85%" |Biblical
+! style="font-size:85%" |Tiberian
+! style="font-size:85%" |Modern
+! colspan="2" |Example
+|}
+
 == Ивридэй үзэглэл ==
 === Үзэгүүд (хашалган) ===
-{| align="center" border="1" cellpadding="8" cellspacing="0" style="text-align: center; margin-bottom: 43px;" class=""
+{| align="center" border="1" cellpadding="8" cellspacing="0" style="text-align: center; margin-bottom: 43px;"
 |'''Алеф'''
 |'''Бет'''
 |'''Гимель'''
