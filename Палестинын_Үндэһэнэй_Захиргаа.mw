@@ -63,7 +63,7 @@
 |utc_offset = +2
 |time_zone_DST = [[Зүүн Европын Зунай Саг|EEST]]
 |utc_offset_DST = +3
-|date_format=dd/mm/yyyy<!--numeric dates (dd-mm-yyyy, yyyy.mm.dd, etc.) plus era (CE, AD, AH, etc.)-->
+|date_format=үү/һһ/жжжж<!--numeric dates (dd-mm-yyyy, yyyy.mm.dd, etc.) plus era (CE, AD, AH, etc.)-->
 |calling_code=[[+970]]
 |cctld=[[.ps]]
 |footnotes=
