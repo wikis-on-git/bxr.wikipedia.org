@@ -8,7 +8,7 @@
 | other_symbol           = [[File:Royal Coat of Arms of the United Kingdom (Scotland).svg|x100px]]
 | other_symbol_type      = [[Royal arms of Scotland#Current uses|Royal coat of arms in Scotland]]:
 | national_anthem        = "[[God Save the Queen]]" <br /><div style="display:inline-block;margin-top:0.4em;">[[File:U.S. Navy Band - God Save the Queen.oga]]</div>
-| image_map              = {{Switcher|[[File:Europe-UK (orthographic projection).svg|upright=1.15|frameless]]|Show globe|[[File:Europe-UK.svg|upright=1.15|frameless]]|Show map of Europe|[[File: United Kingdom (+overseas territories and crown dependencies) in the World (+Antarctica claims).svg|frameless|upright=1.15]]|Show overseas territories<br>and Crown dependencies|default=1}}
+| image_map              = File:Europe-UK (orthographic projection).svg
 | map_caption            = {{map_caption|countryprefix=the|location_color=dark green|region=Europe|region_color=dark grey}}
 | capital                = [[London]]
 | coordinates            = {{coord|51|30|N|0|7|W|type:city}}
