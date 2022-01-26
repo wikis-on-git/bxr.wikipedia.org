@@ -18,9 +18,7 @@
 | languages              = [[Англи хэлэн|Англи]]<!--Note: Just English, don't add "British English"-->
 | languages2_type        = Нютагай ба </br>Үсөөнхиин </br>хэлэнүүд
 | languages2             = [[Скотс хэлэн|Скотс]]{{*}}[[Ольстерэй Скотс диалект|Ольстер Скотс]]{{*}}</br>[[Уэльс хэлэн|Уэльс]]{{*}}[[Корн хэлэн|Корн]]{{*}}[[Ирланд хэлэн|Ирланд]]{{*}}</br>[[Шотланд кельт хэлэн|Шотланд Кельт]]{{*}}</br>[[Британиин Дохёоной Хэлэн|Дохёоной Хэлэн]]
-| ethnic_groups          = 87.1% [[Нэгэдэһэн Хаанта Улас дахи Сагаан хүнүүд|Сагаан]]</br>7.0% [[Британиин Ази хүнүүд|Ази]]</br>3.0% [[Хара Британишууд|Хара]]
-|2.0% [[Mixed (United Kingdom ethnicity category)|Mixed]]
-|0.9% Other
+| ethnic_groups          = 87.1% [[Нэгэдэһэн Хаанта Улас дахи Сагаан хүнүүд|Сагаан]]</br>7.0% [[Британиин Ази хүнүүд|Ази]]</br>3.0% [[Хара Британишууд|Хара]]</br>2.0% [[Холимог(Нэгэдэһэн Хаанта Уласай этническын категори)|Холимог]]</br>0.9% Бусад
 | ethnic_groups_year     = [[United Kingdom Census 2011|2011]]
 | religion               = <!-- direct figures from ReligionUNdata reference -->{{Unbulleted list|item_style=white-space:nowrap;
 |{{#expr:(37583962/63182178)*100 round 1}}% [[Christianity in the United Kingdom|Christianity]]
