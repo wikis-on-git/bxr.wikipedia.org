@@ -96,7 +96,7 @@
 | currency               = [[Icelandic króna]]
 | currency_code          = ISK
 | time_zone              = [[Greenwich Mean Time|GMT]]/[[Western European Time|WET]]
-| utc_offset             = {{efn|Iceland uses [[UTC±00:00|UTC with no offset]] year round and has not observed [[daylight saving time]] since 1968.<ref>{{cite web |url=https://www.visindavefur.is/svar.php?id=7367 |title=Hvenær var hætt að skipta á milli sumar- og vetrartíma á Íslandi? |author=Emilía Dagný Sveinbjörnsdóttir |year=2008 |publisher=Vísindavefurinn |language=is |access-date=7 November 2019 |archive-url=https://web.archive.org/web/20181112230027/https://www.visindavefur.is/svar.php?id=7367 |archive-date=12 November 2018 |url-status=dead}}</ref> Since Iceland is much farther west than England, the Reykjavík [[local mean time]] (the time when the sun is the highest)&nbsp;is offset from the observed time by around 90 minutes.<ref>{{cite web |url=https://www.althingi.is/altext/144/s/0421.html |title=Tillaga til þingsályktunar um seinkun klukkunnar og bjartari morgna. |year=2014 |publisher=[[Althing]] |language=is |access-date=7 November 2019 |archive-url=https://web.archive.org/web/20191107205707/https://www.althingi.is/altext/144/s/0421.html |archive-date=7 November 2019 |url-status=dead}}</ref>}}
+| utc_offset             = 
 | date_format            = dd.mm.yyyy
 | drives_on              = right
 | calling_code           = [[Telephone numbers in Iceland|+354]]
