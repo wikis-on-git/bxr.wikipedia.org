@@ -51,37 +51,37 @@
 | established_event10    = [[1944 оной Исландын үндэһэн хуулиин референдум|БНУ]]
 | established_date10     = 6 һарын 17, 1944
 | area_km2               = 102,775<ref name="ruv20150226">{{cite web |url=http://www.ruv.is/frett/island-er-minna-en-talid-var |title=Ísland er minna en talið var |publisher=RÚV |date=26 February 2015 |access-date=10 March 2015 |language=is |archive-url=https://web.archive.org/web/20150315001109/http://www.ruv.is/frett/island-er-minna-en-talid-var |archive-date=15 March 2015 |url-status=dead}}</ref>
-| area_rank              = 106th
+| area_rank              = 106
 | area_sq_mi             = 39,699
-| percent_water          = 2.07 (as of 2015)<ref>{{cite web |title=Surface water and surface water change |access-date=11 October 2020 |publisher=[[Organisation for Economic Co-operation and Development]] (OECD) |url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| percent_water          = 2.07 (2015)<ref>{{cite web |title=Surface water and surface water change |access-date=11 October 2020 |publisher=[[Organisation for Economic Co-operation and Development]] (OECD) |url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
 | population_estimate    = 371,580<ref name="Population January 1">{{cite web|url=https://px.hagstofa.is/pxen/pxweb/en/Ibuar/Ibuar__mannfjoldi__1_yfirlit__yfirlit_mannfjolda/MAN00000.px|title=Population - key figures 1703-2021 |website=www.hagstofa.is |publisher=Statistics Iceland |access-date=19 June 2021}}</ref>
 | population_census      = 315,556<ref name="2011 census">{{cite web |url=https://statice.is/publications/news-archive/inhabitants/census-2011-main-results/ |title=Census 2011 - Main results |date=1 January 2020 |website=www.statice.is |publisher=Statistics Iceland |access-date=27 May 2020}}</ref>
 | population_estimate_year = <!--1 January-->2021
-| population_estimate_rank = 179th
+| population_estimate_rank = 179
 | population_census_year = 2011
 | population_density_km2 = 3.5
 | population_density_sq_mi = 9.2
 | population_density_rank = 
-| GDP_PPP                = $19.8&nbsp;billion<ref name="imf2">{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=176,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2019&ey=2020&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |title=Iceland |publisher=International Monetary Fund}}</ref>
+| GDP_PPP                = $19.8&nbsp;тэрбум<ref name="imf2">{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=176,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2019&ey=2020&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |title=Iceland |publisher=International Monetary Fund}}</ref>
 | GDP_PPP_year           = 2020
-| GDP_PPP_rank           = 142nd
+| GDP_PPP_rank           = 142
 | GDP_PPP_per_capita     = $54,482<ref name="imf2"/>
-| GDP_PPP_per_capita_rank = 16th
-| GDP_nominal            = $20.8&nbsp;billion<ref name="imf2"/>
+| GDP_PPP_per_capita_rank = 16
+| GDP_nominal            = $20.8&nbsp;тэрбум<ref name="imf2"/>
 | GDP_nominal_year       = 2020
 | GDP_nominal_rank       = 
 | GDP_nominal_per_capita = $57,189<ref name="imf2"/>
-| GDP_nominal_per_capita_rank = 5th
+| GDP_nominal_per_capita_rank = 5
 | Gini                   = 23.2
 | Gini_year              = 2018
 | Gini_change            = decrease
 | Gini_ref               = <ref name=eurogini>{{cite web |url=https://ec.europa.eu/eurostat/databrowser/view/tessi190/default/table?lang=en |title=Gini coefficient of equivalised disposable income – EU-SILC survey|publisher=[[Eurostat]] |website=ec.europa.eu |access-date=9 August 2021}}</ref>
-| Gini_rank              = 2nd
+| Gini_rank              = 2
 | HDI                    = 0.949<!--number only, between 0 and 1-->
 | HDI_year               = 2019<!-- Please use the year to which the data refers, not the publication year-->
 | HDI_change             = increase <!--increase/decrease/steady-->
 | HDI_ref                = <ref name="UNHDR">{{cite book|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}}</ref>
-| HDI_rank               = 4th
+| HDI_rank               = 4
 | currency               = [[Исландын крона]]
 | currency_code          = ISK
 | time_zone              = [[Greenwich Mean Time|GMT]]/[[Western European Time|WET]]
