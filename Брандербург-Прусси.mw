@@ -29,8 +29,8 @@
 |image_flag2 = [[File:POL Prusy książęce COA.svg|x100px|Coat of arms of Ducal Prussia]] <!-- flag2 used instead of coat so they sit side-by-side properly -->
 |flag_type = <!-- Flag captions; Note: using flag/flag_type_article with this code will have unexpected results -->
 <div style="display:table; width:100%; padding-left:5px;">
-<div style="display:table-cell; width:50%;">[[Coat of arms of Brandenburg|Coat of arms of<br />Brandenburg]]</div>
-<div style="display:table-cell; width:50%;">[[Coat of arms of Prussia|Coat of arms of<br />Ducal Prussia]]</div>
+<div style="display:table-cell; width:50%;">[[Бранденбургын Һүлдэ|Бранденбургын<br />Һүлдэ]]</div>
+<div style="display:table-cell; width:50%;">[[Пруссиин Һүлдэ|Пруссиин<br />Һүлдэ]]</div>
 </div>
 |image_map = Locator Brandenburg-Prussia within the Holy Roman Empire (1618).svg
 |image_map_caption = [[Арюун Римэй эзэнтэ гүрэн]]эй дотор ба </br>хизаарай саана Брандербург-Прусси (1618)
