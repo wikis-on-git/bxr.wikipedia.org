@@ -22,15 +22,15 @@
  |сайт            = [http://www.fkjonava.lt/ fkjonava.lt]
 
 | pattern_la1 = 
-| pattern_b1  = _whitestripes
+| pattern_b1  = 
 | pattern_ra1 = 
 | pattern_sh1 = 
 | pattern_so1 = _3_stripes_blue
-| leftarm1 = F5F5F5
-| body1 = 75AADB
-| rightarm1 = F5F5F5
-| shorts1 = 000000
-| socks1 = ffffff
+| leftarm1 = 0000FF
+| body1 = 0000FF
+| rightarm1 = 0000FF
+| shorts1 = 0000FF
+| socks1 = 0000FF
 
 | pattern_la2 = 
 | pattern_b2  = _thinwhitesides
