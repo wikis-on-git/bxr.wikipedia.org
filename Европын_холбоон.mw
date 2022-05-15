@@ -49,22 +49,37 @@
 | map_width =         <!-- Map image's width (default 250px) -->
 | map_caption = 
 | admin_center_type = [[Европын Холбооной Институциональна байранууд|Институциональна </br>байранууд]]
-| admin_center =
-[[Брюссель]]
-*[[Европын Комисси|Комисси]]
-*[[Европын Зүблэл]] <!-- Do not shorten to "Council". That is the official title of the Council of the EU in the treaties, so its confusing. -->
-*[[Европын Холбооной Зүблэл|ЕХ-ой Зүблэл]]
-*[[Европын Парламент|Парламент]] </br>(юрэ хирын тушаал)
-[[Майндахи Франкфурт|Франкфурт]]
-*[[Европын Түб Банк|Түб Банк]]
-[[Люксембург (хото)|Люксембург]]
-*[[Европын Бодолгын Палата|Бодолгын Палата]] 
-*[[Европын Холбооной Сүүд|Европын Холбооной </br>Сүүд]]
-*[[Европын Холбооной Зүблэл|ЕХ-ой Зүблэл]] </br>(4, 6, 10-р һаруудта)
-*[[Европын Парламентын Секретариат|Парламентын </br>Секретариат]]
-*[[Европын Комисси|Комисси]] (янза </br>бүриин таһагууд </br>ба албанууд)
-[[Страсбург]]
-*Парламент (албан </br>байра)
+| admin_center = {{Collapsible list
+  | framestyle="border: none; padding: 0;"<!--Hides borders and improves row spacing-->
+  | title = {{Nowrap|[[Брюссель]]}}
+  | bullets = true
+  | [[Европын Комисси|Комисси]]
+  | [[Европын Зүблэл]] <!-- Do not shorten to "Council". That is the official title of the Council of the EU in the treaties, so its confusing. -->
+  | [[Европын Холбооной Зүблэл|ЕХ-ой Зүблэл]]
+  | [[Европын Парламент|Парламент]] </br>(юрэ хирын тушаал)
+  }}
+  {{Collapsible list
+  | framestyle="border: none; padding: 0;"<!--Hides borders and improves row spacing-->
+  | title = {{Nowrap|[[Майндахи Франкфурт|Франкфурт]]}}
+  | bullets = true
+  | [[Европын Түб Банк|Түб Банк]]
+  }}
+  {{Collapsible list
+  | framestyle="border: none; padding: 0;"<!--Hides borders and improves row spacing-->
+  | title = {{Nowrap|[[Люксембург (хото)|Люксембург]]}}
+  | bullets = true
+  | [[Европын Бодолгын Палата|Бодолгын Палата]] 
+  | [[Европын Холбооной Сүүд|Европын Холбооной </br>Сүүд]]
+  | [[Европын Холбооной Зүблэл|ЕХ-ой Зүблэл]] </br>(4, 6, 10-р һаруудта)
+  | [[Европын Парламентын Секретариат|Парламентын </br>Секретариат]]
+  | [[Европын Комисси|Комисси]] (янза </br>бүриин таһагууд </br>ба албанууд)
+  }}
+  {{Collapsible list
+  | framestyle="border: none; padding: 0;"<!--Hides borders and improves row spacing-->
+  | title = {{Nowrap|[[Страсбург]]}}
+  | bullets = true
+  | Парламент (албан </br>байра)
+  }}
 | largest_settlement_type = [[Мегалополис|метрополис]]
 | largest_settlement = [[Парис]] <!-- if the parameter is metropolis, then link to the article about the metropolitan area. If the parameter is municipality, then Berlin is largest, not Paris -->
 | official_languages = {{Collapsible list
