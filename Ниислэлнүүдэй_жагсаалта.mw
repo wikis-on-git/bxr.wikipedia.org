@@ -1,9 +1,9 @@
 == Жагсаалта ==
-
+ж
 {| class="wikitable sortable" style="font-size:95%;"
-!scope="col" style="width:130px;"|Хото/Һуурин
-!scope="col" style="width:200px;"|Улас/Газар
-!class="sortable"|Тэмдэглэл
+! scope="col" style="width:130px;" |Хото/Һуурин
+! scope="col" style="width:200px;" |Улас/Газар
+! class="sortable" |Тэмдэглэл
 |-
 | [[Абиджан]] {{small|(хуушан ниислэл; одоошье олон гүрэнэй байгуулгатай)}}|| rowspan="2" | '''{{flaglist|Кот д'Ивуар|name=Кот д'Ивуар}}''' ||
 |-
@@ -15,7 +15,7 @@
 |-
 | [[Аккра]]|| '''{{flaglist|Гана}}''' ||
 |-
-| [[Adamstown, Pitcairn Islands|Adamstown]] || {{flaglist|Pitcairn Islands}} || [[British Overseas Territories|British Overseas Territory]].
+| [[Адамстаун]] || {{flaglist|Питкэрнын аралнууд}} || [[Британиин далайн саанахи газарнууд|Британиин далайн саанахи газар]].
 |-
 | [[Addis Ababa]] || '''{{flaglist|Ethiopia}}''' ||
 |-
@@ -73,7 +73,7 @@
 |-
 | [[Belgrade]] || '''{{flaglist|Serbia}}''' ||
 |-
-| [[Belmopan]] || '''{{flaglist|Belize}}''' || 
+| [[Belmopan]] || '''{{flaglist|Belize}}''' ||
 |-
 | [[Berlin]] || '''{{flaglist|Germany}}''' ||
 |-
@@ -151,7 +151,7 @@
 |-
 | [[Dhaka]] || '''{{flaglist|Bangladesh}}''' ||
 |-
-| [[Dili]] || '''{{flaglist|East Timor|name=East Timor}}''' || 
+| [[Dili]] || '''{{flaglist|East Timor|name=East Timor}}''' ||
 |-
 | [[Djibouti (city)|Djibouti]] || '''{{flaglist|Djibouti}}''' ||
 |-
@@ -251,7 +251,7 @@
 |-
 | [[Kyiv]] || '''{{flaglist|Ukraine}}''' ||
 |-
-| [[La Paz]] {{small|(administrative)}} || rowspan="2" | '''{{flaglist|Bolivia}}''' || [[La Paz]] is the highest administrative capital (3,650 m) in the world, higher than Quito.<ref name="Highest"/>
+| [[La Paz]] {{small|(administrative)}} || rowspan="2" | '''{{flaglist|Bolivia}}''' || [[La Paz]] is the highest administrative capital (3,650 m) in the world, higher than Quito.<ref name="Highest" />
 |-
 | [[Sucre]] {{small|(constitutional)}} ||
 |-
@@ -381,7 +381,7 @@
 |-
 | [[Port-au-Prince]] || '''{{flaglist|Haiti}}''' ||
 |-
-| [[Prague]] || '''{{flaglist|Czechia}}''' || 
+| [[Prague]] || '''{{flaglist|Czechia}}''' ||
 |-
 | [[Praia]] || '''{{flaglist|Cape Verde}}''' ||
 |-
@@ -389,7 +389,7 @@
 |-
 | [[Pyongyang]] || '''{{flaglist|North Korea}}''' ||
 |-
-| [[Quito]] || '''{{flaglist|Ecuador}}''' || Highest official capital (2,850 m).<ref name = "Highest">{{cite news|url=http://opinionator.blogs.nytimes.com/2012/06/19/amazonia-or-bust/#ftn3 |title=Amazonia or Bust! |last=Jacobs |first=Frank |newspaper=New York Times |date=19 June 2012 |access-date=28 June 2012}}</ref>
+| [[Quito]] || '''{{flaglist|Ecuador}}''' || Highest official capital (2,850 m).<ref name="Highest">{{cite news|url=http://opinionator.blogs.nytimes.com/2012/06/19/amazonia-or-bust/#ftn3 |title=Amazonia or Bust! |last=Jacobs |first=Frank |newspaper=New York Times |date=19 June 2012 |access-date=28 June 2012}}</ref>
 |-
 | [[Rabat]] || '''{{flaglist|Morocco}}''' ||
 |-
@@ -455,7 +455,7 @@
 |-
 | [[Suva]] || '''{{flaglist|Fiji}}''' ||
 |-
-| [[Taipei]] || {{flaglist|Taiwan}} || Officially the Republic of China (ROC), it has been competing for recognition with the [[China|People's Republic of China]] (PRC) as the sole Chinese government since 1949. Taiwan controls the island of Taiwan and its associated islands, Quemoy, Matsu, the Pratas, and part of the [[Spratly Islands]].<ref name="Spratly" group=Note>The sovereignty over the [[Spratly Islands]] is disputed by the PRC, the ROC, [[Vietnam]], the [[Philippines]] (part), [[Malaysia]] (part), and [[Brunei]] (part). Except Brunei, each of these countries occupies part of the islands (see [[List of territorial disputes]]).</ref> The territory of Taiwan is claimed in whole by the People's Republic of China.<ref name="TAI2" group=Note>In 1949, the Republic of China government led by the [[Kuomintang]] (KMT) lost the [[Chinese Civil War]] to the [[Chinese Communist Party]] (CCP) and set up a provisional capital in Taipei. The CCP established the People's Republic. As such, the [[Political status of Taiwan|political status]] of the ROC and the [[legal status of Taiwan]] (alongside the [[Free Area of the Republic of China|territories]] under ROC jurisdiction) are in dispute. In 1971, the [[United Nations]] gave the [[China and the United Nations|China seat]] to the PRC instead of the ROC: most states recognize the PRC to be the [[One-China policy|sole legitimate representative of all China]], and the UN classifies Taiwan as "[[Taiwan Province, People's Republic of China|Taiwan, Province of China]]". The ROC has ''de facto'' relations with most sovereign states. A significant political movement within Taiwan advocates [[Taiwan independence]].</ref> The Republic of China participates in the [[World Health Organization]] and a number of non-UN international organizations such as the [[World Trade Organization]], [[International Olympic Committee]] and others under a variety of pseudonyms, most commonly [[Chinese Taipei]].
+| [[Taipei]] || {{flaglist|Taiwan}} || Officially the Republic of China (ROC), it has been competing for recognition with the [[China|People's Republic of China]] (PRC) as the sole Chinese government since 1949. Taiwan controls the island of Taiwan and its associated islands, Quemoy, Matsu, the Pratas, and part of the [[Spratly Islands]].<ref name="Spratly" group="Note">The sovereignty over the [[Spratly Islands]] is disputed by the PRC, the ROC, [[Vietnam]], the [[Philippines]] (part), [[Malaysia]] (part), and [[Brunei]] (part). Except Brunei, each of these countries occupies part of the islands (see [[List of territorial disputes]]).</ref> The territory of Taiwan is claimed in whole by the People's Republic of China.<ref name="TAI2" group="Note">In 1949, the Republic of China government led by the [[Kuomintang]] (KMT) lost the [[Chinese Civil War]] to the [[Chinese Communist Party]] (CCP) and set up a provisional capital in Taipei. The CCP established the People's Republic. As such, the [[Political status of Taiwan|political status]] of the ROC and the [[legal status of Taiwan]] (alongside the [[Free Area of the Republic of China|territories]] under ROC jurisdiction) are in dispute. In 1971, the [[United Nations]] gave the [[China and the United Nations|China seat]] to the PRC instead of the ROC: most states recognize the PRC to be the [[One-China policy|sole legitimate representative of all China]], and the UN classifies Taiwan as "[[Taiwan Province, People's Republic of China|Taiwan, Province of China]]". The ROC has ''de facto'' relations with most sovereign states. A significant political movement within Taiwan advocates [[Taiwan independence]].</ref> The Republic of China participates in the [[World Health Organization]] and a number of non-UN international organizations such as the [[World Trade Organization]], [[International Olympic Committee]] and others under a variety of pseudonyms, most commonly [[Chinese Taipei]].
 |-
 | [[Tallinn]] || '''{{flaglist|Estonia}}''' ||
 |-
