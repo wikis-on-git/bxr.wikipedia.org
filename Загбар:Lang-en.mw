@@ -1,0 +1,7 @@
+<includeonly>{{#invoke:lang|lang_xx_inherit
+|code=en
+|link=no
+}}</includeonly><noinclude>
+{{Documentation}}
+<!-- place category and language links on the /doc sub-page -->
+</noinclude>
