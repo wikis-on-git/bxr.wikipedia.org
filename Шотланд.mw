@@ -1,14 +1,14 @@
 {{Инфобокс UK country
-| native_name = ''Scotland'' ([[Скотс хэлэн|Скотс]])<br /> ''Alba'' ([[Шотланд кельт хэлэн|Шотланд кельт]])
+| native_name = {{native name|sco|Scotland|nbsp=omit|nolink=on|parensize=90%}}<br />{{native name|gd|Alba|nbsp=omit|nolink=on|parensize=90%}}
 | image_flag = Flag of Scotland.svg
 | image_coat = Royal Arms of the Kingdom of Scotland.svg
 | symbol_type = [[Шотландын Хаанай Һүлдэ|Хаанай Һүлдэ]]
 | image_map = File:Scotland_in_the_UK_and_Europe.svg
-| national_motto = {{native phrase|sco|"[[In My Defens God Me Defend]]"|italics=off|parensize=90%|nbsp=omit}}{{ref label|footnote_a|a}}<br />{{smaller|"In my defence God me defend"}}
-| national_anthem = [[National anthem of Scotland|Various]]{{ref label|footnote_b|b}}
+| national_motto = {{native phrase|sco|"[[In My Defens God Me Defend]]"|italics=off|parensize=90%|nbsp=omit}}<br />{{smaller|"In my defence God me defend"}}
+| national_anthem = [[Шотландын Үндэһэнэй Түрын Дуулал|Ондо ондоо]]
 | status = [[Ехэ Британиин Уласууд|Улас]]
 | capital = [[Эдинбург]]<br />{{smaller|{{coord|55|57|11|N|3|11|20|W|display=inline}}}}
-| largest_city = [[Глазго]]
+| largest_city = [[Глазго]]<br />{{smaller|{{coord|55|51|40|N|4|15|00|W|type:city_region:GB|display=inline}}}}
 | languages_type = Тоогдоһон </br>хэлэнүүд{{ref label|footnote_c|c}}
 | languages = [[Шотландын Англи хэлэн|Англи]]</br> [[Скотс хэлэн|Скотс]]</br> [[Шотланд кельт хэлэн|Шотланд кельт]]</br> [[Британиин Дохёоной Хэлэн]]
 | languages2_sub = yes
