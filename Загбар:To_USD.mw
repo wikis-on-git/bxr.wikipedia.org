@@ -1,0 +1,53 @@
+<includeonly>{{#ifexpr:{{To USD/CurrencyCheck|{{{2}}}|{{{3|{{{cur|}}}}}}}}
+                    |{{#switch:{{{2}}}
+                            |India|IND={{#ifexpr:{{#if:{{{year|}}}|{{{year}}}|2020}} > 1969 and {{#if:{{{year|}}}|{{{year}}}|2020}} < 2021
+                                                |{{#expr:({{{1}}}/ {{INRConvert/HistoricalRate|USD|{{#if:{{{year|}}}|{{{year}}}|2020}}}} )round{{#ifeq:{{{round}}}|yes|0|{{{r|2}}}}}}}
+                                                |{{To USD/General | {{{1}}} | {{{2}}} | year = {{#if:{{{year|}}}|{{{year}}}|2020}} | round = {{{round|}}} | r = {{{r|2}}} }}}}
+                            |United States|USA={{#ifexpr:{{#if:{{{year|}}}|{{{year}}}|2019}} > 1933
+                                                        |{{#expr:({{{1}}}/ 1.00 )round{{#ifeq:{{{round}}}|yes|0|{{{r|2}}}}}}}
+                                                        | <big>{{red|Undefined year "{{{year}}}"}}</big>[[Category:Pages using an undefined year in Template:To USD]]}}
+                            |Kosovo|UVK<!-- Unilateral Euro adoption -->
+                            |Montenegro|MNE<!-- Unilateral Euro adoption -->
+                            |Andorra|AND<!-- Euro monetary agreement -->
+                            |Monaco|MON<!-- Euro monetary agreement -->
+                            |San Marino|SMR<!-- Euro monetary agreement -->
+                            |Vatican City|VAT<!-- Euro monetary agreement -->
+                            |Austria|AUT
+                            |Belgium|BEL
+                            |Cyprus|CYP
+                            |Donetsk People's Republic|DPR
+                            |Estonia|EST
+                            |Finland|FIN
+                            |France|FRA
+                            |Germany|DEU
+                            |Greece|GRC
+                            |Italy|ITA
+                            |Ireland|IRL
+                            |Latvia|LVA
+                            |Lithuania|LTU
+                            |Luxembourg|LUX
+                            |Malta|MLT
+                            |Netherlands|NLD
+                            |Portugal|PRT
+                            |Slovakia|SVK
+                            |Slovenia|SVN
+                            |Spain|ESP
+                            ={{#ifexpr:{{#if:{{{year|}}}|{{{year}}}|2020}} >= {{To EUR/data/start|{{{2}}}}} and {{#if:{{{year|}}}|{{{year}}}|2020}} < 2021
+                                    |{{#ifexpr:{{#if:{{{year|}}}|{{{year}}}|2020}} < {{EuroYieldYear|{{{2|}}}}}
+                                              |{{#switch:{{{3|{{{cur|}}}}}}
+                                                        |={{#if:{{ReplacedByEuro|{{{2}}}}}
+                                                            |{{#invoke:Math|divide|{{To EUR/General | {{{1}}} | {{{2}}} | year = {{{year|}}} | r = 15 }}|{{To EUR/General | 1 | USA | year = {{{year|}}} | r = 15 }}| round = {{{round|}}} | precision = {{{r|2}}} }}
+                                                            |{{To USD/General | {{{1}}} | {{{2}}} | year = {{{year|}}} | round = {{{round|}}} | r = {{{r|2}}} }}}}
+                                                        |EUR={{#invoke:Math|divide|{{{1}}}|{{To EUR/General | 1 | USA | year = {{{year|}}} | r = 15 }}| round = {{{round|}}} | precision = {{{r|2}}} }}
+                                                        |#default={{#invoke:Math|divide|{{To EUR/General | {{{1}}} | {{{2}}} | year = {{{year|}}} | r = 15 }}|{{To EUR/General | 1 | USA | year = {{{year|}}} | r = 15 }}| round = {{{round|}}} | precision = {{{r|2}}} }}}}}}
+                                              {{#ifexpr:{{#if:{{{year|}}}|{{{year}}}|2020}} >= {{EuroYieldYear|{{{2|}}}}}
+                                                       |{{#ifeq:{{{3|{{{cur|}}}}}}||
+                                                                {{#invoke:Math|divide|{{{1}}}|{{To EUR/General | 1 | USA | year = {{#if:{{{year|}}}|{{{year}}}|2020}} | r = 15 }}| round = {{{round|}}} | precision = {{{r|2}}} }}
+                                                               |{{#invoke:Math|divide|{{#expr:{{{1}}} / {{FixedEuroRate|{{{3|{{{cur|}}}}}}}}}}|{{To EUR/General | 1 | USA | year = {{#if:{{{year|}}}|{{{year}}}|2020}} | r = 15 }}| round = {{{round|}}} | precision = {{{r|2}}} }}}}}}
+                                    |{{To USD/General | {{{1}}} | {{{2}}} | year = {{{year|}}} | round = {{{round|}}} | r = {{{r|2}}} }}}}
+                            |Euro Area|EMU|EUR
+                            ={{#ifexpr:{{#if:{{{year|}}}|{{{year}}}|2020}} >= {{To EUR/data/start|USA}} and {{#if:{{{year|}}}|{{{year}}}|2020}} < 2021
+                                    |{{#invoke:Math|divide|{{{1}}}|{{To EUR/General | 1 | USA | year = {{#if:{{{year|}}}|{{{year}}}|2020}} | r = 15 }}| round = {{{round|}}} | precision = {{{r|2}}} }}
+                                    |{{To USD/General | {{{1}}} | {{{2}}} | year = {{{year|}}} | round = {{{round|}}} | r = {{{r|2}}} }}}}
+                            |#default= {{To USD/General | {{{1}}} | {{{2}}} | year = {{#if:{{{year|}}}|{{{year}}}|2019}} | round = {{{round|}}} | r = {{{r|2}}} }}}}
+                    |<big>{{red|Wrong currency "{{{3|{{{cur}}}}}}" for {{{2}}}}}</big>[[Category:Pages using a wrong currency in Template:To USD]]}}</includeonly><noinclude>{{Documentation}}</noinclude>
