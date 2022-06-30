@@ -1,0 +1,133 @@
+<includeonly>{{Инфобокс улас
+ | conventional_long_name = {{{conventional_long_name|{{{common_name|{{PAGENAME}}}}}}}}
+ | common_name = {{{common_name|{{PAGENAME}}}}}
+ | image_map = {{{image_map|{{{common_name|{{PAGENAME}}}}} in the UK and Europe.svg}}}
+ | map_caption = {{{map_caption|{{map caption |location_color=тодо ногоон |subregion=[[Ехэ Британи]] |subregion_color=ногоон |region=Европо|region_color=тодо боро}}}}}
+ | membership_type = {{{membership_type|[[Бүрин эрхэтэ улас|Сувереннэ улас]]}}}</br>{{#if:{{{legal_jurisdiction|}}}|[[Нэгэдэһэн Хаанта Уласай Хуули#Гурбан хуулиин системэ|Хуулита юрисдикци]]}}
+ | membership = {{{membership|[[Ехэ&nbsp;Британи]]}}}</br>{{{legal_jurisdiction|}}}
+ | government_type = {{{government_type|}}}
+
+ | leader_title1 = [[Нэгэдэһэн Хаанта Уласай Монархи|Монарх]]
+ | leader_title2 = [[{{{common_name|{{PAGENAME}}}}}ын Нэгэдэхи Министр ба орлогшо Министр|Нэгэдэхи Министр]]
+ | leader_title3 = [[{{{common_name|{{PAGENAME}}}}}ын Нэгэдэхи Министр ба орлогшо Министр|Орлогшо Нэгэдэхи </br>Министр]]
+
+<!-- NOTE: The IF statements below ensure the child infobox (intended to create a separate section for leaders under "Parliament of the United Kingdom") goes in the last transcluded "leader_name" field. For example on [[England]], only the monarch is shown, so the first two lines below are nullified (null1 and null2 being invalid field names). In the case of [[Northern Ireland]], all of the fields are used, so none of the lines are nullified. -->
+
+ | {{#if:{{{first_minister|}}}{{{deputy_first_minister|}}}|leader_name1|null1}} = {{#if:{{{first_minister|}}}{{{deputy_first_minister|}}}|{{{monarch|}}}}}
+ | {{#if:{{{deputy_first_minister|}}}|leader_name2|null2}} = {{#if:{{{deputy_first_minister|}}}|{{{first_minister|}}}}}
+ | leader_name{{#if:{{{deputy_first_minister|}}}|3|{{#if:{{{first_minister|}}}|2|1}}}} = {{{deputy_first_minister|{{{first_minister|{{{monarch|}}}}}}}}}<!--
+  -->{{infobox|child=yes|headerstyle=text-align:left;|labelstyle=font-weight:normal;padding-left:10px;
+   | header1 = {{#if:{{{secretary_of_state|}}}{{{number_of_mps|}}}|[[Нэгэдэһэн Хаанта Уласай Парламент]]}}
+   | rowclass2 = mergedrow
+   | label2 = {{#if:{{{secretary_of_state|}}}|•&nbsp;[[{{{common_name|{{PAGENAME}}}}}ын Гүрэнэй Секретарь|Гүрэнэй&nbsp;Секретарь]]}}
+   | data2 = {{{secretary_of_state|}}}
+   | rowclass3 = mergedrow
+   | label3 = {{#if:{{{number_of_mps|}}}|•&nbsp;[[2017 оной Нэгэдэһэн Хаанта Уласай бүхы ниитиин һунгуулида һунгагдаһан ПГ-дэй жагсаалта|Ниитын&nbsp;Танхим]]}}
+   | data3 = {{#if:{{{number_of_mps|}}}|[[{{{common_name|{{PAGENAME}}}}} дахи округуудай ПГ-дэй жагсаалта (2019–present)|{{{number_of_mps|}}} ПГд]] (650-һаа)}}
+  }}
+
+ | currency = {{{currency|[[Фунт&nbsp;стерлинг]]}}}</br>
+ | currency_code = {{{currency_code|GBP{{))!}};&nbsp;{{!((}}Фунтын тэмдэг{{!}}£}}}
+ | time_zone = {{{time_zone|[[Гринвичэй Дундажа Саг|Гринвичэй </br>Дундажа Саг]]}}}
+ | utc_offset = {{{utc_offset|{{sp}}}}}
+ | time_zone_DST = {{{time_zone_DST|[[Британиин Зунай Саг|Британиин </br>Зунай Саг]]}}}
+ | utc_offset_DST = {{{utc_offset_DST|+1}}}
+ | date_format = {{{date_format|үү/һһ/жжжж&nbsp;([[Anno Domini|AD]])}}}
+ | drives_on = {{{drives_on|зүүн}}}
+ | calling_code = {{{calling_code|[[Telephone numbers in the United Kingdom|+44]]}}}
+ | native_name = {{{native_name|}}}
+ | image_flag = {{{image_flag|}}}
+ | flag_caption = {{{flag_caption|Туг}}}
+ | image_coat = {{{image_coat|{{{image_symbol|}}}}}}
+ | symbol_width = {{{symbol_width|}}}
+ | symbol_type = {{{symbol_type|}}}
+ | national_motto = {{{national_motto|}}}
+ | englishmotto = {{{englishmotto|}}}
+ | national_anthem = {{{national_anthem|}}}
+ | status = {{{status|}}}
+ | capital = {{{capital|}}}
+ | coordinates = {{{coordinates|}}}
+ | largest_city = {{{largest_city|}}}
+ | languages_type = {{{languages_type|}}}
+ | languages = {{{languages|}}}
+ | languages2_type = {{{languages2_type|}}}
+ | languages2 = {{{languages2|}}}
+ | languages2_sub = {{{languages2_sub|}}}
+ | ethnic_groups = {{{ethnic_groups|}}}
+ | ethnic_groups_year = {{{ethnic_groups_year|}}}
+ | religion = {{{religion|}}}
+ | religion_year = {{{religion_year|}}}
+ | demonym = {{{demonym|}}}
+ | org_type = {{{type|}}}
+ | legislature = {{{legislature|}}}
+ | sovereignty_type = {{{sovereignty_type|}}}
+ | sovereignty_note = {{{sovereignty_note|}}}
+ | established_event1 = {{{established_event1|}}}
+ | established_date1 = {{{established_date1|}}}
+ | established_event2 = {{{established_event2|}}}
+ | established_date2 = {{{established_date2|}}}
+ | established_event3 = {{{established_event3|}}}
+ | established_date3 = {{{established_date3|}}}
+ | established_event4 = {{{established_event4|}}}
+ | established_date4 = {{{established_date4|}}}
+ | established_event5 = {{{established_event5|}}}
+ | established_date5 = {{{established_date5|}}}
+ | area_rank = {{{area_rank|}}}
+ | area_magnitude = {{{area_magnitude|}}}
+ | area_km2 = {{{area_km2|}}}
+ | area_sq_mi = {{{area_sq_mi|}}}
+ | percent_water = {{{percent_water|}}}
+ | area_footnote = {{{area_footnote|}}}
+ | area_label = {{{area_label|Ниитэ}}}
+ | area_label2 = {{{area_label2|}}}
+ | area_data2 = {{{area_data2|}}}
+ | population_estimate = {{{population_estimate|}}}
+ | population_estimate_rank = {{{population_estimate_rank|}}}
+ | population_estimate_year = {{{population_estimate_year|}}}
+ | population_census = {{{population_census|}}}
+ | population_census_year = {{{population_census_year|}}}
+ | population_density_km2 = {{{population_density_km2|}}}
+ | population_density_sq_mi = {{{population_density_sq_mi|}}}
+
+<!-- NOTE: population_density_rank is shown after pop_den_footnote, so normal transclusion of the former causes issues with the child infobox below. The child infobox can't be placed under population_density_rank because the value of this field is surrounded by brackets and linked. -->
+
+ | pop_den_footnote = {{{pop_den_footnote|}}}{{#if:{{{population_density_rank|}}}|{{sp}}([[List of countries and territories by population density|{{{population_density_rank}}}]])}}<!--
+  -->{{#if:{{{GVA|}}}{{{GVA_per_capita|}}}
+  |{{infobox|child=yes|headerstyle=text-align:left;
+    | label1 = [[Gross value added|GVA]]
+    | data1 = {{{GVA_year|}}} estimate
+    | label2 = {{nobold|&nbsp;• Total}}
+    | data2 = {{{GVA|}}}
+    | rowclass2 = mergedrow
+    | label3 = {{nobold|&nbsp;• Per capita}}
+    | data3 = {{{GVA_per_capita|}}}
+    | rowclass3 = mergedrow
+   }}
+  }}
+
+ | GDP_PPP = {{{GDP_PPP|}}}
+ | GDP_PPP_year = {{{GDP_PPP_year|}}}
+ | GDP_PPP_per_capita = {{{GDP_PPP_per_capita|}}}
+ | GDP_nominal = {{{GDP_nominal|}}}
+ | GDP_nominal_year = {{{GDP_nominal_year|}}}
+ | GDP_nominal_per_capita = {{{GDP_nominal_per_capita|}}}
+ | Gini_year = {{{Gini_year|}}}
+ | Gini_change = {{{Gini_change|}}}
+ | Gini = {{{Gini|}}}
+ | Gini_ref = {{{Gini_ref|}}}
+ | Gini_rank = {{{Gini_rank|}}}
+ | HDI_year = {{{HDI_year|}}}
+ | HDI_change = {{{HDI_change|}}}
+ | HDI = {{{HDI|}}}
+ | HDI_ref = {{{HDI_ref|}}}
+ | HDI_rank = {{{HDI_rank|}}}
+ | patron_saint{{#if:{{{patron_saints|}}}|s|}} = {{{patron_saints|{{{patron_saint|}}}}}}
+ | cctld = {{{cctld|}}}
+ | official_website = {{{official_website|}}}
+ | footnote_a = {{{footnote_a|}}}
+ | footnote_b = {{{footnote_b|}}}
+ | footnote_c = {{{footnote_c|}}}
+ | footnote_d = {{{footnote_d|}}}
+ | footnote_e = {{{footnote_e|}}}
+ | footnote_f = {{{footnote_f|}}}
+}}</includeonly><noinclude>{{documentation}}</noinclude>
