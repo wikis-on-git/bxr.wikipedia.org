@@ -1,0 +1,4 @@
+<includeonly>{{#invoke:lang|lang_xx_italic
+|code=sco
+|rtl=no
+}}{{#if:{{{abbr|}}}{{{i|}}}{{{l|}}}|[[Category:Lang-x templates with unsupported parameters]]}}</includeonly><noinclude>{{documentation}}<!-- place category links on the /doc sub-page --></noinclude>
