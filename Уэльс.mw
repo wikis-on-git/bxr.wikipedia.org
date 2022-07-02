@@ -69,15 +69,15 @@
 |population_density_rank =
 |GVA_rank =
 |GVA_year = 2022
-|GVA = £98.3&nbsp;billion<br />($117B)<ref>{{cite web|url=https://www.ons.gov.uk/economy/grossvalueaddedgva/datasets/modelbasedearlyestimatesofregionalgrossvalueaddedgvaintheregionsofenglandandwales|title=Model-based early estimates of regional gross value in the regions of England, Wales, Scotland and Northern Ireland|publisher=Office for National Statistics|date=7 June 2022}}</ref>
+|GVA = £98.3&nbsp;тэрбум<br />($117B)<ref>{{cite web|url=https://www.ons.gov.uk/economy/grossvalueaddedgva/datasets/modelbasedearlyestimatesofregionalgrossvalueaddedgvaintheregionsofenglandandwales|title=Model-based early estimates of regional gross value in the regions of England, Wales, Scotland and Northern Ireland|publisher=Office for National Statistics|date=7 June 2022}}</ref>
 |GVA_per_capita = £21,010<br />($25,195)<ref>{{Cite web|url=https://www.ons.gov.uk/economy/grossvalueaddedgva/datasets/nominalregionalgrossvalueaddedbalancedperheadandincomecomponents|title=Regional gross value added (balanced) per head and income components|publisher=Office for National Statistics|date=30 May 2022}}</ref>
 |HDI_year = 2019
 |HDI_change = increase <!--increase/decrease/steady-->
 |HDI = 0.901<!--number only-->
 |HDI_ref = <ref>{{cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI – Area Database – Global Data Lab|website=hdi.globaldatalab.org|access-date=21 July 2021}}</ref>
-|HDI_rank = 11th
-| cctld = [[.wales]] [[.cymru]] {{ref label|footnote_a|a}}
-| footnote_a = {{note|footnote_a}} Both .wales and .cymru are not [[ccTLD]]s, but [[GeoTLD]]s, open to use by all people in Wales and related to Wales. [[.uk]] as part of the [[United Kingdom]] is also used. [[ISO 3166-1]] is [[Great Britain|GB]], but [[.gb]] is unused.
+|HDI_rank = 11
+| cctld = [[.wales]] [[.cymru]] 
+| footnote_a = 
 |Gini_year =
 |Gini_change = <!--increase/decrease/steady-->
 |Gini = <!--number only-->
