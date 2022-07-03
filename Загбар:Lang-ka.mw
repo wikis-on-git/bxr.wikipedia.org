@@ -1,0 +1,4 @@
+{{Language with name|ka|Georgian|{{{1}}}|italic=no}}{{#ifeq: {{{2|}}} | tr | , <span style="font-size: smaller;">[[Romanization of Georgian|romanized]]:</span> <span lang="ka-Latn" style="font-style: italic;">{{ka-translit|{{{1}}}}}</span> }}<noinclude>
+{{documentation}}
+<!-- Categories go on the /doc subpage and interwikis go on Wikidata. -->
+</noinclude>
